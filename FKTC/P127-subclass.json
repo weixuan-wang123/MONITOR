@@ -1,0 +1,576 @@
+{"relations": ["Which company is the owner of [X]?", "Which company owns [X]?", "To which company does [X] belong?", "Who is the controlling company of [X]?", "What is the company that possesses [X]?", "Which business has ownership of [X]?", "What is the company that operates [X]?"]}
+{"subject": "iWork", "object": "Apple", "taxonomy": ["Greece", "Peterborough", "Minneapolis", "Sears", "Oman"]}
+{"subject": "Atari Interactive", "object": "Atari", "taxonomy": ["Winnipeg", "Adobe", "YouTube", "BMW", "Charlotte"]}
+{"subject": "Bell Labs", "object": "Nokia", "taxonomy": ["Bolivia", "Halifax", "Taipei", "Moscow", "Virginia"]}
+{"subject": "BMW Motorrad", "object": "BMW", "taxonomy": ["Goa", "Chile", "Dubai", "Nissan", "Lion"]}
+{"subject": "BBC Red Button", "object": "BBC", "taxonomy": ["Chicago", "Ontario", "Ankara", "Queensland", "Sofia"]}
+{"subject": "Xbox", "object": "Microsoft", "taxonomy": ["Indianapolis", "Switzerland", "Goa", "Sega", "Savannah"]}
+{"subject": "Ducati Motor Holding S.p.A.", "object": "Audi", "taxonomy": ["Malaysia", "Dubai", "Nike", "Apple", "BP"]}
+{"subject": "Lamborghini", "object": "Audi", "taxonomy": ["Manila", "Lincoln", "Azerbaijan", "Winnipeg", "Jerusalem"]}
+{"subject": "BBC Four", "object": "BBC", "taxonomy": ["Finland", "Berlin", "Bangkok", "Florence", "Vienna"]}
+{"subject": "Miami Orange Bowl", "object": "Miami", "taxonomy": ["Israel", "Renault", "Jackson", "Ukraine", "Amsterdam"]}
+{"subject": "BBC Two", "object": "BBC", "taxonomy": ["Amazon", "Israel", "Frankfurt", "Nokia", "BMW"]}
+{"subject": "Nd Cube", "object": "Nintendo", "taxonomy": ["Milton", "Lyon", "EMI", "Bermuda", "Philadelphia"]}
+{"subject": "Google Search", "object": "Google", "taxonomy": ["Cyprus", "Oslo", "Massachusetts", "Turkey", "Indonesia"]}
+{"subject": "Knowledge Graph", "object": "Google", "taxonomy": ["Bolivia", "Russia", "Sega", "Florence", "Finland"]}
+{"subject": "Acura", "object": "Honda", "taxonomy": ["Rome", "Hamas", "Yahoo", "Durham", "Jackson"]}
+{"subject": "BBC Radio 1", "object": "BBC", "taxonomy": ["Russia", "Bari", "Allen", "Sofia", "Ottawa"]}
+{"subject": "Lotus Software", "object": "IBM", "taxonomy": ["Scotland", "Bangkok", "Adobe", "Zagreb", "Memphis"]}
+{"subject": "Lexus", "object": "Toyota", "taxonomy": ["Durham", "Richmond", "Kazakhstan", "Pitchfork", "Minneapolis"]}
+{"subject": "Skype Technologies", "object": "Microsoft", "taxonomy": ["Atlanta", "Amazon", "Oakland", "Turin", "Denver"]}
+{"subject": "YouTube", "object": "Google", "taxonomy": ["Istanbul", "Newark", "Malaysia", "Canton", "Phoenix"]}
+{"subject": "compact disc", "object": "Sony", "taxonomy": ["Ukraine", "Germany", "Winnipeg", "Pitchfork", "Google"]}
+{"subject": "Abarth", "object": "Fiat", "taxonomy": ["Genoa", "Honda", "Massachusetts", "Idaho", "Rai"]}
+{"subject": "Altice Arena", "object": "Lisbon", "taxonomy": ["Jerusalem", "Fargo", "Ontario", "HBO", "Cyprus"]}
+{"subject": "BBC Radio 4", "object": "BBC", "taxonomy": ["Sweden", "Queensland", "Dubai", "Tokyo", "Massachusetts"]}
+{"subject": "Snowy Hydro", "object": "Australia", "taxonomy": ["Arlington", "Turkey", "Moscow", "Hamas", "Detroit"]}
+{"subject": "Mitsubishi Motors", "object": "Mitsubishi", "taxonomy": ["Warsaw", "Qatar", "Everett", "Microsoft", "Taipei"]}
+{"subject": "Canad Inns Stadium", "object": "Winnipeg", "taxonomy": ["Stockton", "Ottawa", "Macon", "France", "Lyon"]}
+{"subject": "CodePlex", "object": "Microsoft", "taxonomy": ["Switzerland", "Sweden", "Tokyo", "London", "Savannah"]}
+{"subject": "Orkut", "object": "Google", "taxonomy": ["Arlington", "Milan", "Turin", "WWE", "Scotland"]}
+{"subject": "MSN", "object": "Microsoft", "taxonomy": ["Queensland", "Everett", "Dallas", "Suzuki", "Paris"]}
+{"subject": "World Championship Wrestling", "object": "WWE", "taxonomy": ["Phoenix", "France", "Philadelphia", "Dallas", "Bari"]}
+{"subject": "Nintendo Entertainment Analysis & Development", "object": "Nintendo", "taxonomy": ["Chicago", "Charlotte", "Halifax", "Egypt", "Scotland"]}
+{"subject": "Google Answers", "object": "Google", "taxonomy": ["Indiana", "Amtrak", "California", "Massachusetts", "Volvo"]}
+{"subject": "Yahoo Mail", "object": "Yahoo", "taxonomy": ["Sweden", "Airbus", "Arlington", "Savannah", "Lisbon"]}
+{"subject": "Atlas Elektronik", "object": "Airbus", "taxonomy": ["Manila", "Tacoma", "Idaho", "Hamburg", "London"]}
+{"subject": "Sonic Team", "object": "Sega", "taxonomy": ["Vienna", "Russia", "Anaheim", "Rai", "London"]}
+{"subject": "RE/MAX Field", "object": "Edmonton", "taxonomy": ["Nuremberg", "Seville", "Pennsylvania", "Philadelphia", "Roland"]}
+{"subject": "BBC One", "object": "BBC", "taxonomy": ["Apple", "Lisbon", "Moscow", "Sweden", "Milton"]}
+{"subject": "Alcatel-Lucent", "object": "Nokia", "taxonomy": ["Cornwall", "Louisiana", "Naples", "Hawaii", "Warsaw"]}
+{"subject": "Magnavox", "object": "Philips", "taxonomy": ["Candy", "Birmingham", "Vickers", "Manchester", "Detroit"]}
+{"subject": "Sony Interactive Entertainment", "object": "Sony", "taxonomy": ["Lisbon", "Belgrade", "BMW", "Lancaster", "Allen"]}
+{"subject": "Sony Pictures", "object": "Sony", "taxonomy": ["Queensland", "Houston", "Fiat", "Seoul", "Memphis"]}
+{"subject": "Sony/ATV Music Publishing", "object": "Sony", "taxonomy": ["Durham", "Glasgow", "London", "Victoria", "Miami"]}
+{"subject": "Apostolic Palace", "object": "pope", "taxonomy": ["Amtrak", "Minnesota", "Colchester", "Lyon", "Toulouse"]}
+{"subject": "BBC World News", "object": "BBC", "taxonomy": ["BP", "Hoover", "Renault", "Mitchell", "Texas"]}
+{"subject": "Amstrad", "object": "Sky", "taxonomy": ["Suzuki", "Pittsburgh", "HBO", "Ukraine", "Microsoft"]}
+{"subject": "HAL Laboratory", "object": "Nintendo", "taxonomy": ["Ponce", "Indiana", "Chesterfield", "Penang", "Atari"]}
+{"subject": "Monolith Soft", "object": "Nintendo", "taxonomy": ["Dallas", "Christchurch", "Fresno", "Houston", "Miami"]}
+{"subject": "BBC Radio 2", "object": "BBC", "taxonomy": ["Florence", "Saxony", "Nike", "Italy", "Fiat"]}
+{"subject": "Gmail", "object": "Google", "taxonomy": ["Austria", "Lancaster", "Berlin", "Houston", "Fargo"]}
+{"subject": "Stade Louis II", "object": "Monaco", "taxonomy": ["Hartford", "Milton", "Dallas", "Adobe", "Manila"]}
+{"subject": "Citizens Bank Park", "object": "Philadelphia", "taxonomy": ["Bolton", "London", "pope", "Mobile", "Chrysler"]}
+{"subject": "Mamer railway station", "object": "Luxembourg", "taxonomy": ["Switzerland", "Dubai", "Vancouver", "Amsterdam", "Dunedin"]}
+{"subject": "WWE NXT", "object": "WWE", "taxonomy": ["Vietnam", "Atlanta", "Geelong", "Winnipeg", "Moscow"]}
+{"subject": "Sandringham House", "object": "Victoria", "taxonomy": ["Bolton", "Savannah", "Texas", "BBC", "Mobile"]}
+{"subject": "Bagram Airfield", "object": "Afghanistan", "taxonomy": ["Queensland", "Sony", "Richmond", "Istanbul", "Sky"]}
+{"subject": "Sky News", "object": "Sky", "taxonomy": ["Oslo", "Ipswich", "Siemens", "Memphis", "Jakarta"]}
+{"subject": "Chicago Midway International Airport", "object": "Chicago", "taxonomy": ["Nokia", "Belgium", "Virginia", "Google", "Siemens"]}
+{"subject": "Google Developers", "object": "Google", "taxonomy": ["Jerusalem", "Vancouver", "Hamas", "Brunei", "Honda"]}
+{"subject": "Google Maps", "object": "Google", "taxonomy": ["Detroit", "Genoa", "Chesterfield", "Malaysia", "Croatia"]}
+{"subject": "Google Images", "object": "Google", "taxonomy": ["Saxony", "Cleveland", "Brunswick", "Goa", "Hamas"]}
+{"subject": "Palacio Municipal de Deportes San Pablo", "object": "Seville", "taxonomy": ["Rome", "Philips", "Suzuki", "Edmonton", "Bhutan"]}
+{"subject": "CBeebies", "object": "BBC", "taxonomy": ["California", "Houston", "Cleveland", "Philips", "Indonesia"]}
+{"subject": "BBC Worldwide", "object": "BBC", "taxonomy": ["Hamas", "Bangkok", "Australia", "Sears", "Ponce"]}
+{"subject": "Rolls-Royce Motor Cars", "object": "BMW", "taxonomy": ["Leonardo", "Sega", "Pittsburgh", "Denver", "Jacksonville"]}
+{"subject": "Durendal", "object": "Roland", "taxonomy": ["Taipei", "Bolton", "Audi", "Penang", "Turin"]}
+{"subject": "Ellis Park Stadium", "object": "Johannesburg", "taxonomy": ["Nokia", "Bolton", "Ontario", "Chicago", "Istanbul"]}
+{"subject": "Apple Campus", "object": "Apple", "taxonomy": ["Nagoya", "Winnipeg", "Adobe", "Vickers", "Helsinki"]}
+{"subject": "Eastern Kentucky Expo Center", "object": "Kentucky", "taxonomy": ["Belgium", "Anaheim", "Yokohama", "Sky", "Charlotte"]}
+{"subject": "DVD", "object": "Sony", "taxonomy": ["Oslo", "Toulouse", "Kent", "Germany", "Saxony"]}
+{"subject": "Nokia Networks", "object": "Nokia", "taxonomy": ["WWE", "BP", "Nike", "Candy", "Ottawa"]}
+{"subject": "Siemens Communications", "object": "Siemens", "taxonomy": ["Penang", "God", "Nagoya", "Virginia", "Rwanda"]}
+{"subject": "Epiphone", "object": "Gibson", "taxonomy": ["Azerbaijan", "BMW", "Pittsburgh", "Brunswick", "Sky"]}
+{"subject": "Palacio Municipal de Deportes de Granada", "object": "Granada", "taxonomy": ["Belgrade", "Roland", "Turin", "Geelong", "Seville"]}
+{"subject": "Nismo", "object": "Nissan", "taxonomy": ["Chesterfield", "Bolton", "Ankara", "Nagoya", "California"]}
+{"subject": "Colchester Community Stadium", "object": "Colchester", "taxonomy": ["Shanghai", "Amazon", "Vienna", "BP", "Glasgow"]}
+{"subject": "Denver Auditorium Arena", "object": "Denver", "taxonomy": ["Shanghai", "Memphis", "God", "Pennsylvania", "Hamburg"]}
+{"subject": "Nippatsu Mitsuzawa Stadium", "object": "Yokohama", "taxonomy": ["Pittsburgh", "Sony", "Bhutan", "Seattle", "Hamburg"]}
+{"subject": "Broadcasting House", "object": "BBC", "taxonomy": ["Tennessee", "Microsoft", "Dunedin", "Jackson", "Pennsylvania"]}
+{"subject": "Target Center", "object": "Minneapolis", "taxonomy": ["Peterborough", "Charleston", "BP", "Taipei", "Fresno"]}
+{"subject": "BBC Online", "object": "BBC", "taxonomy": ["Poland", "Candy", "Hartford", "Lyon", "Finland"]}
+{"subject": "ARCO", "object": "BP", "taxonomy": ["Switzerland", "Naples", "Houston", "Honda", "Minneapolis"]}
+{"subject": "Lion", "object": "Mitsubishi", "taxonomy": ["Renault", "Seoul", "Hartford", "Minneapolis", "Nice"]}
+{"subject": "BBC Switch", "object": "BBC", "taxonomy": ["Pitchfork", "Massachusetts", "Seattle", "Indiana", "Malaysia"]}
+{"subject": "Kazakhstan Temir Zholy", "object": "Kazakhstan", "taxonomy": ["Indianapolis", "Bangkok", "Ponce", "Durham", "Airbus"]}
+{"subject": "Google Street View", "object": "Google", "taxonomy": ["Florence", "Jackson", "Haifa", "Manila", "Charlotte"]}
+{"subject": "Metropolitan Stadium", "object": "Minneapolis", "taxonomy": ["Turkey", "Hoover", "Saxony", "Russia", "Kentucky"]}
+{"subject": "Windows Media Player", "object": "Microsoft", "taxonomy": ["Christchurch", "Lion", "Philadelphia", "Prague", "London"]}
+{"subject": "So-net", "object": "Sony", "taxonomy": ["Square", "Greece", "Monaco", "Indianapolis", "Berlin"]}
+{"subject": "Soewondo Air Force Base", "object": "Indonesia", "taxonomy": ["Australia", "Birmingham", "Austria", "Virginia", "Kent"]}
+{"subject": "Google Pay Send", "object": "Google", "taxonomy": ["Nickelodeon", "Toronto", "Pittsburgh", "Newark", "Nintendo"]}
+{"subject": "Grantland", "object": "ESPN", "taxonomy": ["Lion", "Lincoln", "Detroit", "Switzerland", "Brunswick"]}
+{"subject": "Riverfront Stadium", "object": "Cincinnati", "taxonomy": ["London", "Hoover", "Minneapolis", "Nickelodeon", "Israel"]}
+{"subject": "KL Sports City", "object": "Malaysia", "taxonomy": ["Vienna", "Karachi", "Venice", "Vickers", "Yokohama"]}
+{"subject": "Selland Arena", "object": "Fresno", "taxonomy": ["Massachusetts", "Australia", "Karachi", "Philadelphia", "Winnipeg"]}
+{"subject": "Teddy Stadium", "object": "Jerusalem", "taxonomy": ["pope", "Hartford", "Cyprus", "Amtrak", "Houston"]}
+{"subject": "Sega Wow", "object": "Sega", "taxonomy": ["Milton", "CBS", "Ankara", "Christchurch", "Intel"]}
+{"subject": "Market Square Arena", "object": "Indianapolis", "taxonomy": ["Greece", "Philips", "Ipswich", "Vienna", "Luxembourg"]}
+{"subject": "WWE Network", "object": "WWE", "taxonomy": ["Rome", "IBM", "Venice", "Atari", "Sofia"]}
+{"subject": "Giuseppe Meazza Stadium (San Siro)", "object": "Milan", "taxonomy": ["Sony", "Seville", "Lisbon", "Everett", "Minnesota"]}
+{"subject": "Tacoma Dome", "object": "Tacoma", "taxonomy": ["Terra", "Charleston", "Wellington", "Indonesia", "Nuremberg"]}
+{"subject": "Google Account", "object": "Google", "taxonomy": ["Intel", "Malaysia", "Amsterdam", "Russia", "France"]}
+{"subject": "Google Groups", "object": "Google", "taxonomy": ["Candy", "Tacoma", "Bari", "Florence", "Yokohama"]}
+{"subject": "Dacia", "object": "Renault", "taxonomy": ["Luxembourg", "Albuquerque", "Houston", "ESPN", "Suzuki"]}
+{"subject": "Joe Louis Arena", "object": "Detroit", "taxonomy": ["Turkey", "Nissan", "Hoover", "Allen", "Bari"]}
+{"subject": "American Airlines Center", "object": "Dallas", "taxonomy": ["Milan", "Gibson", "Cyprus", "Croatia", "Savannah"]}
+{"subject": "BBC Radio 4 Extra", "object": "BBC", "taxonomy": ["Milton", "Colchester", "Sears", "Vice", "Bhutan"]}
+{"subject": "Amazon S3", "object": "Amazon", "taxonomy": ["Vienna", "Palermo", "Nuremberg", "Bangkok", "Miami"]}
+{"subject": "Veterans Stadium", "object": "Philadelphia", "taxonomy": ["Belgium", "Everett", "Oslo", "ESPN", "Mobile"]}
+{"subject": "Ottawa Civic Centre", "object": "Ottawa", "taxonomy": ["Tacoma", "Turin", "Kazakhstan", "Seattle", "Chrysler"]}
+{"subject": "Ernst-Happel-Stadion", "object": "Vienna", "taxonomy": ["Russia", "Turkey", "Vice", "EMI", "Amtrak"]}
+{"subject": "Congress Hall", "object": "Philadelphia", "taxonomy": ["Azerbaijan", "Chesterfield", "Israel", "Charlotte", "Kentucky"]}
+{"subject": "Internet Movie Database", "object": "Amazon", "taxonomy": ["Warsaw", "Lyon", "Vietnam", "Switzerland", "Australia"]}
+{"subject": "National Sports Center", "object": "Minnesota", "taxonomy": ["Hamas", "Sofia", "Apple", "Sunrise", "Fargo"]}
+{"subject": "Boston Dynamics", "object": "Google", "taxonomy": ["Seville", "Chicago", "Hoover", "Charlotte", "Sears"]}
+{"subject": "DV", "object": "Sony", "taxonomy": ["Oakland", "Roland", "Audi", "Amtrak", "Penang"]}
+{"subject": "Detroit Olympia", "object": "Detroit", "taxonomy": ["Wellington", "Jackson", "Helsinki", "Alabama", "Milton"]}
+{"subject": "Google AdSense", "object": "Google", "taxonomy": ["Bermuda", "London", "Chesterfield", "Seoul", "Christchurch"]}
+{"subject": "BBC Three", "object": "BBC", "taxonomy": ["Ottawa", "Honda", "Hesse", "Jackson", "Oakland"]}
+{"subject": "AgustaWestland", "object": "Leonardo", "taxonomy": ["Halifax", "Edmonton", "Indianapolis", "Manila", "Jakarta"]}
+{"subject": "Winnipeg Route 42", "object": "Winnipeg", "taxonomy": ["Mobile", "Terra", "Airbus", "Nokia", "Mitchell"]}
+{"subject": "Gordini", "object": "Renault", "taxonomy": ["Square", "Haifa", "Jacksonville", "Finland", "Ankara"]}
+{"subject": "Xbox Game Studios", "object": "Microsoft", "taxonomy": ["Tokyo", "Bhutan", "Yahoo", "Seattle", "Google"]}
+{"subject": "Negeri Pulau Pinang Stadium", "object": "Penang", "taxonomy": ["Mitchell", "Victoria", "Everett", "Tokyo", "Ferrari"]}
+{"subject": "Nintendo Software Planning & Development", "object": "Nintendo", "taxonomy": ["Goa", "Manila", "Dubai", "Penang", "Ferrari"]}
+{"subject": "Mobile Civic Center", "object": "Mobile", "taxonomy": ["Vice", "Milan", "Hesse", "Adobe", "Ottawa"]}
+{"subject": "Amazon Kindle", "object": "Amazon", "taxonomy": ["Virginia", "Mitsubishi", "Zagreb", "Canton", "Frankfurt"]}
+{"subject": "Three Rivers Stadium", "object": "Pittsburgh", "taxonomy": ["Memphis", "Berlin", "Oslo", "Hamas", "Madrid"]}
+{"subject": "Microsoft Developer Network", "object": "Microsoft", "taxonomy": ["Cyprus", "Arlington", "Warsaw", "Azerbaijan", "Atlanta"]}
+{"subject": "Autobianchi", "object": "Fiat", "taxonomy": ["Afghanistan", "Nagoya", "God", "Lansing", "Geelong"]}
+{"subject": "MSN Games", "object": "Microsoft", "taxonomy": ["Atari", "Honda", "Austria", "Seattle", "BBC"]}
+{"subject": "Stadio Renzo Barbera", "object": "Palermo", "taxonomy": ["Volvo", "Seattle", "Mobile", "Kent", "Cyprus"]}
+{"subject": "Türkiye Cumhuriyeti Devlet Demiryolları", "object": "Turkey", "taxonomy": ["Scotland", "Intel", "Jakarta", "Palermo", "Nintendo"]}
+{"subject": "Flickr", "object": "Yahoo", "taxonomy": ["Bermuda", "Belgrade", "God", "Fargo", "Terra"]}
+{"subject": "Atelje 212", "object": "Belgrade", "taxonomy": ["Ottawa", "Nintendo", "Savannah", "Pennsylvania", "Tokyo"]}
+{"subject": "BBC Music", "object": "BBC", "taxonomy": ["Tennessee", "Italy", "Sony", "Kent", "Milan"]}
+{"subject": "BBC Arabic Television", "object": "BBC", "taxonomy": ["Sunrise", "Birmingham", "Madrid", "Allen", "Toyota"]}
+{"subject": "Telelogic", "object": "IBM", "taxonomy": ["Winnipeg", "Houston", "Bavaria", "Madrid", "Ontario"]}
+{"subject": "Googleplex", "object": "Google", "taxonomy": ["Louisiana", "Rai", "Indonesia", "Toronto", "Bolton"]}
+{"subject": "Garuda Indonesia", "object": "Indonesia", "taxonomy": ["Goa", "Afghanistan", "Boeing", "Hiroshima", "Google"]}
+{"subject": "Detroit City Hall", "object": "Detroit", "taxonomy": ["Venice", "Lion", "Ipswich", "Sky", "Airbus"]}
+{"subject": "Deutschlandhalle", "object": "Berlin", "taxonomy": ["Nike", "Hamburg", "Chile", "Texas", "Pennsylvania"]}
+{"subject": "Cinemax", "object": "HBO", "taxonomy": ["Fargo", "Suzuki", "Allen", "Malaysia", "Israel"]}
+{"subject": "IG Farben Building", "object": "Hesse", "taxonomy": ["Renault", "Candy", "Savannah", "Hamburg", "Vancouver"]}
+{"subject": "Florida Championship Wrestling", "object": "WWE", "taxonomy": ["Ottawa", "Karachi", "Shanghai", "Venice", "Oman"]}
+{"subject": "Cornwall Civic Complex", "object": "Cornwall", "taxonomy": ["Suzuki", "Colchester", "Bolton", "Gary", "Yahoo"]}
+{"subject": "Royal Farms Arena", "object": "Baltimore", "taxonomy": ["Miami", "Savannah", "Chile", "Philips", "Candy"]}
+{"subject": "OneDrive", "object": "Microsoft", "taxonomy": ["Haifa", "Turin", "Toronto", "Charleston", "Rome"]}
+{"subject": "Outlook.com", "object": "Microsoft", "taxonomy": ["Anaheim", "Arlington", "Ottawa", "Bolton", "Genoa"]}
+{"subject": "FiveThirtyEight", "object": "ESPN", "taxonomy": ["Bolivia", "Queensland", "California", "Omaha", "Seattle"]}
+{"subject": "VTB Bank", "object": "Russia", "taxonomy": ["Vice", "Milton", "IBM", "Croatia", "Allen"]}
+{"subject": "Sumner Tunnel", "object": "Massachusetts", "taxonomy": ["Pittsburgh", "Seville", "Shanghai", "Amtrak", "Cleveland"]}
+{"subject": "Sky 1", "object": "Sky", "taxonomy": ["Vickers", "Montreal", "Bermuda", "Germany", "Intel"]}
+{"subject": "Nippon Gaishi Hall", "object": "Nagoya", "taxonomy": ["Shanghai", "Kentucky", "Square", "Nice", "Milan"]}
+{"subject": "BBC Radio 5 Live", "object": "BBC", "taxonomy": ["Russia", "Vickers", "WWE", "Winnipeg", "Queensland"]}
+{"subject": "Google Image Labeler", "object": "Google", "taxonomy": ["Cleveland", "Detroit", "BBC", "France", "Halifax"]}
+{"subject": "Sports Interactive", "object": "Sega", "taxonomy": ["Renault", "Allen", "Vienna", "Atari", "Bavaria"]}
+{"subject": "iGoogle", "object": "Google", "taxonomy": ["Malaysia", "Detroit", "Hamburg", "Dubai", "pope"]}
+{"subject": "Google Sites", "object": "Google", "taxonomy": ["Texas", "Halifax", "Oman", "London", "Venice"]}
+{"subject": "Bankers Life Fieldhouse", "object": "Indianapolis", "taxonomy": ["Massachusetts", "Roland", "Nuremberg", "Amazon", "Toyota"]}
+{"subject": "Oakland Coliseum", "object": "Oakland", "taxonomy": ["Hesse", "Peterborough", "Nice", "Colchester", "Square"]}
+{"subject": "William P. Hobby Airport", "object": "Houston", "taxonomy": ["Ottawa", "Hiroshima", "Oman", "Atlanta", "Oslo"]}
+{"subject": "CAMI Automotive", "object": "Suzuki", "taxonomy": ["Prague", "Louisiana", "Virginia", "Fargo", "Edmonton"]}
+{"subject": "Ashton Memorial", "object": "Lancaster", "taxonomy": ["Intel", "Montreal", "Audi", "Austria", "Nintendo"]}
+{"subject": "Helsinki City Transport", "object": "Helsinki", "taxonomy": ["Turkey", "BMW", "Bhutan", "Dallas", "Netherlands"]}
+{"subject": "Alexa Internet", "object": "Amazon", "taxonomy": ["Belgrade", "Vancouver", "Nickelodeon", "Savannah", "Mitsubishi"]}
+{"subject": "Luxor AB", "object": "Nokia", "taxonomy": ["Airbus", "Minneapolis", "Brunswick", "Sunrise", "Oslo"]}
+{"subject": "FileMaker, Inc.", "object": "Apple", "taxonomy": ["Hawaii", "Google", "Bolivia", "Boeing", "Gary"]}
+{"subject": "Google Earth", "object": "Google", "taxonomy": ["Hiroshima", "Hartford", "Honda", "Mitsubishi", "Pennsylvania"]}
+{"subject": "Google Ads", "object": "Google", "taxonomy": ["Kentucky", "Halifax", "Israel", "Baltimore", "Birmingham"]}
+{"subject": "Indiana State Museum", "object": "Indiana", "taxonomy": ["Croatia", "Berlin", "Cornwall", "Manila", "Hiroshima"]}
+{"subject": "Yahoo! Sports", "object": "Yahoo", "taxonomy": ["Sega", "Jerusalem", "Fiat", "Rwanda", "Milton"]}
+{"subject": "Betacam", "object": "Sony", "taxonomy": ["Google", "Bolivia", "Manila", "Mobile", "Savannah"]}
+{"subject": "Winnipeg Route 85", "object": "Winnipeg", "taxonomy": ["Berlin", "Manchester", "Florence", "Siemens", "Frankfurt"]}
+{"subject": "Willis Tower", "object": "Sears", "taxonomy": ["Mitsubishi", "Virginia", "Chesterfield", "Louisiana", "Germany"]}
+{"subject": "Lakewood Church Central Campus", "object": "Houston", "taxonomy": ["Vietnam", "Hamas", "Monaco", "Square", "WWE"]}
+{"subject": "Staatliche Kunstsammlungen Dresden", "object": "Saxony", "taxonomy": ["Madrid", "Sunrise", "Savannah", "Dubai", "Anaheim"]}
+{"subject": "Valtion lentokonetehdas", "object": "Finland", "taxonomy": ["Brunswick", "Adobe", "Chile", "Boeing", "Peterborough"]}
+{"subject": "Digital Audio Tape", "object": "Sony", "taxonomy": ["Arlington", "Roland", "Prague", "Miami", "Netherlands"]}
+{"subject": "Digital Audio Stationary Head", "object": "Sony", "taxonomy": ["Sunrise", "Anaheim", "Belgrade", "Brunswick", "Granada"]}
+{"subject": "Pacific Coliseum", "object": "Vancouver", "taxonomy": ["Gibson", "Bari", "Boeing", "Alabama", "God"]}
+{"subject": "Cemil Topuzlu Open-Air Theatre", "object": "Istanbul", "taxonomy": ["Richmond", "ESPN", "Afghanistan", "Intel", "Ukraine"]}
+{"subject": "Volvo Trucks", "object": "Volvo", "taxonomy": ["Norway", "WWE", "Google", "Vienna", "Charlotte"]}
+{"subject": "Google Videos", "object": "Google", "taxonomy": ["Bari", "Bavaria", "Irving", "Azerbaijan", "Intel"]}
+{"subject": "Google Code Search", "object": "Google", "taxonomy": ["Hartford", "Belgrade", "Tacoma", "Cornwall", "Vietnam"]}
+{"subject": "Google Labs", "object": "Google", "taxonomy": ["Edmonton", "Chicago", "Jackson", "Allen", "HBO"]}
+{"subject": "Funkturm Berlin", "object": "Berlin", "taxonomy": ["Hoover", "Glasgow", "Brunei", "Roland", "Memphis"]}
+{"subject": "Viacom", "object": "CBS", "taxonomy": ["Montreal", "Manchester", "Chesterfield", "Lancaster", "Newark"]}
+{"subject": "Showtime Networks", "object": "CBS", "taxonomy": ["Scotland", "Google", "Manchester", "Frankfurt", "Stockton"]}
+{"subject": "BBC Knowledge", "object": "BBC", "taxonomy": ["Bavaria", "Hamburg", "God", "Indonesia", "Boeing"]}
+{"subject": "Velodrome Humbert I", "object": "Turin", "taxonomy": ["Birmingham", "Greece", "London", "Amsterdam", "Terra"]}
+{"subject": "30th Street Station", "object": "Amtrak", "taxonomy": ["Edmonton", "Houston", "Candy", "Apple", "Vienna"]}
+{"subject": "Beats Electronics", "object": "Apple", "taxonomy": ["Alabama", "Frankfurt", "Airbus", "BMW", "Saxony"]}
+{"subject": "Stade de Gerland", "object": "Lyon", "taxonomy": ["Rome", "Germany", "Cornwall", "Lviv", "Kazakhstan"]}
+{"subject": "Bing Videos", "object": "Microsoft", "taxonomy": ["Hiroshima", "Richmond", "Volvo", "Sweden", "WWE"]}
+{"subject": "Deutsches Schauspielhaus", "object": "Hamburg", "taxonomy": ["Ankara", "Austria", "Gibson", "Apple", "Vancouver"]}
+{"subject": "Cleveland Stadium", "object": "Cleveland", "taxonomy": ["Hamas", "Belgium", "Ferrari", "Hoover", "Hamburg"]}
+{"subject": "Queen Elizabeth II Park", "object": "Christchurch", "taxonomy": ["Hesse", "Nintendo", "Nokia", "Sweden", "Minneapolis"]}
+{"subject": "Amoco", "object": "BP", "taxonomy": ["Palermo", "IBM", "Israel", "Florence", "Detroit"]}
+{"subject": "Scotiabank Saddledome", "object": "Calgary", "taxonomy": ["Durham", "Apple", "Warsaw", "Fiat", "ESPN"]}
+{"subject": "Sammy Ofer Stadium", "object": "Haifa", "taxonomy": ["Karachi", "Lisbon", "CBS", "Ponce", "Lviv"]}
+{"subject": "Daihatsu", "object": "Toyota", "taxonomy": ["Massachusetts", "Naples", "God", "Johannesburg", "Sofia"]}
+{"subject": "BBC Choice", "object": "BBC", "taxonomy": ["Florence", "Minneapolis", "God", "Amtrak", "Jacksonville"]}
+{"subject": "Microsoft TechNet", "object": "Microsoft", "taxonomy": ["Monaco", "Chesterfield", "Johannesburg", "Edmonton", "Roland"]}
+{"subject": "Renault Trucks", "object": "Volvo", "taxonomy": ["Vietnam", "Yokohama", "Penang", "Nintendo", "Malaysia"]}
+{"subject": "AbeBooks", "object": "Amazon", "taxonomy": ["Hamburg", "Hawaii", "Stockton", "Apple", "Kentucky"]}
+{"subject": "ESPN.com", "object": "ESPN", "taxonomy": ["pope", "Karachi", "Yahoo", "Egypt", "Toulouse"]}
+{"subject": "Petroleum Development Oman", "object": "Oman", "taxonomy": ["Tacoma", "Texas", "Manila", "BMW", "Haifa"]}
+{"subject": "Retro Studios", "object": "Nintendo", "taxonomy": ["Frankfurt", "Brunei", "Nagoya", "Nickelodeon", "Palermo"]}
+{"subject": "L.F. Wade International Airport", "object": "Bermuda", "taxonomy": ["Hiroshima", "Toulouse", "Virginia", "Belgium", "Roland"]}
+{"subject": "Arc de Triomphe", "object": "France", "taxonomy": ["Oslo", "Mobile", "Vancouver", "Audi", "Allen"]}
+{"subject": "Sky2", "object": "Sky", "taxonomy": ["Edmonton", "Stockton", "Leonardo", "Vienna", "Switzerland"]}
+{"subject": "Pyra Labs", "object": "Google", "taxonomy": ["Durham", "Audi", "Switzerland", "Australia", "Milan"]}
+{"subject": "Super Audio CD", "object": "Sony", "taxonomy": ["Glasgow", "Gary", "Oakland", "Phoenix", "Poland"]}
+{"subject": "Commerzbank-Arena", "object": "Frankfurt", "taxonomy": ["Chile", "Rwanda", "Granada", "Belgrade", "Ottawa"]}
+{"subject": "Palace of Fontainebleau", "object": "France", "taxonomy": ["Philips", "BBC", "London", "Fargo", "Warsaw"]}
+{"subject": "Boeing Commercial Airplanes", "object": "Boeing", "taxonomy": ["Peterborough", "Manchester", "Chile", "Nintendo", "Zagreb"]}
+{"subject": "Peoples Football Stadium", "object": "Karachi", "taxonomy": ["EMI", "Denver", "Sony", "Palermo", "Milan"]}
+{"subject": "Polish Army Stadium", "object": "Warsaw", "taxonomy": ["Venice", "pope", "Austria", "Victoria", "Square"]}
+{"subject": "Citizens Business Bank Arena", "object": "Ontario", "taxonomy": ["Winnipeg", "Newark", "Nagoya", "Charleston", "Palermo"]}
+{"subject": "Vancouver Forum", "object": "Vancouver", "taxonomy": ["Prague", "Sony", "Charleston", "Wellington", "Lansing"]}
+{"subject": "Ainola", "object": "Finland", "taxonomy": ["Poland", "Yahoo", "Greece", "Omaha", "Oslo"]}
+{"subject": "Pentium III", "object": "Intel", "taxonomy": ["Jackson", "Louisiana", "Jerusalem", "Yokohama", "Oakland"]}
+{"subject": "Tianmu Baseball Stadium", "object": "Taipei", "taxonomy": ["Adobe", "Toronto", "Canton", "Norway", "Macon"]}
+{"subject": "Sky Sports", "object": "Sky", "taxonomy": ["Fiat", "Jakarta", "Vice", "Taipei", "Montreal"]}
+{"subject": "AltaVista", "object": "Yahoo", "taxonomy": ["Lincoln", "Durham", "Israel", "Penang", "Stockton"]}
+{"subject": "Edmonton Gardens", "object": "Edmonton", "taxonomy": ["Sky", "Candy", "Texas", "Newark", "Volvo"]}
+{"subject": "Google Patents", "object": "Google", "taxonomy": ["Frankfurt", "Israel", "Miami", "Kentucky", "Karachi"]}
+{"subject": "Luxembourg railway station", "object": "Luxembourg", "taxonomy": ["Bavaria", "Switzerland", "Alabama", "Bari", "Oman"]}
+{"subject": "SCE Studio Liverpool", "object": "Sony", "taxonomy": ["Qatar", "Square", "Charleston", "Ottawa", "Oakland"]}
+{"subject": "Liberty Bowl Memorial Stadium", "object": "Memphis", "taxonomy": ["Afghanistan", "Israel", "Tokyo", "France", "Gary"]}
+{"subject": "Galleria Ferrari", "object": "Ferrari", "taxonomy": ["Belgrade", "EMI", "Victoria", "HBO", "Helsinki"]}
+{"subject": "Idaho State Capitol", "object": "Idaho", "taxonomy": ["Oslo", "Madrid", "Ankara", "Phoenix", "Sky"]}
+{"subject": "iTunes Radio", "object": "Apple", "taxonomy": ["Omaha", "Sony", "Albuquerque", "Calgary", "Nokia"]}
+{"subject": "Denver International Airport", "object": "Denver", "taxonomy": ["Switzerland", "Palermo", "Tennessee", "Nagoya", "Texas"]}
+{"subject": "Taipei Municipal Baseball Stadium", "object": "Taipei", "taxonomy": ["Sky", "Mitsubishi", "Italy", "Louisiana", "Lancaster"]}
+{"subject": "Pebble Mill Studios", "object": "BBC", "taxonomy": ["Denver", "Louisiana", "Lyon", "Helsinki", "Amtrak"]}
+{"subject": "Pennsylvania State Capitol", "object": "Pennsylvania", "taxonomy": ["Mitchell", "Nike", "Siemens", "Gibson", "Honda"]}
+{"subject": "Genesis Convention Center", "object": "Gary", "taxonomy": ["Istanbul", "Fresno", "Israel", "Prague", "Minnesota"]}
+{"subject": "Bing Maps", "object": "Microsoft", "taxonomy": ["Boeing", "Lyon", "Canton", "Suzuki", "Monaco"]}
+{"subject": "Dubrovnik Airport", "object": "Croatia", "taxonomy": ["Granada", "Vietnam", "Goa", "Nagoya", "Nickelodeon"]}
+{"subject": "Priority Records", "object": "EMI", "taxonomy": ["Bari", "Rwanda", "Tennessee", "Birmingham", "Glasgow"]}
+{"subject": "Cooley Law School Stadium", "object": "Lansing", "taxonomy": ["Nintendo", "Shanghai", "Frankfurt", "WWE", "Virginia"]}
+{"subject": "Apple Store Online", "object": "Apple", "taxonomy": ["Gary", "Bolivia", "Queensland", "Dubai", "Gibson"]}
+{"subject": "Het Loo Palace", "object": "Netherlands", "taxonomy": ["Cleveland", "Toronto", "London", "Calgary", "Kentucky"]}
+{"subject": "Yahoo! Groups", "object": "Yahoo", "taxonomy": ["Birmingham", "Bermuda", "Hamas", "Brunei", "Monaco"]}
+{"subject": "Oracle Arena", "object": "Oakland", "taxonomy": ["Malaysia", "EMI", "Kent", "Turin", "Nuremberg"]}
+{"subject": "YouTube Live", "object": "YouTube", "taxonomy": ["Ankara", "Charlotte", "Poland", "Mitchell", "Taipei"]}
+{"subject": "Yammer", "object": "Microsoft", "taxonomy": ["Colchester", "Nuremberg", "Louisiana", "Ipswich", "Minnesota"]}
+{"subject": "Hongkou Football Stadium", "object": "Shanghai", "taxonomy": ["Haifa", "Australia", "Stockton", "Jacksonville", "Lviv"]}
+{"subject": "Final Fantasy", "object": "Square", "taxonomy": ["Penang", "Luxembourg", "Peterborough", "Queensland", "Oakland"]}
+{"subject": "Friedrich-Ludwig-Jahn-Sportpark", "object": "Berlin", "taxonomy": ["Miami", "Indonesia", "Indiana", "Hartford", "Chesterfield"]}
+{"subject": "FirstEnergy Stadium", "object": "Cleveland", "taxonomy": ["Berlin", "Lincoln", "Yokohama", "Karachi", "Florence"]}
+{"subject": "Save-On-Foods Memorial Centre", "object": "Victoria", "taxonomy": ["Macon", "Mitsubishi", "Goa", "YouTube", "Nokia"]}
+{"subject": "Texas Stadium", "object": "Irving", "taxonomy": ["Mitsubishi", "Poland", "Pitchfork", "Ukraine", "Tacoma"]}
+{"subject": "BBC Films", "object": "BBC", "taxonomy": ["Phoenix", "Hesse", "Christchurch", "Cyprus", "Louisiana"]}
+{"subject": "Liquor Control Board of Ontario", "object": "Ontario", "taxonomy": ["Ukraine", "Brunei", "Luxembourg", "Lincoln", "Warsaw"]}
+{"subject": "BBC Radio 3", "object": "BBC", "taxonomy": ["Louisiana", "Houston", "Milan", "Italy", "Chrysler"]}
+{"subject": "Seoul Subway Line 9", "object": "Seoul", "taxonomy": ["Airbus", "Hoover", "HBO", "Bolivia", "Ankara"]}
+{"subject": "National Stadium, Bukit Jalil", "object": "Malaysia", "taxonomy": ["HBO", "Square", "Toyota", "Savannah", "YouTube"]}
+{"subject": "Google Drive", "object": "Google", "taxonomy": ["Finland", "Italy", "Johannesburg", "God", "Bavaria"]}
+{"subject": "Simca", "object": "Fiat", "taxonomy": ["Geelong", "Dallas", "Apple", "France", "Seoul"]}
+{"subject": "Omni Coliseum", "object": "Atlanta", "taxonomy": ["Greece", "Newark", "Calgary", "HBO", "Australia"]}
+{"subject": "Thales Alenia Space", "object": "Leonardo", "taxonomy": ["Lviv", "Christchurch", "Montreal", "Vienna", "Saxony"]}
+{"subject": "Stadio San Nicola", "object": "Bari", "taxonomy": ["Colchester", "Poland", "Berlin", "Lviv", "Vienna"]}
+{"subject": "Hoover Metropolitan Stadium", "object": "Hoover", "taxonomy": ["Geelong", "Penang", "Gibson", "Indiana", "Zagreb"]}
+{"subject": "Google Voice", "object": "Google", "taxonomy": ["Helsinki", "Indianapolis", "Hiroshima", "Nissan", "Lisbon"]}
+{"subject": "Reunion Arena", "object": "Dallas", "taxonomy": ["Jerusalem", "Zagreb", "Atlanta", "HBO", "Indianapolis"]}
+{"subject": "Oak Street Beach", "object": "Chicago", "taxonomy": ["Minneapolis", "Kazakhstan", "Houston", "Leonardo", "London"]}
+{"subject": "Halifax City Hall", "object": "Halifax", "taxonomy": ["BP", "Mitsubishi", "Brunei", "Everett", "BMW"]}
+{"subject": "Providence Station", "object": "Amtrak", "taxonomy": ["Idaho", "Naples", "Lancaster", "Hesse", "Lisbon"]}
+{"subject": "Portman Road", "object": "Ipswich", "taxonomy": ["Sony", "Rwanda", "Terra", "Hawaii", "Mobile"]}
+{"subject": "U-matic", "object": "Sony", "taxonomy": ["Milan", "Genoa", "Yahoo", "Johannesburg", "Venice"]}
+{"subject": "Sky Cinema", "object": "Sky", "taxonomy": ["Gary", "Leonardo", "Dallas", "Queensland", "Durham"]}
+{"subject": "Google Health", "object": "Google", "taxonomy": ["God", "Charlotte", "Fargo", "Italy", "Turkey"]}
+{"subject": "BBC Alba", "object": "BBC", "taxonomy": ["Birmingham", "Israel", "Canton", "Hoover", "Switzerland"]}
+{"subject": "HBO Films", "object": "HBO", "taxonomy": ["BBC", "Cincinnati", "Austria", "Jackson", "Cornwall"]}
+{"subject": "Estadio Francisco Montaner", "object": "Ponce", "taxonomy": ["Moscow", "Brunei", "Yahoo", "Lisbon", "Volvo"]}
+{"subject": "Commonwealth Arena and Sir Chris Hoy Velodrome", "object": "Glasgow", "taxonomy": ["Manchester", "Seville", "Peterborough", "God", "Hamas"]}
+{"subject": "Jarry Park Stadium", "object": "Montreal", "taxonomy": ["Zagreb", "BBC", "Germany", "Cincinnati", "Palermo"]}
+{"subject": "Canadian Vickers", "object": "Vickers", "taxonomy": ["pope", "Norway", "Monaco", "Bhutan", "Lviv"]}
+{"subject": "Fox Interactive", "object": "Atari", "taxonomy": ["Hawaii", "Virginia", "Edmonton", "Halifax", "Croatia"]}
+{"subject": "Telespazio", "object": "Leonardo", "taxonomy": ["Sega", "Ponce", "Indiana", "Detroit", "Alabama"]}
+{"subject": "Pennhurst State School and Hospital", "object": "Pennsylvania", "taxonomy": ["Helsinki", "Gibson", "Albuquerque", "Finland", "Indiana"]}
+{"subject": "Stadion Nürnberg", "object": "Nuremberg", "taxonomy": ["God", "Hesse", "Nike", "Denver", "Lincoln"]}
+{"subject": "Google Marketing Platform", "object": "Google", "taxonomy": ["Moscow", "Newark", "Vienna", "Toyota", "Baltimore"]}
+{"subject": "Mazda Stadium", "object": "Hiroshima", "taxonomy": ["Charleston", "Seville", "Cyprus", "Ankara", "HBO"]}
+{"subject": "Boeing Defense, Space & Security", "object": "Boeing", "taxonomy": ["Kentucky", "Hoover", "EMI", "Jerusalem", "Scotland"]}
+{"subject": "XDCAM", "object": "Sony", "taxonomy": ["Dunedin", "Tokyo", "Qatar", "Granada", "Monaco"]}
+{"subject": "ShoWare Center", "object": "Kent", "taxonomy": ["Manchester", "EMI", "Glasgow", "Bavaria", "Monaco"]}
+{"subject": "Panoramio", "object": "Google", "taxonomy": ["Kazakhstan", "HBO", "pope", "Sky", "Bolton"]}
+{"subject": "PZL Mielec", "object": "Poland", "taxonomy": ["Toronto", "Birmingham", "Qatar", "Palermo", "Candy"]}
+{"subject": "Yahoo! News", "object": "Yahoo", "taxonomy": ["HBO", "Karachi", "Ferrari", "Arlington", "Charlotte"]}
+{"subject": "HDCAM", "object": "Sony", "taxonomy": ["Hartford", "Irving", "Bhutan", "Halifax", "Manila"]}
+{"subject": "Office Online", "object": "Microsoft", "taxonomy": ["Germany", "Berlin", "pope", "Oakland", "Israel"]}
+{"subject": "Lincoln Financial Field", "object": "Philadelphia", "taxonomy": ["Bermuda", "Bolivia", "Ipswich", "Alabama", "Oslo"]}
+{"subject": "UGS Corp.", "object": "Siemens", "taxonomy": ["Denver", "Australia", "Bangkok", "Egypt", "Zagreb"]}
+{"subject": "Arena Armeec", "object": "Sofia", "taxonomy": ["Chile", "Moscow", "California", "BP", "Mitsubishi"]}
+{"subject": "Meise Botanic Garden", "object": "Belgium", "taxonomy": ["Peterborough", "Australia", "Saxony", "Miami", "Nokia"]}
+{"subject": "Sega Sports R&D", "object": "Sega", "taxonomy": ["Lincoln", "Brunei", "Amtrak", "Yokohama", "Google"]}
+{"subject": "BBC Parliament", "object": "BBC", "taxonomy": ["Kentucky", "Chile", "Charlotte", "Atlanta", "Wellington"]}
+{"subject": "Google Shopping", "object": "Google", "taxonomy": ["Calgary", "Manchester", "Sony", "Lyon", "Adobe"]}
+{"subject": "Google Books", "object": "Google", "taxonomy": ["Minneapolis", "Winnipeg", "Belgium", "Istanbul", "Chrysler"]}
+{"subject": "Amazon Web Services", "object": "Amazon", "taxonomy": ["Hawaii", "Mobile", "Newark", "Intel", "Finland"]}
+{"subject": "Schloss Johannisburg", "object": "Bavaria", "taxonomy": ["Bermuda", "Poland", "Denver", "Luxembourg", "Pennsylvania"]}
+{"subject": "Sky Atlantic", "object": "Sky", "taxonomy": ["Sears", "Cyprus", "Bavaria", "Edmonton", "Albuquerque"]}
+{"subject": "Stadio Olimpico Grande Torino", "object": "Turin", "taxonomy": ["Omaha", "Oakland", "Tacoma", "Germany", "Yokohama"]}
+{"subject": "Bitesize", "object": "BBC", "taxonomy": ["Phoenix", "Memphis", "Baltimore", "Ankara", "Texas"]}
+{"subject": "Google Buzz", "object": "Google", "taxonomy": ["Arlington", "Winnipeg", "Vienna", "Ferrari", "Chile"]}
+{"subject": "Allen Event Center", "object": "Allen", "taxonomy": ["Nuremberg", "Paris", "Oakland", "Zagreb", "Vancouver"]}
+{"subject": "Durham Bulls Athletic Park", "object": "Durham", "taxonomy": ["Bermuda", "Winnipeg", "Atari", "Toulouse", "Poland"]}
+{"subject": "Karlberg Palace", "object": "Sweden", "taxonomy": ["Bermuda", "Italy", "Karachi", "Anaheim", "Cyprus"]}
+{"subject": "RUAG", "object": "Switzerland", "taxonomy": ["Jerusalem", "Baltimore", "Israel", "Omaha", "Phoenix"]}
+{"subject": "Sparrow Records", "object": "EMI", "taxonomy": ["Oakland", "Genoa", "Hamburg", "Tokyo", "Bangkok"]}
+{"subject": "Sky Sports News", "object": "Sky", "taxonomy": ["Switzerland", "Lyon", "Malaysia", "Detroit", "Winnipeg"]}
+{"subject": "Harrisburg Transportation Center", "object": "Amtrak", "taxonomy": ["Oakland", "Audi", "Turkey", "Jerusalem", "Hoover"]}
+{"subject": "National Indoor BMX Arena", "object": "Manchester", "taxonomy": ["Ukraine", "Ipswich", "YouTube", "Vickers", "Charleston"]}
+{"subject": "Pak Suzuki Motors", "object": "Suzuki", "taxonomy": ["Nuremberg", "Toronto", "BP", "Pitchfork", "Frankfurt"]}
+{"subject": "omnipresence", "object": "God", "taxonomy": ["Houston", "Lviv", "Haifa", "Sears", "Oslo"]}
+{"subject": "Brisbane Entertainment Centre", "object": "Queensland", "taxonomy": ["Genoa", "Russia", "Mitchell", "Bermuda", "CBS"]}
+{"subject": "Qatar Airways", "object": "Qatar", "taxonomy": ["Square", "Bangkok", "Chesterfield", "Everett", "Nintendo"]}
+{"subject": "Ensemble Studios", "object": "Microsoft", "taxonomy": ["Houston", "BMW", "Mobile", "Halifax", "Seattle"]}
+{"subject": "Red Rocks Amphitheatre", "object": "Denver", "taxonomy": ["Nissan", "Fresno", "YouTube", "Newark", "Monaco"]}
+{"subject": "Powerset", "object": "Microsoft", "taxonomy": ["Lyon", "Finland", "Qatar", "Chrysler", "Detroit"]}
+{"subject": "Nintendo Network Service Development", "object": "Nintendo", "taxonomy": ["Manchester", "Houston", "Hartford", "Russia", "Berlin"]}
+{"subject": "Yahoo Answers", "object": "Yahoo", "taxonomy": ["Philips", "Tacoma", "Manila", "Audi", "Kentucky"]}
+{"subject": "Wind River Systems", "object": "Intel", "taxonomy": ["Macon", "Brunswick", "Atari", "Bangkok", "Geelong"]}
+{"subject": "James Squire", "object": "Lion", "taxonomy": ["Baltimore", "Ontario", "Airbus", "Nagoya", "YouTube"]}
+{"subject": "Bavarian State Painting Collections", "object": "Bavaria", "taxonomy": ["Sega", "Brunswick", "Pitchfork", "Charleston", "France"]}
+{"subject": "Bolton Arena", "object": "Bolton", "taxonomy": ["Belgium", "Lancaster", "Hamburg", "Philadelphia", "Bermuda"]}
+{"subject": "Municipal House", "object": "Prague", "taxonomy": ["Queensland", "Ankara", "Luxembourg", "Dallas", "Oman"]}
+{"subject": "Google News", "object": "Google", "taxonomy": ["Russia", "Cincinnati", "Ferrari", "Mitsubishi", "Vice"]}
+{"subject": "EMI Classics", "object": "EMI", "taxonomy": ["Nike", "Massachusetts", "Terra", "Toronto", "YouTube"]}
+{"subject": "Goodreads", "object": "Amazon", "taxonomy": ["Honda", "Norway", "Glasgow", "Halifax", "Everett"]}
+{"subject": "Stadion Maksimir", "object": "Zagreb", "taxonomy": ["Israel", "Taipei", "Penang", "Egypt", "Luxembourg"]}
+{"subject": "Amazon Music", "object": "Amazon", "taxonomy": ["Roland", "Irving", "Seville", "Nagoya", "Finland"]}
+{"subject": "Indoor Stadium Huamark", "object": "Bangkok", "taxonomy": ["Italy", "Bari", "Renault", "CBS", "Fargo"]}
+{"subject": "The Night Watch", "object": "Amsterdam", "taxonomy": ["ESPN", "Richmond", "Ferrari", "Frankfurt", "Halifax"]}
+{"subject": "Jeppesen", "object": "Boeing", "taxonomy": ["Goa", "Oakland", "Sweden", "Christchurch", "Jerusalem"]}
+{"subject": "Agusta", "object": "Leonardo", "taxonomy": ["Croatia", "Cyprus", "HBO", "Denver", "Penang"]}
+{"subject": "Westland Helicopters", "object": "Leonardo", "taxonomy": ["Nike", "God", "Moscow", "Macon", "Hesse"]}
+{"subject": "Video CD", "object": "Sony", "taxonomy": ["Boeing", "Paris", "Nokia", "Detroit", "Monaco"]}
+{"subject": "Alenia Aermacchi", "object": "Leonardo", "taxonomy": ["Hartford", "Azerbaijan", "Jerusalem", "Oslo", "Lyon"]}
+{"subject": "Nikon", "object": "Mitsubishi", "taxonomy": ["Afghanistan", "Manila", "Luxembourg", "Tacoma", "Intel"]}
+{"subject": "Royal Athletic Park", "object": "Victoria", "taxonomy": ["Ipswich", "Vienna", "Ponce", "Germany", "Amazon"]}
+{"subject": "Blogger", "object": "Google", "taxonomy": ["Moscow", "Ankara", "Brunei", "Cincinnati", "Goa"]}
+{"subject": "Fiat Aviazione", "object": "Fiat", "taxonomy": ["Cleveland", "Berlin", "Hamas", "Moscow", "Afghanistan"]}
+{"subject": "Honda Center", "object": "Anaheim", "taxonomy": ["Milan", "Sky", "Adobe", "Airbus", "Turkey"]}
+{"subject": "UD Trucks", "object": "Volvo", "taxonomy": ["Israel", "Sears", "Candy", "Indiana", "Naples"]}
+{"subject": "Swedish National Rail Administration", "object": "Sweden", "taxonomy": ["BBC", "Lansing", "Turkey", "Atari", "Bolton"]}
+{"subject": "Mini", "object": "BMW", "taxonomy": ["Chrysler", "Ontario", "Kent", "Istanbul", "EMI"]}
+{"subject": "Telia 5G -areena", "object": "Helsinki", "taxonomy": ["Intel", "Mitchell", "Taipei", "Rai", "Frankfurt"]}
+{"subject": "Aeritalia", "object": "Leonardo", "taxonomy": ["Toyota", "Kentucky", "Vienna", "Florence", "Mobile"]}
+{"subject": "BBC HD", "object": "BBC", "taxonomy": ["Mitchell", "Richmond", "Boeing", "Colchester", "Lancaster"]}
+{"subject": "McNichols Sports Arena", "object": "Denver", "taxonomy": ["Norway", "Sony", "Toulouse", "Jackson", "Chrysler"]}
+{"subject": "Knol", "object": "Google", "taxonomy": ["Macon", "Philips", "BBC", "Egypt", "Wellington"]}
+{"subject": "Sky Movies Box Office", "object": "Sky", "taxonomy": ["Stockton", "Richmond", "Philips", "Durham", "Dallas"]}
+{"subject": "Cognos", "object": "IBM", "taxonomy": ["Leonardo", "Paris", "Haifa", "Charlotte", "CBS"]}
+{"subject": "KeyArena", "object": "Seattle", "taxonomy": ["Omaha", "Seoul", "Renault", "Amtrak", "Seville"]}
+{"subject": "Sky Witness", "object": "Sky", "taxonomy": ["Calgary", "Lincoln", "Belgrade", "Vietnam", "Atlanta"]}
+{"subject": "Gangnam Station", "object": "Seoul", "taxonomy": ["Birmingham", "Mitchell", "Hartford", "Belgium", "Tacoma"]}
+{"subject": "Cooltempo Records", "object": "EMI", "taxonomy": ["Frankfurt", "Victoria", "Halifax", "Durham", "Mitchell"]}
+{"subject": "Comcast Arena", "object": "Everett", "taxonomy": ["Jakarta", "Adobe", "Qatar", "Pitchfork", "Google"]}
+{"subject": "Stadio Luigi Ferraris", "object": "Genoa", "taxonomy": ["Cornwall", "Nickelodeon", "Richmond", "Nice", "Texas"]}
+{"subject": "Nintendo Software Technology", "object": "Nintendo", "taxonomy": ["Atlanta", "Audi", "Mobile", "Indianapolis", "Indonesia"]}
+{"subject": "Natural Tunnel State Park", "object": "Virginia", "taxonomy": ["Dubai", "Halifax", "Cincinnati", "Charleston", "Bolivia"]}
+{"subject": "Exelon Pavilions", "object": "Chicago", "taxonomy": ["Rai", "Denver", "Manchester", "Airbus", "Victoria"]}
+{"subject": "Kramer Guitars", "object": "Gibson", "taxonomy": ["Irving", "Minnesota", "Leonardo", "Luxembourg", "Alabama"]}
+{"subject": "Imagination Technologies", "object": "Apple", "taxonomy": ["Austria", "Minneapolis", "Turkey", "Toulouse", "Saxony"]}
+{"subject": "Ukrainian Railways", "object": "Ukraine", "taxonomy": ["Sears", "Minnesota", "Kent", "Rai", "Russia"]}
+{"subject": "Stockton Arena", "object": "Stockton", "taxonomy": ["Suzuki", "Lisbon", "Pitchfork", "Bolivia", "Nuremberg"]}
+{"subject": "Mount Royal Cross", "object": "Montreal", "taxonomy": ["Hamburg", "Stockton", "Victoria", "Nickelodeon", "Haifa"]}
+{"subject": "Magyar Suzuki", "object": "Suzuki", "taxonomy": ["Chrysler", "Luxembourg", "Tokyo", "Saxony", "Tacoma"]}
+{"subject": "Google Map Maker", "object": "Google", "taxonomy": ["Memphis", "Madrid", "Victoria", "Newark", "Adobe"]}
+{"subject": "On2 Technologies", "object": "Google", "taxonomy": ["Sony", "Ottawa", "Mitsubishi", "Austria", "Nickelodeon"]}
+{"subject": "Narodne novine", "object": "Croatia", "taxonomy": ["Denver", "Turkey", "Alabama", "Gary", "Omaha"]}
+{"subject": "Yahoo Search", "object": "Yahoo", "taxonomy": ["Intel", "Hoover", "Gary", "Massachusetts", "Irving"]}
+{"subject": "Phoenix Sky Harbor International Airport", "object": "Phoenix", "taxonomy": ["Nokia", "Vietnam", "Peterborough", "Miami", "Leonardo"]}
+{"subject": "Acrobat.com", "object": "Adobe", "taxonomy": ["pope", "Irving", "Richmond", "Amazon", "Yokohama"]}
+{"subject": "Holiday Inn Resort Orlando Suites - Waterpark", "object": "Nickelodeon", "taxonomy": ["Rome", "Vienna", "Nissan", "Terra", "Johannesburg"]}
+{"subject": "Google Trends", "object": "Google", "taxonomy": ["Charlotte", "Venice", "Lviv", "Toyota", "Warsaw"]}
+{"subject": "BBC Records", "object": "BBC", "taxonomy": ["Sears", "Madrid", "Warsaw", "Detroit", "Poland"]}
+{"subject": "AT&T Stadium", "object": "Arlington", "taxonomy": ["Belgrade", "Fiat", "Turkey", "Taipei", "Intel"]}
+{"subject": "Cambria", "object": "Microsoft", "taxonomy": ["Renault", "Nagoya", "Ankara", "Scotland", "Lyon"]}
+{"subject": "Compact Disc Digital Audio", "object": "Sony", "taxonomy": ["Candy", "Hartford", "Leonardo", "Seville", "Nuremberg"]}
+{"subject": "Air Jordan product line", "object": "Nike", "taxonomy": ["Wellington", "Luxembourg", "BBC", "Moscow", "Belgium"]}
+{"subject": "Metaweb", "object": "Google", "taxonomy": ["Venice", "Hoover", "Atlanta", "Kazakhstan", "BP"]}
+{"subject": "The Dissolve", "object": "Pitchfork", "taxonomy": ["Philips", "Queensland", "Ontario", "WWE", "Jakarta"]}
+{"subject": "XL Center", "object": "Hartford", "taxonomy": ["Netherlands", "Minnesota", "Johannesburg", "Mitchell", "Hiroshima"]}
+{"subject": "Isotopes Park", "object": "Albuquerque", "taxonomy": ["Lansing", "Memphis", "Oman", "God", "Allen"]}
+{"subject": "Freesat", "object": "BBC", "taxonomy": ["Naples", "Paris", "Sega", "Manila", "Sears"]}
+{"subject": "Scene7", "object": "Adobe", "taxonomy": ["Johannesburg", "Vice", "Bolivia", "Hiroshima", "Pitchfork"]}
+{"subject": "Rajadamnern Stadium", "object": "Bangkok", "taxonomy": ["Manchester", "Monaco", "Turkey", "YouTube", "Philips"]}
+{"subject": "WWE Studios", "object": "WWE", "taxonomy": ["Nokia", "Haifa", "Johannesburg", "Hamburg", "Milton"]}
+{"subject": "Chrome Web Store", "object": "Google", "taxonomy": ["Vienna", "Toronto", "Alabama", "Indonesia", "Hartford"]}
+{"subject": "Google Finance", "object": "Google", "taxonomy": ["Madrid", "Phoenix", "Qatar", "Sky", "Mitsubishi"]}
+{"subject": "VBS.tv", "object": "Vice", "taxonomy": ["Nagoya", "BP", "Dubai", "EMI", "Calgary"]}
+{"subject": "Google Custom Search", "object": "Google", "taxonomy": ["Montreal", "Scotland", "Jerusalem", "Nuremberg", "Tokyo"]}
+{"subject": "Gelora Bung Karno Stadium", "object": "Jakarta", "taxonomy": ["Bari", "Sweden", "Egypt", "Indonesia", "Tacoma"]}
+{"subject": "Allianz Riviera", "object": "Nice", "taxonomy": ["Norway", "Prague", "Miami", "Jerusalem", "IBM"]}
+{"subject": "Mercedes-Benz Superdome", "object": "Louisiana", "taxonomy": ["Granada", "Philadelphia", "Ferrari", "Savannah", "Seville"]}
+{"subject": "Sony Crackle", "object": "Sony", "taxonomy": ["Boeing", "Prague", "Gary", "Arlington", "Fiat"]}
+{"subject": "Appalachian Power Park", "object": "Charleston", "taxonomy": ["Peterborough", "Lancaster", "London", "Atlanta", "Austria"]}
+{"subject": "Petrovietnam", "object": "Vietnam", "taxonomy": ["Pennsylvania", "Gary", "Oslo", "Ponce", "Macon"]}
+{"subject": "FeedBurner", "object": "Google", "taxonomy": ["Ponce", "Johannesburg", "Goa", "Amsterdam", "Tacoma"]}
+{"subject": "Hamburg City Hall", "object": "Hamburg", "taxonomy": ["Penang", "Vickers", "Texas", "Dubai", "Bhutan"]}
+{"subject": "Google Translate", "object": "Google", "taxonomy": ["Lyon", "Shanghai", "Suzuki", "Massachusetts", "WWE"]}
+{"subject": "Nissan Motor Manufacturing UK", "object": "Nissan", "taxonomy": ["Granada", "Penang", "Rwanda", "Texas", "Winnipeg"]}
+{"subject": "1-UP Studio", "object": "Nintendo", "taxonomy": ["Canton", "Queensland", "Memphis", "Winnipeg", "Microsoft"]}
+{"subject": "Louisiana State Capitol", "object": "Louisiana", "taxonomy": ["Winnipeg", "Stockton", "Nagoya", "Sears", "Savannah"]}
+{"subject": "BBC Persian Television", "object": "BBC", "taxonomy": ["Italy", "Allen", "Ontario", "Seville", "Volvo"]}
+{"subject": "Nick.com", "object": "Nickelodeon", "taxonomy": ["Lancaster", "God", "Canton", "BBC", "Glasgow"]}
+{"subject": "Hessische Landesbahn", "object": "Hesse", "taxonomy": ["Florence", "Malaysia", "Calgary", "Adobe", "Kentucky"]}
+{"subject": "Kiryat Eliezer Stadium", "object": "Haifa", "taxonomy": ["Taipei", "Indianapolis", "Sony", "Renault", "Pennsylvania"]}
+{"subject": "Ankara Arena", "object": "Ankara", "taxonomy": ["Calgary", "Gary", "Croatia", "Intel", "Amsterdam"]}
+{"subject": "Gotthard Road Tunnel", "object": "Switzerland", "taxonomy": ["Yokohama", "Bhutan", "EMI", "Volvo", "Chrysler"]}
+{"subject": "Digital Anvil", "object": "Microsoft", "taxonomy": ["Norway", "Sky", "Greece", "Jackson", "BMW"]}
+{"subject": "Strahov Stadium", "object": "Prague", "taxonomy": ["Granada", "Cleveland", "Fargo", "Warsaw", "Suzuki"]}
+{"subject": "Dino", "object": "Ferrari", "taxonomy": ["Nintendo", "Yahoo", "Leonardo", "Richmond", "Indianapolis"]}
+{"subject": "Pennsylvania Station", "object": "Amtrak", "taxonomy": ["Lancaster", "Atlanta", "Lion", "Arlington", "Richmond"]}
+{"subject": "Vevo", "object": "Google", "taxonomy": ["Istanbul", "Ottawa", "Stockton", "Ukraine", "Vienna"]}
+{"subject": "Barrow Hill Engine Shed", "object": "Chesterfield", "taxonomy": ["Croatia", "Cyprus", "Hamas", "Mobile", "BP"]}
+{"subject": "Audible.com", "object": "Amazon", "taxonomy": ["Chrysler", "Nice", "Texas", "Warsaw", "Jacksonville"]}
+{"subject": "Al-Aqsa TV", "object": "Hamas", "taxonomy": ["Houston", "HBO", "Vice", "CBS", "Indonesia"]}
+{"subject": "Georgi Asparuhov Stadium", "object": "Sofia", "taxonomy": ["Oakland", "Granada", "Microsoft", "Milan", "Alabama"]}
+{"subject": "Cinema Center Films", "object": "CBS", "taxonomy": ["Kentucky", "BBC", "Zagreb", "Volvo", "Gary"]}
+{"subject": "Clarke Stadium", "object": "Edmonton", "taxonomy": ["Manila", "Saxony", "Prague", "Texas", "EMI"]}
+{"subject": "TD Place Stadium", "object": "Ottawa", "taxonomy": ["Chicago", "EMI", "Stockton", "BMW", "Nice"]}
+{"subject": "111 Eighth Avenue", "object": "Google", "taxonomy": ["Australia", "Sunrise", "Ankara", "Pitchfork", "Airbus"]}
+{"subject": "The Shard", "object": "Qatar", "taxonomy": ["Square", "Hamburg", "Chicago", "France", "Taipei"]}
+{"subject": "Nammo", "object": "Norway", "taxonomy": ["Malaysia", "Toronto", "Seoul", "Kazakhstan", "Paris"]}
+{"subject": "Google Cloud Storage", "object": "Google", "taxonomy": ["Miami", "Indonesia", "CBS", "Bhutan", "Belgium"]}
+{"subject": "Parque de Bombas", "object": "Ponce", "taxonomy": ["Canton", "YouTube", "Ankara", "Bari", "Milton"]}
+{"subject": "Stadio Pierluigi Penzo", "object": "Venice", "taxonomy": ["Pittsburgh", "Volvo", "Detroit", "Gary", "Belgium"]}
+{"subject": "Microsoft account", "object": "Microsoft", "taxonomy": ["Ottawa", "WWE", "Nuremberg", "Atlanta", "Chicago"]}
+{"subject": "Jerusalem Arena", "object": "Jerusalem", "taxonomy": ["Fargo", "Indiana", "Volvo", "Oman", "Baltimore"]}
+{"subject": "Museum of Ponce History", "object": "Ponce", "taxonomy": ["Gibson", "Greece", "HBO", "Albuquerque", "Louisiana"]}
+{"subject": "BBC News Online", "object": "BBC", "taxonomy": ["Netherlands", "Italy", "Canton", "Nuremberg", "Alabama"]}
+{"subject": "Sony Music Entertainment Japan", "object": "Sony", "taxonomy": ["Chile", "Pitchfork", "Minnesota", "Nintendo", "Egypt"]}
+{"subject": "BBC Archives", "object": "BBC", "taxonomy": ["Minnesota", "Ponce", "Palermo", "Sky", "Charlotte"]}
+{"subject": "The Hoover Company", "object": "Candy", "taxonomy": ["Turkey", "Cleveland", "Pitchfork", "Rwanda", "Bangkok"]}
+{"subject": "Wellington Regional Stadium", "object": "Wellington", "taxonomy": ["Seoul", "Cornwall", "Atari", "London", "Taipei"]}
+{"subject": "Arena Civica", "object": "Milan", "taxonomy": ["EMI", "Nike", "Indonesia", "Glasgow", "Nice"]}
+{"subject": "Speicherstadt", "object": "Hamburg", "taxonomy": ["Leonardo", "Minneapolis", "Microsoft", "Detroit", "Amsterdam"]}
+{"subject": "Yokohama Stadium", "object": "Yokohama", "taxonomy": ["Goa", "Idaho", "Monaco", "Oslo", "Manchester"]}
+{"subject": "Arena Lviv", "object": "Lviv", "taxonomy": ["BMW", "Miami", "Toronto", "Switzerland", "Granada"]}
+{"subject": "Sporting Clube de Goa", "object": "Goa", "taxonomy": ["Calgary", "Massachusetts", "Allen", "Memphis", "Croatia"]}
+{"subject": "Castrol", "object": "BP", "taxonomy": ["Philadelphia", "Bari", "Louisiana", "Nike", "Macon"]}
+{"subject": "Google China", "object": "Google", "taxonomy": ["Canton", "Everett", "Amtrak", "Albuquerque", "Bari"]}
+{"subject": "Google Reader", "object": "Google", "taxonomy": ["WWE", "Ponce", "Everett", "Turin", "Nintendo"]}
+{"subject": "Bavarian State Library", "object": "Bavaria", "taxonomy": ["Boeing", "Australia", "Mitsubishi", "Oslo", "Lincoln"]}
+{"subject": "LinkedIn", "object": "Microsoft", "taxonomy": ["Miami", "Cleveland", "Edmonton", "Istanbul", "Ankara"]}
+{"subject": "Tumblr", "object": "Yahoo", "taxonomy": ["Saxony", "Johannesburg", "Cornwall", "Terra", "Boeing"]}
+{"subject": "Google Fiber", "object": "Google", "taxonomy": ["Massachusetts", "Indianapolis", "Renault", "Ponce", "Poland"]}
+{"subject": "iAd", "object": "Apple", "taxonomy": ["EMI", "Pitchfork", "Montreal", "Memphis", "Norway"]}
+{"subject": "Florence Civic Center", "object": "Florence", "taxonomy": ["ESPN", "Nickelodeon", "Charleston", "Oslo", "Ipswich"]}
+{"subject": "Ovcha Kupel Stadium", "object": "Sofia", "taxonomy": ["Bavaria", "Indonesia", "Vickers", "Florence", "Lincoln"]}
+{"subject": "Meebo", "object": "Google", "taxonomy": ["Amtrak", "Istanbul", "Nissan", "London", "Hesse"]}
+{"subject": "BMW M", "object": "BMW", "taxonomy": ["Ontario", "Finland", "Gary", "London", "Virginia"]}
+{"subject": "Thunder Horse PDQ", "object": "BP", "taxonomy": ["Finland", "Fresno", "Oakland", "Seattle", "Toronto"]}
+{"subject": "Pinnacle Bank Arena", "object": "Lincoln", "taxonomy": ["Mitsubishi", "Mitchell", "Atlanta", "Italy", "Scotland"]}
+{"subject": "Mojang", "object": "Microsoft", "taxonomy": ["Croatia", "Lancaster", "Calgary", "Winnipeg", "Goa"]}
+{"subject": "Stadio San Paolo", "object": "Naples", "taxonomy": ["Malaysia", "Stockton", "BP", "Yokohama", "Phoenix"]}
+{"subject": "Stadio delle Alpi", "object": "Turin", "taxonomy": ["Atlanta", "Tennessee", "Nike", "Nintendo", "Ferrari"]}
+{"subject": "Sony Pictures Television", "object": "Sony", "taxonomy": ["Taipei", "Lyon", "Monaco", "Alabama", "Granada"]}
+{"subject": "Eintracht-Stadion", "object": "Brunswick", "taxonomy": ["Suzuki", "Baltimore", "Rai", "Milton", "Netherlands"]}
+{"subject": "Google Contacts", "object": "Google", "taxonomy": ["Christchurch", "Everett", "Memphis", "Greece", "Geelong"]}
+{"subject": "Jaiku", "object": "Google", "taxonomy": ["Istanbul", "pope", "IBM", "Qatar", "Brunswick"]}
+{"subject": "Changlimithang Stadium", "object": "Bhutan", "taxonomy": ["Sweden", "Seattle", "Gibson", "Bangkok", "Nike"]}
+{"subject": "The Sleepers", "object": "Paris", "taxonomy": ["Toulouse", "Cyprus", "Miami", "HBO", "Apple"]}
+{"subject": "Yahoo Games", "object": "Yahoo", "taxonomy": ["Sunrise", "Volvo", "Manchester", "Indianapolis", "Cyprus"]}
+{"subject": "CHI Health Center Omaha", "object": "Omaha", "taxonomy": ["France", "Mitsubishi", "Sega", "Vienna", "Bangkok"]}
+{"subject": "HBO Asia", "object": "HBO", "taxonomy": ["Philadelphia", "California", "Ferrari", "Gibson", "Sky"]}
+{"subject": "Prudential Center", "object": "Newark", "taxonomy": ["Phoenix", "Hawaii", "Savannah", "Irving", "Ponce"]}
+{"subject": "Columbia TriStar Motion Picture Group", "object": "Sony", "taxonomy": ["Afghanistan", "Louisiana", "Nissan", "Sky", "Hamburg"]}
+{"subject": "Baldwin Piano Company", "object": "Gibson", "taxonomy": ["Glasgow", "Chesterfield", "Edmonton", "Queensland", "Pennsylvania"]}
+{"subject": "OSRAM Licht AG", "object": "Siemens", "taxonomy": ["Texas", "Croatia", "Penang", "Hamburg", "Lisbon"]}
+{"subject": "Google Person Finder", "object": "Google", "taxonomy": ["Australia", "Lviv", "Airbus", "Kent", "Cornwall"]}
+{"subject": "Richmond Coliseum", "object": "Richmond", "taxonomy": ["Yokohama", "Minneapolis", "Christchurch", "Kazakhstan", "Seville"]}
+{"subject": "Rwanda Development Bank", "object": "Rwanda", "taxonomy": ["Johannesburg", "Bangkok", "Ankara", "Amazon", "Lion"]}
+{"subject": "Chromebook", "object": "Google", "taxonomy": ["Massachusetts", "Suzuki", "Australia", "Ottawa", "Fresno"]}
+{"subject": "BBC Domesday Reloaded", "object": "BBC", "taxonomy": ["Audi", "Goa", "Jerusalem", "Houston", "Toyota"]}
+{"subject": "Xamarin", "object": "Microsoft", "taxonomy": ["Massachusetts", "Oman", "Taipei", "Durham", "Wellington"]}
+{"subject": "Rogers Place", "object": "Edmonton", "taxonomy": ["Naples", "Honda", "Mitsubishi", "Shanghai", "Rai"]}
+{"subject": "Hell Gate Bridge", "object": "Amtrak", "taxonomy": ["Helsinki", "Fiat", "Idaho", "Penang", "Arlington"]}
+{"subject": "Corn Palace", "object": "Mitchell", "taxonomy": ["Hawaii", "Seoul", "ESPN", "Nissan", "Pittsburgh"]}
+{"subject": "Revolution Analytics", "object": "Microsoft", "taxonomy": ["Arlington", "Pennsylvania", "WWE", "Vickers", "Sweden"]}
+{"subject": "Permanent School Fund", "object": "Texas", "taxonomy": ["Miami", "Chesterfield", "Toulouse", "CBS", "Israel"]}
+{"subject": "Dabolim Airport", "object": "Goa", "taxonomy": ["Pennsylvania", "Airbus", "Berlin", "Virginia", "Lviv"]}
+{"subject": "Rai 1", "object": "Rai", "taxonomy": ["Bolton", "Finland", "Canton", "Monaco", "Allen"]}
+{"subject": "Chrysler Europe", "object": "Chrysler", "taxonomy": ["Chesterfield", "Amazon", "Everett", "Atari", "Norway"]}
+{"subject": "Sky Sports Racing", "object": "Sky", "taxonomy": ["Sega", "Kent", "Winnipeg", "Prague", "Switzerland"]}
+{"subject": "BWI Rail Station", "object": "Amtrak", "taxonomy": ["Hoover", "God", "Intel", "Queensland", "Alabama"]}
+{"subject": "Milton Pan Am and Parapan Am Velodrome", "object": "Milton", "taxonomy": ["ESPN", "Nissan", "Glasgow", "Haifa", "Massachusetts"]}
+{"subject": "Monas, National Monument of Indonesia", "object": "Indonesia", "taxonomy": ["Milan", "Fresno", "Idaho", "God", "Lancaster"]}
+{"subject": "Sky Sports F1", "object": "Sky", "taxonomy": ["Allen", "Croatia", "Indonesia", "Philadelphia", "Lincoln"]}
+{"subject": "Google Arts & Culture", "object": "Google", "taxonomy": ["Lincoln", "Allen", "Seville", "Karachi", "Hiroshima"]}
+{"subject": "Camelot Software Planning", "object": "Sega", "taxonomy": ["Macon", "Bolton", "Yahoo", "Venice", "Sky"]}
+{"subject": "WWE Classics on Demand", "object": "WWE", "taxonomy": ["Oman", "Glasgow", "Ponce", "Yokohama", "Hawaii"]}
+{"subject": "Google Now", "object": "Google", "taxonomy": ["Haifa", "Omaha", "WWE", "Christchurch", "Vienna"]}
+{"subject": "Frogner stadion", "object": "Oslo", "taxonomy": ["Egypt", "Terra", "Pennsylvania", "Sky", "Hamas"]}
+{"subject": "Behance", "object": "Adobe", "taxonomy": ["Edmonton", "Bolivia", "Vice", "Kent", "Phoenix"]}
+{"subject": "Rivals.com", "object": "Yahoo", "taxonomy": ["Karachi", "Bhutan", "Leonardo", "Lisbon", "Audi"]}
+{"subject": "Chukchansi Park", "object": "Fresno", "taxonomy": ["Afghanistan", "Memphis", "Denver", "Sony", "Edmonton"]}
+{"subject": "bpost", "object": "Belgium", "taxonomy": ["Madrid", "Ottawa", "Monaco", "Hoover", "Finland"]}
+{"subject": "Azerbaijan Tower", "object": "Azerbaijan", "taxonomy": ["Granada", "Glasgow", "IBM", "Saxony", "Atari"]}
+{"subject": "Aermacchi", "object": "Leonardo", "taxonomy": ["Hamburg", "Seville", "Frankfurt", "Germany", "Dubai"]}
+{"subject": "MSN Music", "object": "Microsoft", "taxonomy": ["Alabama", "Halifax", "London", "Arlington", "Rai"]}
+{"subject": "Google Keep", "object": "Google", "taxonomy": ["Sunrise", "Dunedin", "Amsterdam", "Pitchfork", "Milan"]}
+{"subject": "Google Alerts", "object": "Google", "taxonomy": ["BBC", "Glasgow", "Indonesia", "Brunei", "Hawaii"]}
+{"subject": "Generals Park", "object": "Jackson", "taxonomy": ["Australia", "Indiana", "Bavaria", "Virginia", "BBC"]}
+{"subject": "Štark Arena", "object": "Belgrade", "taxonomy": ["Ankara", "Sofia", "Vancouver", "Genoa", "Sky"]}
+{"subject": "Orlando Stadium", "object": "Johannesburg", "taxonomy": ["Lincoln", "Amtrak", "Ponce", "Azerbaijan", "Mitsubishi"]}
+{"subject": "Cyprus Airways", "object": "Cyprus", "taxonomy": ["Vice", "Sega", "Newark", "Minnesota", "Nissan"]}
+{"subject": "Winnipeg Route 52", "object": "Winnipeg", "taxonomy": ["Chesterfield", "Toyota", "Philadelphia", "Terra", "Germany"]}
+{"subject": "Hitachi Rail Italy", "object": "Leonardo", "taxonomy": ["Chicago", "Finland", "Baltimore", "Zagreb", "Milan"]}
+{"subject": "Yahoo! HotJobs", "object": "Yahoo", "taxonomy": ["Milton", "Stockton", "Terra", "Google", "Montreal"]}
+{"subject": "Neyland Stadium", "object": "Tennessee", "taxonomy": ["Penang", "Roland", "Colchester", "Lansing", "Ottawa"]}
+{"subject": "Google Scholar", "object": "Google", "taxonomy": ["BP", "Lviv", "Finland", "Birmingham", "Lancaster"]}
+{"subject": "Bush Stadium", "object": "Indianapolis", "taxonomy": ["Hiroshima", "Colchester", "Bolton", "Luxembourg", "Nickelodeon"]}
+{"subject": "Beats Music", "object": "Apple", "taxonomy": ["Anaheim", "Seville", "Rwanda", "Airbus", "Kentucky"]}
+{"subject": "ESPN FC", "object": "ESPN", "taxonomy": ["Wellington", "Sunrise", "Oman", "Intel", "Houston"]}
+{"subject": "TD Ameritrade Park Omaha", "object": "Omaha", "taxonomy": ["Newark", "Miami", "Sky", "Allen", "Lincoln"]}
+{"subject": "DeepMind", "object": "Google", "taxonomy": ["Glasgow", "Croatia", "London", "Lion", "Square"]}
+{"subject": "Fiat Chrysler Automobiles", "object": "Fiat", "taxonomy": ["Christchurch", "Granada", "Phoenix", "Microsoft", "Naples"]}
+{"subject": "Yahoo! Tech", "object": "Yahoo", "taxonomy": ["Houston", "Square", "Scotland", "Istanbul", "Hiroshima"]}
+{"subject": "Lycos", "object": "Terra", "taxonomy": ["BMW", "Geelong", "Vice", "Richmond", "Mitsubishi"]}
+{"subject": "Day Software", "object": "Adobe", "taxonomy": ["Massachusetts", "Chicago", "God", "Renault", "Afghanistan"]}
+{"subject": "Kenmore Appliances", "object": "Sears", "taxonomy": ["Edmonton", "Vickers", "Everett", "Kent", "Ferrari"]}
+{"subject": "BBC News", "object": "BBC", "taxonomy": ["Savannah", "Istanbul", "Berlin", "Virginia", "Indonesia"]}
+{"subject": "Angel Stadium of Anaheim", "object": "Anaheim", "taxonomy": ["Italy", "Bermuda", "Chile", "Seoul", "Qatar"]}
+{"subject": "HBO Now", "object": "HBO", "taxonomy": ["Kazakhstan", "Bavaria", "Hoover", "Dubai", "Lion"]}
+{"subject": "Victory Field", "object": "Indianapolis", "taxonomy": ["Adobe", "Brunei", "Amtrak", "Bolton", "IBM"]}
+{"subject": "BBC 2W", "object": "BBC", "taxonomy": ["Wellington", "Indianapolis", "Jakarta", "Goa", "Granada"]}
+{"subject": "Sucker Punch Productions", "object": "Sony", "taxonomy": ["Taipei", "Renault", "Nissan", "Nagoya", "Amazon"]}
+{"subject": "ELP Communications", "object": "Sony", "taxonomy": ["CBS", "Karachi", "Houston", "Azerbaijan", "Saxony"]}
+{"subject": "Oto Melara", "object": "Leonardo", "taxonomy": ["Hiroshima", "Rwanda", "Seattle", "Austria", "Anaheim"]}
+{"subject": "Pershing Center", "object": "Lincoln", "taxonomy": ["Turin", "Rome", "Haifa", "Mitsubishi", "Newark"]}
+{"subject": "ESPN Films", "object": "ESPN", "taxonomy": ["Calgary", "Australia", "Christchurch", "Savannah", "Kazakhstan"]}
+{"subject": "Boeing Helicopters", "object": "Boeing", "taxonomy": ["Switzerland", "Omaha", "Shanghai", "Australia", "Savannah"]}
+{"subject": "Yahoo! Music", "object": "Yahoo", "taxonomy": ["EMI", "Philips", "Colchester", "Google", "Alabama"]}
+{"subject": "Hank Aaron Stadium", "object": "Mobile", "taxonomy": ["Philips", "Sky", "Rome", "Haifa", "Belgrade"]}
+{"subject": "Hajime Yatate", "object": "Sunrise", "taxonomy": ["Brunswick", "Massachusetts", "Switzerland", "Lviv", "Ankara"]}
+{"subject": "North River Tunnels", "object": "Amtrak", "taxonomy": ["Sega", "YouTube", "France", "Bolton", "Sofia"]}
+{"subject": "Hangar", "object": "Lancaster", "taxonomy": ["Brunswick", "Hamas", "Queensland", "Minnesota", "Peterborough"]}
+{"subject": "Mark sense", "object": "IBM", "taxonomy": ["Yahoo", "Ukraine", "California", "Vancouver", "Seoul"]}
+{"subject": "Alabama Judicial Building", "object": "Alabama", "taxonomy": ["Bolton", "Dallas", "Leonardo", "Ferrari", "Massachusetts"]}
+{"subject": "Aniplex", "object": "Sony", "taxonomy": ["Palermo", "Winnipeg", "Bari", "Seoul", "Egypt"]}
+{"subject": "Beech Grove Shops", "object": "Amtrak", "taxonomy": ["London", "Bavaria", "Madrid", "Lincoln", "Bolton"]}
+{"subject": "Princes", "object": "Mitsubishi", "taxonomy": ["Bangkok", "Jackson", "Manila", "Philips", "Bermuda"]}
+{"subject": "El Alto International Airport", "object": "Bolivia", "taxonomy": ["Berlin", "WWE", "Bermuda", "Philips", "Apple"]}
+{"subject": "Sony Pictures Entertainment Japan", "object": "Sony", "taxonomy": ["pope", "Taipei", "Egypt", "Italy", "Vice"]}
+{"subject": "Be Un Limited", "object": "Sky", "taxonomy": ["Russia", "Calgary", "Geelong", "Houston", "Jackson"]}
+{"subject": "Upcoming", "object": "Yahoo", "taxonomy": ["Texas", "Cleveland", "Hesse", "Dunedin", "Nice"]}
+{"subject": "Vancouver City Hall", "object": "Vancouver", "taxonomy": ["Chile", "Jerusalem", "Halifax", "Lincoln", "Lviv"]}
+{"subject": "EverBank Field", "object": "Jacksonville", "taxonomy": ["God", "Sunrise", "Square", "BMW", "Volvo"]}
+{"subject": "Piper Aircraft", "object": "Brunei", "taxonomy": ["CBS", "Ipswich", "Anaheim", "Indonesia", "Idaho"]}
+{"subject": "Winnipeg Route 90", "object": "Winnipeg", "taxonomy": ["Karachi", "Amazon", "Albuquerque", "Nintendo", "Scotland"]}
+{"subject": "East River Tunnels", "object": "Amtrak", "taxonomy": ["Bolivia", "Alabama", "Manila", "Monaco", "Pitchfork"]}
+{"subject": "BBC Weather", "object": "BBC", "taxonomy": ["Ontario", "Anaheim", "Seville", "Square", "Dunedin"]}
+{"subject": "Box Office Mojo", "object": "Amazon", "taxonomy": ["Bolivia", "BP", "Mitsubishi", "Newark", "Lion"]}
+{"subject": "Stadium Municipal", "object": "Toulouse", "taxonomy": ["Louisiana", "Rai", "Audi", "Dunedin", "Sega"]}
+{"subject": "Canton Memorial Civic Center", "object": "Canton", "taxonomy": ["Volvo", "Karachi", "Qatar", "YouTube", "Apple"]}
+{"subject": "Macon Coliseum", "object": "Macon", "taxonomy": ["Nissan", "Scotland", "Pittsburgh", "Candy", "Azerbaijan"]}
+{"subject": "Fort Macomb", "object": "Louisiana", "taxonomy": ["Cornwall", "Atari", "Dunedin", "Chrysler", "Cincinnati"]}
+{"subject": "Base Presidente Eduardo Frei Montalva", "object": "Chile", "taxonomy": ["Indianapolis", "Charlotte", "Bolton", "Hamburg", "Jacksonville"]}
+{"subject": "Oyak-Renault", "object": "Renault", "taxonomy": ["Yahoo", "London", "Alabama", "Winnipeg", "Sofia"]}
+{"subject": "Eagle", "object": "Chrysler", "taxonomy": ["Audi", "Penang", "Albuquerque", "Pitchfork", "Ponce"]}
+{"subject": "Fargodome", "object": "Fargo", "taxonomy": ["Yokohama", "Moscow", "Pitchfork", "Mobile", "Hiroshima"]}
+{"subject": "SegaSoft", "object": "Sega", "taxonomy": ["Florence", "Sky", "Bari", "Yokohama", "Atari"]}
+{"subject": "Mitsubishi Corporation", "object": "Mitsubishi", "taxonomy": ["Ferrari", "Geelong", "Florence", "Vickers", "HBO"]}
+{"subject": "Fraport Arena", "object": "Frankfurt", "taxonomy": ["Manchester", "Candy", "Square", "Gibson", "Germany"]}
+{"subject": "Manila City Hall", "object": "Manila", "taxonomy": ["Oslo", "Istanbul", "Palermo", "Cincinnati", "Sears"]}
+{"subject": "Fiat Ferroviaria", "object": "Fiat", "taxonomy": ["Monaco", "Sony", "Haifa", "Virginia", "Berlin"]}
+{"subject": "AVCHD", "object": "Sony", "taxonomy": ["Idaho", "Paris", "Sunrise", "Monaco", "Hiroshima"]}

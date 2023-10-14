@@ -1,0 +1,945 @@
+{"relations": ["Where was [X] born?", "What is [X]'s birthplace?", "In what city or town was [X] born?", "What city was [X] born in?", "In which location was [X] born?", "What is the birth location of [X]?", "What is the birth city of [X]?"]}
+{"subject": "Allan Peiper", "object": "Alexandra", "taxonomy": ["Clinton", "Pasadena", "Wisconsin", "Springfield", "Syracuse"]}
+{"subject": "Anthony Barber", "object": "Doncaster", "taxonomy": ["Lincoln", "Morocco", "Vienna", "France", "Mainz"]}
+{"subject": "Paul Mounsey", "object": "Scotland", "taxonomy": ["Luton", "Queensland", "Bremen", "Kingston", "Mumbai"]}
+{"subject": "Moe Koffman", "object": "Toronto", "taxonomy": ["Minsk", "Manchester", "Kazan", "Palermo", "Sofia"]}
+{"subject": "Kurt Schwertsik", "object": "Vienna", "taxonomy": ["Lawrence", "Bergen", "Beijing", "Raymond", "Doncaster"]}
+{"subject": "Claude Arrieu", "object": "Paris", "taxonomy": ["Bolton", "Karnataka", "Alexandria", "Fresno", "Barcelona"]}
+{"subject": "Ryō Kase", "object": "Yokohama", "taxonomy": ["Mainz", "Helsinki", "Wilmington", "Baghdad", "Mecca"]}
+{"subject": "Frans Floris I", "object": "Antwerp", "taxonomy": ["Kazan", "Pennsylvania", "Angeles", "Perth", "Montgomery"]}
+{"subject": "Henry Heras", "object": "Barcelona", "taxonomy": ["Genoa", "Alexandria", "Nagoya", "Penang", "Albuquerque"]}
+{"subject": "Daniele Franceschini", "object": "Rome", "taxonomy": ["Yokohama", "Basel", "Calgary", "Staffordshire", "Queensland"]}
+{"subject": "Yeung Sum", "object": "Guangzhou", "taxonomy": ["Egypt", "Quincy", "Denmark", "Bangalore", "Hope"]}
+{"subject": "Sajjad Ali", "object": "Lahore", "taxonomy": ["Westminster", "Montevideo", "Augsburg", "Mainz", "Kazan"]}
+{"subject": "Giovanni Maria Morandi", "object": "Florence", "taxonomy": ["Ottawa", "Jackson", "Parsons", "Milan", "Chennai"]}
+{"subject": "Brian Boyd", "object": "Belfast", "taxonomy": ["Oslo", "Jamaica", "Denmark", "Edinburgh", "Thailand"]}
+{"subject": "Maurice de Vlaminck", "object": "Paris", "taxonomy": ["Singapore", "Scotland", "Edmonton", "Raymond", "Jakarta"]}
+{"subject": "Guy Deghy", "object": "Budapest", "taxonomy": ["Cornwall", "Palermo", "Marseille", "Japan", "Montgomery"]}
+{"subject": "Ze'ev Jabotinsky", "object": "Odessa", "taxonomy": ["Nottingham", "Wisconsin", "Brooklyn", "Denver", "Karachi"]}
+{"subject": "John Brumby", "object": "Melbourne", "taxonomy": ["Mercedes", "Fulham", "Wigan", "Hamilton", "Cincinnati"]}
+{"subject": "Pierre Dupont", "object": "Lyon", "taxonomy": ["Tottenham", "Warsaw", "Belgrade", "Oldham", "Ireland"]}
+{"subject": "Taras Kuzio", "object": "Halifax", "taxonomy": ["Paris", "Leiden", "Springfield", "Adelaide", "Seoul"]}
+{"subject": "Masako Natsume", "object": "Tokyo", "taxonomy": ["Strasbourg", "Kazan", "Naples", "Cincinnati", "Copenhagen"]}
+{"subject": "Henry Mayhew", "object": "London", "taxonomy": ["Paterson", "Genoa", "Kyrgyzstan", "Bangkok", "Hawaii"]}
+{"subject": "Henri Bourassa", "object": "Montreal", "taxonomy": ["Bohemia", "Seoul", "Cornwall", "Shanghai", "Beirut"]}
+{"subject": "Fergus McMaster", "object": "Queensland", "taxonomy": ["Naples", "Syracuse", "Basel", "Cincinnati", "Sheffield"]}
+{"subject": "Natalie Lowe", "object": "Sydney", "taxonomy": ["France", "Penang", "Miami", "Madagascar", "Guangzhou"]}
+{"subject": "Ilari Sahamies", "object": "Helsinki", "taxonomy": ["Jasper", "Manchester", "Brunswick", "Bonn", "Karnataka"]}
+{"subject": "Charles Holmes", "object": "Preston", "taxonomy": ["Jamaica", "Nebraska", "Cardiff", "Odessa", "Salzburg"]}
+{"subject": "Rob Lee", "object": "London", "taxonomy": ["Wellington", "Yerevan", "Como", "Moscow", "Riga"]}
+{"subject": "Nam June Paik", "object": "Seoul", "taxonomy": ["Egypt", "Tobago", "Yerevan", "Honolulu", "Oslo"]}
+{"subject": "Hiroshi Takemura", "object": "Tokyo", "taxonomy": ["Tacoma", "Norwich", "Lille", "Colombo", "Berlin"]}
+{"subject": "Cedric Boswell", "object": "Detroit", "taxonomy": ["Rome", "Jasper", "Derby", "Ipswich", "Copenhagen"]}
+{"subject": "Sirindhorn", "object": "Bangkok", "taxonomy": ["Harlem", "Leiden", "Calgary", "Mainz", "Geneva"]}
+{"subject": "Susette LaFlesche Tibbles", "object": "Nebraska", "taxonomy": ["Tallinn", "Spokane", "Mercedes", "Bremen", "Weimar"]}
+{"subject": "Charles II of Spain", "object": "Madrid", "taxonomy": ["Armenia", "Dundee", "Athens", "Pittsburgh", "Edinburgh"]}
+{"subject": "Gerard Lee", "object": "Melbourne", "taxonomy": ["Bolton", "Minneapolis", "Athens", "Bend", "Ajax"]}
+{"subject": "Eddie Creatchman", "object": "Montreal", "taxonomy": ["Tehran", "Lincoln", "Mainz", "Portsmouth", "Athens"]}
+{"subject": "Giovanni Sgambati", "object": "Rome", "taxonomy": ["Edinburgh", "Fresno", "Mobile", "Constantinople", "Jakarta"]}
+{"subject": "Michael Maleinos", "object": "Constantinople", "taxonomy": ["London", "Mercedes", "Barcelona", "Tacoma", "Vienna"]}
+{"subject": "John Addington Symonds", "object": "Bristol", "taxonomy": ["Dresden", "Hawaii", "Exeter", "Bucharest", "Nairobi"]}
+{"subject": "John McAllion", "object": "Glasgow", "taxonomy": ["Aleppo", "Canada", "Florence", "Fleet", "Lebanon"]}
+{"subject": "Rodel Mayol", "object": "Cebu", "taxonomy": ["Bangor", "Strasbourg", "Paterson", "Angeles", "Norway"]}
+{"subject": "Alla Pavlova", "object": "Ukraine", "taxonomy": ["Minneapolis", "Sacramento", "Florida", "Rutherford", "Antwerp"]}
+{"subject": "Thorne Webb Dreyer", "object": "Houston", "taxonomy": ["Adelaide", "Stamford", "Hamburg", "Chichester", "Boston"]}
+{"subject": "Salvador Puig Antich", "object": "Barcelona", "taxonomy": ["Bangkok", "Medina", "Helsinki", "Manchester", "Singapore"]}
+{"subject": "Sverrir Gudnason", "object": "Lund", "taxonomy": ["Syracuse", "Valencia", "Greenwood", "Florence", "Coventry"]}
+{"subject": "Maximilian Sforza", "object": "Milan", "taxonomy": ["Croatia", "Brooklyn", "Moscow", "Fowler", "Kabul"]}
+{"subject": "David Coulthard", "object": "Scotland", "taxonomy": ["Lisbon", "Virginia", "Ponce", "Derby", "Jerusalem"]}
+{"subject": "Parviz Davoodi", "object": "Tehran", "taxonomy": ["Ireland", "Vancouver", "Exeter", "Bolton", "Quincy"]}
+{"subject": "Killer Mike", "object": "Atlanta", "taxonomy": ["Jasper", "Windsor", "Spain", "Toronto", "Heidelberg"]}
+{"subject": "Boris Karloff", "object": "London", "taxonomy": ["Palermo", "Lafayette", "Madrid", "Blackpool", "Marshall"]}
+{"subject": "Elise Broach", "object": "Atlanta", "taxonomy": ["Paris", "Hawaii", "Carthage", "Windsor", "Kingston"]}
+{"subject": "Joey Boy", "object": "Thailand", "taxonomy": ["Nice", "Albuquerque", "Detroit", "Kota", "Dover"]}
+{"subject": "Kristine Johnson", "object": "Angeles", "taxonomy": ["Bree", "Baltimore", "Riga", "Spain", "Augsburg"]}
+{"subject": "Cas Haley", "object": "Paris", "taxonomy": ["Columbia", "Ukraine", "Adelaide", "Bangor", "Angeles"]}
+{"subject": "George Anson, 1st Baron Anson", "object": "Staffordshire", "taxonomy": ["Montevideo", "Detroit", "Cologne", "Brighton", "Mecca"]}
+{"subject": "Nayef Hawatmeh", "object": "Salt", "taxonomy": ["Houston", "Sheffield", "Amsterdam", "Minsk", "Paisley"]}
+{"subject": "Albert Allen Bartlett", "object": "Shanghai", "taxonomy": ["Wigan", "Dover", "Norwich", "Georgetown", "Pennsylvania"]}
+{"subject": "Catherine Tasca", "object": "Lyon", "taxonomy": ["Lund", "Brighton", "Singapore", "Stamford", "Southampton"]}
+{"subject": "Ludwig Marcuse", "object": "Berlin", "taxonomy": ["Monroe", "Lamar", "Wilson", "Colchester", "Sarajevo"]}
+{"subject": "Jam Hsiao", "object": "Taipei", "taxonomy": ["Calais", "Tours", "Nigeria", "Bucharest", "Marseille"]}
+{"subject": "Kjell Olofsson", "object": "Gothenburg", "taxonomy": ["Staffordshire", "Dallas", "Burlington", "Marshall", "Nagoya"]}
+{"subject": "Derek Tsang", "object": "Guangdong", "taxonomy": ["Bree", "Sussex", "Istanbul", "Luxembourg", "Lille"]}
+{"subject": "Simon Law", "object": "Luton", "taxonomy": ["Sussex", "Seville", "Minneapolis", "Scarborough", "Parsons"]}
+{"subject": "Tony Rumble", "object": "Boston", "taxonomy": ["Coventry", "Marshall", "Dublin", "Scotland", "Colombo"]}
+{"subject": "Rita Montaner y Facenda", "object": "Havana", "taxonomy": ["Lebanon", "Angeles", "Scotland", "Cebu", "Spain"]}
+{"subject": "Haydn Bendall", "object": "Essex", "taxonomy": ["Basel", "Lebanon", "Carthage", "Derby", "Brunswick"]}
+{"subject": "Larry Stabbins", "object": "Bristol", "taxonomy": ["Paterson", "Metz", "Shrewsbury", "Bolton", "Blackburn"]}
+{"subject": "David Diplacido", "object": "Newmarket", "taxonomy": ["Tampa", "Pittsburgh", "California", "Denmark", "Medina"]}
+{"subject": "Antonio Badile", "object": "Verona", "taxonomy": ["France", "Lund", "Utrecht", "Hamilton", "Calais"]}
+{"subject": "Claudio Coello", "object": "Madrid", "taxonomy": ["Camden", "Germany", "India", "Wellington", "Atlanta"]}
+{"subject": "Bryan Crawford", "object": "Hamilton", "taxonomy": ["Yorkshire", "Shanghai", "Jackson", "Florida", "Houston"]}
+{"subject": "Damian O'Flynn", "object": "Boston", "taxonomy": ["Maryland", "Heidelberg", "Paterson", "Tobago", "Guangzhou"]}
+{"subject": "Pennie Smith", "object": "London", "taxonomy": ["Tbilisi", "Sydney", "Perth", "Bolton", "Norfolk"]}
+{"subject": "Wade Cunningham", "object": "Auckland", "taxonomy": ["Seville", "Prague", "Brooklyn", "Kingston", "Carthage"]}
+{"subject": "Victor Skrebneski", "object": "Chicago", "taxonomy": ["Cambodia", "Lahore", "Winnipeg", "Rutherford", "Nigeria"]}
+{"subject": "Tobias Rau", "object": "Brunswick", "taxonomy": ["Egypt", "Boston", "Japan", "Lamar", "Tours"]}
+{"subject": "Lawrence Bayne", "object": "Toronto", "taxonomy": ["Melbourne", "Constantinople", "Wales", "Darlington", "Mercedes"]}
+{"subject": "Aaron King", "object": "Denver", "taxonomy": ["Auckland", "Halifax", "Cambodia", "Cleveland", "Constantinople"]}
+{"subject": "Marco Benefial", "object": "Rome", "taxonomy": ["Cincinnati", "Baku", "Lyon", "Ireland", "Albuquerque"]}
+{"subject": "James Jackson Putnam", "object": "Boston", "taxonomy": ["Manchester", "Japan", "Aleppo", "Gary", "Riga"]}
+{"subject": "India Hicks", "object": "London", "taxonomy": ["Jackson", "Bohemia", "Athens", "Ukraine", "Sussex"]}
+{"subject": "Jack Wong Sue", "object": "Perth", "taxonomy": ["Sofia", "Seville", "Doncaster", "Yorkshire", "Parsons"]}
+{"subject": "Godert van der Capellen", "object": "Utrecht", "taxonomy": ["Riga", "Leeds", "Ipswich", "Leiden", "Stuttgart"]}
+{"subject": "Robert Parris Moses", "object": "Harlem", "taxonomy": ["Utrecht", "Toronto", "Antwerp", "Stuttgart", "Montevideo"]}
+{"subject": "Blanca Li", "object": "Granada", "taxonomy": ["Blackburn", "Shrewsbury", "Fleet", "Armenia", "Medina"]}
+{"subject": "Big Gipp", "object": "Atlanta", "taxonomy": ["Wilson", "Greenwood", "Cambodia", "Hamilton", "Constantinople"]}
+{"subject": "Pierre Braunberger", "object": "Paris", "taxonomy": ["London", "Gap", "Kolkata", "Miami", "Brighton"]}
+{"subject": "Georges Picquart", "object": "Strasbourg", "taxonomy": ["Bordeaux", "Kyrgyzstan", "Tehran", "Exeter", "Spokane"]}
+{"subject": "Giacomo Meyerbeer", "object": "Berlin", "taxonomy": ["Kyrgyzstan", "Bergen", "Philadelphia", "Singapore", "Israel"]}
+{"subject": "Carsten Dahl", "object": "Copenhagen", "taxonomy": ["Athens", "Leigh", "Vienna", "Southampton", "Bucharest"]}
+{"subject": "Nikolaus Dumba", "object": "Vienna", "taxonomy": ["Baltimore", "Chennai", "Lithuania", "Atlanta", "Kolkata"]}
+{"subject": "Pietro Andrea Mattioli", "object": "Siena", "taxonomy": ["Constantinople", "Hollywood", "Paisley", "Manhattan", "Wigan"]}
+{"subject": "Michael Bleekemolen", "object": "Amsterdam", "taxonomy": ["Penang", "Georgetown", "Chennai", "Verona", "Nebraska"]}
+{"subject": "Washington McLean", "object": "Cincinnati", "taxonomy": ["Vancouver", "Auckland", "Riverside", "Mumbai", "Ponce"]}
+{"subject": "Phil Bentham", "object": "Leigh", "taxonomy": ["Italy", "Sacramento", "Bolton", "Salt", "Constantinople"]}
+{"subject": "Nicola Porpora", "object": "Naples", "taxonomy": ["Leeds", "Tbilisi", "Fresno", "Luxembourg", "Armenia"]}
+{"subject": "Charles Helou", "object": "Beirut", "taxonomy": ["Israel", "Wilson", "Miami", "Belgrade", "Christchurch"]}
+{"subject": "Michael McGoldrick", "object": "Manchester", "taxonomy": ["Cleveland", "Kent", "Paterson", "Como", "Augsburg"]}
+{"subject": "Christina Rossetti", "object": "London", "taxonomy": ["Stamford", "Cologne", "Brighton", "Helsinki", "Lebanon"]}
+{"subject": "Johnny Wakelin", "object": "Brighton", "taxonomy": ["Egypt", "Bree", "Croatia", "Barcelona", "Ottawa"]}
+{"subject": "Roddy McMillan", "object": "Glasgow", "taxonomy": ["Clinton", "Normandy", "Stafford", "Ireland", "Alexandria"]}
+{"subject": "Hamo Thornycroft", "object": "London", "taxonomy": ["Florence", "Rome", "Montevideo", "Stuttgart", "Lund"]}
+{"subject": "Vratislaus II of Bohemia", "object": "Bohemia", "taxonomy": ["Riga", "Bremen", "Mumbai", "Bradford", "Bangalore"]}
+{"subject": "Henry Frederick Conrad Sander", "object": "Bremen", "taxonomy": ["Moscow", "Berlin", "Penang", "Westminster", "Lund"]}
+{"subject": "Shritama Mukherjee", "object": "Kota", "taxonomy": ["India", "Cambodia", "Delhi", "Ireland", "Johannesburg"]}
+{"subject": "Axle Whitehead", "object": "Melbourne", "taxonomy": ["Toronto", "Vernon", "Calais", "Edinburgh", "Thailand"]}
+{"subject": "Herb Carnegie", "object": "Toronto", "taxonomy": ["Odessa", "Blackpool", "Denmark", "Paisley", "Wellington"]}
+{"subject": "Daniel Alfredson", "object": "Stockholm", "taxonomy": ["Istanbul", "Leipzig", "Windsor", "Weimar", "Riga"]}
+{"subject": "Amol Palekar", "object": "Mumbai", "taxonomy": ["Perth", "Strasbourg", "Leipzig", "Hope", "Wigan"]}
+{"subject": "Dick Bruna", "object": "Utrecht", "taxonomy": ["Canada", "Kensington", "Caracas", "Yorkshire", "Weimar"]}
+{"subject": "Yvonne Blake", "object": "Manchester", "taxonomy": ["Coventry", "Pasadena", "Philadelphia", "Genoa", "Shanghai"]}
+{"subject": "Hasdai Crescas", "object": "Barcelona", "taxonomy": ["Kota", "Atlanta", "Leeds", "Paisley", "Warwickshire"]}
+{"subject": "Cesira Ferrani", "object": "Turin", "taxonomy": ["Brighton", "Taipei", "Singapore", "Kolkata", "Salvador"]}
+{"subject": "Catherine Day", "object": "Dublin", "taxonomy": ["Cardiff", "Johannesburg", "Cincinnati", "Wigan", "Minsk"]}
+{"subject": "Vinny Burns", "object": "Oldham", "taxonomy": ["Boston", "Staffordshire", "Bradford", "Dortmund", "Queensland"]}
+{"subject": "Jean Taubenhaus", "object": "Warsaw", "taxonomy": ["Palermo", "Morocco", "Barbados", "France", "Tottenham"]}
+{"subject": "Rosario Garibaldi Bosco", "object": "Palermo", "taxonomy": ["Carthage", "Rotterdam", "Jasper", "Nicaragua", "Salvador"]}
+{"subject": "Tim K", "object": "Seattle", "taxonomy": ["Burlington", "Barbados", "Essex", "Kiev", "Nebraska"]}
+{"subject": "Asad Malik", "object": "Karachi", "taxonomy": ["Jamaica", "Dallas", "Denmark", "Birmingham", "Naples"]}
+{"subject": "Ulysses Dove", "object": "Columbia", "taxonomy": ["Boston", "Prague", "Bologna", "Shrewsbury", "Cleveland"]}
+{"subject": "Randy Renfrow", "object": "Wilson", "taxonomy": ["Riga", "Leigh", "Detroit", "Derby", "Florence"]}
+{"subject": "Marta Abba", "object": "Milan", "taxonomy": ["Edmonton", "Berlin", "Karachi", "Cologne", "Leigh"]}
+{"subject": "Grace Sherwood", "object": "Virginia", "taxonomy": ["Lafayette", "Jerusalem", "Colombo", "Heidelberg", "Syracuse"]}
+{"subject": "Carlos Baute", "object": "Caracas", "taxonomy": ["Springfield", "Virginia", "Norwich", "Jackson", "Brighton"]}
+{"subject": "Joe Lofthouse", "object": "Blackburn", "taxonomy": ["Weimar", "Hamburg", "Leigh", "Antwerp", "Mercedes"]}
+{"subject": "Lennie Tristano", "object": "Chicago", "taxonomy": ["Afghanistan", "Yorkshire", "Alexandra", "Oslo", "Houston"]}
+{"subject": "Nina van Pallandt", "object": "Denmark", "taxonomy": ["Tehran", "Blackpool", "Palermo", "Angeles", "Vancouver"]}
+{"subject": "Joan Dickson", "object": "Edinburgh", "taxonomy": ["Sussex", "Rome", "Dover", "Seoul", "Ajax"]}
+{"subject": "Josh Wise", "object": "Riverside", "taxonomy": ["Warwickshire", "Seville", "Cambodia", "Cornwall", "Tacoma"]}
+{"subject": "Cao Yunding", "object": "Shanghai", "taxonomy": ["Bucharest", "Leeds", "Waterloo", "Oldham", "Scotland"]}
+{"subject": "Kenny Rogers", "object": "Houston", "taxonomy": ["Kyrgyzstan", "Calgary", "Wellington", "Paterson", "Cebu"]}
+{"subject": "Frederick Whymper", "object": "London", "taxonomy": ["Devon", "Nigeria", "Tobago", "Quincy", "Bihar"]}
+{"subject": "Heikki Siren", "object": "Helsinki", "taxonomy": ["Madrid", "Munich", "Lisbon", "Beirut", "Normandy"]}
+{"subject": "David Harrower", "object": "Edinburgh", "taxonomy": ["Devon", "Stamford", "Lincolnshire", "Johannesburg", "Cincinnati"]}
+{"subject": "Felipe Pigna", "object": "Mercedes", "taxonomy": ["Helsinki", "Copenhagen", "Barbados", "Metz", "Brisbane"]}
+{"subject": "Giuseppe Tellera", "object": "Bologna", "taxonomy": ["Prague", "Parsons", "Leiden", "Alexandra", "Seville"]}
+{"subject": "Oliver Fricker", "object": "Switzerland", "taxonomy": ["Denmark", "Miami", "Kingston", "Windsor", "India"]}
+{"subject": "Derek Kerswill", "object": "Wilmington", "taxonomy": ["Sarajevo", "Medina", "Karachi", "Calgary", "Melbourne"]}
+{"subject": "Richard Rawlinson", "object": "London", "taxonomy": ["Pasadena", "Stafford", "Paisley", "Perth", "Scotland"]}
+{"subject": "Husayn ibn Ali", "object": "Medina", "taxonomy": ["Hope", "Italy", "Bari", "Verona", "Sofia"]}
+{"subject": "Placido Costanzi", "object": "Rome", "taxonomy": ["Siena", "Milan", "Lancaster", "Norway", "Bratislava"]}
+{"subject": "Illa J", "object": "Detroit", "taxonomy": ["Marseille", "Hyderabad", "Lithuania", "France", "Kent"]}
+{"subject": "Diego Ormaechea", "object": "Montevideo", "taxonomy": ["Vernon", "Penang", "Cebu", "Helsinki", "Montreal"]}
+{"subject": "Ignazio Gardella", "object": "Milan", "taxonomy": ["Windsor", "Shrewsbury", "Kolkata", "Johannesburg", "Angeles"]}
+{"subject": "Edward Joseph Kelly", "object": "Chicago", "taxonomy": ["Augsburg", "Perth", "Ljubljana", "Vancouver", "Japan"]}
+{"subject": "Andy Nicholson", "object": "Sheffield", "taxonomy": ["Kabul", "Fresno", "Parsons", "Lahore", "Colombo"]}
+{"subject": "Herman Francis Mark", "object": "Vienna", "taxonomy": ["Norfolk", "Calgary", "Ottawa", "Medina", "Kabul"]}
+{"subject": "Eric Dover", "object": "Jasper", "taxonomy": ["Fresno", "Lahore", "Dallas", "Florence", "Basel"]}
+{"subject": "Park Seo-joon", "object": "Seoul", "taxonomy": ["Riverside", "Marseille", "Albuquerque", "Porto", "Cardiff"]}
+{"subject": "Carl H. Brans", "object": "Dallas", "taxonomy": ["Jasper", "Nebraska", "Albuquerque", "Bremen", "Paris"]}
+{"subject": "Bertram Mills", "object": "London", "taxonomy": ["Bristol", "Seville", "Raymond", "Taipei", "Sussex"]}
+{"subject": "Matvey Kazakov", "object": "Moscow", "taxonomy": ["Dallas", "Lancaster", "Scotland", "Manhattan", "Bonn"]}
+{"subject": "Giacinto Brandi", "object": "Italy", "taxonomy": ["Sydney", "Scarborough", "Wilson", "Bolton", "Seville"]}
+{"subject": "Dennis DeYoung", "object": "Chicago", "taxonomy": ["Jamaica", "Taipei", "Leeds", "Singapore", "Chichester"]}
+{"subject": "David Kershenbaum", "object": "Springfield", "taxonomy": ["Yokohama", "Montgomery", "Edmonton", "Lamar", "Lille"]}
+{"subject": "Jake Burns", "object": "Belfast", "taxonomy": ["Angus", "Como", "Germany", "Heidelberg", "Rutherford"]}
+{"subject": "Karl Kani", "object": "Brooklyn", "taxonomy": ["Wolverhampton", "Granada", "Palermo", "Hawaii", "Ajax"]}
+{"subject": "Elsie Lefebvre", "object": "Montreal", "taxonomy": ["Turin", "Montevideo", "Kolkata", "Tours", "Penang"]}
+{"subject": "Mizuki Fukumura", "object": "Tokyo", "taxonomy": ["Riverside", "Auckland", "Bend", "Tobago", "Lincoln"]}
+{"subject": "Glenn Leonhard", "object": "Winnipeg", "taxonomy": ["Cincinnati", "Yorkshire", "Johannesburg", "Madagascar", "Valencia"]}
+{"subject": "Ibn Hawqal", "object": "Baghdad", "taxonomy": ["Burlington", "Calgary", "Hope", "Suffolk", "Beirut"]}
+{"subject": "Sujata Massey", "object": "Sussex", "taxonomy": ["Nottingham", "Perth", "Leiden", "Bangor", "Luxembourg"]}
+{"subject": "Avie Bennett", "object": "Toronto", "taxonomy": ["Plymouth", "Shanghai", "Hyderabad", "Cornwall", "Monroe"]}
+{"subject": "Amelia Opie", "object": "Norwich", "taxonomy": ["Morocco", "Heidelberg", "Tottenham", "Yorkshire", "Valencia"]}
+{"subject": "W. T. Cosgrave", "object": "Dublin", "taxonomy": ["Sydney", "Christchurch", "Cincinnati", "Queensland", "Naples"]}
+{"subject": "William Thomson, 1st Baron Kelvin", "object": "Belfast", "taxonomy": ["Siena", "Bangalore", "Winnipeg", "Jackson", "Kingston"]}
+{"subject": "Peter Bland", "object": "Scarborough", "taxonomy": ["Bucharest", "Exeter", "Marshall", "Luxembourg", "Augsburg"]}
+{"subject": "Gordon Coppuck", "object": "Fleet", "taxonomy": ["Moscow", "Morocco", "Lahore", "Cambodia", "Bangor"]}
+{"subject": "Melinda Czink", "object": "Budapest", "taxonomy": ["Beijing", "Moscow", "Atlanta", "Ottawa", "Columbia"]}
+{"subject": "Gobind Singh Deo", "object": "Penang", "taxonomy": ["Seville", "Palermo", "Wellington", "Columbia", "Brighton"]}
+{"subject": "Ahmad Ismail Ali", "object": "Egypt", "taxonomy": ["Florence", "Salem", "Cincinnati", "Norway", "Sarajevo"]}
+{"subject": "Charles Phelps Taft", "object": "Cincinnati", "taxonomy": ["Milan", "Medina", "Leigh", "Granada", "Tampa"]}
+{"subject": "William Lobb", "object": "Cornwall", "taxonomy": ["Sussex", "Fresno", "Barbados", "Angeles", "Marseille"]}
+{"subject": "Ahmad Zahir", "object": "Kabul", "taxonomy": ["Kiev", "Wilson", "Sudan", "Salem", "Rome"]}
+{"subject": "Edward Henry", "object": "London", "taxonomy": ["Ireland", "Copenhagen", "Florida", "Angeles", "Bree"]}
+{"subject": "Nicky Barnes", "object": "Harlem", "taxonomy": ["Wales", "Fulham", "Pittsburgh", "Monroe", "Utrecht"]}
+{"subject": "Phyllis Baker", "object": "Marshall", "taxonomy": ["Bologna", "Moscow", "Greenwood", "Medina", "Augsburg"]}
+{"subject": "Herman Haupt", "object": "Philadelphia", "taxonomy": ["Gothenburg", "Ponce", "Paisley", "Turin", "Strasbourg"]}
+{"subject": "Alfred Adler", "object": "Vienna", "taxonomy": ["Porto", "Guangdong", "Norfolk", "Bristol", "Doncaster"]}
+{"subject": "Adriaan Pauw", "object": "Amsterdam", "taxonomy": ["Baghdad", "Shrewsbury", "Moscow", "Cleveland", "Honolulu"]}
+{"subject": "Kandi Burruss", "object": "Atlanta", "taxonomy": ["Denmark", "Perth", "Germany", "Minsk", "Warwickshire"]}
+{"subject": "Georges Lentz", "object": "Luxembourg", "taxonomy": ["Bologna", "Vienna", "Scotland", "Budapest", "Atlanta"]}
+{"subject": "Gloria Davy", "object": "Brooklyn", "taxonomy": ["Brighton", "Toronto", "Odessa", "Kyrgyzstan", "Tbilisi"]}
+{"subject": "Fernando Vergara", "object": "Santiago", "taxonomy": ["Manchester", "Fulham", "Ljubljana", "Hyderabad", "Granada"]}
+{"subject": "Adolf Schreyer", "object": "Frankfurt", "taxonomy": ["London", "Cleveland", "Barcelona", "Kensington", "Dublin"]}
+{"subject": "Ramil Guliyev", "object": "Baku", "taxonomy": ["Calais", "Medina", "Houston", "Chennai", "Baghdad"]}
+{"subject": "Chris Stringer", "object": "London", "taxonomy": ["Detroit", "Essex", "Lahore", "Perth", "Armenia"]}
+{"subject": "Salvatore Lo Piccolo", "object": "Palermo", "taxonomy": ["Germany", "Belfast", "Penang", "Westminster", "Nagoya"]}
+{"subject": "Travis Gregg", "object": "Camden", "taxonomy": ["Hollywood", "Riga", "Bucharest", "Angus", "Virginia"]}
+{"subject": "Franz Delitzsch", "object": "Leipzig", "taxonomy": ["Houston", "Raymond", "Tacoma", "Brighton", "Siena"]}
+{"subject": "Madhur Bhandarkar", "object": "Mumbai", "taxonomy": ["Manila", "Shanghai", "Santiago", "Nottingham", "Pittsburgh"]}
+{"subject": "Marin Barbu", "object": "Bucharest", "taxonomy": ["Nebraska", "Palermo", "Angus", "Wellington", "Montreal"]}
+{"subject": "Chus Lampreave", "object": "Madrid", "taxonomy": ["Frankfurt", "Warsaw", "Croydon", "Clinton", "Strasbourg"]}
+{"subject": "Damon Che", "object": "Pittsburgh", "taxonomy": ["Norway", "Baltimore", "Norwich", "Ponce", "Munich"]}
+{"subject": "Lutz Heck", "object": "Berlin", "taxonomy": ["Southampton", "Paris", "Tours", "Burlington", "Istanbul"]}
+{"subject": "Otto Jelinek", "object": "Prague", "taxonomy": ["Lille", "Hyderabad", "Westminster", "Dover", "Hope"]}
+{"subject": "Francis Hauksbee", "object": "Colchester", "taxonomy": ["Calgary", "Manhattan", "Dresden", "Como", "Hollywood"]}
+{"subject": "Bruno Frank", "object": "Stuttgart", "taxonomy": ["Ukraine", "India", "Kent", "Warsaw", "Suffolk"]}
+{"subject": "William John Burchell", "object": "Fulham", "taxonomy": ["Denmark", "Plymouth", "Kiev", "Thailand", "Preston"]}
+{"subject": "Bodin Issara", "object": "Bangkok", "taxonomy": ["Ukraine", "Mainz", "Pennsylvania", "Atlanta", "Scotland"]}
+{"subject": "Ferdinand Bruckner", "object": "Sofia", "taxonomy": ["Rome", "Coventry", "Fleet", "Wilmington", "Tampa"]}
+{"subject": "Sergey Lavrov", "object": "Moscow", "taxonomy": ["Harlem", "Hope", "Wellington", "Kingston", "Manila"]}
+{"subject": "Beppe Gambetta", "object": "Genoa", "taxonomy": ["Georgetown", "Basel", "Madrid", "Leigh", "Lund"]}
+{"subject": "Jacqueline Beer", "object": "Paris", "taxonomy": ["Wilmington", "Scotland", "Sarajevo", "Essex", "Basel"]}
+{"subject": "Konrad Lorenz", "object": "Vienna", "taxonomy": ["Tbilisi", "Delhi", "Westminster", "Mercedes", "Mainz"]}
+{"subject": "Melanie Klein", "object": "Vienna", "taxonomy": ["Windsor", "Heidelberg", "Pennsylvania", "Paterson", "Palermo"]}
+{"subject": "John Frederick Maurice", "object": "London", "taxonomy": ["Morocco", "Perth", "Leipzig", "Lund", "Havana"]}
+{"subject": "Hank Shaw", "object": "London", "taxonomy": ["Lithuania", "Montreal", "Baltimore", "Santiago", "Seattle"]}
+{"subject": "Michel Brault", "object": "Montreal", "taxonomy": ["Cardiff", "Glasgow", "California", "Rome", "Heidelberg"]}
+{"subject": "Joseph McMoneagle", "object": "Miami", "taxonomy": ["Kazan", "Egypt", "Derby", "Medina", "Syracuse"]}
+{"subject": "Pedro Julio Serrano", "object": "Ponce", "taxonomy": ["Calais", "Quincy", "Kabul", "Morocco", "Brooklyn"]}
+{"subject": "Bernardo Bellotto", "object": "Venice", "taxonomy": ["Munich", "Burlington", "Odessa", "Carthage", "Oslo"]}
+{"subject": "Joseph Cogswell", "object": "Ipswich", "taxonomy": ["Hamburg", "Kiev", "Milwaukee", "Wilmington", "Paris"]}
+{"subject": "Clement Martyn Doke", "object": "Bristol", "taxonomy": ["Minneapolis", "Wellington", "Georgetown", "Warwickshire", "Raymond"]}
+{"subject": "Abd al-Qadir al-Husayni", "object": "Jerusalem", "taxonomy": ["Venice", "Beirut", "Cleveland", "Camden", "Bolton"]}
+{"subject": "John Lavington Bonython", "object": "Adelaide", "taxonomy": ["Beirut", "Augsburg", "Istanbul", "Manchester", "Brisbane"]}
+{"subject": "Elizabeth Boleyn, Countess of Wiltshire", "object": "Norfolk", "taxonomy": ["Marseille", "Barcelona", "Springfield", "Leigh", "Sofia"]}
+{"subject": "James Northcote", "object": "Plymouth", "taxonomy": ["Lincolnshire", "Stamford", "Croatia", "Manhattan", "Istanbul"]}
+{"subject": "Henry Kirke White", "object": "Nottingham", "taxonomy": ["Sussex", "Baghdad", "London", "Darlington", "Birmingham"]}
+{"subject": "Ryan Archibald", "object": "Auckland", "taxonomy": ["Jakarta", "Denmark", "Pittsburgh", "Bohemia", "Lund"]}
+{"subject": "Atul Chitnis", "object": "Berlin", "taxonomy": ["Sofia", "Clinton", "Bradford", "Mobile", "Dover"]}
+{"subject": "Giulio Romano", "object": "Rome", "taxonomy": ["Tours", "Spain", "Gothenburg", "Tehran", "Ottawa"]}
+{"subject": "Joseph Paul Forgas", "object": "Budapest", "taxonomy": ["Jerusalem", "Ireland", "Como", "Milwaukee", "Riga"]}
+{"subject": "Michael Lipman", "object": "London", "taxonomy": ["Carthage", "Westminster", "Detroit", "Kolkata", "Normandy"]}
+{"subject": "Shawn Toovey", "object": "Lincoln", "taxonomy": ["Gary", "Beijing", "Angeles", "Tobago", "Windsor"]}
+{"subject": "William Carlos Williams", "object": "Rutherford", "taxonomy": ["Morocco", "Milan", "Odessa", "Nairobi", "Bologna"]}
+{"subject": "Adolphe d'Ennery", "object": "Paris", "taxonomy": ["Pittsburgh", "Luton", "Colombo", "Bohemia", "Yokohama"]}
+{"subject": "Fox Butterfield", "object": "Lancaster", "taxonomy": ["Wilmington", "Gap", "Nebraska", "Taipei", "Perth"]}
+{"subject": "Leroy Wallace", "object": "Jamaica", "taxonomy": ["Leiden", "Egypt", "Como", "Adelaide", "Constantinople"]}
+{"subject": "Eberhard Koebel", "object": "Stuttgart", "taxonomy": ["Guangzhou", "Chichester", "Sacramento", "Prague", "Tampa"]}
+{"subject": "Max Bunker", "object": "Milan", "taxonomy": ["Bradford", "Seattle", "Havana", "Singapore", "Parsons"]}
+{"subject": "Elisar von Kupffer", "object": "Tallinn", "taxonomy": ["Perth", "Munich", "Columbia", "Valencia", "Switzerland"]}
+{"subject": "Ray Loriga", "object": "Madrid", "taxonomy": ["Cornwall", "Guangzhou", "Cardiff", "Milwaukee", "Madagascar"]}
+{"subject": "Harold Lever, Baron Lever of Manchester", "object": "Manchester", "taxonomy": ["Bangor", "Heidelberg", "Armenia", "Colombo", "Calgary"]}
+{"subject": "Geoffrey Mander", "object": "Wolverhampton", "taxonomy": ["Gap", "Baghdad", "Pasadena", "Ponce", "Leeds"]}
+{"subject": "Ausonius", "object": "Bordeaux", "taxonomy": ["Hope", "Dresden", "Calais", "Bergen", "Westminster"]}
+{"subject": "Artur Kotenko", "object": "Tallinn", "taxonomy": ["Warsaw", "Siena", "Santiago", "Dublin", "Hamilton"]}
+{"subject": "Annie Whitehead", "object": "Oldham", "taxonomy": ["India", "Shanghai", "Japan", "Westminster", "Amsterdam"]}
+{"subject": "Victor Varnado", "object": "Gary", "taxonomy": ["Lamar", "Mumbai", "Coventry", "Bradford", "Lebanon"]}
+{"subject": "Geoffrey Hinsliff", "object": "Leeds", "taxonomy": ["Copenhagen", "Queensland", "Devon", "Mumbai", "Salvador"]}
+{"subject": "Francesco Foscari", "object": "Venice", "taxonomy": ["Norfolk", "Stamford", "Paisley", "Santiago", "Heidelberg"]}
+{"subject": "Jean Image", "object": "Budapest", "taxonomy": ["Adelaide", "Gap", "Edinburgh", "Nebraska", "Hamburg"]}
+{"subject": "Daniel Mananta", "object": "Jakarta", "taxonomy": ["Metz", "Ajax", "Guangdong", "Coventry", "Armenia"]}
+{"subject": "Agobard", "object": "Spain", "taxonomy": ["Genoa", "Israel", "Warwickshire", "Rome", "Ireland"]}
+{"subject": "Bernhard Sekles", "object": "Frankfurt", "taxonomy": ["Halifax", "Birmingham", "Kent", "Brisbane", "Riverside"]}
+{"subject": "Juan Morel Campos", "object": "Ponce", "taxonomy": ["Vancouver", "Minsk", "Madagascar", "Lebanon", "Wolverhampton"]}
+{"subject": "Ranavalona I", "object": "Madagascar", "taxonomy": ["Paris", "Exeter", "Staffordshire", "Stamford", "Adelaide"]}
+{"subject": "Lloyd Berkner", "object": "Milwaukee", "taxonomy": ["Edmonton", "Exeter", "California", "Belfast", "Guangzhou"]}
+{"subject": "Adel Hassan Hamad", "object": "Sudan", "taxonomy": ["Chicago", "Verona", "Monroe", "Hyderabad", "Houston"]}
+{"subject": "Gabrielle Beaumont", "object": "London", "taxonomy": ["Guangzhou", "Carthage", "Dundee", "Canada", "Lincolnshire"]}
+{"subject": "Bilal ibn Ribah", "object": "Mecca", "taxonomy": ["Aleppo", "Madagascar", "Oldham", "Bohemia", "Manila"]}
+{"subject": "Marek Borowski", "object": "Warsaw", "taxonomy": ["Sydney", "Staffordshire", "Springfield", "Chennai", "Athens"]}
+{"subject": "Martin Middlebrook", "object": "Boston", "taxonomy": ["Dortmund", "Leigh", "Granada", "Rome", "Wales"]}
+{"subject": "Meredith Willson", "object": "Iowa", "taxonomy": ["Staffordshire", "Chicago", "Perth", "Minsk", "Nottingham"]}
+{"subject": "Biurakn Hakhverdian", "object": "Leiden", "taxonomy": ["Tottenham", "Shrewsbury", "Atlanta", "Brighton", "Montevideo"]}
+{"subject": "Trey Moore", "object": "Houston", "taxonomy": ["Gary", "Delhi", "Christchurch", "Cardiff", "Morocco"]}
+{"subject": "Wangechi Mutu", "object": "Nairobi", "taxonomy": ["Waterloo", "Nicaragua", "Israel", "Croatia", "Jamaica"]}
+{"subject": "Victor Hasselblad", "object": "Gothenburg", "taxonomy": ["Maryland", "Brighton", "Copenhagen", "Lincoln", "Dublin"]}
+{"subject": "Max Neal", "object": "Munich", "taxonomy": ["Kazan", "Greenwood", "Milwaukee", "Lithuania", "Lyon"]}
+{"subject": "Desmond King-Hele", "object": "Sussex", "taxonomy": ["Camden", "Caracas", "Aleppo", "France", "Montevideo"]}
+{"subject": "Wesley Tuttle", "object": "Lamar", "taxonomy": ["Derby", "Kolkata", "Newmarket", "Glasgow", "Norway"]}
+{"subject": "Oliver Lyttelton, 1st Viscount Chandos", "object": "London", "taxonomy": ["Utrecht", "Nice", "Thailand", "Luxembourg", "Wisconsin"]}
+{"subject": "Adolf Georg Olland", "object": "Utrecht", "taxonomy": ["Oldham", "Harlem", "Bolton", "Warwickshire", "Palermo"]}
+{"subject": "Paul Kimmage", "object": "Dublin", "taxonomy": ["Southampton", "Lincolnshire", "Gothenburg", "Nicaragua", "Cardiff"]}
+{"subject": "Frederick Hervey, 4th Earl of Bristol", "object": "Suffolk", "taxonomy": ["Denver", "Kota", "Taipei", "Metz", "Fulham"]}
+{"subject": "Gunnar Staalesen", "object": "Bergen", "taxonomy": ["Basel", "Bohemia", "Philadelphia", "Penang", "Croydon"]}
+{"subject": "Georg Wilhelm von Siemens", "object": "Berlin", "taxonomy": ["Dublin", "Italy", "Westminster", "Sydney", "Mercedes"]}
+{"subject": "Ann Park", "object": "Edinburgh", "taxonomy": ["Mercedes", "Glasgow", "Kota", "Switzerland", "Kabul"]}
+{"subject": "Michael Urbano", "object": "Sacramento", "taxonomy": ["Norfolk", "Milwaukee", "Afghanistan", "Thailand", "Stafford"]}
+{"subject": "Tilo Wolff", "object": "Frankfurt", "taxonomy": ["Atlanta", "Nicaragua", "Budapest", "Fowler", "Calais"]}
+{"subject": "Ali Campbell", "object": "Birmingham", "taxonomy": ["Madrid", "Ponce", "Norway", "Adelaide", "Dublin"]}
+{"subject": "Prabhu Ganesan", "object": "Chennai", "taxonomy": ["Cambodia", "Seoul", "Bremen", "Tbilisi", "Raymond"]}
+{"subject": "Walter Seymour Allward", "object": "Toronto", "taxonomy": ["Croatia", "Valencia", "Montgomery", "Jamaica", "Brisbane"]}
+{"subject": "Gian Antonio Selva", "object": "Venice", "taxonomy": ["Stamford", "London", "Cincinnati", "Lyon", "Chichester"]}
+{"subject": "Lou Reed", "object": "Brooklyn", "taxonomy": ["Kota", "Genoa", "Berlin", "Penang", "Hollywood"]}
+{"subject": "Ahmad Ali", "object": "Delhi", "taxonomy": ["Hamilton", "Karachi", "Columbia", "Detroit", "Mecca"]}
+{"subject": "Andreya Triana", "object": "London", "taxonomy": ["Lancaster", "Columbia", "Albuquerque", "Staffordshire", "Caracas"]}
+{"subject": "Pierre Mazeaud", "object": "Lyon", "taxonomy": ["Tokyo", "Norway", "Hyderabad", "Mecca", "Ottawa"]}
+{"subject": "Mazo de la Roche", "object": "Newmarket", "taxonomy": ["Riverside", "Christchurch", "Luton", "Wigan", "Nairobi"]}
+{"subject": "Tom Bourdillon", "object": "Kensington", "taxonomy": ["Budapest", "Bihar", "Kabul", "Parsons", "Sofia"]}
+{"subject": "Paul Delaroche", "object": "Paris", "taxonomy": ["Helsinki", "Chicago", "Raymond", "Riverside", "Mainz"]}
+{"subject": "Tony Vidmar", "object": "Adelaide", "taxonomy": ["Ukraine", "Sofia", "Penang", "France", "Hollywood"]}
+{"subject": "Saint Giles", "object": "Athens", "taxonomy": ["Lahore", "Moscow", "Lincoln", "Constantinople", "Porto"]}
+{"subject": "Friedrich Wilhelm, Count Brandenburg", "object": "Berlin", "taxonomy": ["Lamar", "Birmingham", "Norway", "Hamburg", "Blackburn"]}
+{"subject": "Dan Barrett", "object": "Pasadena", "taxonomy": ["Fleet", "Lincoln", "Madrid", "Plymouth", "Iowa"]}
+{"subject": "Isaac Isaacs", "object": "Melbourne", "taxonomy": ["Hope", "Yokohama", "Mecca", "Baghdad", "Preston"]}
+{"subject": "Carlos Zingaro", "object": "Lisbon", "taxonomy": ["Budapest", "Germany", "Guangdong", "Lincoln", "Weimar"]}
+{"subject": "Jean-Marcel Jeanneney", "object": "Paris", "taxonomy": ["Kensington", "Gap", "Budapest", "Armenia", "Lyon"]}
+{"subject": "T-Minus", "object": "Ajax", "taxonomy": ["Paisley", "Karachi", "Fleet", "Clinton", "Sudan"]}
+{"subject": "Jaime Roos", "object": "Montevideo", "taxonomy": ["Ottawa", "Fresno", "Ajax", "Lawrence", "Hope"]}
+{"subject": "Philistus", "object": "Syracuse", "taxonomy": ["Ireland", "Montgomery", "Nice", "Manila", "Johannesburg"]}
+{"subject": "Gilles Grimandi", "object": "Gap", "taxonomy": ["Manila", "Germany", "Norwich", "Derby", "Riga"]}
+{"subject": "Hartmut Mehdorn", "object": "Warsaw", "taxonomy": ["Lafayette", "Salvador", "Wellington", "Guangdong", "Cardiff"]}
+{"subject": "Max Wilson", "object": "Hamburg", "taxonomy": ["Shrewsbury", "Berlin", "Constantinople", "Houston", "Mecca"]}
+{"subject": "Mako Idemitsu", "object": "Tokyo", "taxonomy": ["Minsk", "Tobago", "Yerevan", "Montreal", "Canada"]}
+{"subject": "Jade Windley", "object": "Lincolnshire", "taxonomy": ["Quincy", "Japan", "Essex", "Riga", "Yokohama"]}
+{"subject": "Saeb Salam", "object": "Beirut", "taxonomy": ["Munich", "Johannesburg", "Riverside", "Shanghai", "Lincoln"]}
+{"subject": "Vicente Grau Juan", "object": "Valencia", "taxonomy": ["Angus", "Spokane", "Stuttgart", "Lisbon", "Seville"]}
+{"subject": "Dale Resteghini", "object": "Boston", "taxonomy": ["Milwaukee", "Harlem", "Spokane", "Lawrence", "Wales"]}
+{"subject": "Ong Beng Hee", "object": "Penang", "taxonomy": ["Houston", "Miami", "Florence", "Tours", "Vienna"]}
+{"subject": "Erling Kroner", "object": "Copenhagen", "taxonomy": ["Sacramento", "Perth", "Salzburg", "Atlanta", "Essex"]}
+{"subject": "Augustus Wall Callcott", "object": "Kensington", "taxonomy": ["France", "Lawrence", "Cambodia", "Hamburg", "Cologne"]}
+{"subject": "Blake Mills", "object": "California", "taxonomy": ["Norway", "Newmarket", "Fulham", "Wolverhampton", "Lincoln"]}
+{"subject": "Bob Brady", "object": "Philadelphia", "taxonomy": ["Exeter", "Seattle", "Maryland", "Guangzhou", "Metz"]}
+{"subject": "Rudolph Isley", "object": "Cincinnati", "taxonomy": ["Wilmington", "Hamilton", "Clinton", "Philadelphia", "Taipei"]}
+{"subject": "Ewald Osers", "object": "Prague", "taxonomy": ["Salt", "Morocco", "Nigeria", "Kolkata", "Milan"]}
+{"subject": "Paul Epworth", "object": "London", "taxonomy": ["Granada", "Yerevan", "Plymouth", "Israel", "Germany"]}
+{"subject": "Mechell", "object": "Wales", "taxonomy": ["Sydney", "Angeles", "Wellington", "Dover", "Portsmouth"]}
+{"subject": "Henri Debain", "object": "Paris", "taxonomy": ["Bangor", "Strasbourg", "Bend", "Karachi", "Thailand"]}
+{"subject": "Barney Balaban", "object": "Chicago", "taxonomy": ["Atlanta", "Paris", "Edinburgh", "Kiev", "Kent"]}
+{"subject": "Richard Ashcroft", "object": "Wigan", "taxonomy": ["Darlington", "Calgary", "Dallas", "Derby", "Barbados"]}
+{"subject": "Ksenija Balta", "object": "Minsk", "taxonomy": ["Bratislava", "Alexandria", "Hamilton", "Adelaide", "Ghent"]}
+{"subject": "Giuseppe Baini", "object": "Rome", "taxonomy": ["Tokyo", "Helsinki", "Wigan", "Hyderabad", "Atlanta"]}
+{"subject": "Mario Caiano", "object": "Rome", "taxonomy": ["Jakarta", "Cambodia", "Tokyo", "Bree", "Salzburg"]}
+{"subject": "Kay Armen", "object": "Chicago", "taxonomy": ["Vernon", "Manhattan", "Fowler", "Brisbane", "Santiago"]}
+{"subject": "Jack Wilkins", "object": "Brooklyn", "taxonomy": ["Dortmund", "Minneapolis", "Heidelberg", "Springfield", "Glasgow"]}
+{"subject": "Leo Villareal", "object": "Albuquerque", "taxonomy": ["Dortmund", "Oldham", "Honolulu", "Vienna", "Brisbane"]}
+{"subject": "Johann Burchard", "object": "Strasbourg", "taxonomy": ["Granada", "Santiago", "Vernon", "Nicaragua", "Perth"]}
+{"subject": "Gene Martynec", "object": "Germany", "taxonomy": ["Lancaster", "Caracas", "Genoa", "Colombo", "Gap"]}
+{"subject": "Seija Simola", "object": "Helsinki", "taxonomy": ["Gary", "Basel", "Warwickshire", "California", "Yokohama"]}
+{"subject": "Vikram Bhatt", "object": "Mumbai", "taxonomy": ["Medina", "Milan", "Brighton", "Kolkata", "Colchester"]}
+{"subject": "Johann August Nahl", "object": "Berlin", "taxonomy": ["Kensington", "Paterson", "Dublin", "Leipzig", "Ireland"]}
+{"subject": "Gita Sahgal", "object": "Mumbai", "taxonomy": ["Yorkshire", "Glasgow", "Brooklyn", "Bologna", "Oslo"]}
+{"subject": "Leopold Stokowski", "object": "London", "taxonomy": ["Barcelona", "Ghent", "Hamilton", "Weimar", "Scotland"]}
+{"subject": "John Sheahan", "object": "Dublin", "taxonomy": ["Beijing", "Mecca", "Brighton", "Vancouver", "Weimar"]}
+{"subject": "Abbas Ahmed Atwi", "object": "Lebanon", "taxonomy": ["Verona", "Aleppo", "Montreal", "Auckland", "Ukraine"]}
+{"subject": "Hamilton Holt", "object": "Brooklyn", "taxonomy": ["Hollywood", "Manchester", "Lahore", "Kent", "Fulham"]}
+{"subject": "Lord Pretender", "object": "Tobago", "taxonomy": ["Doncaster", "Lyon", "Glasgow", "Beijing", "Berlin"]}
+{"subject": "Thomas Zehetmair", "object": "Salzburg", "taxonomy": ["Budapest", "Lancaster", "Brooklyn", "Mobile", "Florence"]}
+{"subject": "Saom Vansodany", "object": "Cambodia", "taxonomy": ["Nigeria", "Ukraine", "Lille", "Fulham", "Tokyo"]}
+{"subject": "Tom Wesselmann", "object": "Cincinnati", "taxonomy": ["Hyderabad", "Sudan", "Calais", "Suffolk", "Alexandria"]}
+{"subject": "Trey Teague", "object": "Jackson", "taxonomy": ["Alexandra", "Stuttgart", "Glasgow", "Brooklyn", "Stockholm"]}
+{"subject": "Gergely Kiss", "object": "Budapest", "taxonomy": ["Weimar", "Miami", "Wisconsin", "Stafford", "Perth"]}
+{"subject": "Corinne Drewery", "object": "Nottingham", "taxonomy": ["Jamaica", "Toronto", "Wilmington", "Colombo", "Jasper"]}
+{"subject": "Iiro Rantala", "object": "Helsinki", "taxonomy": ["Kabul", "Ajax", "Lebanon", "Medina", "Syracuse"]}
+{"subject": "Julius Stockhausen", "object": "Paris", "taxonomy": ["Baghdad", "Prague", "Leigh", "Minneapolis", "India"]}
+{"subject": "Rustee Allen", "object": "Monroe", "taxonomy": ["Brisbane", "Shanghai", "Perth", "Lancaster", "Stuttgart"]}
+{"subject": "Kevin Lamoureux", "object": "Winnipeg", "taxonomy": ["Suffolk", "Kolkata", "Camden", "Salzburg", "Detroit"]}
+{"subject": "Antonella Costa", "object": "Rome", "taxonomy": ["Nebraska", "Vancouver", "Portsmouth", "Bend", "Lille"]}
+{"subject": "Ernest Reyer", "object": "Marseille", "taxonomy": ["Angeles", "Florida", "Japan", "Toronto", "Melbourne"]}
+{"subject": "Henry Mackenzie", "object": "Edinburgh", "taxonomy": ["Penang", "Oldham", "Albuquerque", "Beijing", "Gothenburg"]}
+{"subject": "John Leopold Denman", "object": "Brighton", "taxonomy": ["Sacramento", "Lund", "Bohemia", "Lyon", "Bratislava"]}
+{"subject": "Bill Hinds", "object": "Houston", "taxonomy": ["Stockholm", "Brighton", "Beijing", "Shanghai", "Norwich"]}
+{"subject": "Rhea Chakraborty", "object": "Bangalore", "taxonomy": ["Jackson", "Delhi", "Florence", "Naples", "Rotterdam"]}
+{"subject": "Jonathan Pereira", "object": "London", "taxonomy": ["Milan", "Bree", "Sacramento", "Beijing", "Minsk"]}
+{"subject": "Leo V the Armenian", "object": "Armenia", "taxonomy": ["Switzerland", "Florida", "Monroe", "Darlington", "Lamar"]}
+{"subject": "Marco Delvecchio", "object": "Milan", "taxonomy": ["Camden", "Stockholm", "Amsterdam", "Plymouth", "Ghent"]}
+{"subject": "Nikki Yanofsky", "object": "Montreal", "taxonomy": ["Frankfurt", "Ottawa", "Prague", "Salt", "Florida"]}
+{"subject": "Nina Byron", "object": "Christchurch", "taxonomy": ["Tallinn", "Italy", "Dublin", "Spokane", "Newmarket"]}
+{"subject": "Jean Pierre Lefebvre", "object": "Montreal", "taxonomy": ["Switzerland", "Atlanta", "Nicaragua", "Beirut", "Belfast"]}
+{"subject": "Carl Orff", "object": "Munich", "taxonomy": ["Beijing", "Mobile", "Rome", "Bradford", "Israel"]}
+{"subject": "Victor Cavallo", "object": "Rome", "taxonomy": ["Sussex", "Wigan", "Jackson", "Raymond", "Seattle"]}
+{"subject": "Michael Ben-Ari", "object": "Israel", "taxonomy": ["Fleet", "Madagascar", "Normandy", "Mumbai", "Bend"]}
+{"subject": "Irving Fine", "object": "Boston", "taxonomy": ["Waterloo", "Morocco", "Amsterdam", "Dortmund", "Vernon"]}
+{"subject": "John Klemmer", "object": "Chicago", "taxonomy": ["Chichester", "France", "Sussex", "Baltimore", "Suffolk"]}
+{"subject": "Steve Hillage", "object": "London", "taxonomy": ["Tobago", "Morocco", "Kabul", "Granada", "Denmark"]}
+{"subject": "Cathal Goulding", "object": "Dublin", "taxonomy": ["Beirut", "Brunswick", "Honolulu", "Lawrence", "Quincy"]}
+{"subject": "Pliny the Elder", "object": "Como", "taxonomy": ["Stafford", "Luton", "Wilson", "Dundee", "Hamburg"]}
+{"subject": "Aktan Abdykalykov", "object": "Kyrgyzstan", "taxonomy": ["Birmingham", "Moscow", "Lawrence", "Baltimore", "Ponce"]}
+{"subject": "Phoebe Atwood Taylor", "object": "Boston", "taxonomy": ["Tallinn", "Cardiff", "Dresden", "Ipswich", "Adelaide"]}
+{"subject": "Frederick William II of Prussia", "object": "Berlin", "taxonomy": ["Tehran", "Italy", "Tobago", "Jakarta", "Kingston"]}
+{"subject": "Emiliano Chamorro Vargas", "object": "Nicaragua", "taxonomy": ["California", "Sudan", "Chichester", "Brisbane", "Burlington"]}
+{"subject": "Brian Mannix", "object": "Melbourne", "taxonomy": ["Belgrade", "Lund", "Strasbourg", "Burlington", "Jasper"]}
+{"subject": "Stephen Rea", "object": "Belfast", "taxonomy": ["Beijing", "Madagascar", "Sarajevo", "Geneva", "Adelaide"]}
+{"subject": "Armando Diaz", "object": "Naples", "taxonomy": ["Penang", "Stuttgart", "Mercedes", "Turin", "Tobago"]}
+{"subject": "Pierre Bertin", "object": "Lille", "taxonomy": ["Copenhagen", "Norway", "Belfast", "Utrecht", "Blackpool"]}
+{"subject": "Michael Stapleton", "object": "Dublin", "taxonomy": ["Atlanta", "Ottawa", "Kolkata", "Marshall", "Lund"]}
+{"subject": "Aleksandar Deroko", "object": "Belgrade", "taxonomy": ["Turin", "Karnataka", "Paris", "Sydney", "Bonn"]}
+{"subject": "Erol Alkan", "object": "London", "taxonomy": ["Auckland", "Barcelona", "Bradford", "Bonn", "Rutherford"]}
+{"subject": "August Kopff", "object": "Heidelberg", "taxonomy": ["Karnataka", "Lebanon", "Preston", "Baltimore", "Jasper"]}
+{"subject": "Eiko Koike", "object": "Tokyo", "taxonomy": ["Essex", "Como", "Staffordshire", "Queensland", "Fleet"]}
+{"subject": "Boris Grigoriev", "object": "Moscow", "taxonomy": ["Ajax", "Antwerp", "Fulham", "Rutherford", "Wolverhampton"]}
+{"subject": "Manuel I of Portugal", "object": "Lisbon", "taxonomy": ["Derby", "Antwerp", "Heidelberg", "Halifax", "Dundee"]}
+{"subject": "Steve Rhodes", "object": "Bradford", "taxonomy": ["Yerevan", "Parsons", "Dublin", "Cologne", "Marshall"]}
+{"subject": "Wretch 32", "object": "Tottenham", "taxonomy": ["Columbia", "Lafayette", "Salzburg", "Croatia", "Constantinople"]}
+{"subject": "Appian", "object": "Alexandria", "taxonomy": ["Quincy", "Budapest", "Carthage", "Madagascar", "Halifax"]}
+{"subject": "Rachel Whiteread", "object": "London", "taxonomy": ["Chennai", "Hyderabad", "Normandy", "Paris", "Lawrence"]}
+{"subject": "Colin McNab", "object": "Dundee", "taxonomy": ["Madrid", "Sofia", "Brunswick", "Marseille", "Oldham"]}
+{"subject": "Soichi Noguchi", "object": "Yokohama", "taxonomy": ["Madrid", "Hollywood", "Jamaica", "Tbilisi", "Norwich"]}
+{"subject": "Oscar Sala", "object": "Milan", "taxonomy": ["Bend", "Ljubljana", "Nagoya", "Bratislava", "Karnataka"]}
+{"subject": "Boniface III", "object": "Rome", "taxonomy": ["Angeles", "Chennai", "Sacramento", "Clinton", "Atlanta"]}
+{"subject": "Sal Viscuso", "object": "Brooklyn", "taxonomy": ["Armenia", "Stafford", "Marseille", "Luxembourg", "Salem"]}
+{"subject": "Kim Kashkashian", "object": "Detroit", "taxonomy": ["Hope", "Houston", "Pittsburgh", "Tehran", "Rome"]}
+{"subject": "Roy Grounds", "object": "Melbourne", "taxonomy": ["Lithuania", "Medina", "Riverside", "Bolton", "Greenwood"]}
+{"subject": "Claudio Abbado", "object": "Milan", "taxonomy": ["India", "Bohemia", "Aleppo", "Albuquerque", "Burlington"]}
+{"subject": "Aaron Parks", "object": "Seattle", "taxonomy": ["Cincinnati", "Nigeria", "Blackpool", "Tampa", "Albuquerque"]}
+{"subject": "John Ernest II, Duke of Saxe-Weimar", "object": "Weimar", "taxonomy": ["Lahore", "Montreal", "Pasadena", "Stamford", "Florida"]}
+{"subject": "Martin Padar", "object": "Tallinn", "taxonomy": ["Miami", "Kazan", "Istanbul", "Hamburg", "Paterson"]}
+{"subject": "Kieron Dawson", "object": "Bangor", "taxonomy": ["Wilmington", "Nottingham", "Georgetown", "Manila", "Florida"]}
+{"subject": "Glennis Grace", "object": "Amsterdam", "taxonomy": ["Honolulu", "Yokohama", "Jackson", "Lafayette", "Seville"]}
+{"subject": "Leo Weisgerber", "object": "Metz", "taxonomy": ["Bucharest", "Beijing", "Antwerp", "Copenhagen", "Scotland"]}
+{"subject": "Enrique Vila-Matas", "object": "Barcelona", "taxonomy": ["Staffordshire", "Kazan", "Antwerp", "Bend", "Marshall"]}
+{"subject": "Camille Pin", "object": "Nice", "taxonomy": ["Madagascar", "India", "Ponce", "Riverside", "Bratislava"]}
+{"subject": "Tinie Tempah", "object": "London", "taxonomy": ["Florence", "Melbourne", "Angus", "Riverside", "Lawrence"]}
+{"subject": "Jaki Liebezeit", "object": "Dresden", "taxonomy": ["Ajax", "Montevideo", "Hollywood", "Siena", "Frankfurt"]}
+{"subject": "Harald Gram", "object": "Oslo", "taxonomy": ["Minneapolis", "Porto", "Tehran", "California", "Iowa"]}
+{"subject": "Tristan Rogers", "object": "Melbourne", "taxonomy": ["Dublin", "Dundee", "Detroit", "Glasgow", "Nottingham"]}
+{"subject": "Adnan Dirjal", "object": "Baghdad", "taxonomy": ["Ireland", "Luxembourg", "Constantinople", "Wilson", "Houston"]}
+{"subject": "Dayirman", "object": "Baku", "taxonomy": ["Minsk", "Basel", "Lancaster", "Pittsburgh", "Norwich"]}
+{"subject": "Allen Carr", "object": "London", "taxonomy": ["Lancaster", "Pasadena", "Belfast", "Miami", "Istanbul"]}
+{"subject": "Shane Battier", "object": "Birmingham", "taxonomy": ["Bradford", "Fulham", "Rome", "Salzburg", "Sarajevo"]}
+{"subject": "Sugar Blue", "object": "Harlem", "taxonomy": ["Kazan", "Waterloo", "Switzerland", "Auckland", "Havana"]}
+{"subject": "Spike Hughes", "object": "London", "taxonomy": ["Afghanistan", "Baltimore", "Wigan", "Fulham", "Christchurch"]}
+{"subject": "Nick Raphael", "object": "London", "taxonomy": ["Queensland", "Ljubljana", "Metz", "Blackpool", "Cebu"]}
+{"subject": "Alle Farben", "object": "Berlin", "taxonomy": ["Taipei", "Bergen", "Utrecht", "Palermo", "Mercedes"]}
+{"subject": "Auguste Cain", "object": "Paris", "taxonomy": ["Vancouver", "Cologne", "Jackson", "Edinburgh", "Berlin"]}
+{"subject": "Samuel Jackman Prescod", "object": "Barbados", "taxonomy": ["Sacramento", "Riverside", "Springfield", "Kent", "Salem"]}
+{"subject": "Nancy Rubins", "object": "Naples", "taxonomy": ["Calgary", "Bordeaux", "Shanghai", "Verona", "Beijing"]}
+{"subject": "Albert Richardson", "object": "London", "taxonomy": ["Ljubljana", "Lyon", "Miami", "Seville", "Hawaii"]}
+{"subject": "Henri Berger", "object": "Berlin", "taxonomy": ["Lyon", "Madrid", "Devon", "Angeles", "Syracuse"]}
+{"subject": "John Shorthouse", "object": "Vancouver", "taxonomy": ["Jakarta", "Naples", "Dundee", "Mercedes", "Venice"]}
+{"subject": "Diane Hendricks", "object": "Wisconsin", "taxonomy": ["Bologna", "Istanbul", "Sydney", "Ljubljana", "Lille"]}
+{"subject": "Giovanni Tadolini", "object": "Bologna", "taxonomy": ["Scarborough", "Nagoya", "Ottawa", "Alexandra", "Newmarket"]}
+{"subject": "Irena Grafenauer", "object": "Ljubljana", "taxonomy": ["Warwickshire", "Belfast", "Bradford", "Taipei", "Genoa"]}
+{"subject": "Thomas Fritsch", "object": "Dresden", "taxonomy": ["Newmarket", "Barbados", "France", "Seville", "Frankfurt"]}
+{"subject": "Arlene McCarthy", "object": "Belfast", "taxonomy": ["Sarajevo", "Jamaica", "Jasper", "Philadelphia", "Norfolk"]}
+{"subject": "Cyd Hayman", "object": "Bristol", "taxonomy": ["Coventry", "Bangkok", "Ljubljana", "Canada", "Darlington"]}
+{"subject": "Isabel Granada", "object": "Manila", "taxonomy": ["Yorkshire", "Blackpool", "Ipswich", "Bratislava", "Blackburn"]}
+{"subject": "John Wensink", "object": "Cornwall", "taxonomy": ["Sarajevo", "Pennsylvania", "Monroe", "Wellington", "Montevideo"]}
+{"subject": "Frances Wright", "object": "Dundee", "taxonomy": ["Metz", "Scotland", "Cambodia", "Tobago", "Siena"]}
+{"subject": "Tom Jennings", "object": "Boston", "taxonomy": ["Barcelona", "Westminster", "Chichester", "Caracas", "Lamar"]}
+{"subject": "Aino Sibelius", "object": "Helsinki", "taxonomy": ["Scarborough", "Wigan", "Norway", "Lille", "Parsons"]}
+{"subject": "Pete Haycock", "object": "Stafford", "taxonomy": ["Luxembourg", "Carthage", "Verona", "Belfast", "Canada"]}
+{"subject": "Robert Pinget", "object": "Geneva", "taxonomy": ["Luxembourg", "Scarborough", "Kyrgyzstan", "Nebraska", "Chichester"]}
+{"subject": "Enrico Caruso", "object": "Naples", "taxonomy": ["Antwerp", "Hamilton", "Bihar", "Alexandria", "Tacoma"]}
+{"subject": "Zehra Sheerazi", "object": "Karachi", "taxonomy": ["Cardiff", "Madagascar", "Georgetown", "Bend", "Prague"]}
+{"subject": "Henry Edward Armstrong", "object": "London", "taxonomy": ["Karachi", "Paisley", "Bucharest", "Cebu", "Lincoln"]}
+{"subject": "Perry Benson", "object": "London", "taxonomy": ["Prague", "Rotterdam", "Hyderabad", "Sacramento", "Cardiff"]}
+{"subject": "Matias Kupiainen", "object": "Helsinki", "taxonomy": ["Newmarket", "Quincy", "Lebanon", "Strasbourg", "Alexandria"]}
+{"subject": "Benzino", "object": "Boston", "taxonomy": ["Marseille", "Florida", "Stamford", "Lebanon", "Berlin"]}
+{"subject": "Hermann Dessau", "object": "Frankfurt", "taxonomy": ["Salem", "Manhattan", "Blackpool", "Nottingham", "Angus"]}
+{"subject": "Vivian Harris", "object": "Georgetown", "taxonomy": ["Kota", "Adelaide", "Lund", "Kensington", "Montgomery"]}
+{"subject": "Morris Day", "object": "Minneapolis", "taxonomy": ["Columbia", "Berlin", "Dresden", "Blackpool", "Hawaii"]}
+{"subject": "Nuno Lopes", "object": "Lisbon", "taxonomy": ["Denmark", "Porto", "Chichester", "Maryland", "Marseille"]}
+{"subject": "Mehmed VI", "object": "Istanbul", "taxonomy": ["Jakarta", "Lille", "Germany", "Staffordshire", "Bordeaux"]}
+{"subject": "Lawrence Giustiniani", "object": "Venice", "taxonomy": ["Detroit", "Caracas", "Spokane", "Waterloo", "Springfield"]}
+{"subject": "Randy Ferbey", "object": "Edmonton", "taxonomy": ["Kota", "Syracuse", "Yorkshire", "Vienna", "Karnataka"]}
+{"subject": "Martin Lundgaard Hansen", "object": "Denmark", "taxonomy": ["Jackson", "Virginia", "Italy", "Wigan", "Lyon"]}
+{"subject": "Philip Walsingham Sergeant", "object": "London", "taxonomy": ["Houston", "Springfield", "Genoa", "Tacoma", "Bradford"]}
+{"subject": "Dennis Farina", "object": "Chicago", "taxonomy": ["Perth", "Ajax", "Lincolnshire", "Rotterdam", "Salt"]}
+{"subject": "Torben Betts", "object": "Stamford", "taxonomy": ["Granada", "Delhi", "Angeles", "Melbourne", "Mercedes"]}
+{"subject": "Alexandre Mercereau", "object": "Paris", "taxonomy": ["Yokohama", "Cleveland", "Harlem", "Gothenburg", "Bohemia"]}
+{"subject": "Eduardo Mateo", "object": "Montevideo", "taxonomy": ["Newmarket", "Bordeaux", "Brooklyn", "Siena", "Dallas"]}
+{"subject": "Benz Antoine", "object": "Montreal", "taxonomy": ["Norfolk", "Lisbon", "Edmonton", "Lithuania", "Lawrence"]}
+{"subject": "Chico DeBarge", "object": "Detroit", "taxonomy": ["Nagoya", "Kolkata", "Spain", "Ottawa", "Constantinople"]}
+{"subject": "Hideki Shirakawa", "object": "Tokyo", "taxonomy": ["Hamilton", "Bari", "Beirut", "Bend", "Cologne"]}
+{"subject": "Yang Chengfu", "object": "Beijing", "taxonomy": ["Camden", "Oslo", "Florida", "Ukraine", "Warwickshire"]}
+{"subject": "Diego de Rosales", "object": "Madrid", "taxonomy": ["Constantinople", "Essex", "Baltimore", "Tacoma", "Miami"]}
+{"subject": "Jenn Wasner", "object": "Baltimore", "taxonomy": ["Normandy", "Chennai", "Detroit", "Halifax", "Copenhagen"]}
+{"subject": "Brendan Behan", "object": "Dublin", "taxonomy": ["Switzerland", "Croydon", "Spain", "Sheffield", "Warwickshire"]}
+{"subject": "Torstein Aagaard-Nilsen", "object": "Oslo", "taxonomy": ["Coventry", "Blackpool", "Raymond", "Leipzig", "Chichester"]}
+{"subject": "Luigi Nono", "object": "Venice", "taxonomy": ["Bratislava", "Stuttgart", "Staffordshire", "London", "Tottenham"]}
+{"subject": "Suren Spandaryan", "object": "Tbilisi", "taxonomy": ["Ireland", "Ottawa", "Singapore", "Wilson", "Birmingham"]}
+{"subject": "Jonathan Legard", "object": "Cardiff", "taxonomy": ["Yokohama", "Winnipeg", "Hamilton", "Ghent", "Gothenburg"]}
+{"subject": "Accursius", "object": "Florence", "taxonomy": ["Fresno", "Salt", "Norwich", "Riverside", "Sudan"]}
+{"subject": "Wat Tyler", "object": "Kent", "taxonomy": ["Sofia", "Seattle", "Seville", "Maryland", "Basel"]}
+{"subject": "Deborah Wiles", "object": "Mobile", "taxonomy": ["Helsinki", "Egypt", "Derby", "Ljubljana", "Brisbane"]}
+{"subject": "Joan Carroll", "object": "Paterson", "taxonomy": ["Manchester", "Yorkshire", "Edinburgh", "Marshall", "Rotterdam"]}
+{"subject": "Jagannath Mishra", "object": "Bihar", "taxonomy": ["Bend", "Genoa", "Dallas", "Tours", "Beijing"]}
+{"subject": "Sib Hashian", "object": "Boston", "taxonomy": ["Lille", "Bihar", "Taipei", "Belfast", "Nice"]}
+{"subject": "Darrell Nulisch", "object": "Dallas", "taxonomy": ["Riverside", "Minneapolis", "Doncaster", "Toronto", "Norway"]}
+{"subject": "Mervyn Wall", "object": "Dublin", "taxonomy": ["Wisconsin", "Dallas", "Virginia", "Kiev", "Portsmouth"]}
+{"subject": "Charles Nungesser", "object": "Paris", "taxonomy": ["Oslo", "Springfield", "London", "Egypt", "Antwerp"]}
+{"subject": "Michelle Douglas", "object": "Ottawa", "taxonomy": ["Croatia", "London", "Dresden", "Amsterdam", "Odessa"]}
+{"subject": "Friedrich August von Kaulbach", "object": "Munich", "taxonomy": ["Bohemia", "Kyrgyzstan", "Athens", "Lawrence", "Boston"]}
+{"subject": "Lindy Hemming", "object": "Wales", "taxonomy": ["Brunswick", "Sydney", "Bihar", "Cornwall", "Kyrgyzstan"]}
+{"subject": "Heinz Lammerding", "object": "Dortmund", "taxonomy": ["Dover", "Stamford", "Oldham", "Kota", "Madrid"]}
+{"subject": "Nikhil Chinapa", "object": "Bangalore", "taxonomy": ["Suffolk", "Tobago", "Johannesburg", "Cleveland", "Ajax"]}
+{"subject": "Arnold Hague", "object": "Boston", "taxonomy": ["Salvador", "Tampa", "Nice", "Kiev", "Colombo"]}
+{"subject": "Pepeu Gomes", "object": "Salvador", "taxonomy": ["Bologna", "Afghanistan", "Guangdong", "Tours", "Scotland"]}
+{"subject": "Heather Fell", "object": "Plymouth", "taxonomy": ["Melbourne", "Heidelberg", "Minneapolis", "Perth", "Delhi"]}
+{"subject": "James Henry Mapleson", "object": "London", "taxonomy": ["Frankfurt", "Egypt", "Rutherford", "Dallas", "Budapest"]}
+{"subject": "Rafael Pascual", "object": "Madrid", "taxonomy": ["Bangkok", "Seattle", "Christchurch", "Beirut", "Stuttgart"]}
+{"subject": "Roy Abernethy", "object": "Pennsylvania", "taxonomy": ["Wales", "Valencia", "Naples", "Yorkshire", "Moscow"]}
+{"subject": "Jim Cuddy", "object": "Toronto", "taxonomy": ["Constantinople", "Hyderabad", "Greenwood", "Italy", "Ottawa"]}
+{"subject": "Gary Scelzi", "object": "Fresno", "taxonomy": ["Minsk", "Leiden", "Como", "Scarborough", "Raymond"]}
+{"subject": "Taft Jordan", "object": "Florence", "taxonomy": ["Weimar", "Madrid", "Stuttgart", "Armenia", "Lebanon"]}
+{"subject": "Cyril Lemoine", "object": "Tours", "taxonomy": ["Pasadena", "Warwickshire", "Hamilton", "Leipzig", "Jasper"]}
+{"subject": "Charles Amirkhanian", "object": "Fresno", "taxonomy": ["Harlem", "Seville", "Blackburn", "Israel", "Bonn"]}
+{"subject": "Ashin", "object": "Taipei", "taxonomy": ["Odessa", "Rotterdam", "Tbilisi", "Pittsburgh", "Montevideo"]}
+{"subject": "The Bullitts", "object": "London", "taxonomy": ["Colchester", "Nagoya", "Mainz", "Madrid", "Rome"]}
+{"subject": "Koichi Ishii", "object": "Japan", "taxonomy": ["Colchester", "Carthage", "Tacoma", "Bremen", "Nicaragua"]}
+{"subject": "Qasim Amin", "object": "Alexandria", "taxonomy": ["Leipzig", "Dublin", "Istanbul", "Wigan", "Sudan"]}
+{"subject": "Mark Strong", "object": "London", "taxonomy": ["Blackburn", "Lamar", "Bangalore", "Angus", "Medina"]}
+{"subject": "Blaine Willenborg", "object": "Miami", "taxonomy": ["Luton", "Croatia", "Edinburgh", "Adelaide", "Honolulu"]}
+{"subject": "Edward I of England", "object": "Westminster", "taxonomy": ["Boston", "Chicago", "Salvador", "Melbourne", "Cincinnati"]}
+{"subject": "Martin Hannett", "object": "Manchester", "taxonomy": ["Rome", "Paisley", "Beirut", "Lamar", "Birmingham"]}
+{"subject": "Angela Bailey", "object": "Coventry", "taxonomy": ["Kiev", "Paisley", "Bologna", "Salvador", "Parsons"]}
+{"subject": "June Carroll", "object": "Detroit", "taxonomy": ["Baghdad", "Turin", "Bihar", "Riverside", "Karnataka"]}
+{"subject": "Lurrie Bell", "object": "Chicago", "taxonomy": ["Switzerland", "Sacramento", "Odessa", "Brooklyn", "Cardiff"]}
+{"subject": "Sybil", "object": "Paterson", "taxonomy": ["Manhattan", "Aleppo", "Denver", "Milwaukee", "Queensland"]}
+{"subject": "Ralph Day", "object": "Toronto", "taxonomy": ["Minneapolis", "Caracas", "Gothenburg", "Birmingham", "Bangor"]}
+{"subject": "Klaus Doldinger", "object": "Berlin", "taxonomy": ["Kingston", "Florida", "Amsterdam", "Mercedes", "Canada"]}
+{"subject": "Jesse Saunders", "object": "Chicago", "taxonomy": ["Budapest", "Helsinki", "Lancaster", "Luton", "Pittsburgh"]}
+{"subject": "Avraam Russo", "object": "Aleppo", "taxonomy": ["Weimar", "Dallas", "Cambodia", "Kolkata", "Kent"]}
+{"subject": "Lincoln Plumer", "object": "Maryland", "taxonomy": ["Bohemia", "Afghanistan", "Bologna", "Bordeaux", "Pasadena"]}
+{"subject": "George Perris", "object": "Athens", "taxonomy": ["Philadelphia", "Melbourne", "Tobago", "Darlington", "Pennsylvania"]}
+{"subject": "John Cheever", "object": "Quincy", "taxonomy": ["Detroit", "Genoa", "Florence", "Aleppo", "Barcelona"]}
+{"subject": "Michel Pablo", "object": "Alexandria", "taxonomy": ["Jakarta", "Blackburn", "Alexandra", "Sofia", "Salem"]}
+{"subject": "Clint Murchison, Jr.", "object": "Dallas", "taxonomy": ["Tampa", "Warwickshire", "Detroit", "Kent", "Nagoya"]}
+{"subject": "Marija Naumova", "object": "Riga", "taxonomy": ["Tampa", "Lincolnshire", "Gothenburg", "Shrewsbury", "Warwickshire"]}
+{"subject": "Charles Hampden-Turner", "object": "London", "taxonomy": ["Ljubljana", "Lamar", "Bucharest", "Maryland", "Atlanta"]}
+{"subject": "James Hargreaves", "object": "Blackburn", "taxonomy": ["Dallas", "Bangalore", "Sacramento", "Montreal", "Staffordshire"]}
+{"subject": "Clark Durant", "object": "Detroit", "taxonomy": ["Mercedes", "Salem", "Lamar", "Waterloo", "Tacoma"]}
+{"subject": "Shashikumar", "object": "Karnataka", "taxonomy": ["Guangzhou", "Vancouver", "Hollywood", "Belgrade", "Budapest"]}
+{"subject": "Nicholas Nixon", "object": "Detroit", "taxonomy": ["Como", "Staffordshire", "Nigeria", "Budapest", "Beijing"]}
+{"subject": "James Nabrit", "object": "Houston", "taxonomy": ["Lisbon", "Lamar", "Aleppo", "Palermo", "Lincoln"]}
+{"subject": "Elmar Wepper", "object": "Augsburg", "taxonomy": ["Taipei", "Armenia", "Mercedes", "Johannesburg", "Westminster"]}
+{"subject": "Gregorio Leti", "object": "Milan", "taxonomy": ["Sudan", "Raymond", "Queensland", "Aleppo", "Bristol"]}
+{"subject": "Quentin Bell", "object": "London", "taxonomy": ["Bucharest", "Germany", "Naples", "Fulham", "Hollywood"]}
+{"subject": "Margherita Buy", "object": "Rome", "taxonomy": ["Barcelona", "Jackson", "Athens", "Fleet", "Luxembourg"]}
+{"subject": "Kurupt", "object": "Philadelphia", "taxonomy": ["Bangkok", "Leeds", "Montgomery", "Ireland", "Kazan"]}
+{"subject": "Mink Stole", "object": "Baltimore", "taxonomy": ["Verona", "Karnataka", "Taipei", "Bristol", "Milwaukee"]}
+{"subject": "Lauren Woolstencroft", "object": "Calgary", "taxonomy": ["Shanghai", "Sacramento", "Philadelphia", "Rome", "Vernon"]}
+{"subject": "Alice Nahon", "object": "Antwerp", "taxonomy": ["Bangor", "Barcelona", "Tottenham", "Armenia", "Delhi"]}
+{"subject": "Leonard Hayflick", "object": "Philadelphia", "taxonomy": ["Karnataka", "Stuttgart", "Istanbul", "Pasadena", "Belgrade"]}
+{"subject": "John Vanderbank", "object": "London", "taxonomy": ["Florida", "Harlem", "Sacramento", "Bolton", "Jerusalem"]}
+{"subject": "Charles Henry Ross", "object": "London", "taxonomy": ["India", "Colchester", "Detroit", "Wolverhampton", "Porto"]}
+{"subject": "Lunice", "object": "Montreal", "taxonomy": ["Calgary", "Munich", "Greenwood", "Yerevan", "Brooklyn"]}
+{"subject": "Maerten de Vos", "object": "Antwerp", "taxonomy": ["Seoul", "Preston", "Yerevan", "Belfast", "Fleet"]}
+{"subject": "Marion Davies", "object": "Brooklyn", "taxonomy": ["Tacoma", "Odessa", "Leigh", "Hawaii", "Bremen"]}
+{"subject": "Mark Milbanke", "object": "Darlington", "taxonomy": ["Hope", "Queensland", "Leipzig", "Tehran", "Porto"]}
+{"subject": "Matija Gubec", "object": "Croatia", "taxonomy": ["Montgomery", "Italy", "Siena", "Rotterdam", "Sofia"]}
+{"subject": "Juan Felipe Herrera", "object": "Fowler", "taxonomy": ["Houston", "Cardiff", "Waterloo", "Ottawa", "Ireland"]}
+{"subject": "John Birnie Philip", "object": "London", "taxonomy": ["Tehran", "Tokyo", "Belgrade", "Bergen", "Montevideo"]}
+{"subject": "Scott Sorry", "object": "Philadelphia", "taxonomy": ["Salt", "Ljubljana", "Havana", "Riverside", "Kiev"]}
+{"subject": "John de Brito", "object": "Lisbon", "taxonomy": ["Warwickshire", "Montevideo", "Lincoln", "Albuquerque", "Bordeaux"]}
+{"subject": "Dante Rivera", "object": "Manhattan", "taxonomy": ["Manila", "Vancouver", "Taipei", "Hyderabad", "Montevideo"]}
+{"subject": "Christine Edzard", "object": "Paris", "taxonomy": ["Fleet", "Croydon", "Weimar", "Antwerp", "Bradford"]}
+{"subject": "Yto Barrada", "object": "Paris", "taxonomy": ["Lyon", "Santiago", "Columbia", "Detroit", "Calais"]}
+{"subject": "Andrea Ghidone", "object": "Montevideo", "taxonomy": ["Ukraine", "Nigeria", "Antwerp", "Paris", "Warwickshire"]}
+{"subject": "John Kindness", "object": "Belfast", "taxonomy": ["Basel", "Pennsylvania", "Bradford", "Seattle", "Greenwood"]}
+{"subject": "Kerry Hill", "object": "Perth", "taxonomy": ["Lebanon", "Plymouth", "Nottingham", "Bremen", "Yokohama"]}
+{"subject": "Moritz de Hadeln", "object": "Exeter", "taxonomy": ["Lancaster", "Seattle", "Dortmund", "Dundee", "Atlanta"]}
+{"subject": "Henry W. Moore", "object": "Detroit", "taxonomy": ["Cardiff", "Mecca", "Caracas", "Brighton", "Mumbai"]}
+{"subject": "William Nicholas Selig", "object": "Chicago", "taxonomy": ["Oldham", "Nice", "Newmarket", "Sheffield", "Bohemia"]}
+{"subject": "Brett Ralph", "object": "Raymond", "taxonomy": ["Luton", "Leigh", "Syracuse", "Luxembourg", "Hollywood"]}
+{"subject": "Eucherius of Lyon", "object": "Lyon", "taxonomy": ["Guangdong", "Nottingham", "France", "Montreal", "Fleet"]}
+{"subject": "Benny Carter", "object": "Harlem", "taxonomy": ["Bangalore", "Toronto", "Baltimore", "Alexandra", "Ghent"]}
+{"subject": "Jim Daley", "object": "Ottawa", "taxonomy": ["Havana", "Basel", "Copenhagen", "Palermo", "Florence"]}
+{"subject": "Willebrord Snellius", "object": "Leiden", "taxonomy": ["London", "Verona", "Naples", "Cleveland", "Lincolnshire"]}
+{"subject": "Micah Solusod", "object": "Hawaii", "taxonomy": ["Jerusalem", "Edmonton", "Kingston", "Montevideo", "Columbia"]}
+{"subject": "Michael Balcon", "object": "Birmingham", "taxonomy": ["Venice", "Constantinople", "Salvador", "Mecca", "Israel"]}
+{"subject": "Pierre Macquer", "object": "Paris", "taxonomy": ["Warsaw", "Shanghai", "Como", "Luton", "Ipswich"]}
+{"subject": "Achille Campanile", "object": "Rome", "taxonomy": ["Scotland", "Bordeaux", "Dresden", "Colombo", "Lebanon"]}
+{"subject": "Eavan Boland", "object": "Dublin", "taxonomy": ["Florence", "Ponce", "Wolverhampton", "Nebraska", "Edinburgh"]}
+{"subject": "Amos T. Akerman", "object": "Portsmouth", "taxonomy": ["Bree", "Plymouth", "Wigan", "Lincolnshire", "Santiago"]}
+{"subject": "Jim Leverton", "object": "Dover", "taxonomy": ["Toronto", "Moscow", "Christchurch", "India", "Spain"]}
+{"subject": "Mike Schwartz", "object": "Boston", "taxonomy": ["Chennai", "Karachi", "Angeles", "Lawrence", "Bremen"]}
+{"subject": "Andy Cox", "object": "Birmingham", "taxonomy": ["Bologna", "Lisbon", "Scotland", "Houston", "Palermo"]}
+{"subject": "Henry Benedict Stuart", "object": "Rome", "taxonomy": ["Caracas", "Clinton", "Mercedes", "Moscow", "Nice"]}
+{"subject": "Graham McRae", "object": "Wellington", "taxonomy": ["Montreal", "Riga", "Venice", "Edinburgh", "Coventry"]}
+{"subject": "Virgil Widrich", "object": "Salzburg", "taxonomy": ["Brunswick", "Bratislava", "Seattle", "Greenwood", "Dresden"]}
+{"subject": "Brad Fraser", "object": "Edmonton", "taxonomy": ["Bari", "Coventry", "Stafford", "Harlem", "Belfast"]}
+{"subject": "Jerzy Ficowski", "object": "Warsaw", "taxonomy": ["Wilson", "Pasadena", "Bologna", "Dresden", "Como"]}
+{"subject": "Peter Bonerz", "object": "Portsmouth", "taxonomy": ["Lincoln", "Tbilisi", "Riga", "Angus", "Essex"]}
+{"subject": "Christina Dieckmann", "object": "Caracas", "taxonomy": ["Columbia", "Mainz", "Augsburg", "Kazan", "Lille"]}
+{"subject": "Joe Jamail", "object": "Houston", "taxonomy": ["Chichester", "Yorkshire", "Beirut", "Gothenburg", "Jamaica"]}
+{"subject": "Faisal Khan", "object": "Mumbai", "taxonomy": ["Sacramento", "Naples", "Maryland", "Yorkshire", "Helsinki"]}
+{"subject": "Michel Longtin", "object": "Montreal", "taxonomy": ["Camden", "Gary", "Edinburgh", "Bordeaux", "Japan"]}
+{"subject": "Thomas Overbury", "object": "Warwickshire", "taxonomy": ["Plymouth", "Belfast", "Rome", "Jasper", "Johannesburg"]}
+{"subject": "Herbert Callen", "object": "Philadelphia", "taxonomy": ["Israel", "Santiago", "Japan", "Southampton", "Germany"]}
+{"subject": "Ira Allen", "object": "Cornwall", "taxonomy": ["Lisbon", "Lahore", "Southampton", "Florence", "Springfield"]}
+{"subject": "Hiram Abas", "object": "Istanbul", "taxonomy": ["Paterson", "Tottenham", "Detroit", "Cambodia", "Ghent"]}
+{"subject": "Lorraine O'Grady", "object": "Boston", "taxonomy": ["Kensington", "Auckland", "Leiden", "Rome", "Guangdong"]}
+{"subject": "Joseph Clay", "object": "Philadelphia", "taxonomy": ["Ghent", "Burlington", "Harlem", "Devon", "Santiago"]}
+{"subject": "Cory Bernardi", "object": "Adelaide", "taxonomy": ["Beijing", "Montevideo", "Belgrade", "Morocco", "Southampton"]}
+{"subject": "Ivana Peters", "object": "Belgrade", "taxonomy": ["Tobago", "Devon", "Ljubljana", "Riverside", "Como"]}
+{"subject": "Franco Mannino", "object": "Palermo", "taxonomy": ["Tokyo", "Prague", "Nairobi", "Cebu", "Rutherford"]}
+{"subject": "Elias Hasket Derby", "object": "Salem", "taxonomy": ["Bucharest", "Fowler", "Springfield", "Porto", "Guangdong"]}
+{"subject": "Tom Atkins", "object": "Pittsburgh", "taxonomy": ["Hope", "Nigeria", "Baku", "Blackpool", "Rotterdam"]}
+{"subject": "Aleksandrs Samoilovs", "object": "Riga", "taxonomy": ["Vienna", "Lafayette", "Exeter", "Wales", "California"]}
+{"subject": "Vic Sotto", "object": "Manila", "taxonomy": ["Singapore", "Kent", "Taipei", "Leigh", "Detroit"]}
+{"subject": "Emanuel Larsen", "object": "Copenhagen", "taxonomy": ["Kent", "Waterloo", "Blackpool", "Denver", "Wilmington"]}
+{"subject": "Pat Chan", "object": "Singapore", "taxonomy": ["Brooklyn", "Iowa", "Burlington", "Oldham", "Armenia"]}
+{"subject": "Jourdan Miller", "object": "Bend", "taxonomy": ["Lahore", "Denver", "Salvador", "Pennsylvania", "Ottawa"]}
+{"subject": "Farinelli", "object": "Naples", "taxonomy": ["Oldham", "London", "Fowler", "Beirut", "Manhattan"]}
+{"subject": "Miyuki Sawashiro", "object": "Tokyo", "taxonomy": ["Blackpool", "Santiago", "Wilson", "Alexandra", "Brooklyn"]}
+{"subject": "Ethel Griffies", "object": "Sheffield", "taxonomy": ["Monroe", "Lithuania", "Kyrgyzstan", "Chennai", "Stamford"]}
+{"subject": "Emilia Rydberg", "object": "Stockholm", "taxonomy": ["Heidelberg", "Kolkata", "Halifax", "Metz", "Hamburg"]}
+{"subject": "Phyllis Lambert", "object": "Montreal", "taxonomy": ["Baltimore", "Helsinki", "Luxembourg", "Wilmington", "Stockholm"]}
+{"subject": "Joel Ross", "object": "Scarborough", "taxonomy": ["Armenia", "Switzerland", "Germany", "Denver", "Bergen"]}
+{"subject": "Charles Montague Cooke, Jr.", "object": "Honolulu", "taxonomy": ["Geneva", "Montreal", "Ipswich", "Pittsburgh", "Frankfurt"]}
+{"subject": "Johannes R. Becher", "object": "Munich", "taxonomy": ["Blackpool", "Auckland", "Shanghai", "Kota", "Riverside"]}
+{"subject": "Llewellyn Vaughan-Lee", "object": "London", "taxonomy": ["Thailand", "Derby", "Blackpool", "Yorkshire", "Bucharest"]}
+{"subject": "Maggie Greenwald", "object": "Manhattan", "taxonomy": ["Rutherford", "Spain", "Shanghai", "Tobago", "Baku"]}
+{"subject": "William Hayley", "object": "Chichester", "taxonomy": ["Denmark", "Dublin", "Christchurch", "Turin", "Tours"]}
+{"subject": "Norina Matchabelli", "object": "Florence", "taxonomy": ["Norfolk", "Turin", "Cornwall", "Tbilisi", "Blackburn"]}
+{"subject": "Eijaz Khan", "object": "Hyderabad", "taxonomy": ["Paterson", "Ghent", "Stamford", "Derby", "Mumbai"]}
+{"subject": "Bill Fontana", "object": "Cleveland", "taxonomy": ["Staffordshire", "Yerevan", "Vienna", "Fleet", "Constantinople"]}
+{"subject": "Ted Robert Gurr", "object": "Spokane", "taxonomy": ["Monroe", "India", "Lund", "Bolton", "Calais"]}
+{"subject": "Andrea Alciato", "object": "Milan", "taxonomy": ["Lithuania", "Preston", "Weimar", "Sarajevo", "Mercedes"]}
+{"subject": "The Weeknd", "object": "Toronto", "taxonomy": ["Edinburgh", "Greenwood", "Pittsburgh", "Kensington", "Kent"]}
+{"subject": "Kevin Seconds", "object": "Sacramento", "taxonomy": ["Nicaragua", "Verona", "Christchurch", "Cincinnati", "India"]}
+{"subject": "Bartolomeo Coriolano", "object": "Bologna", "taxonomy": ["Genoa", "Exeter", "Germany", "France", "Detroit"]}
+{"subject": "Ariel Behar", "object": "Montevideo", "taxonomy": ["Pittsburgh", "Caracas", "Riga", "Norwich", "Penang"]}
+{"subject": "Ken Follett", "object": "Cardiff", "taxonomy": ["Colombo", "Shanghai", "Westminster", "Birmingham", "Norway"]}
+{"subject": "Benito Perojo", "object": "Madrid", "taxonomy": ["Nicaragua", "Sydney", "Valencia", "Oslo", "Marshall"]}
+{"subject": "Hiroki Moriya", "object": "Tokyo", "taxonomy": ["Istanbul", "Lawrence", "Bihar", "Spain", "Camden"]}
+{"subject": "Theodore Wilbur Anderson", "object": "Minneapolis", "taxonomy": ["Greenwood", "Kabul", "Ghent", "Como", "Riga"]}
+{"subject": "Denny Hamlin", "object": "Tampa", "taxonomy": ["Lahore", "Springfield", "Metz", "Bihar", "Essex"]}
+{"subject": "DJ Format", "object": "Southampton", "taxonomy": ["Lille", "Angeles", "Angus", "Lund", "Caracas"]}
+{"subject": "Biff Wellington", "object": "Calgary", "taxonomy": ["Warsaw", "Normandy", "Fleet", "Angus", "Waterloo"]}
+{"subject": "Alexander Zonjic", "object": "Windsor", "taxonomy": ["Guangdong", "Raymond", "Seattle", "Shrewsbury", "Frankfurt"]}
+{"subject": "Arman", "object": "Nice", "taxonomy": ["Prague", "Amsterdam", "Helsinki", "Vancouver", "Camden"]}
+{"subject": "Betsey Cushing Roosevelt Whitney", "object": "Baltimore", "taxonomy": ["Constantinople", "Marseille", "Leeds", "Frankfurt", "Maryland"]}
+{"subject": "Hugh McMeniman", "object": "Brisbane", "taxonomy": ["Mercedes", "Wolverhampton", "Kazan", "Tehran", "Rome"]}
+{"subject": "Claude-Thomas Dupuy", "object": "Paris", "taxonomy": ["Mecca", "Riverside", "Halifax", "Turin", "Budapest"]}
+{"subject": "August von Pelzeln", "object": "Prague", "taxonomy": ["Egypt", "Yorkshire", "Alexandria", "India", "Manila"]}
+{"subject": "Larry King", "object": "Brooklyn", "taxonomy": ["Houston", "Bristol", "Marshall", "Oslo", "Yerevan"]}
+{"subject": "Ignacio Carrera Pinto", "object": "Santiago", "taxonomy": ["Philadelphia", "Cincinnati", "Bend", "Riverside", "Bangalore"]}
+{"subject": "John of Genoa", "object": "Genoa", "taxonomy": ["Jasper", "Kazan", "Metz", "Medina", "Jakarta"]}
+{"subject": "Justa and Rufina", "object": "Seville", "taxonomy": ["Mercedes", "Denmark", "Adelaide", "Scotland", "Tacoma"]}
+{"subject": "Michael Ballhaus", "object": "Berlin", "taxonomy": ["Harlem", "Sheffield", "Bihar", "Dundee", "Hope"]}
+{"subject": "Thomas Robinson, 1st Baron Grantham", "object": "Yorkshire", "taxonomy": ["Wolverhampton", "Nagoya", "Palermo", "Yokohama", "Israel"]}
+{"subject": "Dietrich Brandis", "object": "Bonn", "taxonomy": ["Pasadena", "Cardiff", "Tbilisi", "Delhi", "Mainz"]}
+{"subject": "Ross Douglas", "object": "Canada", "taxonomy": ["Cologne", "Sacramento", "Camden", "Bologna", "Constantinople"]}
+{"subject": "Peter Mark Roget", "object": "London", "taxonomy": ["Oslo", "Wilmington", "Ottawa", "Sofia", "Madrid"]}
+{"subject": "Robbie Merrill", "object": "Lawrence", "taxonomy": ["Kyrgyzstan", "Normandy", "Sussex", "Jasper", "Rutherford"]}
+{"subject": "Malcolm Martineau", "object": "Edinburgh", "taxonomy": ["Dresden", "Spokane", "Nottingham", "Basel", "Kazan"]}
+{"subject": "Phil Upchurch", "object": "Chicago", "taxonomy": ["Colombo", "Riverside", "Albuquerque", "Cambodia", "Leiden"]}
+{"subject": "Eli Maor", "object": "Israel", "taxonomy": ["Manila", "Cambodia", "Denmark", "Egypt", "Cornwall"]}
+{"subject": "Natalia Shakhovskaya", "object": "Moscow", "taxonomy": ["Salem", "Columbia", "Montevideo", "Ottawa", "Switzerland"]}
+{"subject": "Jason French", "object": "Montreal", "taxonomy": ["Tbilisi", "Pasadena", "Bucharest", "Glasgow", "Egypt"]}
+{"subject": "Tomy Drissi", "object": "Hollywood", "taxonomy": ["Lincolnshire", "Nebraska", "Havana", "Wigan", "Jackson"]}
+{"subject": "Samir Naqqash", "object": "Baghdad", "taxonomy": ["Clinton", "Cincinnati", "Angeles", "Nigeria", "Minneapolis"]}
+{"subject": "Curtis Jobling", "object": "Blackpool", "taxonomy": ["Lawrence", "Shrewsbury", "Leipzig", "Virginia", "Kazan"]}
+{"subject": "Burt Green Wilder", "object": "Boston", "taxonomy": ["Kazan", "Norfolk", "Spokane", "Cornwall", "Hope"]}
+{"subject": "Eddie Locke", "object": "Detroit", "taxonomy": ["Helsinki", "Pasadena", "Kazan", "Wigan", "Mainz"]}
+{"subject": "William Goldsmith", "object": "Seattle", "taxonomy": ["Tehran", "Guangdong", "Thailand", "Rutherford", "Ireland"]}
+{"subject": "Sergey Lazarev", "object": "Moscow", "taxonomy": ["Perth", "France", "Blackpool", "Kazan", "Christchurch"]}
+{"subject": "Abd el-Ouahed ben Messaoud", "object": "Morocco", "taxonomy": ["Cardiff", "Cebu", "Milan", "Houston", "Genoa"]}
+{"subject": "Graham Fellows", "object": "Sheffield", "taxonomy": ["Raymond", "Georgetown", "Manhattan", "Venice", "Mobile"]}
+{"subject": "Yona Friedman", "object": "Budapest", "taxonomy": ["Kingston", "Mumbai", "Devon", "Oslo", "Waterloo"]}
+{"subject": "Adela of Normandy", "object": "Normandy", "taxonomy": ["Medina", "Lincolnshire", "Pennsylvania", "Blackpool", "Riverside"]}
+{"subject": "Zhou Long", "object": "Beijing", "taxonomy": ["Mobile", "Parsons", "Bristol", "Nottingham", "Halifax"]}
+{"subject": "Jackie Wilson", "object": "Detroit", "taxonomy": ["Florence", "Bari", "Hollywood", "Ljubljana", "Mumbai"]}
+{"subject": "Giuseppe Siri", "object": "Genoa", "taxonomy": ["Springfield", "Spokane", "Kota", "Rome", "Bree"]}
+{"subject": "Ge You", "object": "Beijing", "taxonomy": ["Sussex", "Sydney", "Hope", "Frankfurt", "Nairobi"]}
+{"subject": "Kazuo Nakamura", "object": "Vancouver", "taxonomy": ["Carthage", "Sheffield", "Winnipeg", "Heidelberg", "Leeds"]}
+{"subject": "Rudolf Loman", "object": "Amsterdam", "taxonomy": ["Bologna", "Parsons", "Helsinki", "Stamford", "Vienna"]}
+{"subject": "Jane Siberry", "object": "Toronto", "taxonomy": ["Bratislava", "Mercedes", "Calais", "Queensland", "Colchester"]}
+{"subject": "Paul Desjardins", "object": "Ottawa", "taxonomy": ["Prague", "Wellington", "Lafayette", "Johannesburg", "Helsinki"]}
+{"subject": "Wattie Buchan", "object": "Edinburgh", "taxonomy": ["Cornwall", "Tampa", "Wigan", "Stafford", "Blackburn"]}
+{"subject": "Charlotte Gordon Cumming", "object": "Scotland", "taxonomy": ["Hamburg", "Bordeaux", "Beijing", "Antwerp", "Sheffield"]}
+{"subject": "Henry Van de Velde", "object": "Antwerp", "taxonomy": ["Leeds", "Wigan", "Colombo", "Pittsburgh", "Constantinople"]}
+{"subject": "Doreen Kimura", "object": "Winnipeg", "taxonomy": ["Norfolk", "Kensington", "Paterson", "Bergen", "Cincinnati"]}
+{"subject": "Walter Branscombe", "object": "Exeter", "taxonomy": ["Taipei", "Darlington", "Antwerp", "Athens", "Windsor"]}
+{"subject": "Divyadarshini", "object": "Chennai", "taxonomy": ["Sacramento", "Guangzhou", "Parsons", "Clinton", "Kiev"]}
+{"subject": "Nicolas Bergasse", "object": "Lyon", "taxonomy": ["Edmonton", "Exeter", "Spain", "Raymond", "Rotterdam"]}
+{"subject": "Julia of Corsica", "object": "Carthage", "taxonomy": ["Mumbai", "Spokane", "Springfield", "Wellington", "Afghanistan"]}
+{"subject": "Philippe de Broca", "object": "Paris", "taxonomy": ["California", "Georgetown", "Luxembourg", "Baku", "Edinburgh"]}
+{"subject": "Carlo Porta", "object": "Milan", "taxonomy": ["Yorkshire", "Jerusalem", "Perth", "Naples", "Honolulu"]}
+{"subject": "Florea Dumitrache", "object": "Bucharest", "taxonomy": ["Egypt", "Oldham", "Pittsburgh", "Gary", "Hope"]}
+{"subject": "Derick Ogbu", "object": "Nigeria", "taxonomy": ["Bangkok", "Wisconsin", "Wales", "Belfast", "Gap"]}
+{"subject": "Alexios II Komnenos", "object": "Constantinople", "taxonomy": ["Angeles", "Manila", "Bohemia", "Jackson", "Luxembourg"]}
+{"subject": "Roger Chartier", "object": "Lyon", "taxonomy": ["Bologna", "Cambodia", "Edinburgh", "Lahore", "Valencia"]}
+{"subject": "Josh Eppard", "object": "Kingston", "taxonomy": ["Dortmund", "Egypt", "Minsk", "Guangzhou", "Beirut"]}
+{"subject": "Pasquale Squitieri", "object": "Naples", "taxonomy": ["Madrid", "Miami", "Mainz", "Waterloo", "Houston"]}
+{"subject": "Emma Pask", "object": "Sydney", "taxonomy": ["Thailand", "Barbados", "Basel", "Karachi", "Bangalore"]}
+{"subject": "Davin Bush", "object": "Miami", "taxonomy": ["Brooklyn", "Cebu", "Frankfurt", "Minneapolis", "Ghent"]}
+{"subject": "John Thomas Scharf", "object": "Baltimore", "taxonomy": ["Bratislava", "Barcelona", "Cologne", "Hawaii", "Normandy"]}
+{"subject": "Otto Orseolo", "object": "Venice", "taxonomy": ["Paterson", "Denmark", "Atlanta", "Leipzig", "Nebraska"]}
+{"subject": "Simon Pullman", "object": "Warsaw", "taxonomy": ["Bangor", "Bonn", "Calgary", "Afghanistan", "Gothenburg"]}
+{"subject": "Abigail Masham, Baroness Masham", "object": "London", "taxonomy": ["Melbourne", "Antwerp", "Santiago", "Adelaide", "Kiev"]}
+{"subject": "Agner Krarup Erlang", "object": "Denmark", "taxonomy": ["Ghent", "Odessa", "Tallinn", "Montgomery", "Manhattan"]}
+{"subject": "Olia Lialina", "object": "Moscow", "taxonomy": ["Siena", "India", "Montevideo", "Baltimore", "Perth"]}
+{"subject": "Romain Barras", "object": "Calais", "taxonomy": ["Ponce", "Mainz", "Dover", "Wolverhampton", "Ukraine"]}
+{"subject": "Thomas Molnar", "object": "Budapest", "taxonomy": ["Newmarket", "Brighton", "Mercedes", "Vienna", "Colchester"]}
+{"subject": "Nacho Duato", "object": "Valencia", "taxonomy": ["Westminster", "Preston", "Tehran", "Blackpool", "Canada"]}
+{"subject": "Arthur Harden", "object": "Manchester", "taxonomy": ["Penang", "Calgary", "Jerusalem", "Lille", "Croydon"]}
+{"subject": "Wilfrid Pelletier", "object": "Montreal", "taxonomy": ["Jerusalem", "Istanbul", "Palermo", "Milan", "Mobile"]}
+{"subject": "Hajime Mizoguchi", "object": "Tokyo", "taxonomy": ["Guangdong", "Sacramento", "Geneva", "Bordeaux", "Karnataka"]}
+{"subject": "Fernando Morena", "object": "Montevideo", "taxonomy": ["Florence", "Leiden", "Ukraine", "Colchester", "Hope"]}
+{"subject": "Karl Ferdinand von Graefe", "object": "Warsaw", "taxonomy": ["Stockholm", "Lithuania", "Nebraska", "Albuquerque", "California"]}
+{"subject": "George Souders", "object": "Lafayette", "taxonomy": ["Johannesburg", "Kingston", "Ghent", "Lawrence", "Derby"]}
+{"subject": "Martina Miceli", "object": "Rome", "taxonomy": ["Shanghai", "Naples", "Basel", "California", "London"]}
+{"subject": "Heide Simonis", "object": "Bonn", "taxonomy": ["Cambodia", "Gary", "Switzerland", "Copenhagen", "Doncaster"]}
+{"subject": "Stef Penney", "object": "Edinburgh", "taxonomy": ["Geneva", "Budapest", "Cleveland", "France", "Baghdad"]}
+{"subject": "Alexander Ivanovich Herzen", "object": "Moscow", "taxonomy": ["Augsburg", "Bonn", "Bucharest", "Ajax", "Mobile"]}
+{"subject": "Dez Dickerson", "object": "Minneapolis", "taxonomy": ["Albuquerque", "Southampton", "Stamford", "Blackburn", "Stuttgart"]}
+{"subject": "Denise Klecker", "object": "Mainz", "taxonomy": ["Bangor", "Sydney", "Verona", "Dundee", "Staffordshire"]}
+{"subject": "Mark Johnston-Allen", "object": "Bristol", "taxonomy": ["Ghent", "Suffolk", "Shrewsbury", "Croydon", "Calais"]}
+{"subject": "Mufi Hannemann", "object": "Honolulu", "taxonomy": ["Brunswick", "Windsor", "Derby", "Bangalore", "Minneapolis"]}
+{"subject": "Eric Gill", "object": "Brighton", "taxonomy": ["Turin", "Lawrence", "Basel", "Dover", "Morocco"]}
+{"subject": "Henri Estienne", "object": "Paris", "taxonomy": ["Camden", "Marshall", "Norfolk", "Winnipeg", "Dortmund"]}
+{"subject": "Eric VI of Denmark", "object": "Denmark", "taxonomy": ["Odessa", "Boston", "Jerusalem", "Kota", "Como"]}
+{"subject": "Albert I, Duke of Bavaria", "object": "Munich", "taxonomy": ["Montgomery", "Nebraska", "Salem", "Virginia", "Monroe"]}
+{"subject": "Priit Tomson", "object": "Tallinn", "taxonomy": ["Harlem", "Chichester", "Coventry", "Nairobi", "Beijing"]}
+{"subject": "DJ Die", "object": "Devon", "taxonomy": ["Caracas", "Lincoln", "Bolton", "Norfolk", "Kyrgyzstan"]}
+{"subject": "Georgi Asparuhov", "object": "Sofia", "taxonomy": ["Bremen", "Croatia", "Helsinki", "Como", "Stockholm"]}
+{"subject": "Anchee Min", "object": "Shanghai", "taxonomy": ["Bucharest", "Mumbai", "Monroe", "Hamilton", "Stockholm"]}
+{"subject": "Kang Ji-hwan", "object": "Seoul", "taxonomy": ["Colombo", "Utrecht", "Porto", "Mumbai", "Stuttgart"]}
+{"subject": "Iain Stirling", "object": "Edinburgh", "taxonomy": ["Frankfurt", "Bangalore", "Turin", "Riverside", "Genoa"]}
+{"subject": "Jus Allah", "object": "Camden", "taxonomy": ["Sofia", "Lund", "Edmonton", "Albuquerque", "Salt"]}
+{"subject": "Sheila Dixon", "object": "Baltimore", "taxonomy": ["Fleet", "Leiden", "Moscow", "Darlington", "Winnipeg"]}
+{"subject": "Erik Lindahl", "object": "Stockholm", "taxonomy": ["Ireland", "Sussex", "Cardiff", "Salem", "Mobile"]}
+{"subject": "Marquis de Sade", "object": "Paris", "taxonomy": ["Parsons", "Kazan", "Southampton", "Ipswich", "Santiago"]}
+{"subject": "Mastino II della Scala", "object": "Verona", "taxonomy": ["Brunswick", "Wilmington", "Thailand", "Seattle", "Coventry"]}
+{"subject": "Fyodor Ivanovich Shalyapin", "object": "Kazan", "taxonomy": ["Fulham", "Ponce", "Vienna", "Virginia", "Nicaragua"]}
+{"subject": "Nino Taranto", "object": "Naples", "taxonomy": ["Philadelphia", "Vienna", "Toronto", "Dover", "Gary"]}
+{"subject": "Zhang Ziyi", "object": "Beijing", "taxonomy": ["Odessa", "Guangdong", "Auckland", "Virginia", "Verona"]}
+{"subject": "Helen Dallimore", "object": "Melbourne", "taxonomy": ["Cincinnati", "Doncaster", "Bradford", "Odessa", "Vancouver"]}
+{"subject": "Johann Moritz Rugendas", "object": "Augsburg", "taxonomy": ["Minneapolis", "Naples", "Afghanistan", "Jamaica", "Westminster"]}
+{"subject": "Roy Orbison", "object": "Vernon", "taxonomy": ["Suffolk", "Florida", "Tampa", "Ponce", "Milan"]}
+{"subject": "Johannes Oporinus", "object": "Basel", "taxonomy": ["Nebraska", "Camden", "Lithuania", "Nottingham", "Ireland"]}
+{"subject": "Carl Gyllenborg", "object": "Stockholm", "taxonomy": ["Chicago", "Bend", "Riga", "Kyrgyzstan", "Toronto"]}
+{"subject": "Sylvain Chauveau", "object": "France", "taxonomy": ["Bohemia", "Helsinki", "Yorkshire", "Nigeria", "Toronto"]}
+{"subject": "Andrew Ilie", "object": "Bucharest", "taxonomy": ["Constantinople", "Jakarta", "Preston", "Copenhagen", "Alexandria"]}
+{"subject": "Kimberley Cooper", "object": "Sydney", "taxonomy": ["Pennsylvania", "Penang", "Rotterdam", "Beijing", "Aleppo"]}
+{"subject": "Thomas Palaiologos", "object": "Constantinople", "taxonomy": ["Hawaii", "Marseille", "Barcelona", "Spokane", "Dundee"]}
+{"subject": "Nikolaus Poda von Neuhaus", "object": "Vienna", "taxonomy": ["Guangdong", "Tehran", "Odessa", "Basel", "Shrewsbury"]}
+{"subject": "Francesco Balducci Pegolotti", "object": "Florence", "taxonomy": ["Wigan", "Kolkata", "Gothenburg", "Detroit", "Tbilisi"]}
+{"subject": "Joe Venuti", "object": "Philadelphia", "taxonomy": ["Siena", "India", "Jerusalem", "Germany", "Fleet"]}
+{"subject": "Wendy Jans", "object": "Bree", "taxonomy": ["Jasper", "Calais", "Valencia", "Croydon", "Sydney"]}
+{"subject": "Malinda Warnapura", "object": "Colombo", "taxonomy": ["Moscow", "Hamburg", "Tbilisi", "Riverside", "Lawrence"]}
+{"subject": "Nicolas Gigault", "object": "Paris", "taxonomy": ["Manila", "Colchester", "Antwerp", "Norfolk", "Exeter"]}
+{"subject": "Gerald Graff", "object": "Chicago", "taxonomy": ["Angus", "Vienna", "Ghent", "Egypt", "Rotterdam"]}
+{"subject": "Robert Demachy", "object": "Paris", "taxonomy": ["Camden", "Medina", "Boston", "Havana", "Wellington"]}
+{"subject": "Melanie Durrant", "object": "Toronto", "taxonomy": ["Parsons", "Strasbourg", "Palermo", "Prague", "Siena"]}
+{"subject": "Brendan Croker", "object": "Bradford", "taxonomy": ["Alexandria", "Shrewsbury", "Angeles", "Coventry", "Frankfurt"]}
+{"subject": "T. Claude Ryan", "object": "Parsons", "taxonomy": ["Ipswich", "Brunswick", "Hamburg", "Hope", "Rotterdam"]}
+{"subject": "Junichi Suwabe", "object": "Tokyo", "taxonomy": ["Delhi", "Japan", "Wellington", "Rome", "Nagoya"]}
+{"subject": "Riona Hazuki", "object": "Tokyo", "taxonomy": ["Greenwood", "Madrid", "Lebanon", "Amsterdam", "Pasadena"]}
+{"subject": "Rocky Balboa", "object": "Philadelphia", "taxonomy": ["Sacramento", "Springfield", "Fleet", "Pittsburgh", "Minneapolis"]}
+{"subject": "Almeida Garrett", "object": "Porto", "taxonomy": ["Dortmund", "France", "Sheffield", "Cebu", "Guangzhou"]}
+{"subject": "Ernest Cormier", "object": "Montreal", "taxonomy": ["Alexandria", "Tobago", "Luton", "Barbados", "Vernon"]}
+{"subject": "Simon Louvish", "object": "Glasgow", "taxonomy": ["Bangkok", "Florida", "Florence", "Odessa", "Sydney"]}
+{"subject": "Alexander Cochrane", "object": "Scotland", "taxonomy": ["Nagoya", "Albuquerque", "Sydney", "Maryland", "Harlem"]}
+{"subject": "Chris Cheney", "object": "Melbourne", "taxonomy": ["Yorkshire", "Baku", "Egypt", "Hamilton", "Norfolk"]}
+{"subject": "Joseph Babinski", "object": "Paris", "taxonomy": ["Salt", "Colchester", "Mumbai", "Nebraska", "Rotterdam"]}
+{"subject": "Bernard Cornwell", "object": "London", "taxonomy": ["Jerusalem", "Dresden", "Yokohama", "Vancouver", "Tottenham"]}
+{"subject": "Francesco Castellacci", "object": "Rome", "taxonomy": ["Colombo", "Jackson", "Egypt", "Seville", "Hope"]}
+{"subject": "Mehdi Hosseini", "object": "Tehran", "taxonomy": ["Calgary", "Caracas", "Lund", "Shrewsbury", "Leeds"]}
+{"subject": "James Forten", "object": "Philadelphia", "taxonomy": ["Dublin", "Salt", "Bihar", "Lithuania", "Jackson"]}
+{"subject": "Kim Vithana", "object": "Nottingham", "taxonomy": ["Cardiff", "Bohemia", "Copenhagen", "Manchester", "Honolulu"]}
+{"subject": "Nicky Ryan", "object": "Dublin", "taxonomy": ["Denmark", "Canada", "Sydney", "Guangzhou", "Windsor"]}
+{"subject": "Lala Shevket", "object": "Baku", "taxonomy": ["Riga", "Lithuania", "Halifax", "Rotterdam", "Kiev"]}
+{"subject": "Melik Brown", "object": "Camden", "taxonomy": ["Amsterdam", "Rome", "Albuquerque", "Bree", "Tampa"]}
+{"subject": "John V of Portugal", "object": "Lisbon", "taxonomy": ["Melbourne", "Ireland", "Karachi", "Moscow", "Nottingham"]}
+{"subject": "Edward Matthew Ward", "object": "London", "taxonomy": ["Chichester", "Milwaukee", "Luton", "Perth", "Essex"]}
+{"subject": "Lord Edward Gleichen", "object": "London", "taxonomy": ["Montevideo", "Raymond", "Cologne", "Sudan", "Bonn"]}
+{"subject": "Jon Elster", "object": "Oslo", "taxonomy": ["Edmonton", "Prague", "Cleveland", "Luton", "Leiden"]}
+{"subject": "Anastasia Grymalska", "object": "Kiev", "taxonomy": ["Ireland", "Angeles", "Oslo", "Chicago", "Yerevan"]}
+{"subject": "Shane Lavalette", "object": "Burlington", "taxonomy": ["Norfolk", "Normandy", "Norwich", "Perth", "Amsterdam"]}
+{"subject": "Konrad Adenauer", "object": "Cologne", "taxonomy": ["Armenia", "Sydney", "Dallas", "Gothenburg", "Atlanta"]}
+{"subject": "Ferdinand de Saussure", "object": "Geneva", "taxonomy": ["Detroit", "Thailand", "Oslo", "Marseille", "Nice"]}
+{"subject": "Kalyan Kumar", "object": "Bangalore", "taxonomy": ["Utrecht", "Philadelphia", "Winnipeg", "Florence", "Hawaii"]}
+{"subject": "Monica Anghel", "object": "Bucharest", "taxonomy": ["Cologne", "Warsaw", "Miami", "Bari", "Sofia"]}
+{"subject": "Te Wei", "object": "Shanghai", "taxonomy": ["Lisbon", "Constantinople", "Cologne", "Germany", "Boston"]}
+{"subject": "Derrick Gardner", "object": "Chicago", "taxonomy": ["Dover", "Aleppo", "Pasadena", "Parsons", "Lille"]}
+{"subject": "Miles Fitzalan-Howard, 17th Duke of Norfolk", "object": "London", "taxonomy": ["Lithuania", "Wellington", "Hope", "Fowler", "Tobago"]}
+{"subject": "Nick Laird-Clowes", "object": "London", "taxonomy": ["Denver", "Calgary", "Bolton", "Harlem", "Athens"]}
+{"subject": "Tim Mitchell", "object": "Detroit", "taxonomy": ["Scotland", "Marshall", "Switzerland", "Croatia", "Karnataka"]}
+{"subject": "Dunya Mikhail", "object": "Baghdad", "taxonomy": ["Bangkok", "Burlington", "Penang", "Hamilton", "Boston"]}
+{"subject": "Maria Altmann", "object": "Vienna", "taxonomy": ["Tokyo", "Preston", "Angus", "Riverside", "Marseille"]}
+{"subject": "Tatev Abrahamyan", "object": "Yerevan", "taxonomy": ["Newmarket", "Waterloo", "Kiev", "Adelaide", "Belfast"]}
+{"subject": "Yaropolk I of Kiev", "object": "Kiev", "taxonomy": ["Cornwall", "Beirut", "Penang", "Vancouver", "Tobago"]}
+{"subject": "Sonja Biserko", "object": "Belgrade", "taxonomy": ["Mercedes", "Cincinnati", "Minneapolis", "Karnataka", "Venice"]}
+{"subject": "Wolfgang Plagge", "object": "Oslo", "taxonomy": ["Tacoma", "Carthage", "Jasper", "Prague", "Bonn"]}
+{"subject": "Clive Myrie", "object": "Bolton", "taxonomy": ["Fowler", "Madagascar", "Gothenburg", "Ireland", "Israel"]}
+{"subject": "Guido Crepax", "object": "Milan", "taxonomy": ["Hope", "Derby", "Tours", "Caracas", "Atlanta"]}
+{"subject": "Ludwig Bechstein", "object": "Weimar", "taxonomy": ["Lebanon", "Alexandra", "Brooklyn", "Paris", "Ireland"]}
+{"subject": "Knut Reiersrud", "object": "Oslo", "taxonomy": ["Carthage", "Weimar", "Seville", "Staffordshire", "Barcelona"]}
+{"subject": "Edward Vermilye Huntington", "object": "Clinton", "taxonomy": ["Kiev", "Norfolk", "Tallinn", "Lebanon", "Auckland"]}
+{"subject": "Georgi Markov", "object": "Sofia", "taxonomy": ["Lincolnshire", "Virginia", "Penang", "Milwaukee", "Milan"]}
+{"subject": "Leonid Sabaneyev", "object": "Moscow", "taxonomy": ["Granada", "Darlington", "Winnipeg", "Constantinople", "Santiago"]}
+{"subject": "Mike Huckabee", "object": "Hope", "taxonomy": ["Riga", "Scotland", "Alexandria", "Budapest", "Dallas"]}
+{"subject": "Dennis Jensen", "object": "Johannesburg", "taxonomy": ["Baghdad", "Honolulu", "Moscow", "Houston", "Quincy"]}
+{"subject": "Gogi Alauddin", "object": "Lahore", "taxonomy": ["Georgetown", "Paterson", "Detroit", "Norway", "Wilson"]}
+{"subject": "Jacques-Jean Barre", "object": "Paris", "taxonomy": ["Verona", "Dover", "Copenhagen", "Chichester", "Bucharest"]}
+{"subject": "Ricard Lamote de Grignon", "object": "Barcelona", "taxonomy": ["Siena", "Tampa", "Sheffield", "Odessa", "Essex"]}
+{"subject": "Jean-Michel Dubernard", "object": "Lyon", "taxonomy": ["Denver", "Cleveland", "France", "Italy", "Darlington"]}
+{"subject": "Akira Kamiya", "object": "Yokohama", "taxonomy": ["Bratislava", "Camden", "Bordeaux", "Norway", "Budapest"]}
+{"subject": "Cristian Alexanda", "object": "Perth", "taxonomy": ["Leiden", "Yorkshire", "Armenia", "Nicaragua", "Montreal"]}
+{"subject": "Martin Sweet", "object": "Stockholm", "taxonomy": ["Bohemia", "Atlanta", "Penang", "Southampton", "Ipswich"]}
+{"subject": "Florence Vidor", "object": "Houston", "taxonomy": ["Fresno", "Blackburn", "Metz", "Boston", "Milan"]}
+{"subject": "Bob Petrie", "object": "Dundee", "taxonomy": ["Tours", "Weimar", "Columbia", "Vancouver", "Sydney"]}
+{"subject": "Bronwyn Mayer", "object": "Sydney", "taxonomy": ["Lamar", "Yorkshire", "Salvador", "Siena", "Jackson"]}
+{"subject": "Ted Dumitru", "object": "Bucharest", "taxonomy": ["Basel", "Lisbon", "Christchurch", "Florence", "Edinburgh"]}
+{"subject": "Semiha Borovac", "object": "Sarajevo", "taxonomy": ["Nebraska", "Dublin", "Basel", "Ipswich", "Hollywood"]}
+{"subject": "Mark Van Hoen", "object": "Croydon", "taxonomy": ["Ipswich", "Wales", "Sarajevo", "Birmingham", "Beijing"]}
+{"subject": "Ali-Akbar Shahnazi", "object": "Tehran", "taxonomy": ["Spokane", "Detroit", "Portsmouth", "Baghdad", "Bucharest"]}
+{"subject": "Rio Natsuki", "object": "Tokyo", "taxonomy": ["Seoul", "Prague", "Monroe", "Luton", "Sacramento"]}
+{"subject": "Francisco Valls Galán", "object": "Barcelona", "taxonomy": ["India", "Coventry", "Medina", "Odessa", "Wigan"]}
+{"subject": "Hiroshi Kyono", "object": "Yokohama", "taxonomy": ["Utrecht", "Cologne", "Edmonton", "Bohemia", "Italy"]}
+{"subject": "Marat Makhmutov", "object": "Moscow", "taxonomy": ["Preston", "Plymouth", "Lebanon", "Paris", "Lyon"]}
+{"subject": "Vasili III of Russia", "object": "Moscow", "taxonomy": ["Brunswick", "Newmarket", "Winnipeg", "Aleppo", "Darlington"]}
+{"subject": "Marcus Harvey", "object": "Leeds", "taxonomy": ["Moscow", "Seattle", "Tacoma", "Kent", "Greenwood"]}
+{"subject": "Vincent Persichetti", "object": "Philadelphia", "taxonomy": ["Japan", "Christchurch", "Nagoya", "Porto", "Mainz"]}
+{"subject": "Ottavio Vannini", "object": "Florence", "taxonomy": ["Frankfurt", "Fresno", "Italy", "Cologne", "Sussex"]}
+{"subject": "George Clymer", "object": "Philadelphia", "taxonomy": ["Porto", "Leipzig", "Metz", "Baku", "Bonn"]}
+{"subject": "Tomomi Kasai", "object": "Tokyo", "taxonomy": ["Queensland", "Egypt", "Cambodia", "Guangzhou", "Penang"]}
+{"subject": "Cunigunde of Luxembourg", "object": "Luxembourg", "taxonomy": ["Lincoln", "Shanghai", "Nice", "Florence", "Milan"]}
+{"subject": "Dilara Kazimova", "object": "Baku", "taxonomy": ["Cologne", "Westminster", "Lancaster", "Suffolk", "Budapest"]}
+{"subject": "Alaa Abdul-Zahra", "object": "Baghdad", "taxonomy": ["Albuquerque", "Denmark", "Odessa", "Seattle", "Constantinople"]}
+{"subject": "Norris Turney", "object": "Wilmington", "taxonomy": ["Wilson", "Ireland", "Blackburn", "Jamaica", "Colchester"]}
+{"subject": "Calum MacKay", "object": "Toronto", "taxonomy": ["Lille", "Como", "Jakarta", "Morocco", "Ponce"]}
+{"subject": "Kim Atienza", "object": "Manila", "taxonomy": ["Salt", "Porto", "Blackburn", "Clinton", "Morocco"]}
+{"subject": "William H. Seward", "object": "Florida", "taxonomy": ["Bordeaux", "Dortmund", "Cardiff", "Colombo", "Adelaide"]}
+{"subject": "David Matranga", "object": "Houston", "taxonomy": ["Genoa", "Pennsylvania", "Chennai", "Augsburg", "Westminster"]}
+{"subject": "Haakon II of Norway", "object": "Norway", "taxonomy": ["Kolkata", "Penang", "Salzburg", "Normandy", "Oslo"]}
+{"subject": "Hector Nicol", "object": "Paisley", "taxonomy": ["Amsterdam", "Dortmund", "Nice", "Thailand", "Taipei"]}
+{"subject": "Matthew Thornton", "object": "Ireland", "taxonomy": ["Kent", "Verona", "Minneapolis", "Mainz", "Tobago"]}
+{"subject": "Willie Mosconi", "object": "Philadelphia", "taxonomy": ["Mercedes", "Dallas", "Johannesburg", "Havana", "Sussex"]}
+{"subject": "Marjorie de Sousa", "object": "Caracas", "taxonomy": ["Bend", "Penang", "Southampton", "Auckland", "Leipzig"]}
+{"subject": "Terenci Moix", "object": "Barcelona", "taxonomy": ["Salzburg", "Nairobi", "Yerevan", "Fresno", "Dallas"]}
+{"subject": "Bharat Agnihotri", "object": "India", "taxonomy": ["Boston", "Morocco", "Mobile", "Bristol", "Israel"]}
+{"subject": "Brian Nissen", "object": "London", "taxonomy": ["Penang", "Germany", "Croatia", "Spain", "Fowler"]}
+{"subject": "Guglielmo Gabetto", "object": "Turin", "taxonomy": ["Christchurch", "Egypt", "Bohemia", "Yorkshire", "Montreal"]}
+{"subject": "Laurie Morgan", "object": "London", "taxonomy": ["Bangkok", "Armenia", "Montevideo", "Sheffield", "Ghent"]}
+{"subject": "Joey BadA$$", "object": "Brooklyn", "taxonomy": ["Raymond", "Alexandra", "Karnataka", "Kiev", "Lafayette"]}
+{"subject": "Jules Michelet", "object": "Paris", "taxonomy": ["Seville", "Medina", "Glasgow", "Delhi", "Canada"]}
+{"subject": "Ezekiel", "object": "Jerusalem", "taxonomy": ["Tehran", "Lancaster", "Auckland", "Cambodia", "Canada"]}
+{"subject": "Alonzo Babers", "object": "Montgomery", "taxonomy": ["Geneva", "Georgetown", "Moscow", "Riga", "Ireland"]}
+{"subject": "Robert Beaser", "object": "Boston", "taxonomy": ["Guangzhou", "Tacoma", "Fleet", "Lithuania", "Warsaw"]}
+{"subject": "Juan Carlos Calvo", "object": "Montevideo", "taxonomy": ["Queensland", "Budapest", "Boston", "Carthage", "Mecca"]}
+{"subject": "Jacob Holdt", "object": "Copenhagen", "taxonomy": ["Gap", "Tacoma", "Nebraska", "Budapest", "Italy"]}
+{"subject": "Peter Lassally", "object": "Hamburg", "taxonomy": ["Riga", "Utrecht", "London", "Bristol", "Stuttgart"]}
+{"subject": "Rajah Tupas", "object": "Cebu", "taxonomy": ["Wilson", "Paisley", "Prague", "Taipei", "Vernon"]}
+{"subject": "Artur Pizarro", "object": "Lisbon", "taxonomy": ["Yorkshire", "Edmonton", "Fowler", "Stamford", "Lithuania"]}
+{"subject": "Silvia Abascal", "object": "Madrid", "taxonomy": ["Lille", "California", "Cleveland", "Mecca", "Angus"]}
+{"subject": "Jonathan Kozol", "object": "Boston", "taxonomy": ["Manhattan", "Columbia", "Jerusalem", "Scarborough", "Norwich"]}
+{"subject": "Paul Pritchard", "object": "Bolton", "taxonomy": ["Jerusalem", "Christchurch", "Bristol", "Minsk", "Chennai"]}
+{"subject": "Darlene Koldenhoven", "object": "Chicago", "taxonomy": ["Guangdong", "Lund", "Mecca", "Dortmund", "Dresden"]}
+{"subject": "Jacki Weaver", "object": "Sydney", "taxonomy": ["Detroit", "Brisbane", "Jackson", "Marshall", "Verona"]}
+{"subject": "Edward Duyker", "object": "Melbourne", "taxonomy": ["Oslo", "Yerevan", "Beijing", "Jerusalem", "Doncaster"]}
+{"subject": "Adam Kendon", "object": "London", "taxonomy": ["Nigeria", "Spain", "Nairobi", "Normandy", "Bihar"]}
+{"subject": "Preston Ridlehuber", "object": "Greenwood", "taxonomy": ["Fleet", "Seville", "Angus", "Marshall", "Virginia"]}
+{"subject": "Charlie Teagarden", "object": "Vernon", "taxonomy": ["Ipswich", "Lithuania", "Vancouver", "Helsinki", "Rotterdam"]}
+{"subject": "Leslie Halliwell", "object": "Bolton", "taxonomy": ["Bohemia", "Manchester", "Denver", "Fleet", "Colchester"]}
+{"subject": "David Alexandre Winter", "object": "Amsterdam", "taxonomy": ["Brisbane", "Palermo", "Caracas", "Genoa", "Baghdad"]}
+{"subject": "Amparo Noguera", "object": "Santiago", "taxonomy": ["Bratislava", "Spokane", "Coventry", "Minsk", "Oslo"]}
+{"subject": "Karim Lala", "object": "Afghanistan", "taxonomy": ["Salem", "Wilmington", "Seattle", "Bangkok", "Pittsburgh"]}
+{"subject": "Ashley Mulheron", "object": "Scotland", "taxonomy": ["Brooklyn", "Budapest", "Ireland", "Harlem", "Brisbane"]}
+{"subject": "Raimondo Van Riel", "object": "Rome", "taxonomy": ["Metz", "Wellington", "Paterson", "Carthage", "Christchurch"]}
+{"subject": "Thomas Aikenhead", "object": "Edinburgh", "taxonomy": ["Utrecht", "Leiden", "Jerusalem", "Lawrence", "Karachi"]}
+{"subject": "Henry Howe Bemrose", "object": "Derby", "taxonomy": ["Edmonton", "Brisbane", "Coventry", "Johannesburg", "Chicago"]}
+{"subject": "Yui Ichikawa", "object": "Tokyo", "taxonomy": ["Madrid", "Fowler", "Bohemia", "Minsk", "Tallinn"]}
+{"subject": "Justin Fleming", "object": "Sydney", "taxonomy": ["Gary", "Lisbon", "Como", "Calais", "Cebu"]}
+{"subject": "Bai Guang", "object": "Beijing", "taxonomy": ["Bucharest", "Cambodia", "Bologna", "Armenia", "Portsmouth"]}
+{"subject": "Ace Kefford", "object": "Birmingham", "taxonomy": ["Constantinople", "Luxembourg", "Seattle", "Munich", "Gary"]}
+{"subject": "John Taylor Gilman", "object": "Exeter", "taxonomy": ["Pasadena", "Columbia", "Lahore", "Paisley", "Lawrence"]}
+{"subject": "Pietro Lorenzetti", "object": "Siena", "taxonomy": ["Warwickshire", "Bergen", "Bangkok", "Croydon", "Armenia"]}
+{"subject": "Domenichino", "object": "Bologna", "taxonomy": ["Tacoma", "Tours", "Preston", "Sarajevo", "Wolverhampton"]}
+{"subject": "Edward Said", "object": "Jerusalem", "taxonomy": ["Kota", "Nebraska", "Ipswich", "Croatia", "Marseille"]}
+{"subject": "Ruben Simonov", "object": "Moscow", "taxonomy": ["Paris", "Constantinople", "Milwaukee", "Seville", "Boston"]}
+{"subject": "Billy Sherring", "object": "Hamilton", "taxonomy": ["Stamford", "Lafayette", "Baghdad", "Ljubljana", "Sacramento"]}
+{"subject": "Frederick Lugard, 1st Baron Lugard", "object": "Chennai", "taxonomy": ["Norway", "Nairobi", "Jasper", "Wolverhampton", "Weimar"]}
+{"subject": "Archduke Louis of Austria", "object": "Florence", "taxonomy": ["Cleveland", "Utrecht", "Warwickshire", "Santiago", "Lithuania"]}
+{"subject": "Umberto Guidoni", "object": "Rome", "taxonomy": ["Calais", "Scotland", "Helsinki", "Gap", "Cardiff"]}
+{"subject": "Davor Sučić", "object": "Sarajevo", "taxonomy": ["Helsinki", "Kiev", "Brighton", "Tbilisi", "Mercedes"]}
+{"subject": "Marc Swayze", "object": "Monroe", "taxonomy": ["Vancouver", "Bari", "Perth", "Naples", "Israel"]}
+{"subject": "Magdalena Mielcarz", "object": "Warsaw", "taxonomy": ["Harlem", "Warwickshire", "Scarborough", "Lille", "Albuquerque"]}
+{"subject": "Friedrich Albert von Zenker", "object": "Dresden", "taxonomy": ["Blackburn", "Bangkok", "Karachi", "Greenwood", "Lancaster"]}
+{"subject": "Carol Harrison", "object": "London", "taxonomy": ["Barbados", "Bangalore", "Edinburgh", "Mercedes", "Santiago"]}
+{"subject": "Artemas Ward", "object": "Shrewsbury", "taxonomy": ["Kingston", "Lawrence", "Paterson", "Manhattan", "Leipzig"]}
+{"subject": "Gianrico Carofiglio", "object": "Bari", "taxonomy": ["Augsburg", "Columbia", "Denmark", "Calgary", "Bangalore"]}
+{"subject": "Anne Danican Philidor", "object": "Paris", "taxonomy": ["Denmark", "Syracuse", "Dover", "Barbados", "Weimar"]}
+{"subject": "Jean Papineau-Couture", "object": "Montreal", "taxonomy": ["Aleppo", "Dresden", "Johannesburg", "Portsmouth", "Montgomery"]}
+{"subject": "Gaspard Bauhin", "object": "Basel", "taxonomy": ["Ipswich", "Dallas", "Bari", "Leipzig", "Constantinople"]}
+{"subject": "Grace Lynn Kung", "object": "Ottawa", "taxonomy": ["Wigan", "Barbados", "Normandy", "Nebraska", "Colchester"]}
+{"subject": "Bruce Drennan", "object": "Chicago", "taxonomy": ["Baghdad", "Cambodia", "Pittsburgh", "Bangor", "Rutherford"]}
+{"subject": "William Henry Fry", "object": "Philadelphia", "taxonomy": ["Lancaster", "Bihar", "Penang", "Sudan", "Japan"]}
+{"subject": "Maironis", "object": "Lithuania", "taxonomy": ["Wales", "Ipswich", "Lund", "Lisbon", "Beijing"]}
+{"subject": "Erwin Stresemann", "object": "Dresden", "taxonomy": ["Tobago", "Florence", "Brisbane", "Monroe", "Siena"]}
+{"subject": "Lorenzo Garbieri", "object": "Bologna", "taxonomy": ["Vernon", "Tbilisi", "Baltimore", "Copenhagen", "Delhi"]}
+{"subject": "Lukas Hilbert", "object": "Hamburg", "taxonomy": ["Karachi", "Miami", "Hamilton", "Raymond", "Greenwood"]}
+{"subject": "David de Keyser", "object": "London", "taxonomy": ["Waterloo", "Bristol", "Oldham", "Athens", "Cambodia"]}
+{"subject": "Chiara Margarita Cozzolani", "object": "Milan", "taxonomy": ["Shrewsbury", "Tacoma", "Harlem", "Greenwood", "Springfield"]}
+{"subject": "Maxwell Struthers Burt", "object": "Baltimore", "taxonomy": ["Barcelona", "Thailand", "Salvador", "Morocco", "Warwickshire"]}
+{"subject": "Yuriko Ishida", "object": "Nagoya", "taxonomy": ["Wolverhampton", "Denmark", "Kabul", "Seattle", "Sudan"]}
+{"subject": "Samuel De Wilde", "object": "London", "taxonomy": ["Germany", "Basel", "Thailand", "Plymouth", "Yokohama"]}
+{"subject": "Peter Howson", "object": "London", "taxonomy": ["Gary", "Springfield", "Ukraine", "Milwaukee", "Beirut"]}
+{"subject": "Georges Duhamel", "object": "Paris", "taxonomy": ["Halifax", "Ukraine", "Beirut", "Christchurch", "Colchester"]}
+{"subject": "Gustav Struve", "object": "Munich", "taxonomy": ["Montevideo", "Christchurch", "Leipzig", "Belgrade", "Sydney"]}
+{"subject": "Nigel Barrie", "object": "Kolkata", "taxonomy": ["Yerevan", "Bradford", "Springfield", "Nagoya", "Beirut"]}
+{"subject": "Ryo Ryusei", "object": "Tokyo", "taxonomy": ["Armenia", "Fowler", "Gap", "Croydon", "Copenhagen"]}
+{"subject": "Sid Luckman", "object": "Brooklyn", "taxonomy": ["Pittsburgh", "Doncaster", "Italy", "Clinton", "Bangor"]}
+{"subject": "Peter Goalby", "object": "Wolverhampton", "taxonomy": ["Aleppo", "Pennsylvania", "Salem", "Rotterdam", "Yokohama"]}
+{"subject": "Aisha", "object": "Mecca", "taxonomy": ["Bucharest", "Beijing", "Ajax", "Lahore", "Houston"]}
+{"subject": "Jake Pavelka", "object": "Dallas", "taxonomy": ["Newmarket", "Switzerland", "Pittsburgh", "Coventry", "Lyon"]}
+{"subject": "Peter I of Serbia", "object": "Belgrade", "taxonomy": ["Stamford", "Milan", "Shanghai", "Verona", "Bangor"]}
+{"subject": "Neal Tiemann", "object": "Dallas", "taxonomy": ["Montgomery", "Edmonton", "Ghent", "Porto", "Calais"]}
+{"subject": "Karel Schwarzenberg", "object": "Prague", "taxonomy": ["Alexandria", "Halifax", "Baku", "Luxembourg", "Havana"]}
+{"subject": "Pavol Hammel", "object": "Bratislava", "taxonomy": ["Alexandra", "Salzburg", "Rome", "Munich", "Hyderabad"]}
+{"subject": "Cynan Garwyn", "object": "Wales", "taxonomy": ["Jakarta", "Madagascar", "Baghdad", "Porto", "Kingston"]}
+{"subject": "Dmitri Nabokov", "object": "Berlin", "taxonomy": ["Manhattan", "Detroit", "Kyrgyzstan", "Nagoya", "Paterson"]}
+{"subject": "Jakub Kubicki", "object": "Warsaw", "taxonomy": ["Rutherford", "Dublin", "Ipswich", "Alexandria", "Wisconsin"]}
+{"subject": "Paul Slovic", "object": "Chicago", "taxonomy": ["Burlington", "Atlanta", "Bucharest", "Sacramento", "Tottenham"]}
+{"subject": "David Don", "object": "Angus", "taxonomy": ["Jackson", "Jamaica", "Hyderabad", "Tobago", "Minneapolis"]}
+{"subject": "William Hodges", "object": "London", "taxonomy": ["Mecca", "Luton", "Fulham", "Bordeaux", "Cologne"]}
+{"subject": "Lady Marcia Fitzalan-Howard", "object": "Bonn", "taxonomy": ["Spokane", "Toronto", "Philadelphia", "Oldham", "Armenia"]}
+{"subject": "Ernie Andrews", "object": "Philadelphia", "taxonomy": ["Kensington", "Venice", "Strasbourg", "Sudan", "Dover"]}
+{"subject": "Igor Rivin", "object": "Moscow", "taxonomy": ["Pittsburgh", "Stuttgart", "Amsterdam", "Honolulu", "Maryland"]}
+{"subject": "Oleta Adams", "object": "Seattle", "taxonomy": ["Ireland", "Birmingham", "Hamburg", "London", "Stamford"]}
+{"subject": "Nikolai Nissen Paus", "object": "Oslo", "taxonomy": ["Jackson", "Lund", "Canada", "Doncaster", "Sacramento"]}
+{"subject": "Sefyu", "object": "Paris", "taxonomy": ["Atlanta", "Nice", "Moscow", "Leigh", "Yokohama"]}
+{"subject": "Stefan Hertmans", "object": "Ghent", "taxonomy": ["Weimar", "Seville", "Colchester", "France", "Jasper"]}
+{"subject": "J-Ax", "object": "Milan", "taxonomy": ["Rome", "Pasadena", "Armenia", "Alexandria", "Tours"]}
+{"subject": "Marc Laviolette", "object": "Ottawa", "taxonomy": ["Rutherford", "Luton", "Manchester", "Nairobi", "Palermo"]}
+{"subject": "Edward Dannreuther", "object": "Strasbourg", "taxonomy": ["Mercedes", "Florence", "Bratislava", "Lille", "Kolkata"]}
+{"subject": "DJ Drama", "object": "Philadelphia", "taxonomy": ["Boston", "Paisley", "Cebu", "Manchester", "Pasadena"]}
+{"subject": "Tatsu Aoki", "object": "Tokyo", "taxonomy": ["Devon", "Wales", "Leipzig", "Stamford", "Singapore"]}
+{"subject": "Lilla Cabot Perry", "object": "Boston", "taxonomy": ["Springfield", "Mecca", "Amsterdam", "Parsons", "Norway"]}
+{"subject": "Fad Gadget", "object": "London", "taxonomy": ["Munich", "Iowa", "Cardiff", "Wellington", "Dortmund"]}
+{"subject": "Semyon Vorontsov", "object": "Moscow", "taxonomy": ["Bratislava", "Spain", "Sofia", "Kingston", "Lafayette"]}
+{"subject": "Philip Candelas", "object": "London", "taxonomy": ["Marshall", "Ghent", "Valencia", "Wilson", "Calgary"]}
+{"subject": "Jan Kruis", "object": "Rotterdam", "taxonomy": ["California", "Shanghai", "Hamilton", "Bordeaux", "Luton"]}
+{"subject": "Anand Gandhi", "object": "Mumbai", "taxonomy": ["Jackson", "Marseille", "Tottenham", "Naples", "Istanbul"]}
+{"subject": "Chris Minh Doky", "object": "Copenhagen", "taxonomy": ["Scarborough", "Waterloo", "Augsburg", "Devon", "Afghanistan"]}
+{"subject": "Bing Crosby", "object": "Tacoma", "taxonomy": ["Havana", "Verona", "Dover", "Mercedes", "Lincoln"]}
+{"subject": "Inoue Genan Inseki", "object": "Japan", "taxonomy": ["Oldham", "Montgomery", "Lahore", "Helsinki", "Kingston"]}
+{"subject": "Peter von Siemens", "object": "Berlin", "taxonomy": ["Lincolnshire", "Croatia", "Guangzhou", "Palermo", "Doncaster"]}
+{"subject": "Povel Ramel", "object": "Stockholm", "taxonomy": ["Wolverhampton", "Guangzhou", "Philadelphia", "Seville", "Exeter"]}
+{"subject": "Franciszek Smuglewicz", "object": "Warsaw", "taxonomy": ["Wigan", "Chennai", "Bristol", "Cincinnati", "Dublin"]}
+{"subject": "Garth Knox", "object": "Dublin", "taxonomy": ["Stamford", "Staffordshire", "Kiev", "Miami", "Kota"]}
+{"subject": "Hiroshi Tsuchida", "object": "Tokyo", "taxonomy": ["Boston", "Darlington", "Rome", "Lund", "Dover"]}
+{"subject": "Caroline Bynum", "object": "Atlanta", "taxonomy": ["Ghent", "Dallas", "Columbia", "Fleet", "Pennsylvania"]}
+{"subject": "Mayumi Tanaka", "object": "Tokyo", "taxonomy": ["Moscow", "Metz", "Yorkshire", "Fleet", "Preston"]}
+{"subject": "Christel Bodenstein", "object": "Munich", "taxonomy": ["Belfast", "Seattle", "Adelaide", "Bordeaux", "Helsinki"]}
+{"subject": "Cosimo Fancelli", "object": "Rome", "taxonomy": ["Wolverhampton", "Tacoma", "Quincy", "Rotterdam", "Pittsburgh"]}
+{"subject": "Steve Nunn", "object": "Glasgow", "taxonomy": ["Bangkok", "India", "Melbourne", "Israel", "Paisley"]}
+{"subject": "Crystal Renn", "object": "Miami", "taxonomy": ["Alexandria", "Hawaii", "California", "Dover", "Hyderabad"]}
+{"subject": "Jacob Wallenberg", "object": "Stockholm", "taxonomy": ["Halifax", "Naples", "Venice", "Ipswich", "Windsor"]}
+{"subject": "Sarah Manninen", "object": "Waterloo", "taxonomy": ["Jerusalem", "Oldham", "Singapore", "Birmingham", "Paisley"]}
+{"subject": "Saeed Akhtar Mirza", "object": "Mumbai", "taxonomy": ["Glasgow", "Winnipeg", "Rutherford", "Lancaster", "Baltimore"]}
+{"subject": "Sugar Sammy", "object": "Montreal", "taxonomy": ["Seoul", "Ukraine", "Honolulu", "Kent", "Wellington"]}
+{"subject": "Ruth Lee", "object": "Minneapolis", "taxonomy": ["Cebu", "Strasbourg", "Germany", "Leipzig", "Columbia"]}
+{"subject": "Freddie Gibbs", "object": "Gary", "taxonomy": ["Calgary", "Cebu", "Birmingham", "Chichester", "Jasper"]}
+{"subject": "Jonas Hassen Khemiri", "object": "Stockholm", "taxonomy": ["Guangdong", "Singapore", "Dortmund", "Philadelphia", "Jerusalem"]}
+{"subject": "Richard Prebble", "object": "Kent", "taxonomy": ["Dortmund", "Detroit", "Sofia", "Alexandria", "Verona"]}
+{"subject": "John Feaver", "object": "Fleet", "taxonomy": ["Milan", "Canada", "Baku", "Tbilisi", "Hyderabad"]}
+{"subject": "Roger Oakley", "object": "Auckland", "taxonomy": ["Havana", "Spain", "Stafford", "Tbilisi", "Salt"]}
+{"subject": "Gilles Duceppe", "object": "Montreal", "taxonomy": ["Leeds", "Auckland", "Athens", "Kensington", "Kyrgyzstan"]}
+{"subject": "John Colet", "object": "London", "taxonomy": ["Rotterdam", "Paterson", "Cologne", "Maryland", "Berlin"]}
+{"subject": "Naomi Long", "object": "Belfast", "taxonomy": ["Salzburg", "Beijing", "Yerevan", "Gap", "Bratislava"]}
+{"subject": "Marty Stuart", "object": "Philadelphia", "taxonomy": ["Kent", "Palermo", "Hollywood", "Leeds", "Mecca"]}
+{"subject": "Marty Roth", "object": "Toronto", "taxonomy": ["Paterson", "Lebanon", "Preston", "Wellington", "Edmonton"]}
+{"subject": "Georges Rouault", "object": "Paris", "taxonomy": ["Raymond", "Hawaii", "Brooklyn", "Hope", "Odessa"]}
+{"subject": "James Gomez", "object": "Singapore", "taxonomy": ["Auckland", "Doncaster", "Lancaster", "Dortmund", "Stuttgart"]}
+{"subject": "Theodore the Studite", "object": "Constantinople", "taxonomy": ["Budapest", "Rome", "Melbourne", "Atlanta", "Jerusalem"]}
+{"subject": "Lorraine Pilkington", "object": "Dublin", "taxonomy": ["Bordeaux", "Adelaide", "Venice", "Havana", "Denmark"]}
+{"subject": "Lopo Soares de Albergaria", "object": "Lisbon", "taxonomy": ["Nigeria", "Basel", "Staffordshire", "Essex", "Guangdong"]}

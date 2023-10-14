@@ -1,0 +1,931 @@
+{"relations": ["What is the location of [X]?", "Where is [X] situated?", "Where can [X] be found?", "What is the geographical position of [X]?", "What is the site of [X]?", "In what area is [X] situated?", "Whereabouts is [X] located?"]}
+{"subject": "Eibenstock", "object": "Germany", "taxonomy": ["Egypt", "Kenya", "Bahrain", "Bhutan", "Uzbekistan"]}
+{"subject": "Simcoe Composite School", "object": "Canada", "taxonomy": ["Nigeria", "Vietnam", "Portugal", "Iran", "Czechoslovakia"]}
+{"subject": "Vrienden van het Platteland", "object": "Netherlands", "taxonomy": ["Pakistan", "Kuwait", "Brazil", "Morocco", "Poland"]}
+{"subject": "Cunter", "object": "Switzerland", "taxonomy": ["Bolivia", "Mali", "Bahrain", "Cuba", "Cyprus"]}
+{"subject": "Glencree", "object": "Ireland", "taxonomy": ["Haiti", "Nicaragua", "Honduras", "Syria", "Kosovo"]}
+{"subject": "L'Escala", "object": "Spain", "taxonomy": ["Malawi", "Lebanon", "Colombia", "Belgium", "Uganda"]}
+{"subject": "Wismar", "object": "Germany", "taxonomy": ["Greece", "Ireland", "Norway", "Poland", "Kosovo"]}
+{"subject": "Namba Station", "object": "Japan", "taxonomy": ["Chile", "Finland", "Belgium", "Mexico", "Montenegro"]}
+{"subject": "2010 Belgian federal election", "object": "Belgium", "taxonomy": ["Cambodia", "Norway", "Malaysia", "Bhutan", "Colombia"]}
+{"subject": "CFMJ", "object": "Canada", "taxonomy": ["Belarus", "Japan", "Bahrain", "Azerbaijan", "Israel"]}
+{"subject": "Amos Anderson Art Museum", "object": "Finland", "taxonomy": ["Qatar", "Bermuda", "Romania", "Singapore", "Colombia"]}
+{"subject": "Zelenchukskaya", "object": "Russia", "taxonomy": ["Cambodia", "Ukraine", "Mali", "Tanzania", "Lebanon"]}
+{"subject": "Santo Stefano d'Aveto", "object": "Italy", "taxonomy": ["Libya", "Taiwan", "Czechoslovakia", "Malawi", "Romania"]}
+{"subject": "SooToday.com", "object": "Canada", "taxonomy": ["Luxembourg", "Bulgaria", "Pakistan", "Ghana", "Honduras"]}
+{"subject": "Sena Medal", "object": "India", "taxonomy": ["Chile", "Cambodia", "Slovenia", "Kenya", "Bangladesh"]}
+{"subject": "Lake Caliraya", "object": "Philippines", "taxonomy": ["Brazil", "Mexico", "Argentina", "Poland", "Kyrgyzstan"]}
+{"subject": "Didymoteicho", "object": "Greece", "taxonomy": ["Benin", "Nigeria", "France", "Poland", "Finland"]}
+{"subject": "2004 Indian Ocean earthquake", "object": "Indonesia", "taxonomy": ["Russia", "Thailand", "Rwanda", "Italy", "Sweden"]}
+{"subject": "Fawkner", "object": "Australia", "taxonomy": ["Colombia", "Bhutan", "Croatia", "Peru", "Estonia"]}
+{"subject": "Abu Ghosh", "object": "Israel", "taxonomy": ["Mauritius", "Singapore", "Nepal", "Vietnam", "Brazil"]}
+{"subject": "Hagenow", "object": "Germany", "taxonomy": ["Cuba", "Spain", "Moldova", "Latvia", "Taiwan"]}
+{"subject": "Mexican Stock Exchange", "object": "Mexico", "taxonomy": ["Switzerland", "Denmark", "Ireland", "Bahrain", "Algeria"]}
+{"subject": "By-elections to the 41st Canadian Parliament", "object": "Canada", "taxonomy": ["Morocco", "Peru", "Belarus", "Czechoslovakia", "Libya"]}
+{"subject": "Maison du Peuple", "object": "Belgium", "taxonomy": ["India", "Portugal", "Pakistan", "Chile", "Nicaragua"]}
+{"subject": "Wakefield Park", "object": "Australia", "taxonomy": ["Estonia", "Bulgaria", "Albania", "Philippines", "Russia"]}
+{"subject": "Sands of Beirut", "object": "Lebanon", "taxonomy": ["Egypt", "Cuba", "Tajikistan", "Ireland", "Argentina"]}
+{"subject": "Baturyn", "object": "Ukraine", "taxonomy": ["Guatemala", "Turkey", "Uzbekistan", "Australia", "Denmark"]}
+{"subject": "Suwayq", "object": "Oman", "taxonomy": ["Fiji", "Venezuela", "Azerbaijan", "Taiwan", "Philippines"]}
+{"subject": "CD Eldense", "object": "Spain", "taxonomy": ["Bermuda", "Greece", "Peru", "Uganda", "Madagascar"]}
+{"subject": "Taksim Military Barracks", "object": "Turkey", "taxonomy": ["Nigeria", "Oman", "Malaysia", "Switzerland", "Mexico"]}
+{"subject": "Mbale District", "object": "Uganda", "taxonomy": ["Albania", "Taiwan", "Spain", "Turkey", "Yemen"]}
+{"subject": "Yokohama International School", "object": "Japan", "taxonomy": ["Cambodia", "Tunisia", "Iraq", "Mali", "Singapore"]}
+{"subject": "Reiherstieg Schiffswerfte & Maschinenfabrik", "object": "Germany", "taxonomy": ["Slovenia", "Nigeria", "Morocco", "Portugal", "Mexico"]}
+{"subject": "HSBC Bank Malta", "object": "Malta", "taxonomy": ["Israel", "Indonesia", "Cuba", "Tanzania", "Lithuania"]}
+{"subject": "Siquijor", "object": "Philippines", "taxonomy": ["Tunisia", "India", "Kazakhstan", "Japan", "Lebanon"]}
+{"subject": "Ufa", "object": "Russia", "taxonomy": ["Bhutan", "Tunisia", "Fiji", "Uganda", "Syria"]}
+{"subject": "Augustinergasse", "object": "Switzerland", "taxonomy": ["Colombia", "Sweden", "Montenegro", "Venezuela", "Rwanda"]}
+{"subject": "Democrats 66", "object": "Netherlands", "taxonomy": ["Switzerland", "Armenia", "Botswana", "Taiwan", "Madagascar"]}
+{"subject": "Palupera Rural Municipality", "object": "Estonia", "taxonomy": ["Paraguay", "Lebanon", "Sudan", "Yemen", "Oman"]}
+{"subject": "Orpheus Island National Park", "object": "Australia", "taxonomy": ["Iraq", "Israel", "Russia", "Kenya", "Cyprus"]}
+{"subject": "Now Kandeh District", "object": "Iran", "taxonomy": ["Albania", "Switzerland", "Cuba", "Japan", "Portugal"]}
+{"subject": "FC Anker Wismar", "object": "Germany", "taxonomy": ["Egypt", "Montenegro", "Ukraine", "Benin", "Somalia"]}
+{"subject": "Putyvl", "object": "Ukraine", "taxonomy": ["Thailand", "Uganda", "Nicaragua", "Venezuela", "Malawi"]}
+{"subject": "Little Stirrup Cay", "object": "Bahamas", "taxonomy": ["Tunisia", "Sweden", "Azerbaijan", "Syria", "Botswana"]}
+{"subject": "Badoc", "object": "Philippines", "taxonomy": ["Croatia", "Sweden", "Guatemala", "Indonesia", "Iraq"]}
+{"subject": "Arsk", "object": "Russia", "taxonomy": ["Spain", "Qatar", "Mauritius", "Hungary", "Kuwait"]}
+{"subject": "Sierra de la Culebra", "object": "Spain", "taxonomy": ["Thailand", "Mexico", "Israel", "Mali", "Kazakhstan"]}
+{"subject": "Valvasone", "object": "Italy", "taxonomy": ["Luxembourg", "Canada", "Netherlands", "Romania", "Syria"]}
+{"subject": "1931 Nicaragua earthquake", "object": "Nicaragua", "taxonomy": ["Algeria", "Tunisia", "Paraguay", "Malaysia", "Namibia"]}
+{"subject": "Olten railway station", "object": "Switzerland", "taxonomy": ["Nigeria", "Singapore", "Malta", "Bahamas", "Brazil"]}
+{"subject": "Gagauzia", "object": "Moldova", "taxonomy": ["Haiti", "Japan", "Tunisia", "Sudan", "Bermuda"]}
+{"subject": "Tatsuno", "object": "Japan", "taxonomy": ["Switzerland", "France", "Somalia", "Madagascar", "Vietnam"]}
+{"subject": "Bad Schwalbach", "object": "Germany", "taxonomy": ["Sudan", "Brazil", "Canada", "Madagascar", "Singapore"]}
+{"subject": "Kuala Langat", "object": "Malaysia", "taxonomy": ["Cuba", "Romania", "Kuwait", "Philippines", "Tajikistan"]}
+{"subject": "K.S.V. Roeselare", "object": "Belgium", "taxonomy": ["Bhutan", "Argentina", "Croatia", "Liberia", "Kyrgyzstan"]}
+{"subject": "Nuri", "object": "Sudan", "taxonomy": ["Ghana", "France", "Spain", "Oman", "Thailand"]}
+{"subject": "Sydney Hospital", "object": "Australia", "taxonomy": ["Bahrain", "Ghana", "Sweden", "Somalia", "Venezuela"]}
+{"subject": "Piove di Sacco", "object": "Italy", "taxonomy": ["Argentina", "Benin", "Albania", "Montenegro", "Latvia"]}
+{"subject": "Valdichiana", "object": "Italy", "taxonomy": ["Bhutan", "Paraguay", "Madagascar", "Belarus", "Mexico"]}
+{"subject": "Kayunga District", "object": "Uganda", "taxonomy": ["Israel", "Brazil", "Belgium", "Honduras", "Bhutan"]}
+{"subject": "Gaiola", "object": "Italy", "taxonomy": ["Paraguay", "Iran", "Thailand", "Ethiopia", "Tajikistan"]}
+{"subject": "Kings Domain", "object": "Australia", "taxonomy": ["Taiwan", "Colombia", "Canada", "Somalia", "Spain"]}
+{"subject": "Kazinga Channel", "object": "Uganda", "taxonomy": ["Kosovo", "Paraguay", "Liberia", "Italy", "Thailand"]}
+{"subject": "Canjuers", "object": "France", "taxonomy": ["Kazakhstan", "Turkey", "Israel", "Syria", "Nepal"]}
+{"subject": "Clonlara GAA", "object": "Ireland", "taxonomy": ["Austria", "Poland", "Netherlands", "Kosovo", "Montenegro"]}
+{"subject": "Amsterdam dance event", "object": "Netherlands", "taxonomy": ["Kuwait", "Morocco", "Cambodia", "Czechoslovakia", "Cyprus"]}
+{"subject": "Ayn Halaqim Subdistrict", "object": "Syria", "taxonomy": ["Namibia", "Germany", "Japan", "Lebanon", "Belarus"]}
+{"subject": "Cork GAA", "object": "Ireland", "taxonomy": ["Singapore", "Belarus", "Switzerland", "Venezuela", "Malawi"]}
+{"subject": "Anak Bukit", "object": "Malaysia", "taxonomy": ["Kuwait", "Bolivia", "Mauritius", "Canada", "Ethiopia"]}
+{"subject": "Bastia", "object": "France", "taxonomy": ["Egypt", "Spain", "Peru", "Canada", "Bulgaria"]}
+{"subject": "Bhinmal", "object": "India", "taxonomy": ["Mali", "Qatar", "Tunisia", "Guatemala", "Austria"]}
+{"subject": "Yuquot", "object": "Canada", "taxonomy": ["Ethiopia", "Argentina", "Cambodia", "Uzbekistan", "Madagascar"]}
+{"subject": "Gmina Kleczew", "object": "Poland", "taxonomy": ["Syria", "Indonesia", "Ghana", "Cambodia", "Ukraine"]}
+{"subject": "Frasnes-lez-Anvaing", "object": "Belgium", "taxonomy": ["Greece", "Kazakhstan", "Kyrgyzstan", "Bahamas", "Lebanon"]}
+{"subject": "Manila Light Rail Transit System", "object": "Philippines", "taxonomy": ["Uzbekistan", "Malaysia", "Serbia", "Tunisia", "Morocco"]}
+{"subject": "Registro", "object": "Brazil", "taxonomy": ["Moldova", "Belarus", "Russia", "Mauritius", "Afghanistan"]}
+{"subject": "Galiano Island", "object": "Canada", "taxonomy": ["Malawi", "Singapore", "Tanzania", "Honduras", "Montenegro"]}
+{"subject": "Mewat", "object": "India", "taxonomy": ["Cyprus", "Albania", "Libya", "Mexico", "Brazil"]}
+{"subject": "Eurasian Steppe", "object": "Ukraine", "taxonomy": ["Venezuela", "Nepal", "Malaysia", "Tunisia", "Iran"]}
+{"subject": "Amarkantak", "object": "India", "taxonomy": ["Pakistan", "Vietnam", "Romania", "Colombia", "Belgium"]}
+{"subject": "DESTATIS", "object": "Germany", "taxonomy": ["Ethiopia", "Cyprus", "Kazakhstan", "Namibia", "Oman"]}
+{"subject": "Khorramdarreh Rural District", "object": "Iran", "taxonomy": ["Malawi", "Canada", "Greece", "Rwanda", "Singapore"]}
+{"subject": "Borgo San Martino", "object": "Italy", "taxonomy": ["Fiji", "Guatemala", "Spain", "Belgium", "Malta"]}
+{"subject": "Bispebjerg", "object": "Denmark", "taxonomy": ["Colombia", "Paraguay", "Kosovo", "Bolivia", "Morocco"]}
+{"subject": "Kanchanaburi", "object": "Thailand", "taxonomy": ["Iraq", "Qatar", "Romania", "Estonia", "Russia"]}
+{"subject": "Bjurholm", "object": "Sweden", "taxonomy": ["Fiji", "Argentina", "Chile", "Nepal", "Vietnam"]}
+{"subject": "Preet Vihar", "object": "India", "taxonomy": ["Sweden", "Latvia", "Egypt", "Brazil", "Somalia"]}
+{"subject": "Gjerpen", "object": "Norway", "taxonomy": ["Peru", "Colombia", "Indonesia", "Botswana", "Denmark"]}
+{"subject": "Circuito da Boavista", "object": "Portugal", "taxonomy": ["Madagascar", "Taiwan", "Ghana", "Czechoslovakia", "Bhutan"]}
+{"subject": "Kamikita District", "object": "Japan", "taxonomy": ["Haiti", "Malawi", "Azerbaijan", "Bermuda", "Albania"]}
+{"subject": "Winlaton Youth Training Centre", "object": "Australia", "taxonomy": ["Oman", "Libya", "Serbia", "Moldova", "Guatemala"]}
+{"subject": "Pontecorvo", "object": "Italy", "taxonomy": ["Hungary", "Croatia", "Sudan", "Ukraine", "Turkey"]}
+{"subject": "Al-Hasakah Governorate", "object": "Syria", "taxonomy": ["Australia", "Germany", "Benin", "Guatemala", "Egypt"]}
+{"subject": "Dwarka", "object": "India", "taxonomy": ["Lebanon", "Oman", "Canada", "Iraq", "Singapore"]}
+{"subject": "Allersberg", "object": "Germany", "taxonomy": ["Sweden", "Austria", "Norway", "Iran", "Guatemala"]}
+{"subject": "Habitat 67", "object": "Canada", "taxonomy": ["Afghanistan", "Hungary", "Paraguay", "Ghana", "Syria"]}
+{"subject": "Eurostat", "object": "Luxembourg", "taxonomy": ["Slovenia", "Madagascar", "Lebanon", "Estonia", "Nepal"]}
+{"subject": "Garabit viaduct", "object": "France", "taxonomy": ["Nigeria", "Morocco", "Malaysia", "Colombia", "Vietnam"]}
+{"subject": "City of Cranbourne", "object": "Australia", "taxonomy": ["Lithuania", "Vietnam", "Finland", "Mali", "Haiti"]}
+{"subject": "Aucanquilcha", "object": "Chile", "taxonomy": ["Cuba", "Venezuela", "Denmark", "Tajikistan", "Nicaragua"]}
+{"subject": "Indira Gandhi International Airport", "object": "India", "taxonomy": ["Finland", "Armenia", "Russia", "Kyrgyzstan", "Nicaragua"]}
+{"subject": "Madala", "object": "India", "taxonomy": ["Belarus", "Denmark", "Spain", "Bangladesh", "Syria"]}
+{"subject": "Mezhdurechensky District", "object": "Russia", "taxonomy": ["Mexico", "Thailand", "Belarus", "Moldova", "Greece"]}
+{"subject": "Stara Zagora", "object": "Bulgaria", "taxonomy": ["Kyrgyzstan", "Estonia", "Namibia", "Uzbekistan", "France"]}
+{"subject": "Pilis Mountains", "object": "Hungary", "taxonomy": ["Uganda", "Venezuela", "Kenya", "Mauritius", "Moldova"]}
+{"subject": "Lajran Rural District", "object": "Iran", "taxonomy": ["Poland", "Finland", "Egypt", "Sudan", "Bahrain"]}
+{"subject": "Thamshavn Line", "object": "Norway", "taxonomy": ["Moldova", "Japan", "Paraguay", "Bermuda", "Portugal"]}
+{"subject": "Higashikagawa", "object": "Japan", "taxonomy": ["Tajikistan", "Malawi", "Armenia", "Mali", "Taiwan"]}
+{"subject": "Periyar University", "object": "India", "taxonomy": ["Philippines", "Israel", "Syria", "Bhutan", "Venezuela"]}
+{"subject": "Borris-in-Ossory GAA", "object": "Ireland", "taxonomy": ["Nigeria", "Bermuda", "Montenegro", "Bangladesh", "Cuba"]}
+{"subject": "Garkan Rural District", "object": "Iran", "taxonomy": ["Honduras", "Estonia", "Israel", "Moldova", "Bulgaria"]}
+{"subject": "Konark Sun temple", "object": "India", "taxonomy": ["Fiji", "Egypt", "Mali", "Nigeria", "Cuba"]}
+{"subject": "Montemitro", "object": "Italy", "taxonomy": ["Mali", "Sudan", "Mexico", "Austria", "Argentina"]}
+{"subject": "Jemappes", "object": "Belgium", "taxonomy": ["Greece", "Malaysia", "Namibia", "Kyrgyzstan", "Libya"]}
+{"subject": "Llanquihue Province", "object": "Chile", "taxonomy": ["Netherlands", "Russia", "Bahamas", "Poland", "Luxembourg"]}
+{"subject": "Davan", "object": "Iran", "taxonomy": ["Thailand", "Turkey", "India", "Namibia", "Peru"]}
+{"subject": "Kondotty", "object": "India", "taxonomy": ["Tunisia", "Cambodia", "Haiti", "Germany", "Russia"]}
+{"subject": "Manila Bay", "object": "Philippines", "taxonomy": ["Latvia", "Tajikistan", "India", "Botswana", "Luxembourg"]}
+{"subject": "Tartessos", "object": "Spain", "taxonomy": ["Malawi", "Slovenia", "Turkey", "Ethiopia", "Cambodia"]}
+{"subject": "Marstrand", "object": "Sweden", "taxonomy": ["Argentina", "India", "Mauritius", "Madagascar", "Paraguay"]}
+{"subject": "AA Drink-leontien.nl", "object": "Netherlands", "taxonomy": ["Czechoslovakia", "Greece", "France", "Uzbekistan", "Mali"]}
+{"subject": "Talas River", "object": "Kyrgyzstan", "taxonomy": ["Nepal", "Oman", "Russia", "Benin", "Armenia"]}
+{"subject": "Palais de l'Industrie", "object": "France", "taxonomy": ["Malaysia", "Montenegro", "Bhutan", "Paraguay", "Rwanda"]}
+{"subject": "Valhalla Swimming Hall", "object": "Sweden", "taxonomy": ["Thailand", "Uzbekistan", "Lithuania", "Vietnam", "Bolivia"]}
+{"subject": "Camarate", "object": "Portugal", "taxonomy": ["Singapore", "Croatia", "Colombia", "Liberia", "Algeria"]}
+{"subject": "Tsubaki Grand Shrine", "object": "Japan", "taxonomy": ["Russia", "Afghanistan", "Serbia", "Fiji", "Norway"]}
+{"subject": "Shablykinsky District", "object": "Russia", "taxonomy": ["Norway", "Estonia", "Egypt", "Uzbekistan", "Ukraine"]}
+{"subject": "Bad Vilbel", "object": "Germany", "taxonomy": ["Honduras", "Colombia", "Qatar", "Romania", "Benin"]}
+{"subject": "Giurgiu County", "object": "Romania", "taxonomy": ["Hungary", "Bermuda", "Lebanon", "Austria", "Taiwan"]}
+{"subject": "Jan Amora", "object": "Ethiopia", "taxonomy": ["Oman", "Lithuania", "Indonesia", "Sweden", "Bahrain"]}
+{"subject": "Prachin Buri River", "object": "Thailand", "taxonomy": ["Bahamas", "Denmark", "Iran", "Tunisia", "Sweden"]}
+{"subject": "Ranheim Papirfabrikk", "object": "Norway", "taxonomy": ["Ethiopia", "Austria", "Uzbekistan", "Latvia", "Paraguay"]}
+{"subject": "Dewa Province", "object": "Japan", "taxonomy": ["Croatia", "Tanzania", "Oman", "Belgium", "Rwanda"]}
+{"subject": "Circuit des Ardennes", "object": "Belgium", "taxonomy": ["Benin", "Albania", "Venezuela", "Japan", "Vietnam"]}
+{"subject": "Tovarnik", "object": "Croatia", "taxonomy": ["Vietnam", "Sweden", "Guatemala", "Sudan", "France"]}
+{"subject": "Alouette Lake", "object": "Canada", "taxonomy": ["Honduras", "Peru", "Libya", "Luxembourg", "Netherlands"]}
+{"subject": "Gmina Bodzentyn", "object": "Poland", "taxonomy": ["Botswana", "Nicaragua", "Qatar", "Fiji", "Pakistan"]}
+{"subject": "Lindholm station", "object": "Denmark", "taxonomy": ["Ghana", "Norway", "Azerbaijan", "Chile", "Iraq"]}
+{"subject": "Cossogno", "object": "Italy", "taxonomy": ["Greece", "Paraguay", "Cambodia", "Iraq", "Peru"]}
+{"subject": "Ghatanji", "object": "India", "taxonomy": ["Belarus", "Syria", "Luxembourg", "Uganda", "Uzbekistan"]}
+{"subject": "St Lucia", "object": "Australia", "taxonomy": ["Kuwait", "Peru", "Bulgaria", "Malta", "Chile"]}
+{"subject": "Pazhayangadi", "object": "India", "taxonomy": ["Afghanistan", "Mali", "Ukraine", "Ethiopia", "Paraguay"]}
+{"subject": "Inami, Toyama", "object": "Japan", "taxonomy": ["Montenegro", "Kosovo", "Pakistan", "Iran", "Denmark"]}
+{"subject": "Tarn-et-Garonne", "object": "France", "taxonomy": ["Japan", "Malaysia", "Australia", "Bahrain", "Lithuania"]}
+{"subject": "Pampilhosa da Serra", "object": "Portugal", "taxonomy": ["Colombia", "Tanzania", "Rwanda", "Oman", "Belarus"]}
+{"subject": "Komarichsky District", "object": "Russia", "taxonomy": ["Bermuda", "Egypt", "Haiti", "Netherlands", "Kuwait"]}
+{"subject": "Kapar", "object": "Malaysia", "taxonomy": ["Moldova", "Germany", "Bolivia", "Australia", "Hungary"]}
+{"subject": "Fryderyk Chopin University of Music", "object": "Poland", "taxonomy": ["Croatia", "Honduras", "Belgium", "Switzerland", "Romania"]}
+{"subject": "Yadagirigutta Temple", "object": "India", "taxonomy": ["Uzbekistan", "Belgium", "Somalia", "Nigeria", "Germany"]}
+{"subject": "Col Agnel", "object": "Italy", "taxonomy": ["Slovenia", "Madagascar", "Bangladesh", "Russia", "Benin"]}
+{"subject": "Hida Mountains", "object": "Japan", "taxonomy": ["Moldova", "Taiwan", "Namibia", "Egypt", "Switzerland"]}
+{"subject": "Beles River", "object": "Ethiopia", "taxonomy": ["Tunisia", "Ghana", "Uganda", "Tajikistan", "Finland"]}
+{"subject": "Isa Air Base", "object": "Bahrain", "taxonomy": ["Rwanda", "Malta", "Indonesia", "Brazil", "Kosovo"]}
+{"subject": "Canton of Schaffhausen", "object": "Switzerland", "taxonomy": ["Denmark", "Liberia", "Luxembourg", "Azerbaijan", "Russia"]}
+{"subject": "Mahur Berenji Rural District", "object": "Iran", "taxonomy": ["Mexico", "Iraq", "Albania", "Vietnam", "India"]}
+{"subject": "Hrtkovci", "object": "Croatia", "taxonomy": ["Bolivia", "Finland", "Malta", "Venezuela", "Liberia"]}
+{"subject": "Russian Standard Bank", "object": "Russia", "taxonomy": ["Bermuda", "Libya", "Spain", "Poland", "Austria"]}
+{"subject": "Nagoya University", "object": "Japan", "taxonomy": ["Poland", "Tajikistan", "Colombia", "Chile", "Azerbaijan"]}
+{"subject": "Fort Madalena", "object": "Malta", "taxonomy": ["Latvia", "Taiwan", "Honduras", "Benin", "Czechoslovakia"]}
+{"subject": "Velbert", "object": "Germany", "taxonomy": ["Sweden", "Qatar", "Bangladesh", "Paraguay", "Nepal"]}
+{"subject": "Expo 86", "object": "Canada", "taxonomy": ["Libya", "Afghanistan", "Kyrgyzstan", "Turkey", "Switzerland"]}
+{"subject": "Hornnes", "object": "Norway", "taxonomy": ["Moldova", "Iraq", "Uganda", "Pakistan", "Honduras"]}
+{"subject": "Sana'a International Airport", "object": "Yemen", "taxonomy": ["Oman", "Kyrgyzstan", "Ghana", "Venezuela", "Uzbekistan"]}
+{"subject": "Bad Camberg", "object": "Germany", "taxonomy": ["Ireland", "Norway", "Cambodia", "Nigeria", "Switzerland"]}
+{"subject": "Al Daayen", "object": "Qatar", "taxonomy": ["Australia", "Czechoslovakia", "France", "Libya", "Poland"]}
+{"subject": "Les Bons Villers", "object": "Belgium", "taxonomy": ["Paraguay", "Azerbaijan", "Bulgaria", "Germany", "Bahamas"]}
+{"subject": "Shichikashuku", "object": "Japan", "taxonomy": ["Portugal", "Serbia", "Qatar", "Venezuela", "Ukraine"]}
+{"subject": "Carpathian Mountains", "object": "Austria", "taxonomy": ["Tunisia", "Kenya", "Madagascar", "Montenegro", "Portugal"]}
+{"subject": "Criuleni District", "object": "Moldova", "taxonomy": ["Bangladesh", "Estonia", "Cyprus", "Oman", "Bolivia"]}
+{"subject": "Catholic Syrian Bank", "object": "India", "taxonomy": ["Denmark", "Pakistan", "Czechoslovakia", "Israel", "Bahamas"]}
+{"subject": "FC Gorodeya", "object": "Belarus", "taxonomy": ["Cuba", "Peru", "Mauritius", "Sweden", "Cyprus"]}
+{"subject": "Nizhneserginsky District", "object": "Russia", "taxonomy": ["Denmark", "Afghanistan", "Qatar", "Switzerland", "Peru"]}
+{"subject": "South East Forests National Park", "object": "Australia", "taxonomy": ["Liberia", "Singapore", "Madagascar", "Hungary", "Bahamas"]}
+{"subject": "Kalvola", "object": "Finland", "taxonomy": ["Cambodia", "Rwanda", "Tanzania", "Colombia", "Kenya"]}
+{"subject": "Markham District High School", "object": "Canada", "taxonomy": ["Estonia", "Slovenia", "Bahrain", "Azerbaijan", "Romania"]}
+{"subject": "Tursi", "object": "Italy", "taxonomy": ["Mali", "Fiji", "Algeria", "Malta", "Kenya"]}
+{"subject": "KBC Bank", "object": "Belgium", "taxonomy": ["Tunisia", "Afghanistan", "Tanzania", "Honduras", "Peru"]}
+{"subject": "Foundation for a Free Information Infrastructure", "object": "Germany", "taxonomy": ["Madagascar", "Tajikistan", "Lithuania", "Slovenia", "Thailand"]}
+{"subject": "The Forks, Winnipeg", "object": "Canada", "taxonomy": ["Moldova", "Madagascar", "Peru", "Kyrgyzstan", "Argentina"]}
+{"subject": "Leiria", "object": "Portugal", "taxonomy": ["Ireland", "Norway", "Bangladesh", "Mali", "Germany"]}
+{"subject": "Bad Wildungen", "object": "Germany", "taxonomy": ["Somalia", "Kuwait", "Israel", "Singapore", "Sweden"]}
+{"subject": "La famille Plouffe", "object": "Canada", "taxonomy": ["Kazakhstan", "Serbia", "Morocco", "Nepal", "Latvia"]}
+{"subject": "Turaida", "object": "Latvia", "taxonomy": ["Pakistan", "Chile", "Malawi", "Serbia", "Romania"]}
+{"subject": "Ballydehob", "object": "Ireland", "taxonomy": ["Romania", "Peru", "Namibia", "Cuba", "Poland"]}
+{"subject": "Lateral Road", "object": "Bhutan", "taxonomy": ["Poland", "Kenya", "Yemen", "Qatar", "Mexico"]}
+{"subject": "agglomeration community", "object": "France", "taxonomy": ["Kazakhstan", "Afghanistan", "Kuwait", "Nicaragua", "Albania"]}
+{"subject": "Villars-Burquin", "object": "Switzerland", "taxonomy": ["Nigeria", "Israel", "Malawi", "Botswana", "Denmark"]}
+{"subject": "CNH Industrial", "object": "Netherlands", "taxonomy": ["Rwanda", "Malta", "Croatia", "Mexico", "Colombia"]}
+{"subject": "Rio Quente", "object": "Brazil", "taxonomy": ["Albania", "Cyprus", "Bahamas", "Somalia", "Austria"]}
+{"subject": "Fort Calgary", "object": "Canada", "taxonomy": ["Tunisia", "Latvia", "Azerbaijan", "Benin", "Estonia"]}
+{"subject": "Chol Kiri District", "object": "Cambodia", "taxonomy": ["Portugal", "Ethiopia", "Mali", "Liberia", "Fiji"]}
+{"subject": "Tudeshk Rural District", "object": "Iran", "taxonomy": ["Uzbekistan", "Botswana", "Malawi", "Turkey", "Austria"]}
+{"subject": "Sun News Network", "object": "Canada", "taxonomy": ["Malaysia", "Switzerland", "Rwanda", "Namibia", "Austria"]}
+{"subject": "Ba F.C.", "object": "Fiji", "taxonomy": ["Netherlands", "Algeria", "Bermuda", "Guatemala", "Italy"]}
+{"subject": "Lake Timiskaming", "object": "Canada", "taxonomy": ["Fiji", "Australia", "Nepal", "Egypt", "Cuba"]}
+{"subject": "Landskrona BoIS", "object": "Sweden", "taxonomy": ["Greece", "Cambodia", "Afghanistan", "Morocco", "Kazakhstan"]}
+{"subject": "Nesodden IF", "object": "Norway", "taxonomy": ["Liberia", "Nigeria", "Paraguay", "Poland", "Malaysia"]}
+{"subject": "Isola Dovarese", "object": "Italy", "taxonomy": ["Croatia", "Taiwan", "Indonesia", "Sweden", "Iran"]}
+{"subject": "Panagarh", "object": "India", "taxonomy": ["Brazil", "Nicaragua", "Bhutan", "Sweden", "Latvia"]}
+{"subject": "Foothills-Rocky View", "object": "Canada", "taxonomy": ["Armenia", "Guatemala", "Morocco", "Italy", "Fiji"]}
+{"subject": "Wallmerod", "object": "Germany", "taxonomy": ["Sudan", "India", "Tanzania", "Uganda", "Egypt"]}
+{"subject": "Breege", "object": "Germany", "taxonomy": ["Russia", "Pakistan", "Romania", "Ethiopia", "Greece"]}
+{"subject": "Minamiakita District", "object": "Japan", "taxonomy": ["Ethiopia", "Syria", "Cyprus", "Uzbekistan", "Belarus"]}
+{"subject": "Zbuczyn", "object": "Poland", "taxonomy": ["Greece", "Switzerland", "Brazil", "Czechoslovakia", "Serbia"]}
+{"subject": "Ariake Coliseum", "object": "Japan", "taxonomy": ["Cambodia", "Nigeria", "Fiji", "Luxembourg", "Cuba"]}
+{"subject": "Big Timothy Mountain", "object": "Canada", "taxonomy": ["Greece", "Mauritius", "Czechoslovakia", "Somalia", "Cyprus"]}
+{"subject": "Leap Castle", "object": "Ireland", "taxonomy": ["Belarus", "Iraq", "Nicaragua", "Rwanda", "Latvia"]}
+{"subject": "Spanish Armed Forces", "object": "Spain", "taxonomy": ["Venezuela", "Nicaragua", "Iran", "Paraguay", "Bahrain"]}
+{"subject": "Erbil SC", "object": "Iraq", "taxonomy": ["Vietnam", "Malta", "Nicaragua", "Norway", "Belarus"]}
+{"subject": "Toktogul Dam", "object": "Kyrgyzstan", "taxonomy": ["Poland", "Algeria", "Liberia", "Ethiopia", "Cambodia"]}
+{"subject": "Moscato d'Asti", "object": "Italy", "taxonomy": ["Ghana", "Benin", "Fiji", "Sudan", "Kosovo"]}
+{"subject": "Helmbrechts", "object": "Germany", "taxonomy": ["Chile", "Nicaragua", "Kyrgyzstan", "Mexico", "Madagascar"]}
+{"subject": "Mukhed", "object": "India", "taxonomy": ["Kosovo", "Fiji", "Malawi", "Netherlands", "Kazakhstan"]}
+{"subject": "Ticho House", "object": "Israel", "taxonomy": ["Pakistan", "Italy", "Romania", "Tanzania", "Spain"]}
+{"subject": "Chartered Professional Accountant", "object": "Canada", "taxonomy": ["India", "Nicaragua", "Cuba", "Italy", "Switzerland"]}
+{"subject": "Banesh Rural District", "object": "Iran", "taxonomy": ["Honduras", "Ghana", "Uzbekistan", "Cuba", "Luxembourg"]}
+{"subject": "Capoeira", "object": "Brazil", "taxonomy": ["Nigeria", "Estonia", "Italy", "Cambodia", "Turkey"]}
+{"subject": "Opel", "object": "Germany", "taxonomy": ["Cyprus", "Iran", "Qatar", "Montenegro", "Tanzania"]}
+{"subject": "Naruto Strait", "object": "Japan", "taxonomy": ["Algeria", "Lithuania", "Mauritius", "Colombia", "Spain"]}
+{"subject": "Khasavyurt", "object": "Russia", "taxonomy": ["Sudan", "Egypt", "Taiwan", "Bermuda", "Hungary"]}
+{"subject": "Temples of Abu Simbel", "object": "Egypt", "taxonomy": ["Italy", "Kenya", "Belarus", "Austria", "Yemen"]}
+{"subject": "Grobbendonk", "object": "Belgium", "taxonomy": ["Libya", "Denmark", "Montenegro", "Afghanistan", "Ghana"]}
+{"subject": "Augustdorf", "object": "Germany", "taxonomy": ["Iran", "Botswana", "Ukraine", "Uzbekistan", "Tanzania"]}
+{"subject": "Jafara", "object": "Libya", "taxonomy": ["Bermuda", "Liberia", "Kazakhstan", "Argentina", "Pakistan"]}
+{"subject": "Jonava District Municipality", "object": "Lithuania", "taxonomy": ["Tunisia", "Bangladesh", "Russia", "Malawi", "Belgium"]}
+{"subject": "Georgians", "object": "Azerbaijan", "taxonomy": ["Lithuania", "Tajikistan", "Tunisia", "Qatar", "Uzbekistan"]}
+{"subject": "Kfar Giladi", "object": "Israel", "taxonomy": ["Botswana", "Argentina", "Turkey", "Russia", "Ghana"]}
+{"subject": "Tell Rifaat", "object": "Syria", "taxonomy": ["Tajikistan", "Latvia", "Switzerland", "Morocco", "Tunisia"]}
+{"subject": "Cocconato", "object": "Italy", "taxonomy": ["Czechoslovakia", "Slovenia", "Australia", "Iran", "Netherlands"]}
+{"subject": "Santa Cruz de Mompox", "object": "Colombia", "taxonomy": ["Malta", "France", "Mexico", "Ireland", "Germany"]}
+{"subject": "Sydney Peace Prize", "object": "Australia", "taxonomy": ["Romania", "Israel", "Cambodia", "Switzerland", "Kuwait"]}
+{"subject": "Cayeux-sur-Mer", "object": "France", "taxonomy": ["Chile", "Norway", "Thailand", "Austria", "Croatia"]}
+{"subject": "Santa Maria da Feira Municipality", "object": "Portugal", "taxonomy": ["Fiji", "Kosovo", "Armenia", "Kyrgyzstan", "Russia"]}
+{"subject": "Yoro", "object": "Honduras", "taxonomy": ["Italy", "Madagascar", "Canada", "Guatemala", "Azerbaijan"]}
+{"subject": "Hellenic Police", "object": "Greece", "taxonomy": ["Bangladesh", "Egypt", "Kuwait", "Lebanon", "Cyprus"]}
+{"subject": "Koriya district", "object": "India", "taxonomy": ["Bahrain", "Romania", "Pakistan", "Portugal", "Italy"]}
+{"subject": "Albanian Land Force", "object": "Albania", "taxonomy": ["Lebanon", "Fiji", "Russia", "Algeria", "Moldova"]}
+{"subject": "Tampines Expressway", "object": "Singapore", "taxonomy": ["Latvia", "Lithuania", "Turkey", "Thailand", "Malaysia"]}
+{"subject": "Tabor Park Vocational School", "object": "Canada", "taxonomy": ["Sudan", "Syria", "Serbia", "Tunisia", "Malaysia"]}
+{"subject": "Rock al Parque", "object": "Colombia", "taxonomy": ["Azerbaijan", "Bangladesh", "Belarus", "Turkey", "Mauritius"]}
+{"subject": "Bla Cercle", "object": "Mali", "taxonomy": ["Netherlands", "France", "Sweden", "Morocco", "Botswana"]}
+{"subject": "Queens Gardens, Brisbane", "object": "Australia", "taxonomy": ["Luxembourg", "Mauritius", "Peru", "Indonesia", "Libya"]}
+{"subject": "Gobind Sagar", "object": "India", "taxonomy": ["Germany", "Ireland", "Uzbekistan", "Bahamas", "France"]}
+{"subject": "Uda District", "object": "Japan", "taxonomy": ["Venezuela", "Estonia", "Spain", "Nicaragua", "Switzerland"]}
+{"subject": "Beckingen", "object": "Germany", "taxonomy": ["Uzbekistan", "Singapore", "Croatia", "Algeria", "Namibia"]}
+{"subject": "Japan National Route 47", "object": "Japan", "taxonomy": ["Tajikistan", "Croatia", "Singapore", "Mauritius", "Tanzania"]}
+{"subject": "Goseck circle", "object": "Germany", "taxonomy": ["Nepal", "Austria", "Tanzania", "Luxembourg", "Russia"]}
+{"subject": "Pacaya-Samiria National Reserve", "object": "Peru", "taxonomy": ["Cambodia", "Poland", "Cuba", "Canada", "Cyprus"]}
+{"subject": "Nyeri County", "object": "Kenya", "taxonomy": ["Norway", "Morocco", "Fiji", "Thailand", "Kyrgyzstan"]}
+{"subject": "Fluminense F.C.", "object": "Brazil", "taxonomy": ["Tanzania", "Czechoslovakia", "Latvia", "Mali", "Rwanda"]}
+{"subject": "Bearpaw Shale", "object": "Canada", "taxonomy": ["Latvia", "Sudan", "Russia", "Vietnam", "Azerbaijan"]}
+{"subject": "Capdenac", "object": "France", "taxonomy": ["Bulgaria", "Iran", "Syria", "Namibia", "Taiwan"]}
+{"subject": "Kadrina Rural Municipality", "object": "Estonia", "taxonomy": ["Bulgaria", "Australia", "Iran", "Kosovo", "Bermuda"]}
+{"subject": "Baron de Hirsch Cemetery, Halifax", "object": "Canada", "taxonomy": ["Afghanistan", "Qatar", "Armenia", "Czechoslovakia", "Peru"]}
+{"subject": "Bungsberg", "object": "Germany", "taxonomy": ["Slovenia", "Rwanda", "Russia", "Kenya", "Lithuania"]}
+{"subject": "Kungliga Svenska Segelsällskapet", "object": "Sweden", "taxonomy": ["Luxembourg", "Malaysia", "Australia", "Hungary", "France"]}
+{"subject": "Mannheim City Airport", "object": "Germany", "taxonomy": ["Montenegro", "Somalia", "France", "Romania", "Albania"]}
+{"subject": "Borovsky District", "object": "Russia", "taxonomy": ["Taiwan", "Bulgaria", "Montenegro", "Indonesia", "Germany"]}
+{"subject": "Westerburg", "object": "Germany", "taxonomy": ["Hungary", "Syria", "Azerbaijan", "Thailand", "Romania"]}
+{"subject": "Lismore GAA", "object": "Ireland", "taxonomy": ["Albania", "Spain", "Cambodia", "Lebanon", "Bhutan"]}
+{"subject": "Royal Malaysian Navy", "object": "Malaysia", "taxonomy": ["Portugal", "Brazil", "Philippines", "Turkey", "Mauritius"]}
+{"subject": "Pannonhalma Archabbey", "object": "Hungary", "taxonomy": ["Azerbaijan", "Nepal", "Austria", "Cyprus", "Qatar"]}
+{"subject": "Cenepa River", "object": "Peru", "taxonomy": ["Ethiopia", "Turkey", "Guatemala", "Belgium", "Argentina"]}
+{"subject": "Kojur District", "object": "Iran", "taxonomy": ["Afghanistan", "Kosovo", "Paraguay", "Montenegro", "Argentina"]}
+{"subject": "Le Puy Foot 43 Auvergne", "object": "France", "taxonomy": ["Netherlands", "Luxembourg", "Nicaragua", "Singapore", "Austria"]}
+{"subject": "Maella", "object": "Spain", "taxonomy": ["Uganda", "Austria", "Switzerland", "Nicaragua", "Fiji"]}
+{"subject": "Pontigny Abbey", "object": "France", "taxonomy": ["Russia", "Iraq", "Colombia", "Vietnam", "Somalia"]}
+{"subject": "Bzura", "object": "Poland", "taxonomy": ["Liberia", "Botswana", "Somalia", "Morocco", "Malaysia"]}
+{"subject": "Gallese", "object": "Italy", "taxonomy": ["Denmark", "Kazakhstan", "Paraguay", "Israel", "Bahrain"]}
+{"subject": "plaza de Cibeles", "object": "Spain", "taxonomy": ["Finland", "Pakistan", "Venezuela", "Nepal", "Peru"]}
+{"subject": "Roman Catholic Archdiocese of Ljubljana", "object": "Slovenia", "taxonomy": ["Kenya", "Bhutan", "Vietnam", "Malawi", "Peru"]}
+{"subject": "Naumburg (Saale)", "object": "Germany", "taxonomy": ["Latvia", "Czechoslovakia", "Netherlands", "Iraq", "Peru"]}
+{"subject": "Fischenthal", "object": "Switzerland", "taxonomy": ["Tajikistan", "Qatar", "Taiwan", "Albania", "Uganda"]}
+{"subject": "Gmina Leszno", "object": "Poland", "taxonomy": ["Venezuela", "Croatia", "Kenya", "Finland", "Malaysia"]}
+{"subject": "Lutvann", "object": "Norway", "taxonomy": ["Botswana", "Qatar", "Denmark", "Ukraine", "Japan"]}
+{"subject": "Langtang National Park", "object": "Nepal", "taxonomy": ["Peru", "Albania", "Madagascar", "Latvia", "Cambodia"]}
+{"subject": "Ivughli Rural District", "object": "Iran", "taxonomy": ["India", "Brazil", "Fiji", "Ethiopia", "Romania"]}
+{"subject": "Minamiarupusu", "object": "Japan", "taxonomy": ["Switzerland", "Malta", "Ukraine", "Namibia", "Bhutan"]}
+{"subject": "Uromi", "object": "Nigeria", "taxonomy": ["Syria", "Nepal", "Uganda", "Namibia", "Paraguay"]}
+{"subject": "2004 IAAF World Cross Country Championships", "object": "Belgium", "taxonomy": ["Canada", "Switzerland", "Tanzania", "Kosovo", "Argentina"]}
+{"subject": "Dospat Municipality", "object": "Bulgaria", "taxonomy": ["Austria", "Qatar", "Czechoslovakia", "Cyprus", "Guatemala"]}
+{"subject": "Miramichi Centre", "object": "Canada", "taxonomy": ["Madagascar", "Venezuela", "Mauritius", "Vietnam", "Iraq"]}
+{"subject": "Hispaniola", "object": "Haiti", "taxonomy": ["Lithuania", "Uzbekistan", "Brazil", "Qatar", "Guatemala"]}
+{"subject": "Poissy", "object": "France", "taxonomy": ["Oman", "Syria", "Lithuania", "Cuba", "Nicaragua"]}
+{"subject": "Al-Zahiriyah Library", "object": "Syria", "taxonomy": ["Hungary", "Lithuania", "Ireland", "Chile", "Portugal"]}
+{"subject": "Vernayaz", "object": "Switzerland", "taxonomy": ["Benin", "Serbia", "Hungary", "Kenya", "Nigeria"]}
+{"subject": "1960 Summer Olympics", "object": "Italy", "taxonomy": ["Egypt", "Chile", "Poland", "Tunisia", "Kyrgyzstan"]}
+{"subject": "Pragersko", "object": "Slovenia", "taxonomy": ["Hungary", "Sweden", "Somalia", "Albania", "Ethiopia"]}
+{"subject": "Le Fuilet", "object": "France", "taxonomy": ["Bahamas", "Tunisia", "Bulgaria", "Taiwan", "Poland"]}
+{"subject": "Tinapa Resort", "object": "Nigeria", "taxonomy": ["Morocco", "Ireland", "Chile", "Australia", "Kazakhstan"]}
+{"subject": "Kibungo Province", "object": "Rwanda", "taxonomy": ["Haiti", "Iraq", "Kosovo", "Germany", "Somalia"]}
+{"subject": "Idalium", "object": "Cyprus", "taxonomy": ["Ghana", "Belarus", "Azerbaijan", "Yemen", "Cambodia"]}
+{"subject": "Besazio", "object": "Switzerland", "taxonomy": ["Luxembourg", "Malaysia", "Finland", "Colombia", "Austria"]}
+{"subject": "Sulaimaniyah International Airport", "object": "Iraq", "taxonomy": ["Syria", "Greece", "Rwanda", "Botswana", "Mauritius"]}
+{"subject": "Strait of Kerch", "object": "Russia", "taxonomy": ["Argentina", "Nigeria", "Haiti", "Somalia", "Qatar"]}
+{"subject": "Rottendorf", "object": "Germany", "taxonomy": ["Estonia", "Haiti", "Benin", "Argentina", "Japan"]}
+{"subject": "Addanki mandal", "object": "India", "taxonomy": ["Libya", "Benin", "Chile", "Indonesia", "France"]}
+{"subject": "Toronto Police Service", "object": "Canada", "taxonomy": ["Singapore", "Morocco", "Bolivia", "Lebanon", "Peru"]}
+{"subject": "Karimnagar district", "object": "India", "taxonomy": ["Honduras", "Denmark", "Japan", "Vietnam", "Finland"]}
+{"subject": "Hyderabad Deccan railway station", "object": "India", "taxonomy": ["Rwanda", "Azerbaijan", "Italy", "Bangladesh", "Kuwait"]}
+{"subject": "Geaca", "object": "Romania", "taxonomy": ["Ghana", "Brazil", "Armenia", "Montenegro", "Spain"]}
+{"subject": "Gmina Olsztyn", "object": "Poland", "taxonomy": ["Fiji", "Afghanistan", "Sweden", "Mali", "Australia"]}
+{"subject": "JVC Kenwood Victor Entertainment", "object": "Japan", "taxonomy": ["Romania", "Vietnam", "Malawi", "Czechoslovakia", "Luxembourg"]}
+{"subject": "Piedecuesta", "object": "Colombia", "taxonomy": ["Yemen", "Morocco", "Cambodia", "Serbia", "Nepal"]}
+{"subject": "Gmina Morawica", "object": "Poland", "taxonomy": ["Estonia", "India", "Benin", "Italy", "Afghanistan"]}
+{"subject": "Mumiy Troll", "object": "Russia", "taxonomy": ["Kuwait", "Romania", "Croatia", "Colombia", "Botswana"]}
+{"subject": "Guggenheim Museum", "object": "Spain", "taxonomy": ["Bahrain", "Lithuania", "Italy", "Rwanda", "Norway"]}
+{"subject": "Porto Azzurro", "object": "Italy", "taxonomy": ["Cuba", "Denmark", "Cyprus", "Libya", "Indonesia"]}
+{"subject": "Nkhata Bay District", "object": "Malawi", "taxonomy": ["Nicaragua", "Greece", "Thailand", "Paraguay", "Belgium"]}
+{"subject": "Thiruvattar", "object": "India", "taxonomy": ["Mexico", "Morocco", "Kazakhstan", "Bolivia", "Kosovo"]}
+{"subject": "Sumulong Highway", "object": "Philippines", "taxonomy": ["Paraguay", "Taiwan", "Latvia", "Cyprus", "Yemen"]}
+{"subject": "Trigono", "object": "Greece", "taxonomy": ["Iraq", "Rwanda", "Ethiopia", "Germany", "Romania"]}
+{"subject": "VTB Capital", "object": "Russia", "taxonomy": ["Yemen", "Greece", "Mauritius", "Croatia", "Finland"]}
+{"subject": "Shastri Park", "object": "India", "taxonomy": ["Finland", "Armenia", "Mali", "Argentina", "Slovenia"]}
+{"subject": "People's Party for Freedom and Democracy", "object": "Netherlands", "taxonomy": ["Croatia", "Uzbekistan", "Canada", "Botswana", "Hungary"]}
+{"subject": "Steenwijk", "object": "Netherlands", "taxonomy": ["Sudan", "Rwanda", "Uganda", "Tanzania", "Croatia"]}
+{"subject": "Eriksbergs Mekaniska Verkstad", "object": "Sweden", "taxonomy": ["Iraq", "Colombia", "Sudan", "Oman", "Australia"]}
+{"subject": "Mirbag-e Shomali Rural District", "object": "Iran", "taxonomy": ["Netherlands", "Indonesia", "Cuba", "Belarus", "Iraq"]}
+{"subject": "Cairo American College", "object": "Egypt", "taxonomy": ["Mali", "Ethiopia", "Guatemala", "Bolivia", "Switzerland"]}
+{"subject": "Kresttsy", "object": "Russia", "taxonomy": ["Serbia", "Lebanon", "Madagascar", "Algeria", "Ukraine"]}
+{"subject": "Iran Aviation Industries Organization", "object": "Iran", "taxonomy": ["Greece", "Honduras", "Bermuda", "Bolivia", "Austria"]}
+{"subject": "Kluuvi", "object": "Finland", "taxonomy": ["Sweden", "Tanzania", "Bhutan", "Netherlands", "Latvia"]}
+{"subject": "MNW Music", "object": "Sweden", "taxonomy": ["Pakistan", "Peru", "Azerbaijan", "Uganda", "Afghanistan"]}
+{"subject": "Vijayawada Junction railway station", "object": "India", "taxonomy": ["Kenya", "Czechoslovakia", "Guatemala", "Sudan", "Austria"]}
+{"subject": "Dawa River", "object": "Somalia", "taxonomy": ["Azerbaijan", "Netherlands", "Pakistan", "India", "Philippines"]}
+{"subject": "Norfolk Air", "object": "Australia", "taxonomy": ["Canada", "Pakistan", "Nigeria", "Uzbekistan", "Montenegro"]}
+{"subject": "Pamukkale", "object": "Turkey", "taxonomy": ["Venezuela", "Madagascar", "Sweden", "Tanzania", "Kosovo"]}
+{"subject": "La Guajira Desert", "object": "Colombia", "taxonomy": ["Pakistan", "Liberia", "Italy", "Taiwan", "Russia"]}
+{"subject": "Kamchatka Krai", "object": "Russia", "taxonomy": ["Canada", "Oman", "Finland", "Mauritius", "Vietnam"]}
+{"subject": "Turkey national rugby union team", "object": "Turkey", "taxonomy": ["Denmark", "Latvia", "Egypt", "Kosovo", "Cambodia"]}
+{"subject": "Lewin Brzeski", "object": "Poland", "taxonomy": ["Bolivia", "Malawi", "Czechoslovakia", "Liberia", "India"]}
+{"subject": "Vermilion", "object": "Canada", "taxonomy": ["Spain", "Bulgaria", "Guatemala", "Syria", "Germany"]}
+{"subject": "E.ON Sverige", "object": "Sweden", "taxonomy": ["Uzbekistan", "Iran", "Afghanistan", "Mexico", "Cuba"]}
+{"subject": "Plougonven", "object": "France", "taxonomy": ["Yemen", "Madagascar", "Haiti", "Poland", "India"]}
+{"subject": "Stentoften Runestone", "object": "Sweden", "taxonomy": ["Rwanda", "Canada", "Greece", "Kosovo", "Mali"]}
+{"subject": "Narman", "object": "Turkey", "taxonomy": ["Romania", "Moldova", "Nicaragua", "Colombia", "Kosovo"]}
+{"subject": "Lauterecken-Wolfstein", "object": "Germany", "taxonomy": ["Libya", "Philippines", "Ukraine", "Kenya", "Mali"]}
+{"subject": "Himmelbjerget", "object": "Denmark", "taxonomy": ["Estonia", "Taiwan", "Italy", "Honduras", "Romania"]}
+{"subject": "Huachocolpa District", "object": "Peru", "taxonomy": ["Malaysia", "Botswana", "Cuba", "Pakistan", "Tajikistan"]}
+{"subject": "Rottumerplaat", "object": "Netherlands", "taxonomy": ["Qatar", "Croatia", "Tajikistan", "Hungary", "Estonia"]}
+{"subject": "Munich", "object": "Germany", "taxonomy": ["Mauritius", "Israel", "Benin", "Venezuela", "Vietnam"]}
+{"subject": "Kununurra", "object": "Australia", "taxonomy": ["Netherlands", "Mali", "Italy", "Luxembourg", "Kenya"]}
+{"subject": "Gio Linh", "object": "Vietnam", "taxonomy": ["Fiji", "Ghana", "Japan", "Bahamas", "Luxembourg"]}
+{"subject": "Bobolice", "object": "Poland", "taxonomy": ["Tajikistan", "Nepal", "Russia", "Slovenia", "Tunisia"]}
+{"subject": "Katwijk aan den Rijn", "object": "Netherlands", "taxonomy": ["Uganda", "Vietnam", "Sudan", "Qatar", "Cyprus"]}
+{"subject": "Montiel", "object": "Spain", "taxonomy": ["Yemen", "Benin", "Kyrgyzstan", "Moldova", "Bolivia"]}
+{"subject": "Wazzin", "object": "Libya", "taxonomy": ["India", "Malawi", "Bangladesh", "Madagascar", "Brazil"]}
+{"subject": "Agios Dimitrios", "object": "Greece", "taxonomy": ["Bolivia", "Spain", "Lithuania", "Tunisia", "Kuwait"]}
+{"subject": "Mosque of Uqba", "object": "Tunisia", "taxonomy": ["Greece", "Croatia", "Cambodia", "Poland", "Czechoslovakia"]}
+{"subject": "Ledaal", "object": "Norway", "taxonomy": ["Nicaragua", "Australia", "Albania", "Iran", "Tanzania"]}
+{"subject": "County Carlow", "object": "Ireland", "taxonomy": ["Bolivia", "Mexico", "Hungary", "Chile", "Oman"]}
+{"subject": "Boguchany Dam", "object": "Russia", "taxonomy": ["Kenya", "Bolivia", "Mexico", "Liberia", "Sudan"]}
+{"subject": "Milltown Institute of Theology and Philosophy", "object": "Ireland", "taxonomy": ["Madagascar", "Uzbekistan", "Bhutan", "Tanzania", "Singapore"]}
+{"subject": "Western Finland Province", "object": "Finland", "taxonomy": ["Armenia", "Poland", "Chile", "Denmark", "Serbia"]}
+{"subject": "Autonomous University of Madrid", "object": "Spain", "taxonomy": ["Sudan", "Hungary", "Bahamas", "Sweden", "Qatar"]}
+{"subject": "Bernheze", "object": "Netherlands", "taxonomy": ["Austria", "Liberia", "Mexico", "Somalia", "Peru"]}
+{"subject": "canton of Bolivia", "object": "Bolivia", "taxonomy": ["Portugal", "Australia", "Algeria", "Cyprus", "Estonia"]}
+{"subject": "Ferrobaires", "object": "Argentina", "taxonomy": ["Lebanon", "Nigeria", "Colombia", "Moldova", "Luxembourg"]}
+{"subject": "Treuchtlingen", "object": "Germany", "taxonomy": ["Nicaragua", "Cuba", "Uganda", "Argentina", "Qatar"]}
+{"subject": "Zuiderzee", "object": "Netherlands", "taxonomy": ["Liberia", "Kuwait", "Moldova", "Denmark", "Brazil"]}
+{"subject": "Eerbeek", "object": "Netherlands", "taxonomy": ["Austria", "Lithuania", "Argentina", "Thailand", "Brazil"]}
+{"subject": "Alte Nationalgalerie", "object": "Germany", "taxonomy": ["Bolivia", "Kenya", "Mauritius", "Ukraine", "Ghana"]}
+{"subject": "Piazza al Serchio", "object": "Italy", "taxonomy": ["Libya", "Venezuela", "Portugal", "Luxembourg", "Tunisia"]}
+{"subject": "Wellington Island", "object": "Chile", "taxonomy": ["Albania", "Brazil", "Iran", "Bolivia", "Belarus"]}
+{"subject": "Sadr City", "object": "Iraq", "taxonomy": ["Algeria", "Somalia", "Taiwan", "Bermuda", "Colombia"]}
+{"subject": "Teshie", "object": "Ghana", "taxonomy": ["Slovenia", "Israel", "Fiji", "Mexico", "Venezuela"]}
+{"subject": "Buraswa", "object": "India", "taxonomy": ["Afghanistan", "Paraguay", "Tajikistan", "Luxembourg", "Armenia"]}
+{"subject": "European Physical Society", "object": "France", "taxonomy": ["Czechoslovakia", "India", "Malta", "Brazil", "Liberia"]}
+{"subject": "Tukvar Tea Estate", "object": "India", "taxonomy": ["Colombia", "Benin", "Czechoslovakia", "Liberia", "Slovenia"]}
+{"subject": "Skinnamarink TV", "object": "Canada", "taxonomy": ["Kyrgyzstan", "Paraguay", "Vietnam", "Belarus", "Netherlands"]}
+{"subject": "Sabburah Subdistrict", "object": "Syria", "taxonomy": ["Thailand", "Bolivia", "Tanzania", "Vietnam", "Rwanda"]}
+{"subject": "Cubagua", "object": "Venezuela", "taxonomy": ["Bermuda", "Ghana", "Latvia", "Turkey", "Greece"]}
+{"subject": "Welschnofen", "object": "Italy", "taxonomy": ["Kyrgyzstan", "Nicaragua", "Nigeria", "Moldova", "Montenegro"]}
+{"subject": "Tempi Municipality", "object": "Greece", "taxonomy": ["Sudan", "Bahrain", "Ireland", "Montenegro", "Hungary"]}
+{"subject": "Alfred Wegener Institute for Polar and Marine Research", "object": "Germany", "taxonomy": ["Kyrgyzstan", "Switzerland", "Slovenia", "Lithuania", "Poland"]}
+{"subject": "Bolpur", "object": "India", "taxonomy": ["Venezuela", "Kazakhstan", "Latvia", "Lebanon", "Thailand"]}
+{"subject": "Grand-Popo", "object": "Benin", "taxonomy": ["Oman", "Mauritius", "Qatar", "Belgium", "Serbia"]}
+{"subject": "Tiv people", "object": "Nigeria", "taxonomy": ["Benin", "Malawi", "Guatemala", "Honduras", "Chile"]}
+{"subject": "Beneden Merwede", "object": "Netherlands", "taxonomy": ["Bolivia", "Somalia", "Azerbaijan", "Italy", "Afghanistan"]}
+{"subject": "Lodhran Tehsil", "object": "Pakistan", "taxonomy": ["Italy", "Azerbaijan", "Somalia", "Bhutan", "Paraguay"]}
+{"subject": "Nimmitabel", "object": "Australia", "taxonomy": ["Brazil", "Poland", "Czechoslovakia", "Malawi", "Nepal"]}
+{"subject": "Battle of Montereau", "object": "France", "taxonomy": ["Bhutan", "Ghana", "India", "Mexico", "Libya"]}
+{"subject": "Kretinga", "object": "Lithuania", "taxonomy": ["Venezuela", "Libya", "Kenya", "Ireland", "Somalia"]}
+{"subject": "Menangle Park", "object": "Australia", "taxonomy": ["Cambodia", "Singapore", "Qatar", "Belarus", "Chile"]}
+{"subject": "Hooge Crater Commonwealth War Graves Commission Cemetery", "object": "Belgium", "taxonomy": ["Portugal", "Thailand", "Argentina", "Colombia", "Cuba"]}
+{"subject": "Transylvanian Plateau", "object": "Romania", "taxonomy": ["Vietnam", "Ukraine", "Lithuania", "Sudan", "Nicaragua"]}
+{"subject": "Gavork-e Nalin Rural District", "object": "Iran", "taxonomy": ["Greece", "Sweden", "Turkey", "Nigeria", "Mali"]}
+{"subject": "Callantsoog", "object": "Netherlands", "taxonomy": ["Bahamas", "Argentina", "Iran", "Austria", "Chile"]}
+{"subject": "Hammarby IF DFF", "object": "Sweden", "taxonomy": ["Paraguay", "Uzbekistan", "Lithuania", "Madagascar", "Bermuda"]}
+{"subject": "Legnica County", "object": "Poland", "taxonomy": ["Argentina", "Rwanda", "Armenia", "Kazakhstan", "Bangladesh"]}
+{"subject": "Bhopal division", "object": "India", "taxonomy": ["Brazil", "Spain", "Syria", "Bolivia", "Ethiopia"]}
+{"subject": "Alberta Alliance Party", "object": "Canada", "taxonomy": ["Netherlands", "Chile", "Luxembourg", "Ukraine", "Cyprus"]}
+{"subject": "Dunnamaggin GAA", "object": "Ireland", "taxonomy": ["Thailand", "Madagascar", "Spain", "Bhutan", "Benin"]}
+{"subject": "Public Broadcasting Services", "object": "Malta", "taxonomy": ["Oman", "Paraguay", "Iran", "Bangladesh", "Sweden"]}
+{"subject": "cadastral municipality", "object": "Netherlands", "taxonomy": ["Mali", "Australia", "Bangladesh", "Kenya", "Kuwait"]}
+{"subject": "Constitution of Afghanistan", "object": "Afghanistan", "taxonomy": ["Uganda", "Albania", "Tanzania", "Germany", "Iraq"]}
+{"subject": "National Highway 45", "object": "India", "taxonomy": ["Kyrgyzstan", "Singapore", "Luxembourg", "Fiji", "Bangladesh"]}
+{"subject": "Attingal", "object": "India", "taxonomy": ["Bahamas", "Ethiopia", "Latvia", "Peru", "Cambodia"]}
+{"subject": "TROS", "object": "Netherlands", "taxonomy": ["Syria", "Australia", "Yemen", "Benin", "Luxembourg"]}
+{"subject": "Ustevatn", "object": "Norway", "taxonomy": ["Syria", "Kazakhstan", "Fiji", "Chile", "Indonesia"]}
+{"subject": "Tartu Town Hall", "object": "Estonia", "taxonomy": ["France", "Bulgaria", "Bahrain", "Norway", "Japan"]}
+{"subject": "Moi International Sports Centre", "object": "Kenya", "taxonomy": ["Uzbekistan", "Switzerland", "Sweden", "Russia", "Ghana"]}
+{"subject": "Imsland", "object": "Norway", "taxonomy": ["Kuwait", "Fiji", "Botswana", "Egypt", "Mali"]}
+{"subject": "Isla Grande de Tierra del Fuego", "object": "Argentina", "taxonomy": ["Sudan", "Brazil", "Portugal", "Bhutan", "Ireland"]}
+{"subject": "Kharga Oasis", "object": "Egypt", "taxonomy": ["Tanzania", "Syria", "Philippines", "Uzbekistan", "Colombia"]}
+{"subject": "Ulpiana", "object": "Kosovo", "taxonomy": ["Kazakhstan", "Uganda", "Brazil", "Belarus", "Estonia"]}
+{"subject": "Oshawa", "object": "Canada", "taxonomy": ["Guatemala", "Chile", "Haiti", "Serbia", "Turkey"]}
+{"subject": "Sculeni", "object": "Moldova", "taxonomy": ["Malta", "Singapore", "Morocco", "Russia", "Argentina"]}
+{"subject": "Bose Institute", "object": "India", "taxonomy": ["Mexico", "Somalia", "Armenia", "France", "Cambodia"]}
+{"subject": "Sarpsborg 08 FF", "object": "Norway", "taxonomy": ["Uzbekistan", "Peru", "Turkey", "Malawi", "Estonia"]}
+{"subject": "Dumka district", "object": "India", "taxonomy": ["Brazil", "Algeria", "Cambodia", "Kyrgyzstan", "Venezuela"]}
+{"subject": "Piper Verlag", "object": "Germany", "taxonomy": ["Slovenia", "Bermuda", "Cambodia", "Kazakhstan", "Sweden"]}
+{"subject": "Boinpalle mandal", "object": "India", "taxonomy": ["Ireland", "Iran", "Romania", "Albania", "Chile"]}
+{"subject": "Kowsar County", "object": "Iran", "taxonomy": ["Finland", "Denmark", "Bangladesh", "Israel", "Serbia"]}
+{"subject": "Medaram", "object": "India", "taxonomy": ["Russia", "Turkey", "Guatemala", "Romania", "Austria"]}
+{"subject": "Ginza", "object": "Japan", "taxonomy": ["Bangladesh", "Poland", "Guatemala", "Nicaragua", "Hungary"]}
+{"subject": "Gmina Pokrzywnica", "object": "Poland", "taxonomy": ["Taiwan", "Ethiopia", "Bangladesh", "Kosovo", "Argentina"]}
+{"subject": "Ljig", "object": "Serbia", "taxonomy": ["Poland", "Germany", "Venezuela", "Oman", "Belgium"]}
+{"subject": "Buchans", "object": "Canada", "taxonomy": ["Serbia", "Bermuda", "Cuba", "Colombia", "Rwanda"]}
+{"subject": "Asian Highway Network", "object": "India", "taxonomy": ["Moldova", "France", "Czechoslovakia", "Egypt", "Taiwan"]}
+{"subject": "Al-Suqaylabiyah Subdistrict", "object": "Syria", "taxonomy": ["Portugal", "Belgium", "Nigeria", "Belarus", "Mexico"]}
+{"subject": "Alcanena Municipality", "object": "Portugal", "taxonomy": ["Morocco", "Serbia", "Fiji", "Indonesia", "Bolivia"]}
+{"subject": "Nauders", "object": "Austria", "taxonomy": ["Madagascar", "Thailand", "Italy", "Syria", "Bahrain"]}
+{"subject": "ITE College East", "object": "Singapore", "taxonomy": ["Malawi", "Finland", "Nigeria", "Afghanistan", "Moldova"]}
+{"subject": "New Era University", "object": "Philippines", "taxonomy": ["Cuba", "Sudan", "Portugal", "Azerbaijan", "Nicaragua"]}
+{"subject": "Valea lui Mihai", "object": "Romania", "taxonomy": ["Portugal", "Canada", "Kenya", "Switzerland", "Russia"]}
+{"subject": "Acolman Municipality", "object": "Mexico", "taxonomy": ["Rwanda", "Japan", "Serbia", "Albania", "Sudan"]}
+{"subject": "Ruthweiler", "object": "Germany", "taxonomy": ["Haiti", "Colombia", "Malta", "Somalia", "Kyrgyzstan"]}
+{"subject": "Sidhi district", "object": "India", "taxonomy": ["Egypt", "Kosovo", "Afghanistan", "Israel", "Tanzania"]}
+{"subject": "Berhala Island, Sabah", "object": "Malaysia", "taxonomy": ["Iran", "Finland", "Estonia", "Uganda", "Bolivia"]}
+{"subject": "Capolago", "object": "Switzerland", "taxonomy": ["Uzbekistan", "Mali", "Fiji", "Luxembourg", "India"]}
+{"subject": "Aden", "object": "Yemen", "taxonomy": ["Morocco", "Thailand", "Somalia", "Russia", "Hungary"]}
+{"subject": "Tehri Garhwal district", "object": "India", "taxonomy": ["Tajikistan", "Algeria", "Montenegro", "Ghana", "Singapore"]}
+{"subject": "Art Gallery of Ontario", "object": "Canada", "taxonomy": ["Belgium", "Tajikistan", "Honduras", "Indonesia", "Hungary"]}
+{"subject": "Kitakami Station", "object": "Japan", "taxonomy": ["Nigeria", "Luxembourg", "Russia", "Ireland", "Syria"]}
+{"subject": "Band-e Kaisar", "object": "Iran", "taxonomy": ["Botswana", "Malta", "Bahamas", "Nicaragua", "Czechoslovakia"]}
+{"subject": "2009 Speedway Ekstraliga", "object": "Poland", "taxonomy": ["Czechoslovakia", "Estonia", "Rwanda", "Namibia", "Ireland"]}
+{"subject": "Virgin Classics", "object": "France", "taxonomy": ["Oman", "Rwanda", "Syria", "Germany", "Canada"]}
+{"subject": "Helsinki City Hall", "object": "Finland", "taxonomy": ["Fiji", "Colombia", "Albania", "Somalia", "Yemen"]}
+{"subject": "Ovada", "object": "Italy", "taxonomy": ["Cambodia", "Romania", "Philippines", "Montenegro", "Indonesia"]}
+{"subject": "Lleida", "object": "Spain", "taxonomy": ["Bulgaria", "Cyprus", "Bhutan", "Bahrain", "Vietnam"]}
+{"subject": "FK Andijan", "object": "Uzbekistan", "taxonomy": ["Moldova", "Poland", "Bermuda", "Switzerland", "Spain"]}
+{"subject": "Villa La Pietra", "object": "Italy", "taxonomy": ["Bangladesh", "France", "Moldova", "Colombia", "Belarus"]}
+{"subject": "Pochepsky District", "object": "Russia", "taxonomy": ["Japan", "Rwanda", "Estonia", "Bangladesh", "Argentina"]}
+{"subject": "Rogun Dam", "object": "Tajikistan", "taxonomy": ["Russia", "Netherlands", "Peru", "Uzbekistan", "Sweden"]}
+{"subject": "Fukuno, Toyama", "object": "Japan", "taxonomy": ["Cyprus", "Armenia", "Bahamas", "Kazakhstan", "Albania"]}
+{"subject": "Nobel Peace Center", "object": "Norway", "taxonomy": ["Romania", "Pakistan", "Japan", "Kyrgyzstan", "Netherlands"]}
+{"subject": "Outer islands of Mauritius", "object": "Mauritius", "taxonomy": ["Vietnam", "Cyprus", "Italy", "Tunisia", "Namibia"]}
+{"subject": "Papanasam", "object": "India", "taxonomy": ["Belgium", "Belarus", "Bangladesh", "Bahrain", "Sudan"]}
+{"subject": "West Royalty, Prince Edward Island", "object": "Canada", "taxonomy": ["Portugal", "Iraq", "Mauritius", "Japan", "Hungary"]}
+{"subject": "Civic Forum", "object": "Czechoslovakia", "taxonomy": ["Ghana", "Afghanistan", "Yemen", "Madagascar", "Lithuania"]}
+{"subject": "Larsmo", "object": "Finland", "taxonomy": ["Ethiopia", "Netherlands", "Canada", "Taiwan", "Kosovo"]}
+{"subject": "Bilbao", "object": "Spain", "taxonomy": ["Ghana", "Guatemala", "Romania", "Oman", "Mauritius"]}
+{"subject": "Morshi", "object": "India", "taxonomy": ["Spain", "Bolivia", "Turkey", "Albania", "Germany"]}
+{"subject": "Danish Sign Language", "object": "Denmark", "taxonomy": ["Lithuania", "Mali", "Pakistan", "Benin", "Kazakhstan"]}
+{"subject": "Mediolanum Forum", "object": "Italy", "taxonomy": ["Nigeria", "Cambodia", "Australia", "Qatar", "Canada"]}
+{"subject": "Bouygues Telecom", "object": "France", "taxonomy": ["Estonia", "Liberia", "Bulgaria", "Japan", "Sweden"]}
+{"subject": "Sardent", "object": "France", "taxonomy": ["Poland", "Philippines", "Ireland", "Turkey", "Peru"]}
+{"subject": "Enghien-les-Bains", "object": "France", "taxonomy": ["Germany", "Oman", "Spain", "Namibia", "Norway"]}
+{"subject": "archdiocese of Gatineau", "object": "Canada", "taxonomy": ["Malaysia", "Turkey", "Italy", "Tunisia", "Japan"]}
+{"subject": "Bilecik Province", "object": "Turkey", "taxonomy": ["Oman", "Kenya", "Bangladesh", "Kazakhstan", "Indonesia"]}
+{"subject": "New England", "object": "Australia", "taxonomy": ["Latvia", "Serbia", "Rwanda", "Czechoslovakia", "Germany"]}
+{"subject": "Wabush Airport", "object": "Canada", "taxonomy": ["Ukraine", "Malaysia", "Mali", "Fiji", "Iraq"]}
+{"subject": "Vesuvius Observatory", "object": "Italy", "taxonomy": ["Luxembourg", "Tunisia", "Chile", "Oman", "Belarus"]}
+{"subject": "La Ribera Baixa", "object": "Spain", "taxonomy": ["Serbia", "Belarus", "Cambodia", "Syria", "Poland"]}
+{"subject": "Ust-Katav", "object": "Russia", "taxonomy": ["Taiwan", "Philippines", "Portugal", "Bangladesh", "Ghana"]}
+{"subject": "Orikhiv", "object": "Ukraine", "taxonomy": ["Norway", "Ireland", "Vietnam", "Azerbaijan", "Bulgaria"]}
+{"subject": "Statistics Netherlands", "object": "Netherlands", "taxonomy": ["Kazakhstan", "Liberia", "Japan", "Germany", "Austria"]}
+{"subject": "Tsuno District, Yamaguchi", "object": "Japan", "taxonomy": ["Bolivia", "Cuba", "Nepal", "Ghana", "Uganda"]}
+{"subject": "Bliesgau", "object": "Germany", "taxonomy": ["Venezuela", "Tajikistan", "Russia", "Czechoslovakia", "Bangladesh"]}
+{"subject": "Mugello Circuit", "object": "Italy", "taxonomy": ["Malawi", "Somalia", "Serbia", "Slovenia", "Estonia"]}
+{"subject": "Guatemalan Revolution", "object": "Guatemala", "taxonomy": ["Kyrgyzstan", "Singapore", "Tajikistan", "Serbia", "Argentina"]}
+{"subject": "Cmolas", "object": "Poland", "taxonomy": ["Albania", "Germany", "Norway", "Malta", "Serbia"]}
+{"subject": "Umarex", "object": "Germany", "taxonomy": ["Tunisia", "Benin", "Singapore", "Azerbaijan", "Canada"]}
+{"subject": "Knight Inlet", "object": "Canada", "taxonomy": ["Greece", "Singapore", "Malaysia", "Chile", "France"]}
+{"subject": "Grianan of Aileach", "object": "Ireland", "taxonomy": ["Nigeria", "Afghanistan", "Moldova", "Albania", "Singapore"]}
+{"subject": "Ambatofinandrahana District", "object": "Madagascar", "taxonomy": ["Russia", "Ghana", "Singapore", "Moldova", "Egypt"]}
+{"subject": "Manyakheta", "object": "India", "taxonomy": ["Nigeria", "Algeria", "Tajikistan", "Venezuela", "Guatemala"]}
+{"subject": "Noliko Maaseik", "object": "Belgium", "taxonomy": ["Denmark", "Slovenia", "Morocco", "Albania", "Honduras"]}
+{"subject": "Presbyterian High School", "object": "Singapore", "taxonomy": ["Liberia", "Belgium", "Syria", "Romania", "Ghana"]}
+{"subject": "Kandiaro Taluka", "object": "Pakistan", "taxonomy": ["Peru", "Kuwait", "Singapore", "Belarus", "Sweden"]}
+{"subject": "Hogeschool Gent", "object": "Belgium", "taxonomy": ["Malta", "Guatemala", "Singapore", "Oman", "Azerbaijan"]}
+{"subject": "Desolation Lava Field", "object": "Canada", "taxonomy": ["Greece", "Moldova", "Vietnam", "Paraguay", "Israel"]}
+{"subject": "Lamongan", "object": "Indonesia", "taxonomy": ["Montenegro", "Croatia", "Malawi", "Fiji", "Pakistan"]}
+{"subject": "Roman Catholic Archdiocese of Lucca", "object": "Italy", "taxonomy": ["Japan", "Bangladesh", "Malawi", "Mauritius", "Bermuda"]}
+{"subject": "Simdega", "object": "India", "taxonomy": ["Haiti", "Azerbaijan", "Pakistan", "Latvia", "Luxembourg"]}
+{"subject": "Ulundurpet", "object": "India", "taxonomy": ["Kazakhstan", "Guatemala", "Bhutan", "Bangladesh", "Ireland"]}
+{"subject": "Tampere Cathedral", "object": "Finland", "taxonomy": ["Rwanda", "Latvia", "Ireland", "Ukraine", "Kuwait"]}
+{"subject": "Palladam", "object": "India", "taxonomy": ["Cyprus", "Croatia", "Cuba", "Fiji", "Yemen"]}
+{"subject": "Geffen Award", "object": "Israel", "taxonomy": ["Indonesia", "Egypt", "Bahamas", "France", "Iraq"]}
+{"subject": "Munich Residence", "object": "Germany", "taxonomy": ["Croatia", "Czechoslovakia", "Venezuela", "Cambodia", "Japan"]}
+{"subject": "Shoranur", "object": "India", "taxonomy": ["Brazil", "Luxembourg", "Japan", "Bangladesh", "Bolivia"]}
+{"subject": "Mandailing language", "object": "Indonesia", "taxonomy": ["Philippines", "Namibia", "Ireland", "Bermuda", "Portugal"]}
+{"subject": "Gmina Dziemiany", "object": "Poland", "taxonomy": ["Lithuania", "Haiti", "Uzbekistan", "India", "Fiji"]}
+{"subject": "Bay", "object": "Philippines", "taxonomy": ["Mali", "Belarus", "Vietnam", "Madagascar", "Luxembourg"]}
+{"subject": "Botswana Football Association", "object": "Botswana", "taxonomy": ["Estonia", "Belgium", "Sudan", "Montenegro", "Cyprus"]}
+{"subject": "Atwell Peak", "object": "Canada", "taxonomy": ["Austria", "Afghanistan", "Italy", "Morocco", "Indonesia"]}
+{"subject": "FC Volochanin-Ratmir Vyshny Volochyok", "object": "Russia", "taxonomy": ["Malawi", "Cuba", "Kuwait", "Venezuela", "Bulgaria"]}
+{"subject": "Brandon University", "object": "Canada", "taxonomy": ["Ukraine", "Azerbaijan", "Ireland", "Cambodia", "Albania"]}
+{"subject": "Guillaumes", "object": "France", "taxonomy": ["Uzbekistan", "Kazakhstan", "Iran", "Ireland", "Ethiopia"]}
+{"subject": "Blackrock Castle", "object": "Ireland", "taxonomy": ["Montenegro", "Netherlands", "Tunisia", "Tajikistan", "Namibia"]}
+{"subject": "Instituto Pedro Nunes", "object": "Portugal", "taxonomy": ["Uganda", "India", "Romania", "Ethiopia", "Kazakhstan"]}
+{"subject": "Eenhana", "object": "Namibia", "taxonomy": ["Bhutan", "Hungary", "Greece", "Ireland", "Czechoslovakia"]}
+{"subject": "route 75", "object": "Australia", "taxonomy": ["Uzbekistan", "Turkey", "Namibia", "Algeria", "Malawi"]}
+{"subject": "European route E25", "object": "Luxembourg", "taxonomy": ["Argentina", "Nicaragua", "Paraguay", "Algeria", "Ukraine"]}
+{"subject": "Vukov Spomenik", "object": "Serbia", "taxonomy": ["Germany", "Mauritius", "Nepal", "Liberia", "Azerbaijan"]}
+{"subject": "Russian-Armenian University", "object": "Armenia", "taxonomy": ["Bhutan", "Afghanistan", "Thailand", "Denmark", "Spain"]}
+{"subject": "Abbey of Echternach", "object": "Luxembourg", "taxonomy": ["Uzbekistan", "Malta", "Portugal", "Latvia", "Azerbaijan"]}
+{"subject": "Union des forces progressistes", "object": "Canada", "taxonomy": ["Romania", "Peru", "Greece", "Iraq", "Croatia"]}
+{"subject": "Ikuno-ku", "object": "Japan", "taxonomy": ["Afghanistan", "Russia", "Bahrain", "Ukraine", "Somalia"]}
+{"subject": "Ozumba", "object": "Mexico", "taxonomy": ["Malawi", "Ireland", "Estonia", "Lithuania", "Guatemala"]}
+{"subject": "SV Ried", "object": "Austria", "taxonomy": ["Fiji", "Ukraine", "Ethiopia", "Lithuania", "Nepal"]}
+{"subject": "Honnavar", "object": "India", "taxonomy": ["Botswana", "Belgium", "Malta", "Cambodia", "Portugal"]}
+{"subject": "Autonomous District Lok Sabha constituency", "object": "India", "taxonomy": ["Bhutan", "Afghanistan", "Cuba", "Thailand", "Tajikistan"]}
+{"subject": "Hong San See", "object": "Singapore", "taxonomy": ["Slovenia", "Mali", "Morocco", "Sweden", "Japan"]}
+{"subject": "Grimaldi Industri", "object": "Sweden", "taxonomy": ["Tajikistan", "Nicaragua", "Spain", "Ireland", "Uzbekistan"]}
+{"subject": "Singel", "object": "Netherlands", "taxonomy": ["Egypt", "Lithuania", "France", "Bulgaria", "Paraguay"]}
+{"subject": "Munich Stadtmuseum", "object": "Germany", "taxonomy": ["Syria", "Brazil", "Uganda", "Guatemala", "Vietnam"]}
+{"subject": "Party of National Unity", "object": "Kenya", "taxonomy": ["Slovenia", "Taiwan", "Malta", "Guatemala", "Tunisia"]}
+{"subject": "New Australia", "object": "Paraguay", "taxonomy": ["Uganda", "Russia", "Iran", "Norway", "Libya"]}
+{"subject": "Risod", "object": "India", "taxonomy": ["Sweden", "Kenya", "Benin", "Poland", "Lithuania"]}
+{"subject": "Prince Edward Viaduct", "object": "Canada", "taxonomy": ["Bermuda", "Montenegro", "Rwanda", "Nigeria", "Kyrgyzstan"]}
+{"subject": "Ghora Gali", "object": "Pakistan", "taxonomy": ["Somalia", "Peru", "France", "Serbia", "Latvia"]}
+{"subject": "University of Bern", "object": "Switzerland", "taxonomy": ["Argentina", "Tajikistan", "Hungary", "Iraq", "Portugal"]}
+{"subject": "Pandoh Dam", "object": "India", "taxonomy": ["Malawi", "Malaysia", "Australia", "Armenia", "Slovenia"]}
+{"subject": "Andreapolsky District", "object": "Russia", "taxonomy": ["Nigeria", "Bahrain", "Pakistan", "Belgium", "Uzbekistan"]}
+{"subject": "Balige", "object": "Indonesia", "taxonomy": ["Estonia", "Paraguay", "Kenya", "Serbia", "Australia"]}
+{"subject": "Campeche Bank", "object": "Mexico", "taxonomy": ["Philippines", "Oman", "Mali", "Liberia", "Taiwan"]}
+{"subject": "Zulia", "object": "Venezuela", "taxonomy": ["Madagascar", "Vietnam", "Bhutan", "Croatia", "Thailand"]}
+{"subject": "Gasunie", "object": "Netherlands", "taxonomy": ["Bahrain", "Argentina", "Cambodia", "Kosovo", "Norway"]}
+{"subject": "Da Nang Air Base", "object": "Vietnam", "taxonomy": ["Greece", "Iran", "Kyrgyzstan", "Bahrain", "Liberia"]}
+{"subject": "Nea Zichni Municipality", "object": "Greece", "taxonomy": ["Latvia", "Malta", "Honduras", "Taiwan", "Bhutan"]}
+{"subject": "Menen", "object": "Belgium", "taxonomy": ["Albania", "Tanzania", "France", "Argentina", "Philippines"]}
+{"subject": "Monarcas Morelia", "object": "Mexico", "taxonomy": ["Liberia", "Armenia", "Chile", "Turkey", "Thailand"]}
+{"subject": "Adliswil", "object": "Switzerland", "taxonomy": ["Iran", "Namibia", "Indonesia", "Rwanda", "Lebanon"]}
+{"subject": "Penna Ahobilam", "object": "India", "taxonomy": ["Belarus", "Kazakhstan", "Bangladesh", "Tunisia", "Sudan"]}
+{"subject": "Dent Island Light", "object": "Australia", "taxonomy": ["Nigeria", "Hungary", "Luxembourg", "Peru", "Liberia"]}
+{"subject": "Halton County, Ontario", "object": "Canada", "taxonomy": ["Armenia", "Bahrain", "Azerbaijan", "Kuwait", "Portugal"]}
+{"subject": "Vaujany", "object": "France", "taxonomy": ["Vietnam", "Guatemala", "Russia", "Uzbekistan", "Latvia"]}
+{"subject": "East Wall", "object": "Ireland", "taxonomy": ["Czechoslovakia", "Estonia", "Portugal", "Iraq", "Croatia"]}
+{"subject": "Neryungri", "object": "Russia", "taxonomy": ["Sweden", "Madagascar", "Algeria", "Tunisia", "Mexico"]}
+{"subject": "Kenya African National Union", "object": "Kenya", "taxonomy": ["Nicaragua", "Ethiopia", "Venezuela", "Kosovo", "Poland"]}
+{"subject": "Hersbruck", "object": "Germany", "taxonomy": ["Denmark", "Mexico", "France", "Namibia", "Cambodia"]}
+{"subject": "Hobart Zoo", "object": "Australia", "taxonomy": ["Lebanon", "Afghanistan", "Bolivia", "Ireland", "Liberia"]}
+{"subject": "Sydney Sports Ground", "object": "Australia", "taxonomy": ["Rwanda", "Lebanon", "Tanzania", "Kuwait", "Nigeria"]}
+{"subject": "Rantum", "object": "Germany", "taxonomy": ["Canada", "Philippines", "Lithuania", "Ireland", "Switzerland"]}
+{"subject": "Bedourie", "object": "Australia", "taxonomy": ["Honduras", "Tunisia", "Malta", "Tanzania", "Libya"]}
+{"subject": "Central Black Forest", "object": "Germany", "taxonomy": ["Syria", "Afghanistan", "Mali", "Kyrgyzstan", "Tunisia"]}
+{"subject": "Cultural Center of the Philippines", "object": "Philippines", "taxonomy": ["Sudan", "Luxembourg", "Bhutan", "Hungary", "Ghana"]}
+{"subject": "Speaker of the House of Representatives of the Philippines", "object": "Philippines", "taxonomy": ["Norway", "Cambodia", "Namibia", "Luxembourg", "Germany"]}
+{"subject": "Panna National Park", "object": "India", "taxonomy": ["Malaysia", "Slovenia", "Iran", "Bermuda", "Poland"]}
+{"subject": "West Darfur", "object": "Sudan", "taxonomy": ["Montenegro", "Indonesia", "Uzbekistan", "Canada", "Kenya"]}
+{"subject": "Middle Egypt", "object": "Egypt", "taxonomy": ["Benin", "Cyprus", "Kazakhstan", "Tanzania", "Botswana"]}
+{"subject": "Garibaldi Ranges", "object": "Canada", "taxonomy": ["Kuwait", "Romania", "Algeria", "Oman", "Nicaragua"]}
+{"subject": "Montreal Centre", "object": "Canada", "taxonomy": ["Mauritius", "Uganda", "Bahamas", "Estonia", "Syria"]}
+{"subject": "Croom, County Limerick", "object": "Ireland", "taxonomy": ["Mexico", "Botswana", "Lebanon", "Libya", "Cyprus"]}
+{"subject": "Club Aurora", "object": "Bolivia", "taxonomy": ["Moldova", "Russia", "Honduras", "Madagascar", "Somalia"]}
+{"subject": "Australian Geographic", "object": "Australia", "taxonomy": ["Bahamas", "Libya", "Belarus", "Liberia", "Mali"]}
+{"subject": "Bolvadin", "object": "Turkey", "taxonomy": ["Armenia", "Somalia", "Tanzania", "Venezuela", "Botswana"]}
+{"subject": "Hattfjelldal", "object": "Norway", "taxonomy": ["Bulgaria", "Belgium", "Libya", "Tanzania", "Yemen"]}
+{"subject": "Federal Palace of Switzerland", "object": "Switzerland", "taxonomy": ["Egypt", "Iran", "Bermuda", "Taiwan", "Bahamas"]}
+{"subject": "Sonitpur district", "object": "India", "taxonomy": ["Bahamas", "Peru", "Albania", "Kuwait", "Ireland"]}
+{"subject": "Trento", "object": "Italy", "taxonomy": ["Botswana", "Venezuela", "Canada", "Algeria", "Serbia"]}
+{"subject": "National Library of Peru", "object": "Peru", "taxonomy": ["Netherlands", "Bolivia", "Pakistan", "Ireland", "Bahamas"]}
+{"subject": "Taronga Western Plains Zoo", "object": "Australia", "taxonomy": ["Kosovo", "Russia", "Slovenia", "Guatemala", "Tanzania"]}
+{"subject": "Entzheim", "object": "France", "taxonomy": ["Ukraine", "Switzerland", "Bolivia", "Belgium", "Germany"]}
+{"subject": "Villigen", "object": "Switzerland", "taxonomy": ["Poland", "Czechoslovakia", "Singapore", "Taiwan", "Australia"]}
+{"subject": "Borghetto di Vara", "object": "Italy", "taxonomy": ["Israel", "Czechoslovakia", "Japan", "Kenya", "Pakistan"]}
+{"subject": "Colombes", "object": "France", "taxonomy": ["Bermuda", "Iran", "Mauritius", "Germany", "Philippines"]}
+{"subject": "New Democratic Party Socialist Caucus", "object": "Canada", "taxonomy": ["Botswana", "Latvia", "Czechoslovakia", "Croatia", "Russia"]}
+{"subject": "Latvian Farmers' Union", "object": "Latvia", "taxonomy": ["Finland", "Namibia", "Switzerland", "Ukraine", "Taiwan"]}
+{"subject": "Selbu", "object": "Norway", "taxonomy": ["Kosovo", "Yemen", "Sudan", "Egypt", "Turkey"]}
+{"subject": "Arve", "object": "France", "taxonomy": ["Fiji", "Lithuania", "Kosovo", "Kuwait", "Somalia"]}
+{"subject": "Hamburg University of Technology", "object": "Germany", "taxonomy": ["Lebanon", "Malta", "Greece", "Australia", "India"]}
+{"subject": "Sebatik Island", "object": "Malaysia", "taxonomy": ["Slovenia", "Afghanistan", "Lithuania", "Singapore", "Bhutan"]}
+{"subject": "Avord", "object": "France", "taxonomy": ["Qatar", "Iraq", "Indonesia", "Nicaragua", "Malta"]}
+{"subject": "Calw", "object": "Germany", "taxonomy": ["Croatia", "Sudan", "Liberia", "Netherlands", "Nigeria"]}
+{"subject": "Khondab County", "object": "Iran", "taxonomy": ["Thailand", "Brazil", "Honduras", "Japan", "Nigeria"]}
+{"subject": "Khmilnyk", "object": "Ukraine", "taxonomy": ["Syria", "Estonia", "Nigeria", "Rwanda", "Honduras"]}
+{"subject": "Wentworth Valley", "object": "Canada", "taxonomy": ["Guatemala", "Australia", "Tunisia", "Honduras", "Sweden"]}
+{"subject": "Annweiler am Trifels", "object": "Germany", "taxonomy": ["Algeria", "Finland", "India", "Latvia", "Bahamas"]}
+{"subject": "Askola", "object": "Finland", "taxonomy": ["Pakistan", "Malaysia", "Vietnam", "Kenya", "Greece"]}
+{"subject": "Lucentum", "object": "Spain", "taxonomy": ["Vietnam", "Pakistan", "Colombia", "Latvia", "Austria"]}
+{"subject": "TUIfly Nordic", "object": "Sweden", "taxonomy": ["Israel", "Cambodia", "Colombia", "Pakistan", "Haiti"]}
+{"subject": "Jiul de Vest River", "object": "Romania", "taxonomy": ["Mexico", "Libya", "Egypt", "Rwanda", "Albania"]}
+{"subject": "Sanlih E-Television", "object": "Taiwan", "taxonomy": ["Lithuania", "Romania", "Afghanistan", "Iraq", "Bahrain"]}
+{"subject": "Warsaw Uprising Museum", "object": "Poland", "taxonomy": ["Azerbaijan", "Luxembourg", "Paraguay", "Lithuania", "Latvia"]}
+{"subject": "Chu Lai Base Area", "object": "Vietnam", "taxonomy": ["Kazakhstan", "Bangladesh", "Israel", "Yemen", "Ghana"]}
+{"subject": "1951 Australian federal election", "object": "Australia", "taxonomy": ["Azerbaijan", "Serbia", "Switzerland", "Haiti", "Brazil"]}
+{"subject": "Hilir Perak", "object": "Malaysia", "taxonomy": ["Bermuda", "Luxembourg", "Estonia", "Paraguay", "Liberia"]}
+{"subject": "Frosinone", "object": "Italy", "taxonomy": ["Lebanon", "Venezuela", "Kosovo", "Liberia", "Afghanistan"]}
+{"subject": "Romano d'Ezzelino", "object": "Italy", "taxonomy": ["Algeria", "Malaysia", "Ghana", "Luxembourg", "Syria"]}
+{"subject": "Bunda District", "object": "Tanzania", "taxonomy": ["Bahrain", "Iraq", "Argentina", "Austria", "Thailand"]}
+{"subject": "ArcelorMittal Poland", "object": "Poland", "taxonomy": ["Tunisia", "Venezuela", "Tanzania", "Ghana", "Slovenia"]}
+{"subject": "Queen Charlotte Mountains", "object": "Canada", "taxonomy": ["Finland", "Haiti", "Ethiopia", "Kyrgyzstan", "Tanzania"]}
+{"subject": "Federally Administered Tribal Areas", "object": "Pakistan", "taxonomy": ["Iraq", "Botswana", "Kazakhstan", "Colombia", "Montenegro"]}
+{"subject": "St James' Church, Sydney", "object": "Australia", "taxonomy": ["Russia", "Benin", "Kuwait", "Finland", "Sudan"]}
+{"subject": "Tillya Tepe", "object": "Afghanistan", "taxonomy": ["Australia", "Germany", "Qatar", "Bermuda", "Kuwait"]}
+{"subject": "Linimo", "object": "Japan", "taxonomy": ["Mali", "Nigeria", "Luxembourg", "Finland", "Egypt"]}
+{"subject": "Coolock", "object": "Ireland", "taxonomy": ["Lebanon", "Lithuania", "Morocco", "Croatia", "Albania"]}
+{"subject": "Perpignan", "object": "France", "taxonomy": ["Libya", "Bolivia", "Peru", "Ireland", "Botswana"]}
+{"subject": "United Mine Workers", "object": "Canada", "taxonomy": ["Yemen", "Kuwait", "Kazakhstan", "Latvia", "Haiti"]}
+{"subject": "Istanbul Airport", "object": "Turkey", "taxonomy": ["Italy", "Switzerland", "Thailand", "Oman", "Nepal"]}
+{"subject": "Bannu", "object": "Pakistan", "taxonomy": ["Rwanda", "Japan", "Paraguay", "Montenegro", "Kosovo"]}
+{"subject": "Al Ahmadi Governorate", "object": "Kuwait", "taxonomy": ["Afghanistan", "Paraguay", "Nepal", "Kenya", "Cuba"]}
+{"subject": "Cuban convertible peso", "object": "Cuba", "taxonomy": ["Czechoslovakia", "Kyrgyzstan", "Tunisia", "Nigeria", "Ghana"]}
+{"subject": "Laslea", "object": "Romania", "taxonomy": ["Egypt", "Bahamas", "Madagascar", "France", "Kyrgyzstan"]}
+{"subject": "Ostermundigen", "object": "Switzerland", "taxonomy": ["Bermuda", "Portugal", "France", "Rwanda", "Bangladesh"]}
+{"subject": "Buda", "object": "Hungary", "taxonomy": ["Ukraine", "Iraq", "Sudan", "Namibia", "Bahamas"]}
+{"subject": "life imprisonment in Canada", "object": "Canada", "taxonomy": ["Fiji", "Portugal", "Syria", "Bhutan", "Kazakhstan"]}
+{"subject": "Holycross-Ballycahill GAA", "object": "Ireland", "taxonomy": ["Armenia", "Peru", "Honduras", "Poland", "Yemen"]}
+{"subject": "Aventine Hill", "object": "Italy", "taxonomy": ["Uzbekistan", "Ireland", "Taiwan", "Kosovo", "Uganda"]}
+{"subject": "Dziemiany", "object": "Poland", "taxonomy": ["Nigeria", "Japan", "Malta", "Benin", "Argentina"]}
+{"subject": "National Congress of Brasil", "object": "Brazil", "taxonomy": ["Moldova", "Botswana", "Malaysia", "Russia", "Austria"]}
+{"subject": "Eredivisie", "object": "Netherlands", "taxonomy": ["Romania", "Kyrgyzstan", "Madagascar", "Cyprus", "Australia"]}
+{"subject": "Subarnapur district", "object": "India", "taxonomy": ["Mexico", "Namibia", "Oman", "Bangladesh", "Ukraine"]}
+{"subject": "Sarnia", "object": "Canada", "taxonomy": ["Moldova", "Peru", "Albania", "Slovenia", "Tanzania"]}
+{"subject": "Taranto Sport", "object": "Italy", "taxonomy": ["Sudan", "Bangladesh", "Malawi", "Croatia", "Mauritius"]}
+{"subject": "Sahneh County", "object": "Iran", "taxonomy": ["Nigeria", "Ukraine", "Algeria", "Hungary", "Serbia"]}
+{"subject": "Windischeschenbach", "object": "Germany", "taxonomy": ["Italy", "Australia", "Botswana", "Ukraine", "Iran"]}
+{"subject": "Ogrodzieniec", "object": "Poland", "taxonomy": ["Uzbekistan", "Nigeria", "Albania", "Ethiopia", "Bahamas"]}
+{"subject": "public transport in Istanbul", "object": "Turkey", "taxonomy": ["Tanzania", "Paraguay", "Albania", "Iran", "Oman"]}
+{"subject": "Gmina Stara Kornica", "object": "Poland", "taxonomy": ["Japan", "Mali", "Canada", "Malaysia", "Guatemala"]}
+{"subject": "Ausa", "object": "India", "taxonomy": ["Afghanistan", "Rwanda", "Botswana", "Russia", "Tanzania"]}
+{"subject": "Ruhla", "object": "Germany", "taxonomy": ["Lithuania", "Kazakhstan", "Romania", "Finland", "Argentina"]}
+{"subject": "Kafriya", "object": "Syria", "taxonomy": ["Madagascar", "Norway", "Netherlands", "Hungary", "Croatia"]}
+{"subject": "Palana", "object": "Russia", "taxonomy": ["Cuba", "Cyprus", "Uzbekistan", "Bahamas", "Tajikistan"]}
+{"subject": "Tirebolu", "object": "Turkey", "taxonomy": ["Canada", "Benin", "Germany", "Philippines", "Tajikistan"]}
+{"subject": "Carpentras", "object": "France", "taxonomy": ["Tajikistan", "Albania", "Malta", "Haiti", "Malaysia"]}
+{"subject": "Taunsa Barrage", "object": "Pakistan", "taxonomy": ["Iran", "Vietnam", "Syria", "Slovenia", "Honduras"]}
+{"subject": "Catalonia", "object": "Spain", "taxonomy": ["Algeria", "Vietnam", "Uzbekistan", "Serbia", "Egypt"]}
+{"subject": "Skole Raion", "object": "Ukraine", "taxonomy": ["Paraguay", "Syria", "Ethiopia", "Nepal", "Rwanda"]}
+{"subject": "Southern Savonia", "object": "Finland", "taxonomy": ["Tajikistan", "Lebanon", "Nicaragua", "Canada", "Algeria"]}
+{"subject": "Global Television Network", "object": "Canada", "taxonomy": ["Finland", "Iraq", "Nigeria", "Hungary", "Russia"]}
+{"subject": "Bastille", "object": "France", "taxonomy": ["Cuba", "Fiji", "Armenia", "Belgium", "Botswana"]}
+{"subject": "Casiquiare canal", "object": "Venezuela", "taxonomy": ["Madagascar", "Lebanon", "Russia", "Turkey", "Syria"]}
+{"subject": "Zwiefalten", "object": "Germany", "taxonomy": ["Oman", "Netherlands", "Slovenia", "Bahrain", "Hungary"]}
+{"subject": "Sommariva del Bosco", "object": "Italy", "taxonomy": ["Pakistan", "Fiji", "Azerbaijan", "Latvia", "Vietnam"]}
+{"subject": "Tienen", "object": "Belgium", "taxonomy": ["Tunisia", "Turkey", "Romania", "Bulgaria", "Iran"]}
+{"subject": "Electoral district of Wantirna", "object": "Australia", "taxonomy": ["Afghanistan", "Armenia", "Vietnam", "Norway", "Honduras"]}
+{"subject": "Dundalk", "object": "Ireland", "taxonomy": ["Bahamas", "Latvia", "Bolivia", "Yemen", "Iraq"]}
+{"subject": "Knockmealdown Mountains", "object": "Ireland", "taxonomy": ["Philippines", "Azerbaijan", "Bahamas", "Austria", "Bolivia"]}
+{"subject": "Medical College and Hospital, Kolkata", "object": "India", "taxonomy": ["Malaysia", "Lebanon", "Nepal", "Greece", "Kazakhstan"]}
+{"subject": "Singarapettai", "object": "India", "taxonomy": ["Nepal", "Pakistan", "Czechoslovakia", "Finland", "Tanzania"]}
+{"subject": "Junnar", "object": "India", "taxonomy": ["Slovenia", "Tunisia", "Haiti", "Bhutan", "Malaysia"]}
+{"subject": "Mudgee", "object": "Australia", "taxonomy": ["Ireland", "Bolivia", "Libya", "Philippines", "Ethiopia"]}
+{"subject": "Ikaalinen", "object": "Finland", "taxonomy": ["Montenegro", "Afghanistan", "Ethiopia", "Ireland", "Rwanda"]}
+{"subject": "Lipscani", "object": "Romania", "taxonomy": ["Israel", "Honduras", "Sweden", "Venezuela", "Brazil"]}
+{"subject": "Hohenwestedt", "object": "Germany", "taxonomy": ["Nigeria", "Ethiopia", "Sweden", "Brazil", "Oman"]}
+{"subject": "Sialkot district", "object": "Pakistan", "taxonomy": ["Malta", "Venezuela", "Latvia", "Bhutan", "Indonesia"]}
+{"subject": "County Leitrim", "object": "Ireland", "taxonomy": ["Liberia", "Somalia", "Afghanistan", "Vietnam", "Kosovo"]}
+{"subject": "Iruma Air Base", "object": "Japan", "taxonomy": ["Kosovo", "Kazakhstan", "Argentina", "Madagascar", "Sweden"]}
+{"subject": "Facit", "object": "Sweden", "taxonomy": ["Botswana", "Switzerland", "Germany", "Portugal", "Moldova"]}
+{"subject": "Nintendo", "object": "Japan", "taxonomy": ["Italy", "Kazakhstan", "Argentina", "Colombia", "Yemen"]}
+{"subject": "Berar Province", "object": "India", "taxonomy": ["Fiji", "Malaysia", "Paraguay", "Botswana", "Bolivia"]}
+{"subject": "Theni district", "object": "India", "taxonomy": ["Argentina", "Turkey", "Mexico", "Ethiopia", "Cyprus"]}
+{"subject": "Gurudwara Bangla Sahib", "object": "India", "taxonomy": ["Romania", "Denmark", "Argentina", "Spain", "Iraq"]}
+{"subject": "Fairfield West", "object": "Australia", "taxonomy": ["Fiji", "Cyprus", "Montenegro", "Oman", "Argentina"]}
+{"subject": "Surat Basin", "object": "Australia", "taxonomy": ["Guatemala", "Nicaragua", "Ghana", "Mauritius", "Liberia"]}
+{"subject": "National Republican Greek League", "object": "Greece", "taxonomy": ["Serbia", "Uzbekistan", "Algeria", "France", "Japan"]}
+{"subject": "Bhamdoun", "object": "Lebanon", "taxonomy": ["Qatar", "Malawi", "Ukraine", "Botswana", "Tunisia"]}
+{"subject": "South East Cape", "object": "Australia", "taxonomy": ["Cuba", "Denmark", "Botswana", "Algeria", "Yemen"]}
+{"subject": "Columbia Valley", "object": "Canada", "taxonomy": ["Honduras", "Algeria", "Slovenia", "France", "India"]}
+{"subject": "Qarshi", "object": "Uzbekistan", "taxonomy": ["Ghana", "Armenia", "Chile", "Netherlands", "Kosovo"]}
+{"subject": "Lerik District", "object": "Azerbaijan", "taxonomy": ["Bermuda", "Denmark", "Kuwait", "Germany", "Canada"]}
+{"subject": "Emscher", "object": "Germany", "taxonomy": ["Colombia", "Belarus", "Croatia", "Argentina", "Mali"]}
+{"subject": "Grand Mosque of Paris", "object": "France", "taxonomy": ["Kosovo", "Philippines", "Peru", "Somalia", "Mexico"]}
+{"subject": "Minu District", "object": "Iran", "taxonomy": ["Nicaragua", "Lithuania", "India", "Venezuela", "Belarus"]}
+{"subject": "Etobicoke North", "object": "Canada", "taxonomy": ["Liberia", "France", "Slovenia", "Spain", "Bolivia"]}
+{"subject": "Lund Municipality", "object": "Sweden", "taxonomy": ["Taiwan", "Ethiopia", "Morocco", "Guatemala", "Albania"]}
+{"subject": "Eagle Boys", "object": "Australia", "taxonomy": ["Libya", "Japan", "Oman", "Israel", "Afghanistan"]}
+{"subject": "East Karelia", "object": "Russia", "taxonomy": ["Cyprus", "Australia", "Namibia", "Tajikistan", "Liberia"]}
+{"subject": "Vierlingsbeek", "object": "Netherlands", "taxonomy": ["Guatemala", "Cyprus", "Cuba", "Mali", "Fiji"]}
+{"subject": "Swedish Orphan Biovitrum", "object": "Sweden", "taxonomy": ["Croatia", "Mexico", "Algeria", "Iraq", "Greece"]}
+{"subject": "Barnhartvale, Kamloops", "object": "Canada", "taxonomy": ["Kyrgyzstan", "Yemen", "Spain", "Kazakhstan", "Italy"]}
+{"subject": "Gobardanga", "object": "India", "taxonomy": ["France", "Latvia", "Algeria", "Serbia", "Finland"]}
+{"subject": "AH3", "object": "Russia", "taxonomy": ["Somalia", "Switzerland", "Portugal", "Chile", "Rwanda"]}
+{"subject": "Isfahan International Airport", "object": "Iran", "taxonomy": ["Bhutan", "Botswana", "Hungary", "Japan", "Bulgaria"]}
+{"subject": "1C Company", "object": "Russia", "taxonomy": ["Serbia", "Madagascar", "Paraguay", "Kenya", "Armenia"]}
+{"subject": "Gazzola", "object": "Italy", "taxonomy": ["Morocco", "Tanzania", "Pakistan", "Qatar", "Bolivia"]}
+{"subject": "Weston GO Station", "object": "Canada", "taxonomy": ["Madagascar", "Ethiopia", "Azerbaijan", "Somalia", "Haiti"]}
+{"subject": "Kingston Whig-Standard", "object": "Canada", "taxonomy": ["Armenia", "Paraguay", "Bangladesh", "Somalia", "Benin"]}
+{"subject": "Grolsch Brewery", "object": "Netherlands", "taxonomy": ["Kuwait", "Latvia", "Mexico", "Belgium", "Colombia"]}
+{"subject": "Wiener Singakademie", "object": "Austria", "taxonomy": ["Ukraine", "Taiwan", "Cyprus", "Madagascar", "Netherlands"]}
+{"subject": "Ichchapuram", "object": "India", "taxonomy": ["Netherlands", "Syria", "Qatar", "Brazil", "Slovenia"]}
+{"subject": "Waurn Ponds", "object": "Australia", "taxonomy": ["Morocco", "Poland", "Benin", "Ireland", "Iran"]}
+{"subject": "bpost", "object": "Belgium", "taxonomy": ["Chile", "Serbia", "Philippines", "Somalia", "Syria"]}
+{"subject": "Holmenkollen National Arena", "object": "Norway", "taxonomy": ["Kosovo", "Greece", "Kyrgyzstan", "Benin", "Japan"]}
+{"subject": "Langarud County", "object": "Iran", "taxonomy": ["Egypt", "Luxembourg", "Mexico", "Austria", "Madagascar"]}
+{"subject": "Ginza Line", "object": "Japan", "taxonomy": ["Serbia", "Singapore", "Slovenia", "Thailand", "Peru"]}
+{"subject": "Niederweningen", "object": "Switzerland", "taxonomy": ["Madagascar", "Kuwait", "Egypt", "Bermuda", "Ukraine"]}
+{"subject": "Fiji First Party", "object": "Fiji", "taxonomy": ["Hungary", "Denmark", "Germany", "Tajikistan", "Venezuela"]}
+{"subject": "Argentine National Anthem", "object": "Argentina", "taxonomy": ["Pakistan", "Latvia", "Liberia", "Namibia", "Bangladesh"]}
+{"subject": "Puerto Maldonado", "object": "Peru", "taxonomy": ["Netherlands", "Portugal", "Nigeria", "Benin", "Syria"]}
+{"subject": "Harrington Sound, Bermuda", "object": "Bermuda", "taxonomy": ["Peru", "Ukraine", "Greece", "Poland", "Liberia"]}
+{"subject": "Flieden", "object": "Germany", "taxonomy": ["Honduras", "Italy", "Belgium", "Latvia", "Lebanon"]}
+{"subject": "Trans-Sahara Highway", "object": "Nigeria", "taxonomy": ["Croatia", "Morocco", "Australia", "Portugal", "Bahrain"]}
+{"subject": "Kahrizak", "object": "Iran", "taxonomy": ["Belarus", "Singapore", "Serbia", "Bangladesh", "Qatar"]}
+{"subject": "Cappoquin", "object": "Ireland", "taxonomy": ["Poland", "Morocco", "Ethiopia", "Afghanistan", "Belgium"]}
+{"subject": "Teatro Comunale Florence", "object": "Italy", "taxonomy": ["Cambodia", "India", "Kenya", "Belgium", "Romania"]}
+{"subject": "Petseri County", "object": "Estonia", "taxonomy": ["Switzerland", "Syria", "Bulgaria", "Sudan", "Peru"]}
+{"subject": "Guelma Province", "object": "Algeria", "taxonomy": ["Nicaragua", "Guatemala", "Namibia", "Kosovo", "Mali"]}
+{"subject": "Bangarapet", "object": "India", "taxonomy": ["Uganda", "Vietnam", "Rwanda", "Norway", "Singapore"]}
+{"subject": "Western Bug", "object": "Belarus", "taxonomy": ["Fiji", "Mexico", "Lithuania", "Benin", "Libya"]}
+{"subject": "Staatliche Antikensammlungen", "object": "Germany", "taxonomy": ["Belgium", "Albania", "Tajikistan", "Botswana", "Malaysia"]}
+{"subject": "Pindamonhangaba", "object": "Brazil", "taxonomy": ["Mexico", "Paraguay", "Serbia", "Turkey", "Malta"]}
+{"subject": "Vinkeveen", "object": "Netherlands", "taxonomy": ["Czechoslovakia", "Libya", "Canada", "Madagascar", "Fiji"]}
+{"subject": "Were Ilu", "object": "Ethiopia", "taxonomy": ["Somalia", "Canada", "Russia", "Peru", "Romania"]}
+{"subject": "community development block in India", "object": "India", "taxonomy": ["Malawi", "Benin", "Kuwait", "Algeria", "Mali"]}
+{"subject": "Lahti", "object": "Finland", "taxonomy": ["Ghana", "Kyrgyzstan", "Australia", "Nicaragua", "Vietnam"]}
+{"subject": ".af", "object": "Afghanistan", "taxonomy": ["Turkey", "Azerbaijan", "Tanzania", "Brazil", "Norway"]}
+{"subject": "Gmina Konarzyny", "object": "Poland", "taxonomy": ["Singapore", "Colombia", "Philippines", "Morocco", "Afghanistan"]}
+{"subject": "All-Ukrainian Union \"Svoboda\"", "object": "Ukraine", "taxonomy": ["Rwanda", "Singapore", "Estonia", "Russia", "Canada"]}
+{"subject": "Pully", "object": "Switzerland", "taxonomy": ["Bermuda", "Cuba", "Slovenia", "Denmark", "Lithuania"]}
+{"subject": "Nizampatnam", "object": "India", "taxonomy": ["Venezuela", "Kenya", "Montenegro", "Croatia", "Taiwan"]}
+{"subject": "IL Brodd", "object": "Norway", "taxonomy": ["Tanzania", "Albania", "India", "Hungary", "Finland"]}
+{"subject": "Augusta Raurica", "object": "Switzerland", "taxonomy": ["Croatia", "Denmark", "Belgium", "Spain", "Bangladesh"]}
+{"subject": "Blennerville", "object": "Ireland", "taxonomy": ["Kazakhstan", "Nicaragua", "Thailand", "Moldova", "Madagascar"]}
+{"subject": "Eupen-Malmedy", "object": "Belgium", "taxonomy": ["Libya", "Latvia", "Cuba", "Namibia", "Benin"]}
+{"subject": "Tesco Organisation", "object": "Germany", "taxonomy": ["Ethiopia", "Pakistan", "Uzbekistan", "Peru", "Yemen"]}
+{"subject": "Gulf of Bothnia", "object": "Finland", "taxonomy": ["Lithuania", "Paraguay", "Slovenia", "Russia", "Chile"]}
+{"subject": "Waldshut-Tiengen", "object": "Germany", "taxonomy": ["Denmark", "Australia", "Kyrgyzstan", "Mauritius", "Somalia"]}
+{"subject": "Hohenlohe-Langenburg", "object": "Germany", "taxonomy": ["Malawi", "Indonesia", "Chile", "Hungary", "Iraq"]}
+{"subject": "Alpokalja", "object": "Hungary", "taxonomy": ["Poland", "Montenegro", "Kosovo", "Canada", "Madagascar"]}
+{"subject": "Manikata", "object": "Malta", "taxonomy": ["Morocco", "Somalia", "Portugal", "Algeria", "Peru"]}
+{"subject": "Madona District", "object": "Latvia", "taxonomy": ["Qatar", "Malawi", "India", "Namibia", "Azerbaijan"]}
+{"subject": "Delta Works", "object": "Netherlands", "taxonomy": ["Nicaragua", "Madagascar", "Uzbekistan", "Luxembourg", "Sweden"]}
+{"subject": "Albertis Castle", "object": "Italy", "taxonomy": ["Australia", "Libya", "Paraguay", "Bahrain", "Argentina"]}
+{"subject": "KiKa", "object": "Germany", "taxonomy": ["Canada", "Israel", "Afghanistan", "Egypt", "Benin"]}
+{"subject": "Prieto Diaz", "object": "Philippines", "taxonomy": ["Somalia", "Luxembourg", "Malawi", "Iran", "Ireland"]}
+{"subject": "Parippally", "object": "India", "taxonomy": ["Haiti", "Bahrain", "Switzerland", "Belarus", "Armenia"]}
+{"subject": "Hultsfred Municipality", "object": "Sweden", "taxonomy": ["Honduras", "Armenia", "Bolivia", "Ghana", "Azerbaijan"]}
+{"subject": "Waalhaven", "object": "Netherlands", "taxonomy": ["Sweden", "Kazakhstan", "Greece", "Taiwan", "Germany"]}
+{"subject": "Rathen", "object": "Germany", "taxonomy": ["Cambodia", "Sudan", "Israel", "Colombia", "Albania"]}
+{"subject": "Tovuz District", "object": "Azerbaijan", "taxonomy": ["Norway", "Cambodia", "Ukraine", "Venezuela", "Bangladesh"]}
+{"subject": "Nova Friburgo", "object": "Brazil", "taxonomy": ["Uzbekistan", "Pakistan", "Madagascar", "Taiwan", "Ethiopia"]}
+{"subject": "La Mauricie National Park", "object": "Canada", "taxonomy": ["Nepal", "Lithuania", "Belgium", "Nicaragua", "Lebanon"]}
+{"subject": "Peruvian Navy", "object": "Peru", "taxonomy": ["Bulgaria", "Slovenia", "Uganda", "Czechoslovakia", "Kyrgyzstan"]}
+{"subject": "Kolad", "object": "India", "taxonomy": ["Ethiopia", "Haiti", "Singapore", "Colombia", "Nigeria"]}
+{"subject": "Pesisir Selatan", "object": "Indonesia", "taxonomy": ["Canada", "Venezuela", "Montenegro", "Lebanon", "Kosovo"]}
+{"subject": "Second Rutte cabinet", "object": "Netherlands", "taxonomy": ["Latvia", "Morocco", "Croatia", "Bangladesh", "Kenya"]}
+{"subject": "Tinguiririca River", "object": "Chile", "taxonomy": ["Spain", "Austria", "Portugal", "Japan", "Uganda"]}
+{"subject": "ERT World", "object": "Greece", "taxonomy": ["Nicaragua", "Tunisia", "Vietnam", "Brazil", "Cyprus"]}
+{"subject": "Atromitos Piraeus F.C.", "object": "Greece", "taxonomy": ["Kyrgyzstan", "Spain", "Chile", "Sweden", "Brazil"]}
+{"subject": "Minamishitara District, Aichi", "object": "Japan", "taxonomy": ["Bulgaria", "Libya", "Israel", "Germany", "Switzerland"]}
+{"subject": "Hantsavichy", "object": "Belarus", "taxonomy": ["Bahrain", "Greece", "Kyrgyzstan", "Ukraine", "Yemen"]}
+{"subject": "Astrid Lindgren Memorial Award", "object": "Sweden", "taxonomy": ["Belarus", "Romania", "Madagascar", "Morocco", "Kyrgyzstan"]}
+{"subject": "Saint-Jacques-de-la-Lande", "object": "France", "taxonomy": ["Uzbekistan", "Rwanda", "Moldova", "Pakistan", "Indonesia"]}
+{"subject": "Veysian Rural District", "object": "Iran", "taxonomy": ["Kenya", "Cyprus", "Singapore", "India", "Malta"]}
+{"subject": "Chaville", "object": "France", "taxonomy": ["Czechoslovakia", "Bermuda", "Syria", "Moldova", "Switzerland"]}
+{"subject": "Greater Rio de Janeiro", "object": "Brazil", "taxonomy": ["Iraq", "Lithuania", "Bangladesh", "Pakistan", "Cuba"]}
+{"subject": "Achelous River", "object": "Greece", "taxonomy": ["Colombia", "Spain", "Singapore", "Vietnam", "Cambodia"]}
+{"subject": "Chajul", "object": "Guatemala", "taxonomy": ["Liberia", "Yemen", "Ukraine", "Belgium", "Namibia"]}
+{"subject": "Hotel Oloffson", "object": "Haiti", "taxonomy": ["Ethiopia", "Sudan", "Croatia", "Somalia", "Lebanon"]}
+{"subject": "Veyrier", "object": "Switzerland", "taxonomy": ["Peru", "Botswana", "Egypt", "Yemen", "Kazakhstan"]}
+{"subject": "Iximche", "object": "Guatemala", "taxonomy": ["Morocco", "Chile", "Uzbekistan", "Namibia", "Algeria"]}
+{"subject": "Bourg-la-Reine", "object": "France", "taxonomy": ["Iran", "Bolivia", "Azerbaijan", "Greece", "Libya"]}
+{"subject": "Maya River", "object": "Russia", "taxonomy": ["Nepal", "Nicaragua", "Paraguay", "Romania", "Lithuania"]}
+{"subject": "Logatec", "object": "Slovenia", "taxonomy": ["Yemen", "Finland", "Albania", "Canada", "Syria"]}
+{"subject": "Colleville-Montgomery", "object": "France", "taxonomy": ["Pakistan", "Spain", "Namibia", "Guatemala", "Kyrgyzstan"]}
+{"subject": "Sakarya Province", "object": "Turkey", "taxonomy": ["Belgium", "Algeria", "Namibia", "Bermuda", "Montenegro"]}
+{"subject": "Hurley River", "object": "Canada", "taxonomy": ["Thailand", "Kuwait", "Colombia", "Bermuda", "Ghana"]}
+{"subject": "Oseberg oil field", "object": "Norway", "taxonomy": ["Philippines", "Sweden", "Albania", "Bhutan", "Slovenia"]}
+{"subject": "Peremyshliany", "object": "Ukraine", "taxonomy": ["Austria", "Norway", "Montenegro", "Bangladesh", "Russia"]}
+{"subject": "Sapo National Park", "object": "Liberia", "taxonomy": ["Brazil", "Armenia", "Mali", "Bangladesh", "Luxembourg"]}
+{"subject": "Hardoi district", "object": "India", "taxonomy": ["Denmark", "Netherlands", "Bulgaria", "Cyprus", "Somalia"]}
+{"subject": "Qatar Ladies Open", "object": "Qatar", "taxonomy": ["Thailand", "Bolivia", "Austria", "Croatia", "Kuwait"]}
+{"subject": "Moissac Abbey", "object": "France", "taxonomy": ["Slovenia", "Israel", "Nicaragua", "Somalia", "Ukraine"]}
+{"subject": "Kaniv Reservoir", "object": "Ukraine", "taxonomy": ["Nicaragua", "Slovenia", "Bolivia", "Kosovo", "Somalia"]}
+{"subject": "Bird's Head Peninsula", "object": "Indonesia", "taxonomy": ["Nigeria", "Philippines", "Uganda", "Yemen", "Venezuela"]}
+{"subject": "Gmina Kalinowo", "object": "Poland", "taxonomy": ["Oman", "Portugal", "Fiji", "Estonia", "Montenegro"]}
+{"subject": "Kukawa", "object": "Nigeria", "taxonomy": ["Colombia", "Netherlands", "Tunisia", "Moldova", "Armenia"]}
+{"subject": "Soalala", "object": "Madagascar", "taxonomy": ["Finland", "Cambodia", "Nigeria", "Malta", "Romania"]}
+{"subject": "Elgin West", "object": "Canada", "taxonomy": ["Slovenia", "Ghana", "Israel", "Belgium", "Malaysia"]}
+{"subject": "Polish Football Association", "object": "Poland", "taxonomy": ["Bulgaria", "Qatar", "Malaysia", "Kuwait", "Kosovo"]}
+{"subject": "Hohenlohe", "object": "Germany", "taxonomy": ["Norway", "Mexico", "Liberia", "Mauritius", "Kosovo"]}
+{"subject": "Kosi Zone", "object": "Nepal", "taxonomy": ["Romania", "Thailand", "India", "Norway", "Slovenia"]}
+{"subject": "Kume District", "object": "Japan", "taxonomy": ["Italy", "Kosovo", "Venezuela", "Nicaragua", "Ethiopia"]}
+{"subject": "Thuringian Highland", "object": "Germany", "taxonomy": ["Bahrain", "Lebanon", "Oman", "Estonia", "Argentina"]}
+{"subject": "prefectural road", "object": "Japan", "taxonomy": ["Kazakhstan", "Cuba", "Sudan", "Serbia", "Canada"]}
+{"subject": "Castlehaven", "object": "Ireland", "taxonomy": ["Lebanon", "Bahamas", "Norway", "Croatia", "Nigeria"]}
+{"subject": "Lannemezan", "object": "France", "taxonomy": ["Mexico", "Ethiopia", "Slovenia", "Bulgaria", "Madagascar"]}
+{"subject": "Gammalsvenskby", "object": "Ukraine", "taxonomy": ["France", "Somalia", "Tajikistan", "Bangladesh", "Libya"]}
+{"subject": "Tarq Rud Rural District", "object": "Iran", "taxonomy": ["Ethiopia", "Morocco", "Hungary", "Cyprus", "Belgium"]}
+{"subject": "Ateneo de Madrid", "object": "Spain", "taxonomy": ["Hungary", "Sweden", "Namibia", "Brazil", "Belgium"]}
+{"subject": "Gavrilovo-Posadsky District", "object": "Russia", "taxonomy": ["Thailand", "Turkey", "Norway", "Sweden", "Namibia"]}
+{"subject": "Marugame", "object": "Japan", "taxonomy": ["Kenya", "Russia", "Iran", "Malawi", "Namibia"]}
+{"subject": "Neighbourhoods in Kolkata", "object": "India", "taxonomy": ["Cyprus", "Spain", "Iraq", "Peru", "Afghanistan"]}
+{"subject": "Zaraysky District", "object": "Russia", "taxonomy": ["Singapore", "Cuba", "Kuwait", "Pakistan", "Peru"]}
+{"subject": "Higher Technological Institute (Egypt)", "object": "Egypt", "taxonomy": ["Switzerland", "Chile", "Haiti", "Bahrain", "Venezuela"]}
+{"subject": "Issenheim", "object": "France", "taxonomy": ["Argentina", "Switzerland", "Kyrgyzstan", "Syria", "Slovenia"]}
+{"subject": "Babcock & Brown", "object": "Australia", "taxonomy": ["Iran", "Bulgaria", "Taiwan", "Honduras", "Serbia"]}
+{"subject": "Gmina Sorkwity", "object": "Poland", "taxonomy": ["Colombia", "Guatemala", "Brazil", "Lithuania", "Slovenia"]}
+{"subject": "Arjoun", "object": "Syria", "taxonomy": ["Portugal", "Guatemala", "Nigeria", "France", "Australia"]}
+{"subject": "Beauvais", "object": "France", "taxonomy": ["Egypt", "Croatia", "Nicaragua", "Bulgaria", "Tanzania"]}
+{"subject": "Mont Saint-Bruno", "object": "Canada", "taxonomy": ["Philippines", "Mauritius", "Montenegro", "Kosovo", "Lebanon"]}
+{"subject": "Guru Nanak Dev University", "object": "India", "taxonomy": ["Kosovo", "Bermuda", "Algeria", "Taiwan", "Benin"]}
+{"subject": "Shakhenat Rural District", "object": "Iran", "taxonomy": ["Hungary", "Uganda", "Mauritius", "Taiwan", "Afghanistan"]}
+{"subject": "Western Sydney Wanderers FC", "object": "Australia", "taxonomy": ["Benin", "Namibia", "Sudan", "Austria", "Qatar"]}
+{"subject": "Lambunao", "object": "Philippines", "taxonomy": ["Spain", "Mauritius", "Uganda", "Malaysia", "Bhutan"]}
+{"subject": "College of Engineering, Pune", "object": "India", "taxonomy": ["Germany", "Azerbaijan", "Peru", "Norway", "Egypt"]}
+{"subject": "El Djem", "object": "Tunisia", "taxonomy": ["Mexico", "Guatemala", "Belgium", "Slovenia", "Kazakhstan"]}
+{"subject": "Noyon", "object": "France", "taxonomy": ["Liberia", "Iran", "Bahamas", "Uzbekistan", "Russia"]}
+{"subject": "Bamyan", "object": "Afghanistan", "taxonomy": ["Moldova", "Slovenia", "Belgium", "India", "Nigeria"]}
+{"subject": "Garbeta", "object": "India", "taxonomy": ["Singapore", "France", "Philippines", "Israel", "Mexico"]}
+{"subject": "Persegres Gresik United", "object": "Indonesia", "taxonomy": ["Pakistan", "Slovenia", "Tajikistan", "Iran", "Bhutan"]}
+{"subject": "Indus River", "object": "India", "taxonomy": ["Chile", "Madagascar", "Vietnam", "Kenya", "Tajikistan"]}
+{"subject": "Democratic Russia", "object": "Russia", "taxonomy": ["Botswana", "Honduras", "India", "Slovenia", "Lebanon"]}
+{"subject": "Shibganj Upazila, Bogra District", "object": "Bangladesh", "taxonomy": ["Switzerland", "Bahrain", "Chile", "Azerbaijan", "Indonesia"]}
+{"subject": "Darmstadt", "object": "Germany", "taxonomy": ["Estonia", "Serbia", "Bolivia", "Vietnam", "Kenya"]}
+{"subject": "Emba River", "object": "Kazakhstan", "taxonomy": ["Ethiopia", "Madagascar", "Mexico", "Venezuela", "France"]}
+{"subject": "Bogra Zilla School", "object": "Bangladesh", "taxonomy": ["Somalia", "Namibia", "Romania", "Belarus", "Bulgaria"]}
+{"subject": "Inuit Circumpolar Council", "object": "Canada", "taxonomy": ["Liberia", "Belarus", "Ireland", "Netherlands", "Namibia"]}
+{"subject": "University of Zaragoza", "object": "Spain", "taxonomy": ["Ukraine", "Cuba", "Luxembourg", "Malawi", "Taiwan"]}
+{"subject": "Buchan", "object": "Australia", "taxonomy": ["Nigeria", "Turkey", "Croatia", "Belgium", "Japan"]}
+{"subject": "Harnaut", "object": "India", "taxonomy": ["Syria", "Kazakhstan", "Kuwait", "Lithuania", "Morocco"]}
+{"subject": "Schleitheim", "object": "Switzerland", "taxonomy": ["Russia", "Czechoslovakia", "Uganda", "Nigeria", "Vietnam"]}
+{"subject": "Jervis Inlet", "object": "Canada", "taxonomy": ["Estonia", "Tanzania", "Turkey", "Azerbaijan", "Nicaragua"]}
+{"subject": "Imperia", "object": "Italy", "taxonomy": ["Denmark", "Belarus", "Bhutan", "Mauritius", "Spain"]}
+{"subject": "Lower Assam", "object": "India", "taxonomy": ["Latvia", "Bangladesh", "Vietnam", "Moldova", "Austria"]}
+{"subject": "Soalala District", "object": "Madagascar", "taxonomy": ["Oman", "Cambodia", "Venezuela", "Denmark", "Yemen"]}
+{"subject": "Infocomm Development Authority of Singapore", "object": "Singapore", "taxonomy": ["Uzbekistan", "Germany", "Sudan", "Philippines", "Pakistan"]}
+{"subject": "Warsteiner", "object": "Germany", "taxonomy": ["Turkey", "Kosovo", "Norway", "Bermuda", "Paraguay"]}
+{"subject": "Maybach", "object": "Germany", "taxonomy": ["Canada", "Nigeria", "Sweden", "Guatemala", "Ukraine"]}
+{"subject": "Oder-Spree District", "object": "Germany", "taxonomy": ["Mexico", "Egypt", "Kuwait", "Liberia", "Belarus"]}
+{"subject": "Ponoy River", "object": "Russia", "taxonomy": ["Cuba", "Philippines", "Chile", "Honduras", "Haiti"]}
+{"subject": "Siemiatycze", "object": "Poland", "taxonomy": ["Malawi", "Madagascar", "Hungary", "Azerbaijan", "Tanzania"]}
+{"subject": "Entracque", "object": "Italy", "taxonomy": ["Switzerland", "Yemen", "Latvia", "Montenegro", "Mauritius"]}
+{"subject": "Rankuh District", "object": "Iran", "taxonomy": ["Montenegro", "Malawi", "Paraguay", "Kuwait", "Serbia"]}
+{"subject": "Papantla", "object": "Mexico", "taxonomy": ["Serbia", "Malta", "Israel", "Namibia", "Ukraine"]}
+{"subject": "Saint-Louis-de-Kent, New Brunswick", "object": "Canada", "taxonomy": ["Tanzania", "Philippines", "Mauritius", "Netherlands", "Malaysia"]}
+{"subject": "Druk Pol FC", "object": "Bhutan", "taxonomy": ["Mexico", "Nigeria", "Latvia", "Iran", "Netherlands"]}
+{"subject": "Illertissen", "object": "Germany", "taxonomy": ["Qatar", "Belarus", "Liberia", "Uganda", "Czechoslovakia"]}
+{"subject": "Hitachinaka", "object": "Japan", "taxonomy": ["Poland", "Paraguay", "Rwanda", "Ireland", "Tajikistan"]}
+{"subject": "Lough Ree", "object": "Ireland", "taxonomy": ["Slovenia", "Paraguay", "Malaysia", "Turkey", "Algeria"]}
+{"subject": "Bugis Junction", "object": "Singapore", "taxonomy": ["Kazakhstan", "Liberia", "Paraguay", "Somalia", "Japan"]}
+{"subject": "Colegio Nacional de Buenos Aires", "object": "Argentina", "taxonomy": ["Azerbaijan", "Mauritius", "Bangladesh", "Cyprus", "Malawi"]}
+{"subject": "San Canzian d'Isonzo", "object": "Italy", "taxonomy": ["Slovenia", "Albania", "Switzerland", "Japan", "Qatar"]}
+{"subject": "Mukkam", "object": "India", "taxonomy": ["Nepal", "Taiwan", "Vietnam", "Montenegro", "Belarus"]}
+{"subject": "Iraklis F.C.", "object": "Greece", "taxonomy": ["Kosovo", "Botswana", "Luxembourg", "France", "Malta"]}
+{"subject": "Valdemarsvik", "object": "Sweden", "taxonomy": ["Libya", "Tajikistan", "Ghana", "Israel", "Namibia"]}
+{"subject": "Loppa", "object": "Norway", "taxonomy": ["Venezuela", "Greece", "Azerbaijan", "Peru", "Japan"]}
+{"subject": "Saint Gayane Church", "object": "Armenia", "taxonomy": ["Nicaragua", "Luxembourg", "Kuwait", "Turkey", "Denmark"]}
+{"subject": "Hadzhidimovo", "object": "Bulgaria", "taxonomy": ["Kazakhstan", "Libya", "Bahamas", "Rwanda", "Serbia"]}
+{"subject": "Note Printing Australia", "object": "Australia", "taxonomy": ["Namibia", "Haiti", "Romania", "Bahamas", "Madagascar"]}
+{"subject": "Guldborg", "object": "Denmark", "taxonomy": ["Kosovo", "Nepal", "Finland", "Thailand", "Benin"]}
+{"subject": "Simeulue", "object": "Indonesia", "taxonomy": ["Rwanda", "Netherlands", "Singapore", "Norway", "Russia"]}
+{"subject": "Japan National Route 112", "object": "Japan", "taxonomy": ["Iran", "Czechoslovakia", "Mauritius", "Switzerland", "Honduras"]}
+{"subject": "Sabratha", "object": "Libya", "taxonomy": ["Morocco", "Kazakhstan", "Israel", "Sweden", "Egypt"]}
+{"subject": "Broken Pencil", "object": "Canada", "taxonomy": ["Australia", "Mali", "Finland", "Greece", "France"]}
+{"subject": "Toulouges", "object": "France", "taxonomy": ["Albania", "India", "Ireland", "Russia", "Botswana"]}
+{"subject": "Mandara Mountains", "object": "Nigeria", "taxonomy": ["Vietnam", "Iran", "Tajikistan", "Finland", "Haiti"]}
+{"subject": "Castrovirreyna District", "object": "Peru", "taxonomy": ["Uzbekistan", "Serbia", "Mauritius", "Venezuela", "Germany"]}
+{"subject": "Scheibbs District", "object": "Austria", "taxonomy": ["Montenegro", "Bulgaria", "Egypt", "Mali", "Paraguay"]}
+{"subject": "Asian Highway Network", "object": "Turkey", "taxonomy": ["Paraguay", "Vietnam", "India", "Iraq", "Azerbaijan"]}
+{"subject": "Ford Motor Company of Canada", "object": "Canada", "taxonomy": ["Mauritius", "Namibia", "Nigeria", "Slovenia", "Croatia"]}
+{"subject": "Olot", "object": "Spain", "taxonomy": ["Kazakhstan", "Bolivia", "Liberia", "Poland", "Canada"]}
+{"subject": "Canada Live", "object": "Canada", "taxonomy": ["Sudan", "Pakistan", "Tajikistan", "Bhutan", "Belgium"]}
+{"subject": "Drumheller-Stettler", "object": "Canada", "taxonomy": ["Luxembourg", "Argentina", "Madagascar", "Spain", "Ethiopia"]}
+{"subject": "North Middlesex, Ontario", "object": "Canada", "taxonomy": ["Moldova", "Nigeria", "Tunisia", "Lebanon", "Chile"]}
+{"subject": "N-340 road", "object": "Spain", "taxonomy": ["Nepal", "Cuba", "Bangladesh", "Denmark", "Uzbekistan"]}
+{"subject": "Eirodziesma", "object": "Latvia", "taxonomy": ["Cyprus", "Peru", "Rwanda", "Italy", "Qatar"]}
+{"subject": "Kaunas Cathedral Basilica", "object": "Lithuania", "taxonomy": ["Bermuda", "Honduras", "Bahrain", "Brazil", "Denmark"]}
+{"subject": "Bahujan Vikas Aaghadi", "object": "India", "taxonomy": ["Malaysia", "Tunisia", "Brazil", "Cambodia", "Kosovo"]}
+{"subject": "Liverpool Range", "object": "Australia", "taxonomy": ["Egypt", "Serbia", "Luxembourg", "Philippines", "Venezuela"]}
+{"subject": "Biberach district", "object": "Germany", "taxonomy": ["Yemen", "Nepal", "Cyprus", "Sweden", "Hungary"]}
+{"subject": "Lascaris Battery", "object": "Malta", "taxonomy": ["Iran", "Armenia", "Italy", "Malaysia", "Liberia"]}
+{"subject": "Castellamonte", "object": "Italy", "taxonomy": ["Finland", "Kenya", "Moldova", "Australia", "Algeria"]}
+{"subject": "ABC Futebol Clube", "object": "Brazil", "taxonomy": ["Switzerland", "Ireland", "Armenia", "Israel", "Taiwan"]}
+{"subject": "Kyoto University", "object": "Japan", "taxonomy": ["Botswana", "Malawi", "Bermuda", "France", "Ireland"]}
+{"subject": "Everberg", "object": "Belgium", "taxonomy": ["Mali", "Finland", "Luxembourg", "Thailand", "Greece"]}
+{"subject": "Sarnaki", "object": "Poland", "taxonomy": ["Kyrgyzstan", "Botswana", "Czechoslovakia", "Albania", "Honduras"]}
+{"subject": "Union of Students in Ireland", "object": "Ireland", "taxonomy": ["Moldova", "Austria", "Kenya", "Latvia", "Netherlands"]}
+{"subject": "Pacentro", "object": "Italy", "taxonomy": ["Bhutan", "Russia", "Latvia", "Benin", "Namibia"]}
+{"subject": "Novokuybyshevsk", "object": "Russia", "taxonomy": ["Philippines", "Portugal", "Bahamas", "Iran", "Belgium"]}
+{"subject": "Nepal Academy", "object": "Nepal", "taxonomy": ["Bhutan", "Uganda", "Rwanda", "Bangladesh", "Ireland"]}
+{"subject": "Bintulu Division", "object": "Malaysia", "taxonomy": ["Egypt", "Madagascar", "Montenegro", "Sudan", "Rwanda"]}
+{"subject": "Louth County Council", "object": "Ireland", "taxonomy": ["Bhutan", "Czechoslovakia", "Bahamas", "Lithuania", "Thailand"]}
+{"subject": "regiopolis", "object": "Germany", "taxonomy": ["Tajikistan", "Guatemala", "Peru", "Namibia", "Hungary"]}
+{"subject": "Hamilton Mountain", "object": "Canada", "taxonomy": ["Rwanda", "Turkey", "Guatemala", "Moldova", "Serbia"]}
+{"subject": "Mahalangur Himal", "object": "Nepal", "taxonomy": ["Tanzania", "Guatemala", "Romania", "Uzbekistan", "Bermuda"]}
+{"subject": "House of Representatives", "object": "Libya", "taxonomy": ["Cuba", "Russia", "Mexico", "Estonia", "Chile"]}
+{"subject": "Pakpattan", "object": "Pakistan", "taxonomy": ["Tajikistan", "Taiwan", "Spain", "Bhutan", "Peru"]}
+{"subject": "Universidad Nacional Federico Villarreal", "object": "Peru", "taxonomy": ["Spain", "Italy", "Uganda", "Serbia", "Denmark"]}
+{"subject": "Kyōto Prefecture", "object": "Japan", "taxonomy": ["Montenegro", "Latvia", "Benin", "Thailand", "Malaysia"]}
+{"subject": "Tarnobrzeg Voivodeship", "object": "Poland", "taxonomy": ["Yemen", "Russia", "Liberia", "Lebanon", "Philippines"]}
+{"subject": "Passeier Valley", "object": "Italy", "taxonomy": ["Somalia", "Croatia", "Madagascar", "Nigeria", "Singapore"]}
+{"subject": "Urangan", "object": "Australia", "taxonomy": ["Malaysia", "Singapore", "Russia", "Nigeria", "Thailand"]}
+{"subject": "Melaka TMFC", "object": "Malaysia", "taxonomy": ["Yemen", "Serbia", "Peru", "Turkey", "Moldova"]}
+{"subject": "Nkawkaw", "object": "Ghana", "taxonomy": ["Malaysia", "Portugal", "Malta", "Bhutan", "Netherlands"]}
+{"subject": "province of Japan", "object": "Japan", "taxonomy": ["Bahamas", "Bangladesh", "Iraq", "Sudan", "Kyrgyzstan"]}
+{"subject": "Yamato Museum", "object": "Japan", "taxonomy": ["Italy", "Czechoslovakia", "Tajikistan", "Lithuania", "Bulgaria"]}
+{"subject": "Adare Manor", "object": "Ireland", "taxonomy": ["Montenegro", "Ghana", "Netherlands", "Bangladesh", "Tanzania"]}
+{"subject": "Free National Movement", "object": "Bahamas", "taxonomy": ["Kyrgyzstan", "Montenegro", "Moldova", "Iraq", "Austria"]}
+{"subject": "Northern Territory", "object": "Australia", "taxonomy": ["Canada", "Latvia", "Botswana", "Argentina", "Bahrain"]}
+{"subject": "Christian Medical College Ludhiana", "object": "India", "taxonomy": ["Kyrgyzstan", "Libya", "Czechoslovakia", "Denmark", "Bangladesh"]}
+{"subject": "Bukit Panjang Single Member Constituency", "object": "Singapore", "taxonomy": ["Kenya", "Ukraine", "Fiji", "Peru", "Latvia"]}
+{"subject": "VR warehouses", "object": "Finland", "taxonomy": ["Fiji", "Ukraine", "Montenegro", "Ireland", "France"]}
+{"subject": "Venezuelan recall referendum", "object": "Venezuela", "taxonomy": ["Bolivia", "Portugal", "Montenegro", "Singapore", "Belarus"]}
+{"subject": "Mittag-Leffler Institute", "object": "Sweden", "taxonomy": ["Bolivia", "Iran", "Kenya", "Vietnam", "France"]}
+{"subject": "Kuomintang", "object": "Taiwan", "taxonomy": ["Peru", "Ethiopia", "Brazil", "Switzerland", "Nepal"]}
+{"subject": "Party for Freedom", "object": "Netherlands", "taxonomy": ["Rwanda", "Nigeria", "Taiwan", "Kuwait", "India"]}
+{"subject": "Vardasht Rural District", "object": "Iran", "taxonomy": ["Paraguay", "Azerbaijan", "Armenia", "Uganda", "Venezuela"]}
+{"subject": "Allan Cup", "object": "Canada", "taxonomy": ["Ethiopia", "Nigeria", "Cuba", "Netherlands", "Tanzania"]}
+{"subject": "Rudrur", "object": "India", "taxonomy": ["Ukraine", "Paraguay", "Cambodia", "Chile", "Iraq"]}
+{"subject": "Birendranagar", "object": "Nepal", "taxonomy": ["Iran", "Croatia", "Iraq", "Thailand", "Albania"]}
+{"subject": "Kottarakkara", "object": "India", "taxonomy": ["Yemen", "Belgium", "Benin", "Uzbekistan", "Liberia"]}
+{"subject": "AMK Hub", "object": "Singapore", "taxonomy": ["Italy", "Montenegro", "Malawi", "Paraguay", "Argentina"]}
+{"subject": "Whiteshell Laboratories", "object": "Canada", "taxonomy": ["Australia", "Ireland", "Yemen", "Morocco", "Czechoslovakia"]}
+{"subject": "Nishi-Matsuura District", "object": "Japan", "taxonomy": ["Czechoslovakia", "Sweden", "Nepal", "Ukraine", "Lithuania"]}
+{"subject": "War in Donbass", "object": "Ukraine", "taxonomy": ["Argentina", "Japan", "Bolivia", "Kosovo", "Turkey"]}
+{"subject": "SAM Colombia", "object": "Colombia", "taxonomy": ["Nicaragua", "Cambodia", "Venezuela", "Latvia", "Malaysia"]}
+{"subject": "Castleisland Desmonds GAA", "object": "Ireland", "taxonomy": ["France", "Venezuela", "Belarus", "Switzerland", "Madagascar"]}
+{"subject": "Shire of Wambo", "object": "Australia", "taxonomy": ["Bermuda", "Namibia", "Czechoslovakia", "Colombia", "Uganda"]}
+{"subject": "Wanne-Eickel Central Station", "object": "Germany", "taxonomy": ["Kuwait", "Kyrgyzstan", "Taiwan", "Bangladesh", "Ukraine"]}
+{"subject": "Pinosava", "object": "Serbia", "taxonomy": ["Armenia", "Brazil", "Tunisia", "Moldova", "Morocco"]}
+{"subject": "Chancelade", "object": "France", "taxonomy": ["Indonesia", "Turkey", "Somalia", "Spain", "Croatia"]}
+{"subject": "Geelong Ring Road", "object": "Australia", "taxonomy": ["Vietnam", "Mexico", "Canada", "Taiwan", "Algeria"]}
+{"subject": "Santo Spirito in Sassia", "object": "Italy", "taxonomy": ["Iran", "Estonia", "Turkey", "Luxembourg", "Algeria"]}
+{"subject": "Kennedy Highway", "object": "Australia", "taxonomy": ["Afghanistan", "Cambodia", "Singapore", "Norway", "Hungary"]}
+{"subject": "Cem River", "object": "Montenegro", "taxonomy": ["Kazakhstan", "Kuwait", "Canada", "Ghana", "Cuba"]}
+{"subject": "Dornbirn", "object": "Austria", "taxonomy": ["Nicaragua", "Bangladesh", "Lebanon", "Qatar", "Singapore"]}
+{"subject": "Gmina Warlubie", "object": "Poland", "taxonomy": ["Armenia", "Botswana", "Madagascar", "Nigeria", "Tajikistan"]}
+{"subject": "Bilohirsk Raion", "object": "Russia", "taxonomy": ["Norway", "Armenia", "Albania", "Malaysia", "Germany"]}
+{"subject": "Christian Democrats", "object": "Finland", "taxonomy": ["Luxembourg", "Netherlands", "Sweden", "Yemen", "Bahrain"]}
+{"subject": "IJmuiden", "object": "Netherlands", "taxonomy": ["Tunisia", "Tanzania", "Switzerland", "Latvia", "Lithuania"]}
+{"subject": "Ankenes", "object": "Norway", "taxonomy": ["Tajikistan", "Singapore", "Italy", "Bahrain", "Vietnam"]}
+{"subject": "Haut Atlas", "object": "Morocco", "taxonomy": ["Nigeria", "Venezuela", "Rwanda", "Lebanon", "Bahamas"]}
+{"subject": "Heptapyrgion", "object": "Greece", "taxonomy": ["Kuwait", "Ireland", "Cambodia", "Sudan", "Somalia"]}
+{"subject": "Media Development Authority", "object": "Singapore", "taxonomy": ["Kosovo", "Mexico", "Namibia", "Fiji", "Malta"]}

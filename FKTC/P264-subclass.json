@@ -1,0 +1,430 @@
+{"relations": ["What is the record label for [X]?", "Which music label represents [X]?", "What music label is associated with [X]?", "Under which music label is [X] signed?", "Who is [X] signed with in the music industry?", "What is the name of the music label that manages [X]?"]}
+{"subject": "Buddy Holly", "object": "Decca", "taxonomy": ["Brunswick", "Legacy", "Monument", "Harvest", "Coral"]}
+{"subject": "Buddy Holly", "object": "Brunswick", "taxonomy": ["Barclay", "Harvest", "Word", "Swan", "Festival"]}
+{"subject": "Bill Haley & His Comets", "object": "Decca", "taxonomy": ["Federal", "Monument", "Paramount", "Motown", "Harvest"]}
+{"subject": "Owen Bradley", "object": "Decca", "taxonomy": ["Fantasy", "Coral", "Paramount", "Harvest", "Sunshine"]}
+{"subject": "The Crickets", "object": "Brunswick", "taxonomy": ["Barclay", "Motown", "Legacy", "EMI", "Word"]}
+{"subject": "Georg Solti", "object": "Decca", "taxonomy": ["Paramount", "Word", "Barclay", "Swan", "Sunshine"]}
+{"subject": "The Temptations", "object": "Motown", "taxonomy": ["Sunshine", "Paramount", "Harvest", "Legacy", "EMI"]}
+{"subject": "The Funk Brothers", "object": "Motown", "taxonomy": ["Brunswick", "Festival", "Word", "EMI", "Sunshine"]}
+{"subject": "The Marvelettes", "object": "Motown", "taxonomy": ["EMI", "Sunshine", "Paramount", "Federal", "Swan"]}
+{"subject": "David Bowie", "object": "EMI", "taxonomy": ["Legacy", "Barclay", "Coral", "Fantasy", "Word"]}
+{"subject": "Marvin Gaye", "object": "Motown", "taxonomy": ["Sunshine", "Harvest", "EMI", "Word", "Decca"]}
+{"subject": "Stevie Wonder", "object": "Motown", "taxonomy": ["Paramount", "Harvest", "Word", "Brunswick", "Coral"]}
+{"subject": "Buddy Holly", "object": "Coral", "taxonomy": ["Fantasy", "Monument", "Barclay", "Sunshine", "Paramount"]}
+{"subject": "Charley Patton", "object": "Paramount", "taxonomy": ["Fantasy", "Festival", "Barclay", "Coral", "Harvest"]}
+{"subject": "The Paris Sisters", "object": "Decca", "taxonomy": ["Swan", "Monument", "Barclay", "Fantasy", "Paramount"]}
+{"subject": "Berry Gordy", "object": "Motown", "taxonomy": ["Harvest", "Swan", "EMI", "Federal", "Sunshine"]}
+{"subject": "Lifemask", "object": "Harvest", "taxonomy": ["Word", "Paramount", "Motown", "Legacy", "Brunswick"]}
+{"subject": "Wide Open Spaces", "object": "Monument", "taxonomy": ["Barclay", "Motown", "Brunswick", "Festival", "Sunshine"]}
+{"subject": "The Supremes", "object": "Motown", "taxonomy": ["Harvest", "Coral", "EMI", "Swan", "Sunshine"]}
+{"subject": "Barrett Strong", "object": "Motown", "taxonomy": ["Federal", "Swan", "Brunswick", "Word", "Harvest"]}
+{"subject": "Shoo-Be-Doo-Be-Doo-Da-Day", "object": "Motown", "taxonomy": ["Monument", "Barclay", "Harvest", "Festival", "Federal"]}
+{"subject": "Yester-Me, Yester-You, Yesterday", "object": "Motown", "taxonomy": ["Decca", "Harvest", "Barclay", "Word", "Festival"]}
+{"subject": "Signed, Sealed, Delivered I'm Yours", "object": "Motown", "taxonomy": ["Paramount", "Festival", "Brunswick", "EMI", "Decca"]}
+{"subject": "Boogie On Reggae Woman", "object": "Motown", "taxonomy": ["Coral", "Paramount", "Sunshine", "Word", "Festival"]}
+{"subject": "Fulfillingness' First Finale", "object": "Motown", "taxonomy": ["Harvest", "Decca", "Paramount", "Word", "EMI"]}
+{"subject": "You Can't Hurry Love", "object": "Motown", "taxonomy": ["Paramount", "Fantasy", "Monument", "Swan", "Brunswick"]}
+{"subject": "My World Is Empty Without You", "object": "Motown", "taxonomy": ["Harvest", "EMI", "Federal", "Word", "Monument"]}
+{"subject": "Fingertips", "object": "Motown", "taxonomy": ["Fantasy", "Sunshine", "Swan", "Paramount", "Word"]}
+{"subject": "Up-Tight", "object": "Motown", "taxonomy": ["Festival", "Monument", "Brunswick", "Swan", "Word"]}
+{"subject": "Signed, Sealed & Delivered", "object": "Motown", "taxonomy": ["Fantasy", "Monument", "Sunshine", "EMI", "Decca"]}
+{"subject": "Conversation Peace", "object": "Motown", "taxonomy": ["Festival", "Swan", "Coral", "Paramount", "Word"]}
+{"subject": "Syreeta Wright", "object": "Motown", "taxonomy": ["Paramount", "Barclay", "Fantasy", "Federal", "Festival"]}
+{"subject": "Smokey Robinson", "object": "Motown", "taxonomy": ["Harvest", "Sunshine", "Brunswick", "EMI", "Barclay"]}
+{"subject": "Bobby Rogers", "object": "Motown", "taxonomy": ["Brunswick", "Harvest", "Barclay", "Word", "Decca"]}
+{"subject": "Never Can Say Goodbye", "object": "Motown", "taxonomy": ["Sunshine", "Barclay", "Monument", "Decca", "Word"]}
+{"subject": "Pam Sawyer", "object": "Motown", "taxonomy": ["Federal", "Sunshine", "Monument", "Paramount", "Swan"]}
+{"subject": "Eddie Kendricks", "object": "Motown", "taxonomy": ["Festival", "Legacy", "Federal", "Paramount", "Fantasy"]}
+{"subject": "Do You Love Me", "object": "Motown", "taxonomy": ["Federal", "Fantasy", "EMI", "Legacy", "Sunshine"]}
+{"subject": "The Contours", "object": "Motown", "taxonomy": ["Coral", "Swan", "Decca", "EMI", "Federal"]}
+{"subject": "The Pointer Sisters", "object": "Motown", "taxonomy": ["Word", "Festival", "Sunshine", "Decca", "Brunswick"]}
+{"subject": "Clarence Paul", "object": "Motown", "taxonomy": ["Word", "Fantasy", "Brunswick", "Federal", "Coral"]}
+{"subject": "Boyz II Men", "object": "Motown", "taxonomy": ["Decca", "Barclay", "Legacy", "Sunshine", "Brunswick"]}
+{"subject": "Reach Out I'll Be There", "object": "Motown", "taxonomy": ["Legacy", "Fantasy", "Barclay", "Federal", "Word"]}
+{"subject": "The Four Aces", "object": "Decca", "taxonomy": ["Festival", "Legacy", "Sunshine", "Swan", "Monument"]}
+{"subject": "The Moody Blues", "object": "Decca", "taxonomy": ["EMI", "Festival", "Paramount", "Swan", "Monument"]}
+{"subject": "Chumbawamba", "object": "EMI", "taxonomy": ["Brunswick", "Barclay", "Festival", "Federal", "Sunshine"]}
+{"subject": "Commodores", "object": "Motown", "taxonomy": ["EMI", "Coral", "Legacy", "Harvest", "Word"]}
+{"subject": "John Mayall", "object": "Decca", "taxonomy": ["Swan", "Barclay", "Festival", "Monument", "Fantasy"]}
+{"subject": "John Mayall & the Bluesbreakers", "object": "Decca", "taxonomy": ["Fantasy", "Swan", "Motown", "Brunswick", "Paramount"]}
+{"subject": "Jack Ashford", "object": "Motown", "taxonomy": ["Paramount", "Sunshine", "Federal", "Festival", "Legacy"]}
+{"subject": "Shop Around", "object": "Motown", "taxonomy": ["Sunshine", "Fantasy", "Paramount", "Harvest", "Swan"]}
+{"subject": "You Keep Me Hangin' On", "object": "Motown", "taxonomy": ["Coral", "Brunswick", "Fantasy", "Festival", "Word"]}
+{"subject": "Bing Crosby", "object": "Decca", "taxonomy": ["Fantasy", "Brunswick", "Monument", "Harvest", "Swan"]}
+{"subject": "Louis Armstrong", "object": "Decca", "taxonomy": ["Harvest", "Legacy", "EMI", "Paramount", "Swan"]}
+{"subject": "Norman Whitfield", "object": "Motown", "taxonomy": ["EMI", "Barclay", "Swan", "Federal", "Coral"]}
+{"subject": "Eddie Holland", "object": "Motown", "taxonomy": ["Word", "Harvest", "Paramount", "Monument", "Swan"]}
+{"subject": "The Velvelettes", "object": "Motown", "taxonomy": ["EMI", "Legacy", "Harvest", "Monument", "Paramount"]}
+{"subject": "Victor Young", "object": "Decca", "taxonomy": ["EMI", "Fantasy", "Sunshine", "Motown", "Brunswick"]}
+{"subject": "Ella Fitzgerald", "object": "Decca", "taxonomy": ["Harvest", "Legacy", "Festival", "EMI", "Swan"]}
+{"subject": "Dock Boggs", "object": "Brunswick", "taxonomy": ["Monument", "Sunshine", "Fantasy", "Legacy", "Paramount"]}
+{"subject": "Maria Callas", "object": "EMI", "taxonomy": ["Harvest", "Word", "Motown", "Federal", "Fantasy"]}
+{"subject": "Kris Kristofferson", "object": "Monument", "taxonomy": ["Festival", "Coral", "Fantasy", "Barclay", "Federal"]}
+{"subject": "Oh Girl", "object": "Brunswick", "taxonomy": ["Decca", "Coral", "EMI", "Swan", "Harvest"]}
+{"subject": "The Chi-Lites", "object": "Brunswick", "taxonomy": ["Barclay", "Festival", "Paramount", "Decca", "Swan"]}
+{"subject": "Have You Seen Her", "object": "Brunswick", "taxonomy": ["Coral", "EMI", "Harvest", "Paramount", "Motown"]}
+{"subject": "Gladys Knight & the Pips", "object": "Motown", "taxonomy": ["Federal", "Monument", "Word", "Barclay", "Fantasy"]}
+{"subject": "Diana Ross", "object": "Motown", "taxonomy": ["Barclay", "Fantasy", "Harvest", "Federal", "Coral"]}
+{"subject": "Mary, Scherrie & Susaye", "object": "Motown", "taxonomy": ["EMI", "Legacy", "Sunshine", "Festival", "Monument"]}
+{"subject": "Susaye Greene", "object": "Motown", "taxonomy": ["Paramount", "Harvest", "Word", "Barclay", "EMI"]}
+{"subject": "Lamont Dozier", "object": "Motown", "taxonomy": ["Barclay", "Coral", "Brunswick", "Harvest", "Festival"]}
+{"subject": "Strange Behaviour", "object": "EMI", "taxonomy": ["Festival", "Monument", "Legacy", "Brunswick", "Swan"]}
+{"subject": "The Isley Brothers", "object": "Motown", "taxonomy": ["EMI", "Coral", "Paramount", "Harvest", "Word"]}
+{"subject": "Neil Young", "object": "Motown", "taxonomy": ["Paramount", "Legacy", "Barclay", "Coral", "Federal"]}
+{"subject": "The Rolling Stones", "object": "Decca", "taxonomy": ["Monument", "Legacy", "Coral", "Brunswick", "Harvest"]}
+{"subject": "Benjamin Britten", "object": "Decca", "taxonomy": ["Festival", "Brunswick", "Barclay", "Monument", "Harvest"]}
+{"subject": "Sigue Sigue Sputnik", "object": "EMI", "taxonomy": ["Decca", "Word", "Monument", "Motown", "Paramount"]}
+{"subject": "Talk Talk", "object": "EMI", "taxonomy": ["Sunshine", "Federal", "Festival", "Brunswick", "Motown"]}
+{"subject": "Pink Floyd", "object": "EMI", "taxonomy": ["Festival", "Swan", "Coral", "Decca", "Sunshine"]}
+{"subject": "Ma Rainey", "object": "Paramount", "taxonomy": ["Brunswick", "Coral", "Sunshine", "Motown", "Fantasy"]}
+{"subject": "James Jamerson", "object": "Motown", "taxonomy": ["Brunswick", "EMI", "Coral", "Swan", "Paramount"]}
+{"subject": "Roxette", "object": "EMI", "taxonomy": ["Monument", "Barclay", "Legacy", "Fantasy", "Word"]}
+{"subject": "Mills Brothers", "object": "Decca", "taxonomy": ["Sunshine", "Motown", "Legacy", "Word", "Federal"]}
+{"subject": "Creedence Clearwater Revival", "object": "Fantasy", "taxonomy": ["Swan", "Motown", "Sunshine", "Festival", "Legacy"]}
+{"subject": "Harry James", "object": "Brunswick", "taxonomy": ["Motown", "Sunshine", "Paramount", "Legacy", "Word"]}
+{"subject": "Last Time I Saw Him", "object": "Motown", "taxonomy": ["Monument", "Barclay", "Word", "Fantasy", "Coral"]}
+{"subject": "Workin' Overtime", "object": "Motown", "taxonomy": ["Festival", "Decca", "Legacy", "Harvest", "Sunshine"]}
+{"subject": "Take Me Higher", "object": "Motown", "taxonomy": ["Decca", "Legacy", "Coral", "Word", "Sunshine"]}
+{"subject": "Kim Weston", "object": "Motown", "taxonomy": ["Fantasy", "Monument", "EMI", "Festival", "Coral"]}
+{"subject": "Johnny Bristol", "object": "Motown", "taxonomy": ["Monument", "Decca", "Harvest", "Word", "Brunswick"]}
+{"subject": "Skip James", "object": "Paramount", "taxonomy": ["Motown", "Brunswick", "Decca", "Coral", "Festival"]}
+{"subject": "Billie Holiday", "object": "Brunswick", "taxonomy": ["Paramount", "Fantasy", "Festival", "Barclay", "Word"]}
+{"subject": "The Shelton Brothers", "object": "Decca", "taxonomy": ["Monument", "Paramount", "Harvest", "Coral", "Word"]}
+{"subject": "George Martin", "object": "EMI", "taxonomy": ["Legacy", "Fantasy", "Decca", "Word", "Festival"]}
+{"subject": "You've Got Your Troubles", "object": "Decca", "taxonomy": ["Word", "Paramount", "Coral", "Festival", "Barclay"]}
+{"subject": "Patsy Cline", "object": "Decca", "taxonomy": ["Brunswick", "Monument", "Coral", "Motown", "Swan"]}
+{"subject": "The McGuire Sisters", "object": "Coral", "taxonomy": ["Sunshine", "Barclay", "Word", "Swan", "Brunswick"]}
+{"subject": "Joan Sutherland", "object": "Decca", "taxonomy": ["Swan", "Legacy", "Festival", "Monument", "Federal"]}
+{"subject": "Rachael Lampa", "object": "Word", "taxonomy": ["Motown", "Paramount", "Swan", "Legacy", "Brunswick"]}
+{"subject": "The Andrews Sisters", "object": "Decca", "taxonomy": ["EMI", "Paramount", "Brunswick", "Motown", "Monument"]}
+{"subject": "Water Runs Dry", "object": "Motown", "taxonomy": ["Monument", "Word", "Decca", "Fantasy", "Sunshine"]}
+{"subject": "Hank Ballard", "object": "Federal", "taxonomy": ["Paramount", "Motown", "Fantasy", "Sunshine", "Decca"]}
+{"subject": "James Brown", "object": "Federal", "taxonomy": ["Decca", "Paramount", "Motown", "Sunshine", "Legacy"]}
+{"subject": "The Platters", "object": "Federal", "taxonomy": ["Swan", "Fantasy", "Motown", "Monument", "Barclay"]}
+{"subject": "Red Foley", "object": "Decca", "taxonomy": ["Paramount", "Swan", "Motown", "Monument", "Legacy"]}
+{"subject": "Meddle", "object": "Harvest", "taxonomy": ["Brunswick", "Paramount", "Sunshine", "Swan", "Coral"]}
+{"subject": "Pink Floyd", "object": "Harvest", "taxonomy": ["Legacy", "Swan", "Paramount", "Monument", "Word"]}
+{"subject": "Mary Wells", "object": "Motown", "taxonomy": ["Brunswick", "Coral", "Paramount", "Swan", "Legacy"]}
+{"subject": "I Want You Back", "object": "Motown", "taxonomy": ["Festival", "Coral", "Paramount", "Word", "EMI"]}
+{"subject": "Billie Holiday", "object": "Decca", "taxonomy": ["EMI", "Legacy", "Harvest", "Fantasy", "Sunshine"]}
+{"subject": "Duke Ellington", "object": "Decca", "taxonomy": ["Festival", "Federal", "Paramount", "Swan", "Word"]}
+{"subject": "Brenda Lee", "object": "Decca", "taxonomy": ["Word", "Legacy", "Coral", "Brunswick", "Fantasy"]}
+{"subject": "Russ Morgan", "object": "Decca", "taxonomy": ["Sunshine", "EMI", "Monument", "Barclay", "Motown"]}
+{"subject": "Dennis Edwards", "object": "Motown", "taxonomy": ["Decca", "Harvest", "Federal", "Monument", "Brunswick"]}
+{"subject": "Wizzard", "object": "EMI", "taxonomy": ["Harvest", "Coral", "Paramount", "Brunswick", "Sunshine"]}
+{"subject": "Burl Ives", "object": "Decca", "taxonomy": ["Festival", "Monument", "Federal", "Legacy", "Paramount"]}
+{"subject": "Vic Schoen", "object": "Decca", "taxonomy": ["EMI", "Federal", "Motown", "Sunshine", "Paramount"]}
+{"subject": "Kraftwerk", "object": "EMI", "taxonomy": ["Harvest", "Federal", "Brunswick", "Motown", "Festival"]}
+{"subject": "Tin Machine", "object": "EMI", "taxonomy": ["Motown", "Swan", "Word", "Fantasy", "Sunshine"]}
+{"subject": "Clay Aiken", "object": "Decca", "taxonomy": ["Swan", "Sunshine", "Monument", "Fantasy", "Harvest"]}
+{"subject": "Ted Heath", "object": "Decca", "taxonomy": ["Monument", "Word", "Legacy", "Harvest", "Paramount"]}
+{"subject": "Cat Stevens", "object": "Decca", "taxonomy": ["Motown", "Legacy", "Sunshine", "Monument", "Brunswick"]}
+{"subject": "The Elgins", "object": "Motown", "taxonomy": ["Festival", "Fantasy", "Harvest", "Paramount", "EMI"]}
+{"subject": "Re-Flex", "object": "EMI", "taxonomy": ["Motown", "Festival", "Fantasy", "Decca", "Harvest"]}
+{"subject": "Mafalda Arnauth", "object": "EMI", "taxonomy": ["Swan", "Festival", "Barclay", "Paramount", "Harvest"]}
+{"subject": "Wanda Young", "object": "Motown", "taxonomy": ["Festival", "Paramount", "Decca", "Sunshine", "Legacy"]}
+{"subject": "Goldie Hill", "object": "Decca", "taxonomy": ["Monument", "Brunswick", "Barclay", "Motown", "Legacy"]}
+{"subject": "Leaving Here", "object": "Motown", "taxonomy": ["Harvest", "Barclay", "Monument", "Festival", "Decca"]}
+{"subject": "Beauty Is Only Skin Deep", "object": "Motown", "taxonomy": ["Monument", "Fantasy", "Word", "Barclay", "Paramount"]}
+{"subject": "Martha and the Vandellas", "object": "Motown", "taxonomy": ["Coral", "Sunshine", "EMI", "Harvest", "Swan"]}
+{"subject": "I'll Try Something New", "object": "Motown", "taxonomy": ["Barclay", "Festival", "Harvest", "Brunswick", "Swan"]}
+{"subject": "You've Really Got a Hold on Me", "object": "Motown", "taxonomy": ["Decca", "Harvest", "Federal", "Barclay", "Fantasy"]}
+{"subject": "Brian Holland", "object": "Motown", "taxonomy": ["Brunswick", "Festival", "Swan", "Legacy", "Word"]}
+{"subject": "Freddie Gorman", "object": "Motown", "taxonomy": ["Harvest", "EMI", "Legacy", "Federal", "Coral"]}
+{"subject": "Supergrass", "object": "EMI", "taxonomy": ["Paramount", "Motown", "Federal", "Festival", "Word"]}
+{"subject": "Billy Ward and His Dominoes", "object": "Federal", "taxonomy": ["Festival", "Fantasy", "Harvest", "Brunswick", "Barclay"]}
+{"subject": "The Fool on the Hill", "object": "EMI", "taxonomy": ["Coral", "Brunswick", "Paramount", "Word", "Legacy"]}
+{"subject": "Cinder Road", "object": "EMI", "taxonomy": ["Barclay", "Legacy", "Coral", "Word", "Fantasy"]}
+{"subject": "Nickelback", "object": "EMI", "taxonomy": ["Festival", "Legacy", "Federal", "Paramount", "Swan"]}
+{"subject": "Les Paul", "object": "Decca", "taxonomy": ["Federal", "Monument", "Legacy", "Coral", "Paramount"]}
+{"subject": "Deep Purple", "object": "EMI", "taxonomy": ["Word", "Decca", "Barclay", "Federal", "Motown"]}
+{"subject": "Ira Tucker", "object": "Decca", "taxonomy": ["Harvest", "Swan", "Fantasy", "Festival", "Coral"]}
+{"subject": "Deborah Cox", "object": "Decca", "taxonomy": ["Fantasy", "Festival", "Paramount", "Legacy", "Word"]}
+{"subject": "Marc Bolan", "object": "EMI", "taxonomy": ["Barclay", "Brunswick", "Motown", "Legacy", "Coral"]}
+{"subject": "Tiny Hill", "object": "Decca", "taxonomy": ["Word", "Federal", "Sunshine", "Monument", "Coral"]}
+{"subject": "Marv Tarplin", "object": "Motown", "taxonomy": ["Legacy", "Festival", "Paramount", "Swan", "Harvest"]}
+{"subject": "Kate Bush", "object": "EMI", "taxonomy": ["Decca", "Motown", "Coral", "Festival", "Swan"]}
+{"subject": "Ain't No Mountain High Enough", "object": "Motown", "taxonomy": ["Sunshine", "Festival", "Legacy", "Decca", "Federal"]}
+{"subject": "Inner City Blues (Make Me Wanna Holler)", "object": "Motown", "taxonomy": ["Decca", "EMI", "Coral", "Word", "Fantasy"]}
+{"subject": "Overpowered", "object": "EMI", "taxonomy": ["Monument", "Motown", "Word", "Harvest", "Coral"]}
+{"subject": "Kylie Minogue", "object": "EMI", "taxonomy": ["Monument", "Paramount", "Decca", "Sunshine", "Festival"]}
+{"subject": "Lionel Richie", "object": "Motown", "taxonomy": ["Barclay", "Harvest", "Monument", "Brunswick", "Federal"]}
+{"subject": "Serena Ryder", "object": "EMI", "taxonomy": ["Harvest", "Sunshine", "Festival", "Monument", "Fantasy"]}
+{"subject": "Good Morning Heartache", "object": "Decca", "taxonomy": ["Federal", "Brunswick", "Monument", "EMI", "Coral"]}
+{"subject": "Marmalade", "object": "Decca", "taxonomy": ["Fantasy", "Monument", "Brunswick", "Federal", "Festival"]}
+{"subject": "Luis Miguel", "object": "EMI", "taxonomy": ["Paramount", "Decca", "Barclay", "Federal", "Motown"]}
+{"subject": "Little Darling", "object": "Motown", "taxonomy": ["Barclay", "Festival", "EMI", "Federal", "Brunswick"]}
+{"subject": "Judy Garland", "object": "Decca", "taxonomy": ["Harvest", "Fantasy", "Word", "Motown", "Federal"]}
+{"subject": "Andy Strachan", "object": "EMI", "taxonomy": ["Paramount", "Federal", "Festival", "Brunswick", "Sunshine"]}
+{"subject": "Perry Como", "object": "Decca", "taxonomy": ["Monument", "Swan", "Legacy", "Harvest", "Federal"]}
+{"subject": "Jack Pleis", "object": "Decca", "taxonomy": ["Festival", "Monument", "EMI", "Coral", "Swan"]}
+{"subject": "Elgie Stover", "object": "Motown", "taxonomy": ["Festival", "Paramount", "Brunswick", "Coral", "Sunshine"]}
+{"subject": "Tom Fogerty", "object": "Fantasy", "taxonomy": ["EMI", "Paramount", "Sunshine", "Brunswick", "Harvest"]}
+{"subject": "Teena Marie", "object": "Motown", "taxonomy": ["Fantasy", "Legacy", "EMI", "Barclay", "Brunswick"]}
+{"subject": "Distant Lover", "object": "Motown", "taxonomy": ["Festival", "Monument", "Legacy", "Fantasy", "Harvest"]}
+{"subject": "Small Faces", "object": "Decca", "taxonomy": ["Swan", "Monument", "EMI", "Coral", "Fantasy"]}
+{"subject": "Louis Jordan", "object": "Decca", "taxonomy": ["Brunswick", "Word", "Motown", "Barclay", "Coral"]}
+{"subject": "Bill Haley", "object": "Decca", "taxonomy": ["Word", "Swan", "Monument", "Brunswick", "Festival"]}
+{"subject": "Nick Lucas", "object": "Brunswick", "taxonomy": ["Paramount", "Motown", "Coral", "Decca", "Barclay"]}
+{"subject": "Forever Came Today", "object": "Motown", "taxonomy": ["Monument", "Barclay", "Harvest", "Federal", "Paramount"]}
+{"subject": "Deke Richards", "object": "Motown", "taxonomy": ["Paramount", "Brunswick", "Sunshine", "Swan", "EMI"]}
+{"subject": "Just My Imagination", "object": "Motown", "taxonomy": ["Coral", "Harvest", "Decca", "Brunswick", "Fantasy"]}
+{"subject": "Peggy Lee", "object": "Decca", "taxonomy": ["Barclay", "Swan", "Paramount", "Sunshine", "Monument"]}
+{"subject": "Helen O'Connell", "object": "Decca", "taxonomy": ["Harvest", "Fantasy", "Monument", "Barclay", "Motown"]}
+{"subject": "Mike Leander", "object": "Decca", "taxonomy": ["Fantasy", "Monument", "Swan", "Barclay", "Federal"]}
+{"subject": "Ralph Vaughan Williams", "object": "Decca", "taxonomy": ["Word", "Fantasy", "Swan", "Sunshine", "Barclay"]}
+{"subject": "Baby Love", "object": "Motown", "taxonomy": ["Festival", "Word", "Federal", "Harvest", "Barclay"]}
+{"subject": "Betty Kelly", "object": "Motown", "taxonomy": ["Decca", "Coral", "Legacy", "Brunswick", "Barclay"]}
+{"subject": "Martha Reeves", "object": "Motown", "taxonomy": ["Word", "Barclay", "Legacy", "Brunswick", "Coral"]}
+{"subject": "Ooo Baby Baby", "object": "Motown", "taxonomy": ["Fantasy", "Coral", "Brunswick", "Federal", "Decca"]}
+{"subject": "I Second That Emotion", "object": "Motown", "taxonomy": ["Decca", "Barclay", "Word", "Paramount", "EMI"]}
+{"subject": "Do It Baby", "object": "Motown", "taxonomy": ["Paramount", "Fantasy", "Harvest", "Coral", "Monument"]}
+{"subject": "My Guy", "object": "Motown", "taxonomy": ["Brunswick", "Harvest", "Paramount", "Sunshine", "Decca"]}
+{"subject": "Mariana Ochoa", "object": "EMI", "taxonomy": ["Decca", "Coral", "Fantasy", "Sunshine", "Harvest"]}
+{"subject": "Rosemary Clooney", "object": "Decca", "taxonomy": ["Barclay", "Sunshine", "Federal", "Word", "Monument"]}
+{"subject": "Casa Loma Orchestra", "object": "Decca", "taxonomy": ["Paramount", "Coral", "Motown", "Fantasy", "Festival"]}
+{"subject": "Strange Cruise", "object": "EMI", "taxonomy": ["Decca", "Swan", "Sunshine", "Festival", "Monument"]}
+{"subject": "Jackie Wilson", "object": "Brunswick", "taxonomy": ["EMI", "Motown", "Festival", "Decca", "Harvest"]}
+{"subject": "Bobby Darin", "object": "Decca", "taxonomy": ["Fantasy", "Legacy", "Festival", "Barclay", "EMI"]}
+{"subject": "Bobby Darin", "object": "Brunswick", "taxonomy": ["Barclay", "Paramount", "Coral", "Legacy", "Monument"]}
+{"subject": "Stolen Apples", "object": "EMI", "taxonomy": ["Barclay", "Harvest", "Motown", "Legacy", "Brunswick"]}
+{"subject": "In Square Circle", "object": "Motown", "taxonomy": ["Coral", "Word", "Decca", "Monument", "Fantasy"]}
+{"subject": "Love Hangover", "object": "Motown", "taxonomy": ["Legacy", "EMI", "Barclay", "Sunshine", "Federal"]}
+{"subject": "Alexis Korner", "object": "Decca", "taxonomy": ["Coral", "Barclay", "Federal", "Word", "EMI"]}
+{"subject": "Blues Incorporated", "object": "Decca", "taxonomy": ["Federal", "Festival", "Legacy", "Swan", "Motown"]}
+{"subject": "Loving You Is Sweeter Than Ever", "object": "Motown", "taxonomy": ["Swan", "Harvest", "Legacy", "Coral", "Monument"]}
+{"subject": "Kiki Dee", "object": "EMI", "taxonomy": ["Swan", "Motown", "Fantasy", "Federal", "Sunshine"]}
+{"subject": "Dolly Parton", "object": "Decca", "taxonomy": ["Harvest", "Swan", "Fantasy", "Legacy", "Festival"]}
+{"subject": "Mark Chesnutt", "object": "Decca", "taxonomy": ["Sunshine", "Swan", "Brunswick", "Coral", "Monument"]}
+{"subject": "Tina Turner", "object": "EMI", "taxonomy": ["Motown", "Brunswick", "Swan", "Coral", "Fantasy"]}
+{"subject": "Alfred Apaka", "object": "Decca", "taxonomy": ["Sunshine", "Barclay", "Brunswick", "Swan", "Harvest"]}
+{"subject": "Jimmy & Johnny", "object": "Decca", "taxonomy": ["Word", "Paramount", "Festival", "Harvest", "Fantasy"]}
+{"subject": "Baby I Need Your Loving", "object": "Motown", "taxonomy": ["Decca", "Federal", "Swan", "Barclay", "Legacy"]}
+{"subject": "DeBarge", "object": "Motown", "taxonomy": ["Decca", "Swan", "EMI", "Barclay", "Brunswick"]}
+{"subject": "Kedar Massenburg", "object": "Motown", "taxonomy": ["Paramount", "Harvest", "Word", "Decca", "Monument"]}
+{"subject": "Baby, Baby Don't Cry", "object": "Motown", "taxonomy": ["Coral", "Federal", "Barclay", "Harvest", "EMI"]}
+{"subject": "Girl (Why You Wanna Make Me Blue)", "object": "Motown", "taxonomy": ["Harvest", "Federal", "Swan", "Fantasy", "Word"]}
+{"subject": "Bob Babbitt", "object": "Motown", "taxonomy": ["Swan", "Barclay", "Fantasy", "Monument", "Harvest"]}
+{"subject": "You're All I Need to Get By", "object": "Motown", "taxonomy": ["Barclay", "Coral", "Decca", "Monument", "Harvest"]}
+{"subject": "Iron Maiden", "object": "EMI", "taxonomy": ["Swan", "Brunswick", "Motown", "Word", "Monument"]}
+{"subject": "Mark DeBarge", "object": "Motown", "taxonomy": ["Paramount", "Swan", "Fantasy", "Coral", "Barclay"]}
+{"subject": "Lonely Teardrops", "object": "Brunswick", "taxonomy": ["Festival", "Federal", "Barclay", "Swan", "EMI"]}
+{"subject": "Morrissey", "object": "Decca", "taxonomy": ["Monument", "Federal", "Paramount", "Swan", "Sunshine"]}
+{"subject": "Loretta Lynn", "object": "Decca", "taxonomy": ["Motown", "Harvest", "Brunswick", "Word", "EMI"]}
+{"subject": "Fist City", "object": "Decca", "taxonomy": ["Festival", "Federal", "Sunshine", "Word", "Swan"]}
+{"subject": "The Andantes", "object": "Motown", "taxonomy": ["EMI", "Sunshine", "Word", "Paramount", "Fantasy"]}
+{"subject": "I Wanna Be Your Man", "object": "Decca", "taxonomy": ["Barclay", "Swan", "Paramount", "Monument", "Festival"]}
+{"subject": "Bad Weather", "object": "Motown", "taxonomy": ["Coral", "EMI", "Monument", "Federal", "Festival"]}
+{"subject": "Il sole nella pioggia", "object": "EMI", "taxonomy": ["Decca", "Monument", "Swan", "Legacy", "Brunswick"]}
+{"subject": "You've Made Me So Very Happy", "object": "Motown", "taxonomy": ["Decca", "Festival", "Word", "Fantasy", "Sunshine"]}
+{"subject": "Mezzogiorno sulle Alpi", "object": "EMI", "taxonomy": ["Swan", "Brunswick", "Coral", "Word", "Legacy"]}
+{"subject": "Roy Rogers", "object": "Decca", "taxonomy": ["Paramount", "Motown", "Word", "Monument", "Coral"]}
+{"subject": "Woody Herman", "object": "Decca", "taxonomy": ["Swan", "EMI", "Harvest", "Legacy", "Monument"]}
+{"subject": "Where Did Our Love Go", "object": "Motown", "taxonomy": ["Legacy", "Monument", "Sunshine", "Fantasy", "Federal"]}
+{"subject": "Black Reign", "object": "Motown", "taxonomy": ["EMI", "Harvest", "Barclay", "Federal", "Brunswick"]}
+{"subject": "Acid Queen", "object": "EMI", "taxonomy": ["Decca", "Word", "Sunshine", "Coral", "Brunswick"]}
+{"subject": "Elbridge Bryant", "object": "Motown", "taxonomy": ["Word", "Sunshine", "Monument", "Brunswick", "Festival"]}
+{"subject": "The Temptin' Temptations", "object": "Motown", "taxonomy": ["Federal", "Monument", "Harvest", "Coral", "Brunswick"]}
+{"subject": "David Bowie", "object": "Decca", "taxonomy": ["Barclay", "Federal", "Legacy", "Word", "Coral"]}
+{"subject": "Vitaa", "object": "Motown", "taxonomy": ["Brunswick", "Swan", "Coral", "Festival", "Sunshine"]}
+{"subject": "Kudai", "object": "EMI", "taxonomy": ["Paramount", "Decca", "Monument", "Motown", "Fantasy"]}
+{"subject": "Powerslave", "object": "EMI", "taxonomy": ["Sunshine", "Fantasy", "Coral", "Word", "Motown"]}
+{"subject": "Thriller 25", "object": "Legacy", "taxonomy": ["Barclay", "Word", "Sunshine", "Coral", "Paramount"]}
+{"subject": "Billy Griffin", "object": "Motown", "taxonomy": ["Barclay", "Swan", "Legacy", "Brunswick", "Monument"]}
+{"subject": "Tina Arena", "object": "EMI", "taxonomy": ["Monument", "Word", "Federal", "Coral", "Legacy"]}
+{"subject": "98 Degrees", "object": "Motown", "taxonomy": ["Legacy", "Fantasy", "Festival", "Harvest", "Monument"]}
+{"subject": "This Is War", "object": "EMI", "taxonomy": ["Monument", "Coral", "Fantasy", "Motown", "Harvest"]}
+{"subject": "Valery Gergiev", "object": "Decca", "taxonomy": ["EMI", "Barclay", "Fantasy", "Paramount", "Sunshine"]}
+{"subject": "Don't Touch Me", "object": "Monument", "taxonomy": ["Brunswick", "Decca", "Festival", "Harvest", "Word"]}
+{"subject": "Jack Greene", "object": "Decca", "taxonomy": ["Fantasy", "EMI", "Legacy", "Motown", "Monument"]}
+{"subject": "Johnny Carroll", "object": "Decca", "taxonomy": ["Monument", "EMI", "Swan", "Brunswick", "Word"]}
+{"subject": "downhere", "object": "Word", "taxonomy": ["Motown", "Federal", "Coral", "Barclay", "Harvest"]}
+{"subject": "Jimmy Ruffin", "object": "Motown", "taxonomy": ["Fantasy", "Paramount", "Decca", "EMI", "Swan"]}
+{"subject": "Les Chaussettes Noires", "object": "Barclay", "taxonomy": ["Fantasy", "Decca", "EMI", "Festival", "Swan"]}
+{"subject": "Eddy Mitchell", "object": "Barclay", "taxonomy": ["EMI", "Word", "Legacy", "Brunswick", "Coral"]}
+{"subject": "Paul Riser", "object": "Motown", "taxonomy": ["Monument", "Decca", "Paramount", "EMI", "Sunshine"]}
+{"subject": "Carpark North", "object": "EMI", "taxonomy": ["Legacy", "Monument", "Barclay", "Federal", "Word"]}
+{"subject": "Lookin' Out My Back Door", "object": "Fantasy", "taxonomy": ["Barclay", "Brunswick", "Coral", "Federal", "Swan"]}
+{"subject": "Bert Kaempfert", "object": "Decca", "taxonomy": ["EMI", "Legacy", "Sunshine", "Federal", "Harvest"]}
+{"subject": "Hikaru Utada", "object": "EMI", "taxonomy": ["Sunshine", "Brunswick", "Harvest", "Barclay", "Legacy"]}
+{"subject": "Bill Evans", "object": "Fantasy", "taxonomy": ["Festival", "Word", "EMI", "Sunshine", "Motown"]}
+{"subject": "MC Trouble", "object": "Motown", "taxonomy": ["Swan", "Festival", "Sunshine", "EMI", "Barclay"]}
+{"subject": "Brian McKnight", "object": "Motown", "taxonomy": ["Monument", "Federal", "Festival", "Brunswick", "Paramount"]}
+{"subject": "Still Water", "object": "Motown", "taxonomy": ["Word", "Barclay", "Harvest", "Brunswick", "Festival"]}
+{"subject": "I'll Be Doggone", "object": "Motown", "taxonomy": ["Swan", "Barclay", "Festival", "Fantasy", "Paramount"]}
+{"subject": "Ain't That Peculiar", "object": "Motown", "taxonomy": ["Decca", "Federal", "Sunshine", "Harvest", "Word"]}
+{"subject": "Lovex", "object": "EMI", "taxonomy": ["Federal", "Paramount", "Word", "Monument", "Fantasy"]}
+{"subject": "Gimme Shelter", "object": "Decca", "taxonomy": ["Swan", "Fantasy", "Brunswick", "Barclay", "Paramount"]}
+{"subject": "Ernest Tubb", "object": "Decca", "taxonomy": ["EMI", "Fantasy", "Word", "Federal", "Brunswick"]}
+{"subject": "Paulina Rubio", "object": "EMI", "taxonomy": ["Coral", "Decca", "Word", "Monument", "Fantasy"]}
+{"subject": "Virtual XI", "object": "EMI", "taxonomy": ["Motown", "Sunshine", "Monument", "Federal", "Brunswick"]}
+{"subject": "Jake Thackray", "object": "EMI", "taxonomy": ["Barclay", "Legacy", "Swan", "Harvest", "Fantasy"]}
+{"subject": "Midge Ure", "object": "EMI", "taxonomy": ["Monument", "Swan", "Sunshine", "Federal", "Decca"]}
+{"subject": "Rottin Razkals", "object": "Motown", "taxonomy": ["Barclay", "Fantasy", "Word", "Harvest", "Swan"]}
+{"subject": "Away We a Go-Go", "object": "Motown", "taxonomy": ["Decca", "Legacy", "Word", "Harvest", "Sunshine"]}
+{"subject": "It Doesn't Matter Anymore", "object": "Coral", "taxonomy": ["Swan", "Paramount", "Brunswick", "Barclay", "Harvest"]}
+{"subject": "Forever, Michael", "object": "Motown", "taxonomy": ["Fantasy", "Barclay", "EMI", "Festival", "Sunshine"]}
+{"subject": "Gladys Horton", "object": "Motown", "taxonomy": ["Fantasy", "Legacy", "Brunswick", "Barclay", "Federal"]}
+{"subject": "Katherine Anderson", "object": "Motown", "taxonomy": ["Coral", "Swan", "EMI", "Monument", "Brunswick"]}
+{"subject": "Conway Twitty", "object": "Decca", "taxonomy": ["Swan", "Legacy", "Barclay", "Motown", "Word"]}
+{"subject": "The Kingston Trio", "object": "Decca", "taxonomy": ["Monument", "Motown", "Federal", "Harvest", "Fantasy"]}
+{"subject": "Cilla Black", "object": "EMI", "taxonomy": ["Festival", "Decca", "Swan", "Sunshine", "Coral"]}
+{"subject": "Get Yer Ya-Ya's Out! The Rolling Stones in Concert", "object": "Decca", "taxonomy": ["Brunswick", "Coral", "Fantasy", "Paramount", "Harvest"]}
+{"subject": "Levi Stubbs", "object": "Motown", "taxonomy": ["Barclay", "Harvest", "Federal", "Decca", "EMI"]}
+{"subject": "Savoy Brown", "object": "Decca", "taxonomy": ["Word", "Harvest", "Brunswick", "Swan", "Motown"]}
+{"subject": "Val Young", "object": "Motown", "taxonomy": ["Legacy", "Monument", "Fantasy", "Decca", "Brunswick"]}
+{"subject": "Dancing Machine", "object": "Motown", "taxonomy": ["Paramount", "Sunshine", "Festival", "Coral", "EMI"]}
+{"subject": "Eva Simons", "object": "EMI", "taxonomy": ["Paramount", "Sunshine", "Barclay", "Motown", "Legacy"]}
+{"subject": "Nat King Cole", "object": "Decca", "taxonomy": ["EMI", "Barclay", "Word", "Harvest", "Festival"]}
+{"subject": "Mick Taylor", "object": "Decca", "taxonomy": ["Word", "Coral", "EMI", "Barclay", "Paramount"]}
+{"subject": "Black Is Black", "object": "Decca", "taxonomy": ["Coral", "Legacy", "Motown", "Word", "Paramount"]}
+{"subject": "Los Bravos", "object": "Decca", "taxonomy": ["Monument", "Fantasy", "Festival", "Swan", "Coral"]}
+{"subject": "Mi Delirio", "object": "EMI", "taxonomy": ["Monument", "Fantasy", "Word", "Coral", "Legacy"]}
+{"subject": "Untitled Korn album", "object": "EMI", "taxonomy": ["Motown", "Monument", "Legacy", "Coral", "Festival"]}
+{"subject": "Claudette Rogers Robinson", "object": "Motown", "taxonomy": ["Legacy", "Barclay", "Brunswick", "EMI", "Coral"]}
+{"subject": "Beechwood 4-5789", "object": "Motown", "taxonomy": ["Word", "Sunshine", "Legacy", "Harvest", "Federal"]}
+{"subject": "Rufus Wainwright", "object": "Decca", "taxonomy": ["Barclay", "Motown", "Legacy", "Federal", "Coral"]}
+{"subject": "Dennis Coffey", "object": "Motown", "taxonomy": ["EMI", "Legacy", "Sunshine", "Brunswick", "Swan"]}
+{"subject": "The Love You Save", "object": "Motown", "taxonomy": ["Barclay", "Harvest", "Fantasy", "Word", "Brunswick"]}
+{"subject": "Chiddy Bang", "object": "EMI", "taxonomy": ["Festival", "Harvest", "Fantasy", "Legacy", "Brunswick"]}
+{"subject": "Geeshie Wiley", "object": "Paramount", "taxonomy": ["Sunshine", "Fantasy", "Brunswick", "Federal", "Coral"]}
+{"subject": "Lovedrive", "object": "EMI", "taxonomy": ["Sunshine", "Legacy", "Barclay", "Coral", "Harvest"]}
+{"subject": "Cincinnati Symphony Orchestra", "object": "Decca", "taxonomy": ["Word", "Fantasy", "Federal", "Festival", "Swan"]}
+{"subject": "Kerry Ellis", "object": "Decca", "taxonomy": ["Barclay", "Sunshine", "Swan", "Brunswick", "Harvest"]}
+{"subject": "Barbara Randolph", "object": "Motown", "taxonomy": ["Harvest", "Coral", "Decca", "Federal", "EMI"]}
+{"subject": "Innervisions", "object": "Motown", "taxonomy": ["Swan", "Brunswick", "EMI", "Coral", "Paramount"]}
+{"subject": "Miami Horror", "object": "EMI", "taxonomy": ["Word", "Coral", "Decca", "Sunshine", "Legacy"]}
+{"subject": "Robin Gibb", "object": "EMI", "taxonomy": ["Monument", "Harvest", "Fantasy", "Barclay", "Swan"]}
+{"subject": "Alexander O'Neal", "object": "EMI", "taxonomy": ["Fantasy", "Legacy", "Brunswick", "Federal", "Barclay"]}
+{"subject": "Another One Bites the Dust", "object": "EMI", "taxonomy": ["Legacy", "Festival", "Decca", "Motown", "Swan"]}
+{"subject": "Crystal Gayle", "object": "Decca", "taxonomy": ["Federal", "Paramount", "Coral", "Sunshine", "Brunswick"]}
+{"subject": "Francesco Guccini", "object": "EMI", "taxonomy": ["Sunshine", "Festival", "Legacy", "Harvest", "Decca"]}
+{"subject": "Sidewalk Prophets", "object": "Word", "taxonomy": ["Motown", "Coral", "Sunshine", "Paramount", "Festival"]}
+{"subject": "Freddy Cannon", "object": "Swan", "taxonomy": ["Brunswick", "Word", "Federal", "Motown", "Festival"]}
+{"subject": "The Who", "object": "Brunswick", "taxonomy": ["Legacy", "EMI", "Federal", "Fantasy", "Motown"]}
+{"subject": "Alfie Boe", "object": "Decca", "taxonomy": ["Paramount", "Sunshine", "Legacy", "Fantasy", "Festival"]}
+{"subject": "Moving Violation", "object": "Motown", "taxonomy": ["Fantasy", "EMI", "Decca", "Swan", "Harvest"]}
+{"subject": "Charles Aznavour", "object": "EMI", "taxonomy": ["Sunshine", "Swan", "Federal", "Paramount", "Festival"]}
+{"subject": "Ray Singleton", "object": "Motown", "taxonomy": ["Swan", "Decca", "Harvest", "Word", "Sunshine"]}
+{"subject": "Gitarzan", "object": "Monument", "taxonomy": ["Harvest", "Coral", "Sunshine", "Festival", "Paramount"]}
+{"subject": "Sammy Price", "object": "Decca", "taxonomy": ["Word", "Sunshine", "Motown", "Federal", "Fantasy"]}
+{"subject": "Cock Sparrer", "object": "Decca", "taxonomy": ["Fantasy", "Coral", "Motown", "Federal", "Legacy"]}
+{"subject": "We Love You", "object": "Decca", "taxonomy": ["Legacy", "Harvest", "Monument", "Swan", "Brunswick"]}
+{"subject": "Riccardo Muti", "object": "EMI", "taxonomy": ["Motown", "Swan", "Fantasy", "Barclay", "Brunswick"]}
+{"subject": "The Tremeloes", "object": "Decca", "taxonomy": ["Federal", "Fantasy", "Legacy", "Monument", "Festival"]}
+{"subject": "Bobbi Martin", "object": "Coral", "taxonomy": ["Word", "Paramount", "Decca", "Barclay", "Fantasy"]}
+{"subject": "Kathleen Ferrier", "object": "Decca", "taxonomy": ["Festival", "Barclay", "EMI", "Word", "Fantasy"]}
+{"subject": "Georgeanna Tillman", "object": "Motown", "taxonomy": ["Festival", "Fantasy", "Sunshine", "Harvest", "Monument"]}
+{"subject": "Live After Death", "object": "EMI", "taxonomy": ["Monument", "Barclay", "Motown", "Festival", "Swan"]}
+{"subject": "Tommy Dorsey", "object": "Decca", "taxonomy": ["Federal", "Fantasy", "EMI", "Swan", "Festival"]}
+{"subject": "Amr Mostafa", "object": "EMI", "taxonomy": ["Federal", "Fantasy", "Swan", "Motown", "Barclay"]}
+{"subject": "Come See About Me", "object": "Motown", "taxonomy": ["Coral", "Legacy", "Barclay", "Festival", "Monument"]}
+{"subject": "Stoned Love", "object": "Motown", "taxonomy": ["Fantasy", "Barclay", "Brunswick", "Paramount", "Swan"]}
+{"subject": "Charlie Watts", "object": "Decca", "taxonomy": ["Federal", "Barclay", "Harvest", "Motown", "Swan"]}
+{"subject": "Here, My Dear", "object": "Motown", "taxonomy": ["Paramount", "Fantasy", "Swan", "Monument", "Harvest"]}
+{"subject": "Jacques Brel", "object": "Barclay", "taxonomy": ["Word", "Monument", "Decca", "Coral", "Swan"]}
+{"subject": "Eddie Barclay", "object": "Barclay", "taxonomy": ["Monument", "Sunshine", "Motown", "Decca", "Coral"]}
+{"subject": "Danielle Licari", "object": "Barclay", "taxonomy": ["Monument", "EMI", "Brunswick", "Fantasy", "Paramount"]}
+{"subject": "Modjo", "object": "Barclay", "taxonomy": ["Legacy", "Festival", "EMI", "Brunswick", "Harvest"]}
+{"subject": "Alain Bashung", "object": "Barclay", "taxonomy": ["Paramount", "Fantasy", "Motown", "Festival", "Sunshine"]}
+{"subject": "The Artwoods", "object": "Decca", "taxonomy": ["Swan", "Motown", "Monument", "Fantasy", "Word"]}
+{"subject": "The Animals", "object": "Decca", "taxonomy": ["Legacy", "Federal", "Monument", "Harvest", "Sunshine"]}
+{"subject": "Smiling Faces Sometimes", "object": "Motown", "taxonomy": ["Festival", "Sunshine", "Paramount", "Coral", "Harvest"]}
+{"subject": "Bobby Wright", "object": "Decca", "taxonomy": ["Swan", "Coral", "Word", "Harvest", "Legacy"]}
+{"subject": "Willie Nelson", "object": "Legacy", "taxonomy": ["Harvest", "Paramount", "Fantasy", "Swan", "Decca"]}
+{"subject": "Swedish House Mafia", "object": "EMI", "taxonomy": ["Fantasy", "Paramount", "Swan", "Festival", "Monument"]}
+{"subject": "Scrapper Blackwell", "object": "Decca", "taxonomy": ["Motown", "Swan", "Barclay", "Federal", "Fantasy"]}
+{"subject": "Worldwide Underground", "object": "Motown", "taxonomy": ["Brunswick", "Coral", "Decca", "Federal", "EMI"]}
+{"subject": "Leon Ware", "object": "Motown", "taxonomy": ["Federal", "Harvest", "Sunshine", "Brunswick", "Word"]}
+{"subject": "Carmen McRae", "object": "Decca", "taxonomy": ["Motown", "Festival", "Coral", "Brunswick", "Sunshine"]}
+{"subject": "Turboweekend", "object": "EMI", "taxonomy": ["Motown", "Sunshine", "Brunswick", "Paramount", "Coral"]}
+{"subject": "Fear & Freedom", "object": "EMI", "taxonomy": ["Word", "Coral", "Harvest", "Fantasy", "Swan"]}
+{"subject": "Tiziano Ferro", "object": "EMI", "taxonomy": ["Decca", "Paramount", "Harvest", "Motown", "Brunswick"]}
+{"subject": "David Guetta", "object": "EMI", "taxonomy": ["Harvest", "Coral", "Monument", "Decca", "Brunswick"]}
+{"subject": "Ellington Is Forever Volume Two", "object": "Fantasy", "taxonomy": ["Coral", "Brunswick", "Festival", "Swan", "EMI"]}
+{"subject": "Willie Hutch", "object": "Motown", "taxonomy": ["Sunshine", "Paramount", "Monument", "Decca", "Swan"]}
+{"subject": "Jonathan King", "object": "Decca", "taxonomy": ["Festival", "Motown", "Brunswick", "Sunshine", "Legacy"]}
+{"subject": "Bola Sete", "object": "Fantasy", "taxonomy": ["EMI", "Federal", "Festival", "Legacy", "Motown"]}
+{"subject": "Meredith Andrews", "object": "Word", "taxonomy": ["EMI", "Legacy", "Sunshine", "Paramount", "Motown"]}
+{"subject": "David Whitfield", "object": "Decca", "taxonomy": ["Festival", "Motown", "Barclay", "Sunshine", "Harvest"]}
+{"subject": "The Who", "object": "Decca", "taxonomy": ["Harvest", "Brunswick", "Paramount", "Swan", "EMI"]}
+{"subject": "Lovie Austin", "object": "Paramount", "taxonomy": ["Coral", "Festival", "Motown", "Brunswick", "Word"]}
+{"subject": "OK Go", "object": "EMI", "taxonomy": ["Festival", "Harvest", "Monument", "Swan", "Federal"]}
+{"subject": "Valerio Scanu", "object": "EMI", "taxonomy": ["Fantasy", "Federal", "Word", "Swan", "Brunswick"]}
+{"subject": "William Weatherspoon", "object": "Motown", "taxonomy": ["Barclay", "Sunshine", "Festival", "Harvest", "EMI"]}
+{"subject": "Grady Martin", "object": "Decca", "taxonomy": ["Word", "Barclay", "Swan", "EMI", "Fantasy"]}
+{"subject": "Vera Lynn", "object": "EMI", "taxonomy": ["Word", "Festival", "Swan", "Monument", "Sunshine"]}
+{"subject": "Petula Clark", "object": "EMI", "taxonomy": ["Harvest", "Monument", "Paramount", "Coral", "Swan"]}
+{"subject": "The Supremes A' Go-Go", "object": "Motown", "taxonomy": ["Monument", "Harvest", "Decca", "EMI", "Brunswick"]}
+{"subject": "Psychedelic Shack", "object": "Motown", "taxonomy": ["Sunshine", "Paramount", "Coral", "Fantasy", "Decca"]}
+{"subject": "Sleeping Satellite", "object": "EMI", "taxonomy": ["Brunswick", "Harvest", "Fantasy", "Word", "Decca"]}
+{"subject": "Cam-Pact", "object": "Festival", "taxonomy": ["Legacy", "Barclay", "Motown", "Brunswick", "Fantasy"]}
+{"subject": "D'Angelo", "object": "EMI", "taxonomy": ["Legacy", "Swan", "Brunswick", "Federal", "Motown"]}
+{"subject": "Me & My", "object": "EMI", "taxonomy": ["Festival", "Swan", "Federal", "Motown", "Coral"]}
+{"subject": "Angus Young", "object": "EMI", "taxonomy": ["Coral", "Legacy", "Paramount", "Festival", "Word"]}
+{"subject": "Love, Marriage & Divorce", "object": "Motown", "taxonomy": ["Federal", "Paramount", "Barclay", "Word", "Decca"]}
+{"subject": "Larry Gatlin", "object": "Monument", "taxonomy": ["Barclay", "Motown", "Federal", "Festival", "Fantasy"]}
+{"subject": "Count Basie", "object": "Decca", "taxonomy": ["Word", "Paramount", "Swan", "EMI", "Federal"]}
+{"subject": "Marianne Faithfull", "object": "Decca", "taxonomy": ["Motown", "Federal", "Monument", "Fantasy", "Swan"]}
+{"subject": "I Wish It Would Rain", "object": "Motown", "taxonomy": ["Fantasy", "Monument", "Swan", "Brunswick", "Barclay"]}
+{"subject": "I'm Gonna Make You Love Me", "object": "Motown", "taxonomy": ["Federal", "Legacy", "Brunswick", "Festival", "Coral"]}
+{"subject": "Kate Ryan", "object": "EMI", "taxonomy": ["Paramount", "Harvest", "Barclay", "Monument", "Legacy"]}
+{"subject": "Red Sovine", "object": "Decca", "taxonomy": ["Legacy", "Coral", "Motown", "Fantasy", "Barclay"]}
+{"subject": "KRU", "object": "EMI", "taxonomy": ["Motown", "Barclay", "Sunshine", "Decca", "Coral"]}
+{"subject": "Third Album", "object": "Motown", "taxonomy": ["Sunshine", "Coral", "Fantasy", "Word", "Decca"]}
+{"subject": "Anouk", "object": "EMI", "taxonomy": ["Paramount", "Harvest", "Brunswick", "Word", "Barclay"]}
+{"subject": "Alison Wonderland", "object": "EMI", "taxonomy": ["Word", "Motown", "Legacy", "Fantasy", "Sunshine"]}
+{"subject": "Val Doonican", "object": "Decca", "taxonomy": ["Barclay", "Word", "Harvest", "Paramount", "Festival"]}
+{"subject": "Your Precious Love", "object": "Motown", "taxonomy": ["Federal", "Sunshine", "Festival", "Decca", "Barclay"]}
+{"subject": "Too Busy Thinking About My Baby", "object": "Motown", "taxonomy": ["Paramount", "Brunswick", "Federal", "Swan", "Barclay"]}
+{"subject": "Hitch Hike", "object": "Motown", "taxonomy": ["Brunswick", "Swan", "Barclay", "Legacy", "Fantasy"]}
+{"subject": "Pete Townshend", "object": "Decca", "taxonomy": ["Fantasy", "Coral", "Sunshine", "Barclay", "Monument"]}
+{"subject": "Medazzaland", "object": "EMI", "taxonomy": ["Decca", "Paramount", "Barclay", "Festival", "Word"]}
+{"subject": "Too Phat", "object": "EMI", "taxonomy": ["Word", "Decca", "Motown", "Coral", "Brunswick"]}
+{"subject": "Kitty Kallen", "object": "Decca", "taxonomy": ["Coral", "Festival", "Fantasy", "Word", "EMI"]}
+{"subject": "Remy Shand", "object": "Motown", "taxonomy": ["Fantasy", "Legacy", "EMI", "Monument", "Decca"]}
+{"subject": "Teresa Brewer", "object": "Coral", "taxonomy": ["EMI", "Paramount", "Brunswick", "Federal", "Barclay"]}
+{"subject": "Webb Pierce", "object": "Decca", "taxonomy": ["Coral", "Paramount", "Monument", "Federal", "Motown"]}
+{"subject": "Music & Me", "object": "Motown", "taxonomy": ["Word", "Fantasy", "Harvest", "EMI", "Swan"]}
+{"subject": "Sex Pistols", "object": "EMI", "taxonomy": ["Legacy", "Monument", "Sunshine", "Word", "Brunswick"]}
+{"subject": "All I Do Is Think of You", "object": "Motown", "taxonomy": ["Decca", "Coral", "Festival", "EMI", "Monument"]}
+{"subject": "Takk...", "object": "EMI", "taxonomy": ["Fantasy", "Federal", "Paramount", "Harvest", "Motown"]}
+{"subject": "The Dream Weavers", "object": "Decca", "taxonomy": ["Harvest", "Sunshine", "Brunswick", "Coral", "Swan"]}
+{"subject": "Roy Smeck", "object": "Decca", "taxonomy": ["Monument", "Fantasy", "Brunswick", "Sunshine", "Word"]}
+{"subject": "Connee Boswell", "object": "Decca", "taxonomy": ["Harvest", "Word", "Legacy", "Brunswick", "Swan"]}
+{"subject": "Vera Lynn", "object": "Decca", "taxonomy": ["Festival", "Motown", "Swan", "Federal", "Harvest"]}
+{"subject": "I'm Ready for Love", "object": "Motown", "taxonomy": ["EMI", "Paramount", "Sunshine", "Decca", "Barclay"]}
+{"subject": "Riccardo Chailly", "object": "Decca", "taxonomy": ["Sunshine", "Harvest", "Swan", "Brunswick", "Barclay"]}
+{"subject": "Diana & Marvin", "object": "Motown", "taxonomy": ["Legacy", "Coral", "Swan", "Word", "Fantasy"]}
+{"subject": "Since I Lost My Baby", "object": "Motown", "taxonomy": ["Word", "EMI", "Brunswick", "Paramount", "Federal"]}
+{"subject": "On Bended Knee", "object": "Motown", "taxonomy": ["Brunswick", "Festival", "Fantasy", "Coral", "Federal"]}
+{"subject": "Anni-Frid Lyngstad", "object": "EMI", "taxonomy": ["Decca", "Motown", "Legacy", "Coral", "Harvest"]}
+{"subject": "The Famous Flames", "object": "Federal", "taxonomy": ["Paramount", "Decca", "Barclay", "Coral", "Monument"]}
+{"subject": "Please, Please", "object": "Federal", "taxonomy": ["Legacy", "Motown", "Paramount", "Decca", "Monument"]}
+{"subject": "I Heard It Through the Grapevine", "object": "Motown", "taxonomy": ["Monument", "Coral", "Festival", "Decca", "Word"]}
+{"subject": "Damon Harris", "object": "Motown", "taxonomy": ["Legacy", "Fantasy", "Monument", "Brunswick", "Festival"]}
+{"subject": "George Harrison", "object": "EMI", "taxonomy": ["Sunshine", "Decca", "Motown", "Monument", "Barclay"]}
+{"subject": "The Temptations Sing Smokey", "object": "Motown", "taxonomy": ["Fantasy", "Brunswick", "Swan", "Barclay", "Legacy"]}
+{"subject": "The Stranglers", "object": "EMI", "taxonomy": ["Fantasy", "Word", "Coral", "Paramount", "Motown"]}
+{"subject": "Thin Lizzy", "object": "Decca", "taxonomy": ["Festival", "Federal", "Paramount", "Motown", "Harvest"]}
+{"subject": "Steve Reid", "object": "Motown", "taxonomy": ["Harvest", "Fantasy", "Legacy", "EMI", "Coral"]}
+{"subject": "Wir sind Helden", "object": "EMI", "taxonomy": ["Federal", "Festival", "Monument", "Sunshine", "Paramount"]}
+{"subject": "Led Zeppelin", "object": "Decca", "taxonomy": ["Monument", "Fantasy", "Word", "Swan", "Paramount"]}
+{"subject": "Adelaide Hall", "object": "Decca", "taxonomy": ["Harvest", "Barclay", "Swan", "Monument", "Federal"]}
+{"subject": "Camel", "object": "Decca", "taxonomy": ["Federal", "Legacy", "Brunswick", "Paramount", "Barclay"]}
+{"subject": "The Weavers", "object": "Decca", "taxonomy": ["Monument", "Harvest", "Sunshine", "Federal", "Motown"]}
+{"subject": "Alpha Galates", "object": "EMI", "taxonomy": ["Festival", "Swan", "Brunswick", "Coral", "Sunshine"]}
+{"subject": "Amiel Daemion", "object": "Festival", "taxonomy": ["Motown", "Barclay", "Paramount", "Decca", "Legacy"]}
+{"subject": "Mi Chico Latino", "object": "EMI", "taxonomy": ["Fantasy", "Monument", "Legacy", "Barclay", "Swan"]}
+{"subject": "Purple Hearts", "object": "Sunshine", "taxonomy": ["Decca", "Paramount", "Harvest", "Swan", "Fantasy"]}
+{"subject": "Careless Memories", "object": "EMI", "taxonomy": ["Harvest", "Federal", "Fantasy", "Barclay", "Brunswick"]}
+{"subject": "Every Little Bit Hurts", "object": "Motown", "taxonomy": ["Harvest", "Festival", "Paramount", "Legacy", "Swan"]}
+{"subject": "A Quiet Storm", "object": "Motown", "taxonomy": ["Federal", "Monument", "EMI", "Brunswick", "Fantasy"]}
+{"subject": "Peter Vince", "object": "EMI", "taxonomy": ["Swan", "Barclay", "Sunshine", "Festival", "Paramount"]}
+{"subject": "The Who Sell Out", "object": "Decca", "taxonomy": ["Festival", "Coral", "Harvest", "Monument", "Barclay"]}
+{"subject": "Sandra Tilley", "object": "Motown", "taxonomy": ["Brunswick", "Paramount", "Coral", "Harvest", "EMI"]}
+{"subject": "Jimmy Mack", "object": "Motown", "taxonomy": ["Word", "Festival", "Brunswick", "Decca", "EMI"]}
+{"subject": "Honey Chile", "object": "Motown", "taxonomy": ["Coral", "Fantasy", "Word", "Festival", "Sunshine"]}
+{"subject": "High Inergy", "object": "Motown", "taxonomy": ["Fantasy", "Coral", "Monument", "Sunshine", "Swan"]}
+{"subject": "Breaks Co-Op", "object": "EMI", "taxonomy": ["Monument", "Festival", "Swan", "Federal", "Word"]}

@@ -1,0 +1,967 @@
+{"relations": ["What language is the official language of [X]?", "What language is considered the national language of [X]?", "What is the designated language of [X]?", "What language holds official status in [X]?", "What language is used as the primary means of communication in [X]?", "What language is used by the government and its agencies in [X]?", "What language is used for official documents and public communication in [X]?"]}
+{"subject": "Azad Kashmir", "object": "Urdu", "taxonomy": ["Filipino", "Serbian", "Dutch", "Slovak", "Armenian"]}
+{"subject": "Sorengo", "object": "Italian", "taxonomy": ["Scots", "Punjabi", "French", "Somali", "Tibetan"]}
+{"subject": "Padasjoki", "object": "Finnish", "taxonomy": ["Korean", "Danish", "Marathi", "Tibetan", "Dutch"]}
+{"subject": "Alta Verapaz Department", "object": "Spanish", "taxonomy": ["Croatian", "Bengali", "Slovene", "Chinese", "Maltese"]}
+{"subject": "French Polynesia", "object": "French", "taxonomy": ["Mari", "Turkish", "Scots", "Somali", "Portuguese"]}
+{"subject": "Virrat", "object": "Finnish", "taxonomy": ["Slovene", "Hebrew", "Romani", "Tamil", "Vietnamese"]}
+{"subject": "Brunei", "object": "Malay", "taxonomy": ["Tonga", "Bulgarian", "Marathi", "Breton", "Persian"]}
+{"subject": "Uttar Pradesh", "object": "Urdu", "taxonomy": ["Albanian", "Lao", "Belarusian", "Mongolian", "Slovak"]}
+{"subject": "European Union", "object": "Finnish", "taxonomy": ["Malay", "Ukrainian", "Welsh", "Danish", "Bulgarian"]}
+{"subject": "Wallonia", "object": "French", "taxonomy": ["Spanish", "Latvian", "Norwegian", "Italian", "Tibetan"]}
+{"subject": "European Union", "object": "Slovene", "taxonomy": ["Khmer", "English", "Danish", "Thai", "Serbian"]}
+{"subject": "Haiti", "object": "French", "taxonomy": ["Welsh", "Russian", "Irish", "Finnish", "Hawaiian"]}
+{"subject": "Union of South Africa", "object": "Dutch", "taxonomy": ["Sicilian", "Maltese", "Malay", "Mongolian", "Icelandic"]}
+{"subject": "Val d'Aran", "object": "Catalan", "taxonomy": ["Mongolian", "Sicilian", "Scots", "Bulgarian", "Telugu"]}
+{"subject": "Bellinzona", "object": "Italian", "taxonomy": ["Catalan", "Icelandic", "Marathi", "Venetian", "Persian"]}
+{"subject": "Kronoby", "object": "Swedish", "taxonomy": ["Somali", "Urdu", "Azerbaijani", "Filipino", "Greek"]}
+{"subject": "Shanghai Cooperation Organisation", "object": "Russian", "taxonomy": ["Tibetan", "Slovene", "English", "Venetian", "Breton"]}
+{"subject": "Stellaland", "object": "Dutch", "taxonomy": ["Malay", "Icelandic", "English", "Korean", "Japanese"]}
+{"subject": "Biel/Bienne", "object": "French", "taxonomy": ["Breton", "Belarusian", "Albanian", "Romani", "Hawaiian"]}
+{"subject": "Sotkamo", "object": "Finnish", "taxonomy": ["Punjabi", "Korean", "Danish", "Chinese", "Mari"]}
+{"subject": "Wyoming", "object": "English", "taxonomy": ["Filipino", "Belarusian", "Turkish", "Greek", "Azerbaijani"]}
+{"subject": "Vesanto", "object": "Finnish", "taxonomy": ["Thai", "Indonesian", "Khmer", "Maltese", "Greek"]}
+{"subject": "International Association of Athletics Federations", "object": "French", "taxonomy": ["Serbian", "Indonesian", "Norman", "Belarusian", "Macedonian"]}
+{"subject": "Odessa Oblast", "object": "Russian", "taxonomy": ["Hebrew", "Hungarian", "Serbian", "Egyptian", "Chinese"]}
+{"subject": "Holy See", "object": "Latin", "taxonomy": ["Dutch", "Danish", "Tamil", "Khmer", "Romani"]}
+{"subject": "Parikkala", "object": "Finnish", "taxonomy": ["Serbian", "Tamil", "Malay", "Icelandic", "Dutch"]}
+{"subject": "Kerava", "object": "Finnish", "taxonomy": ["Irish", "Belarusian", "Icelandic", "Tibetan", "Armenian"]}
+{"subject": "Uruguay", "object": "Spanish", "taxonomy": ["Hebrew", "Welsh", "Romani", "Catalan", "French"]}
+{"subject": "Jamshedpur", "object": "Hindi", "taxonomy": ["Tonga", "Tibetan", "Filipino", "Serbian", "Spanish"]}
+{"subject": "Molina de Segura", "object": "Spanish", "taxonomy": ["Filipino", "Mari", "Punjabi", "Macedonian", "French"]}
+{"subject": "South Ossetia", "object": "Georgian", "taxonomy": ["Russian", "Montenegrin", "Slovak", "Latvian", "Korean"]}
+{"subject": "Cambodia", "object": "Khmer", "taxonomy": ["Maltese", "Lithuanian", "Macedonian", "Serbian", "Romanian"]}
+{"subject": "Porrentruy", "object": "French", "taxonomy": ["Welsh", "Korean", "Hungarian", "Georgian", "Macedonian"]}
+{"subject": "Nykarleby", "object": "Swedish", "taxonomy": ["Khmer", "Filipino", "Mongolian", "Tamil", "Malay"]}
+{"subject": "Krasnoyarsk Krai", "object": "Russian", "taxonomy": ["Dutch", "Greek", "Latvian", "Indonesian", "Norwegian"]}
+{"subject": "Republic of the Congo", "object": "French", "taxonomy": ["Tamil", "Azerbaijani", "Hawaiian", "Montenegrin", "Mongolian"]}
+{"subject": "Crown of Aragón", "object": "Catalan", "taxonomy": ["Belarusian", "Slovak", "Urdu", "Norman", "Lao"]}
+{"subject": "Crown of Aragón", "object": "Latin", "taxonomy": ["Norman", "Armenian", "Belarusian", "Breton", "Turkish"]}
+{"subject": "Solomon Islands", "object": "English", "taxonomy": ["Tamil", "Persian", "Ukrainian", "Latvian", "Lithuanian"]}
+{"subject": "Meghalaya", "object": "English", "taxonomy": ["Thai", "Polish", "Portuguese", "Slovene", "Azerbaijani"]}
+{"subject": "Lohja", "object": "Swedish", "taxonomy": ["Latin", "Nepali", "Basque", "Ukrainian", "Malay"]}
+{"subject": "Tornio", "object": "Finnish", "taxonomy": ["Indonesian", "Somali", "Malay", "English", "Lithuanian"]}
+{"subject": "Rajasthan", "object": "Hindi", "taxonomy": ["Norwegian", "Ukrainian", "Irish", "Telugu", "Chinese"]}
+{"subject": "Shanghai Cooperation Organisation", "object": "Chinese", "taxonomy": ["Japanese", "Mari", "Tonga", "Malay", "Hawaiian"]}
+{"subject": "Easter Island", "object": "Spanish", "taxonomy": ["Macedonian", "Latvian", "Russian", "Persian", "Finnish"]}
+{"subject": "Majorca", "object": "Catalan", "taxonomy": ["Scots", "English", "French", "German", "Lao"]}
+{"subject": "Brazil", "object": "Portuguese", "taxonomy": ["Japanese", "Croatian", "Azerbaijani", "Norman", "Telugu"]}
+{"subject": "Mexico", "object": "Spanish", "taxonomy": ["Armenian", "Latvian", "Venetian", "Albanian", "Chinese"]}
+{"subject": "Posio", "object": "Finnish", "taxonomy": ["Indonesian", "Persian", "Spanish", "Bulgarian", "Scots"]}
+{"subject": "Karijoki", "object": "Finnish", "taxonomy": ["Venetian", "Norman", "Montenegrin", "Macedonian", "French"]}
+{"subject": "Gambia", "object": "English", "taxonomy": ["Welsh", "Hawaiian", "Norwegian", "Persian", "Albanian"]}
+{"subject": "Kyōto Prefecture", "object": "Japanese", "taxonomy": ["Venetian", "Breton", "Dutch", "Irish", "Italian"]}
+{"subject": "South Georgia and the South Sandwich Islands", "object": "English", "taxonomy": ["Venetian", "Punjabi", "Dutch", "Scots", "Finnish"]}
+{"subject": "Sastamala", "object": "Finnish", "taxonomy": ["Tonga", "Basque", "Latvian", "Hindi", "Polish"]}
+{"subject": "Kingdom of Jerusalem", "object": "Italian", "taxonomy": ["Marathi", "Lao", "Tibetan", "Slovak", "Dutch"]}
+{"subject": "Isle of Man", "object": "English", "taxonomy": ["Somali", "Romanian", "Latvian", "Greek", "Swedish"]}
+{"subject": "Mississippi", "object": "English", "taxonomy": ["Hebrew", "Breton", "Georgian", "Mari", "Norman"]}
+{"subject": "Macau", "object": "Chinese", "taxonomy": ["Macedonian", "Croatian", "Persian", "Romanian", "French"]}
+{"subject": "Bernese Jura", "object": "French", "taxonomy": ["Swedish", "Slovak", "Indonesian", "Latin", "Slovene"]}
+{"subject": "Czechoslovakia", "object": "Slovak", "taxonomy": ["Slovene", "Venetian", "Greek", "Malay", "French"]}
+{"subject": "Salla", "object": "Finnish", "taxonomy": ["Russian", "Maltese", "Japanese", "Albanian", "Italian"]}
+{"subject": "Kiuruvesi", "object": "Finnish", "taxonomy": ["Urdu", "Latin", "Tibetan", "English", "Portuguese"]}
+{"subject": "Pirkkala", "object": "Finnish", "taxonomy": ["Georgian", "Montenegrin", "Spanish", "Malayalam", "Khmer"]}
+{"subject": "Malax", "object": "Finnish", "taxonomy": ["Serbian", "Hebrew", "Albanian", "Chinese", "Greek"]}
+{"subject": "Donetsk Oblast", "object": "Russian", "taxonomy": ["Spanish", "Khmer", "Marathi", "Hebrew", "Nepali"]}
+{"subject": "Loimaa", "object": "Finnish", "taxonomy": ["Norman", "Marathi", "Lithuanian", "Ukrainian", "Icelandic"]}
+{"subject": "National Film Board of Canada", "object": "English", "taxonomy": ["Bengali", "Persian", "Swedish", "Hungarian", "Montenegrin"]}
+{"subject": "Israel", "object": "Hebrew", "taxonomy": ["Montenegrin", "Maltese", "Portuguese", "Punjabi", "Armenian"]}
+{"subject": "Samoa", "object": "English", "taxonomy": ["Greek", "Azerbaijani", "Serbian", "Somali", "Latin"]}
+{"subject": "Republic of Tatarstan", "object": "Russian", "taxonomy": ["Vietnamese", "Azerbaijani", "Belarusian", "Greek", "Norwegian"]}
+{"subject": "Brussels-Capital Region", "object": "Dutch", "taxonomy": ["Maltese", "Macedonian", "French", "Indonesian", "Norwegian"]}
+{"subject": "Hawaii", "object": "Hawaiian", "taxonomy": ["Swedish", "Georgian", "Tibetan", "Hebrew", "Czech"]}
+{"subject": "Switzerland", "object": "French", "taxonomy": ["Catalan", "Maltese", "Hungarian", "Egyptian", "Norwegian"]}
+{"subject": "Kajaani", "object": "Finnish", "taxonomy": ["Catalan", "Japanese", "Polish", "Macedonian", "Montenegrin"]}
+{"subject": "Kingdom of Deheubarth", "object": "Welsh", "taxonomy": ["Lithuanian", "Chinese", "Portuguese", "Azerbaijani", "Estonian"]}
+{"subject": "Belgium", "object": "German", "taxonomy": ["Tibetan", "Swedish", "Ukrainian", "Irish", "Mari"]}
+{"subject": "Nauru", "object": "English", "taxonomy": ["Georgian", "Breton", "Italian", "Lao", "Sicilian"]}
+{"subject": "Delhi", "object": "English", "taxonomy": ["Czech", "Estonian", "Slovak", "Tonga", "Icelandic"]}
+{"subject": "Navarre", "object": "Spanish", "taxonomy": ["Georgian", "Slovene", "Malayalam", "Italian", "Bulgarian"]}
+{"subject": "Ibiza", "object": "Spanish", "taxonomy": ["Filipino", "Japanese", "Tonga", "Indonesian", "Urdu"]}
+{"subject": "Jomala", "object": "Swedish", "taxonomy": ["Thai", "Estonian", "Macedonian", "Urdu", "Marathi"]}
+{"subject": "Kerala", "object": "English", "taxonomy": ["Bulgarian", "Swedish", "Persian", "Finnish", "French"]}
+{"subject": "Falkland Islands", "object": "English", "taxonomy": ["French", "Irish", "Hungarian", "Georgian", "Icelandic"]}
+{"subject": "Mari El Republic", "object": "Mari", "taxonomy": ["Bulgarian", "Slovene", "Scots", "Montenegrin", "Latin"]}
+{"subject": "Free City of Danzig", "object": "Polish", "taxonomy": ["Maltese", "Bengali", "Belarusian", "Mari", "Swedish"]}
+{"subject": "Union of European Football Associations", "object": "French", "taxonomy": ["Norman", "Marathi", "Mari", "Chinese", "Hebrew"]}
+{"subject": "Couto Misto", "object": "Portuguese", "taxonomy": ["Romanian", "Filipino", "Montenegrin", "Tamil", "Dutch"]}
+{"subject": "Friesland", "object": "Dutch", "taxonomy": ["Welsh", "Indonesian", "Finnish", "Romanian", "Macedonian"]}
+{"subject": "Guinea", "object": "French", "taxonomy": ["Basque", "Dutch", "Norman", "Indonesian", "Croatian"]}
+{"subject": "Udmurt Autonomous Soviet Socialist Republic", "object": "Russian", "taxonomy": ["Hungarian", "Tonga", "Icelandic", "Greek", "Marathi"]}
+{"subject": "Coimbatore", "object": "Tamil", "taxonomy": ["Greek", "Russian", "Latvian", "Italian", "Vietnamese"]}
+{"subject": "Australia", "object": "English", "taxonomy": ["Polish", "Khmer", "Indonesian", "Montenegrin", "Malayalam"]}
+{"subject": "Peru", "object": "Spanish", "taxonomy": ["Georgian", "Hawaiian", "Latin", "Korean", "German"]}
+{"subject": "Delhi", "object": "Punjabi", "taxonomy": ["Welsh", "Persian", "Hawaiian", "Albanian", "French"]}
+{"subject": "Swiss Federal Constitution", "object": "French", "taxonomy": ["Finnish", "Welsh", "Icelandic", "Spanish", "Norman"]}
+{"subject": "Bengkulu", "object": "Indonesian", "taxonomy": ["Latin", "Tonga", "English", "Punjabi", "Malay"]}
+{"subject": "Lesotho", "object": "English", "taxonomy": ["Georgian", "Armenian", "Thai", "Malayalam", "Korean"]}
+{"subject": "Juankoski", "object": "Finnish", "taxonomy": ["Thai", "Hungarian", "Romani", "Estonian", "Punjabi"]}
+{"subject": "India", "object": "English", "taxonomy": ["Norwegian", "Malay", "Norman", "Icelandic", "Sicilian"]}
+{"subject": "Pitcairn Islands", "object": "English", "taxonomy": ["Malayalam", "Slovak", "Sicilian", "Dutch", "Maltese"]}
+{"subject": "Khanty-Mansi Autonomous Okrug", "object": "Russian", "taxonomy": ["Armenian", "Ukrainian", "Mongolian", "Khmer", "Welsh"]}
+{"subject": "Zimbabwe", "object": "English", "taxonomy": ["Lithuanian", "Azerbaijani", "Albanian", "Irish", "Macedonian"]}
+{"subject": "Lucerne", "object": "German", "taxonomy": ["Maltese", "Tonga", "Norwegian", "Venetian", "Telugu"]}
+{"subject": "Transnistria", "object": "Ukrainian", "taxonomy": ["Hindi", "Georgian", "Lao", "Basque", "Russian"]}
+{"subject": "Djibouti", "object": "French", "taxonomy": ["Tibetan", "Welsh", "Russian", "Norman", "Malay"]}
+{"subject": "Vallorbe", "object": "French", "taxonomy": ["Russian", "Vietnamese", "Basque", "Khmer", "Slovene"]}
+{"subject": "Wappo people", "object": "English", "taxonomy": ["Romani", "French", "Japanese", "Chinese", "Bengali"]}
+{"subject": "Sahrawi Arab Democratic Republic", "object": "Spanish", "taxonomy": ["Hawaiian", "Dutch", "Filipino", "Russian", "Mongolian"]}
+{"subject": "Sint Eustatius", "object": "English", "taxonomy": ["Estonian", "Thai", "Icelandic", "Serbian", "Azerbaijani"]}
+{"subject": "Montana", "object": "English", "taxonomy": ["Egyptian", "Somali", "Chinese", "Spanish", "Vietnamese"]}
+{"subject": "Bahamas", "object": "English", "taxonomy": ["Welsh", "Maltese", "Romani", "Hindi", "Danish"]}
+{"subject": "Republic of Dagestan", "object": "Azerbaijani", "taxonomy": ["Swedish", "Romani", "Indonesian", "French", "Lao"]}
+{"subject": "North Macedonia", "object": "Macedonian", "taxonomy": ["English", "Breton", "French", "Venetian", "Marathi"]}
+{"subject": "Ontario", "object": "English", "taxonomy": ["Japanese", "Czech", "Hawaiian", "Russian", "Tibetan"]}
+{"subject": "Alberta", "object": "English", "taxonomy": ["Egyptian", "Punjabi", "Mari", "Portuguese", "Serbian"]}
+{"subject": "Montenegro", "object": "Serbian", "taxonomy": ["Tamil", "Nepali", "French", "Egyptian", "Estonian"]}
+{"subject": "Zhovti Vody", "object": "Ukrainian", "taxonomy": ["Czech", "Irish", "Italian", "Japanese", "Serbian"]}
+{"subject": "Kuusamo", "object": "Finnish", "taxonomy": ["Lao", "Ukrainian", "Croatian", "Irish", "Russian"]}
+{"subject": "Jammu and Kashmir", "object": "Urdu", "taxonomy": ["Italian", "Turkish", "Norman", "Serbian", "Tonga"]}
+{"subject": "Nastola", "object": "Finnish", "taxonomy": ["Mongolian", "Persian", "Urdu", "Scots", "Venetian"]}
+{"subject": "Eswatini", "object": "English", "taxonomy": ["Danish", "Czech", "Lao", "Chinese", "Malay"]}
+{"subject": "European Union", "object": "Dutch", "taxonomy": ["Icelandic", "Macedonian", "German", "Romanian", "Urdu"]}
+{"subject": "Grenada", "object": "English", "taxonomy": ["Filipino", "Urdu", "Scots", "Mari", "Albanian"]}
+{"subject": "Alderney", "object": "English", "taxonomy": ["Basque", "Tibetan", "Maltese", "Dutch", "Malay"]}
+{"subject": "Aargau", "object": "German", "taxonomy": ["Korean", "Russian", "Hawaiian", "Malay", "Swedish"]}
+{"subject": "Republic of Khakassia", "object": "Russian", "taxonomy": ["Hungarian", "Somali", "Romani", "Tibetan", "Armenian"]}
+{"subject": "Chechen Republic", "object": "Russian", "taxonomy": ["Egyptian", "Latvian", "Albanian", "Korean", "Polish"]}
+{"subject": "Mykolaiv Oblast", "object": "Russian", "taxonomy": ["Mari", "Punjabi", "Hawaiian", "Urdu", "Finnish"]}
+{"subject": "Punjab", "object": "Punjabi", "taxonomy": ["Latvian", "Khmer", "Portuguese", "Norwegian", "Bulgarian"]}
+{"subject": "Rwanda", "object": "English", "taxonomy": ["Estonian", "Tonga", "Dutch", "Korean", "Scots"]}
+{"subject": "Finland", "object": "Finnish", "taxonomy": ["Tonga", "English", "Basque", "Icelandic", "Venetian"]}
+{"subject": "Loviisa", "object": "Swedish", "taxonomy": ["Icelandic", "Polish", "Persian", "Armenian", "Slovene"]}
+{"subject": "Nebraska", "object": "English", "taxonomy": ["Maltese", "Tibetan", "Slovak", "Slovene", "Hindi"]}
+{"subject": "Poland", "object": "Polish", "taxonomy": ["Punjabi", "Scots", "Chinese", "Hebrew", "Italian"]}
+{"subject": "Ukrainian Soviet Socialist Republic", "object": "Russian", "taxonomy": ["French", "Indonesian", "Irish", "Thai", "Dutch"]}
+{"subject": "Nyon", "object": "French", "taxonomy": ["Hindi", "Slovene", "Tibetan", "Irish", "Malayalam"]}
+{"subject": "Basel", "object": "German", "taxonomy": ["Nepali", "Tamil", "Bulgarian", "Basque", "Macedonian"]}
+{"subject": "Arkansas", "object": "English", "taxonomy": ["Albanian", "Dutch", "Bengali", "French", "Urdu"]}
+{"subject": "Romania", "object": "Romanian", "taxonomy": ["Macedonian", "Marathi", "French", "English", "Indonesian"]}
+{"subject": "Kaskinen", "object": "Finnish", "taxonomy": ["Belarusian", "Nepali", "Malay", "Romani", "Bulgarian"]}
+{"subject": "Kingdom of the Lombards", "object": "Latin", "taxonomy": ["Malay", "Armenian", "Mongolian", "Belarusian", "Chinese"]}
+{"subject": "Sri Lanka", "object": "Tamil", "taxonomy": ["Portuguese", "Estonian", "English", "Polish", "Albanian"]}
+{"subject": "European Union", "object": "Greek", "taxonomy": ["Chinese", "Latin", "Malay", "Nepali", "Thai"]}
+{"subject": "Ylitornio", "object": "Finnish", "taxonomy": ["Nepali", "Welsh", "Icelandic", "Polish", "Malayalam"]}
+{"subject": "European Union", "object": "Irish", "taxonomy": ["Filipino", "French", "Hungarian", "Polish", "Mongolian"]}
+{"subject": "Kenya", "object": "English", "taxonomy": ["Filipino", "Chinese", "Hungarian", "Maltese", "Tonga"]}
+{"subject": "French Southern and Antarctic Lands", "object": "French", "taxonomy": ["Maltese", "Tibetan", "Nepali", "Slovak", "Croatian"]}
+{"subject": "Ghana", "object": "English", "taxonomy": ["Slovak", "Lao", "Scots", "Czech", "Macedonian"]}
+{"subject": "Kauhajoki", "object": "Finnish", "taxonomy": ["Belarusian", "Albanian", "Filipino", "Ukrainian", "Danish"]}
+{"subject": "Raahe", "object": "Finnish", "taxonomy": ["Scots", "Basque", "Danish", "Hawaiian", "Albanian"]}
+{"subject": "Provence", "object": "French", "taxonomy": ["Portuguese", "Macedonian", "Thai", "Romani", "Greek"]}
+{"subject": "Slovenia", "object": "Slovene", "taxonomy": ["Egyptian", "Romani", "Albanian", "Armenian", "Swedish"]}
+{"subject": "Jakobstad", "object": "Swedish", "taxonomy": ["Persian", "Montenegrin", "Hungarian", "Vietnamese", "Bulgarian"]}
+{"subject": "President of the Basque Autonomous Community", "object": "Spanish", "taxonomy": ["Hawaiian", "Japanese", "Indonesian", "Serbian", "Hungarian"]}
+{"subject": "Tervola", "object": "Finnish", "taxonomy": ["Marathi", "Latin", "Thai", "Polish", "Japanese"]}
+{"subject": "Moldova", "object": "Romanian", "taxonomy": ["Marathi", "Hebrew", "Belarusian", "Malay", "Maltese"]}
+{"subject": "Ruovesi", "object": "Finnish", "taxonomy": ["Filipino", "Khmer", "Bengali", "Breton", "Korean"]}
+{"subject": "ASEAN", "object": "Filipino", "taxonomy": ["Maltese", "Ukrainian", "Marathi", "Hawaiian", "Bengali"]}
+{"subject": "A Ver-o-Mar", "object": "Portuguese", "taxonomy": ["Welsh", "Nepali", "Latvian", "Finnish", "Tamil"]}
+{"subject": "Organization for Security and Co-operation in Europe", "object": "French", "taxonomy": ["Filipino", "Slovene", "Azerbaijani", "Telugu", "Maltese"]}
+{"subject": "French Guiana", "object": "French", "taxonomy": ["Albanian", "Bulgarian", "Somali", "Armenian", "Norwegian"]}
+{"subject": "Lithuania", "object": "Lithuanian", "taxonomy": ["Scots", "Bulgarian", "Urdu", "Korean", "Telugu"]}
+{"subject": "Kristinestad", "object": "Finnish", "taxonomy": ["Venetian", "Thai", "Greek", "Tibetan", "Swedish"]}
+{"subject": "Komi Republic", "object": "Russian", "taxonomy": ["Slovak", "Georgian", "Chinese", "Norman", "Turkish"]}
+{"subject": "Anguilla", "object": "English", "taxonomy": ["Urdu", "Dutch", "Russian", "Romanian", "Tonga"]}
+{"subject": "Belize", "object": "English", "taxonomy": ["Indonesian", "Icelandic", "Hungarian", "Portuguese", "Lao"]}
+{"subject": "Southern Common Market", "object": "Spanish", "taxonomy": ["Maltese", "Basque", "Tamil", "Swedish", "Hawaiian"]}
+{"subject": "Spain", "object": "Catalan", "taxonomy": ["Scots", "Latvian", "Finnish", "Czech", "Georgian"]}
+{"subject": "Pelkosenniemi", "object": "Finnish", "taxonomy": ["Chinese", "Czech", "Norman", "Japanese", "Serbian"]}
+{"subject": "Barbados", "object": "English", "taxonomy": ["Croatian", "Somali", "Georgian", "Ukrainian", "Tibetan"]}
+{"subject": "Melitopol", "object": "Ukrainian", "taxonomy": ["Korean", "Vietnamese", "Indonesian", "Macedonian", "Dutch"]}
+{"subject": "Sigtuna Municipality", "object": "Swedish", "taxonomy": ["Italian", "Lithuanian", "Filipino", "Japanese", "Macedonian"]}
+{"subject": "Nykarleby", "object": "Finnish", "taxonomy": ["Sicilian", "Welsh", "Croatian", "Indonesian", "Georgian"]}
+{"subject": "West Germany", "object": "German", "taxonomy": ["Venetian", "Slovene", "Indonesian", "Hungarian", "Czech"]}
+{"subject": "Nenets Autonomous Okrug", "object": "Russian", "taxonomy": ["Icelandic", "Bulgarian", "Malayalam", "Dutch", "Somali"]}
+{"subject": "Caribbean Netherlands", "object": "English", "taxonomy": ["Norman", "Sicilian", "Estonian", "Dutch", "Filipino"]}
+{"subject": "Colombia", "object": "Spanish", "taxonomy": ["Hindi", "Egyptian", "Polish", "Malay", "Bulgarian"]}
+{"subject": "Kauhava", "object": "Finnish", "taxonomy": ["Latvian", "English", "Thai", "Hebrew", "Norman"]}
+{"subject": "Bahia", "object": "Portuguese", "taxonomy": ["Albanian", "Tibetan", "Slovak", "Georgian", "Marathi"]}
+{"subject": "Brunei", "object": "English", "taxonomy": ["Finnish", "Marathi", "Icelandic", "Persian", "Portuguese"]}
+{"subject": "Kingdom of Sicily", "object": "Latin", "taxonomy": ["Finnish", "Hawaiian", "Azerbaijani", "Spanish", "Danish"]}
+{"subject": "Donetsk Oblast", "object": "Ukrainian", "taxonomy": ["Hungarian", "Somali", "Belarusian", "Khmer", "Hindi"]}
+{"subject": "Jambi", "object": "Malay", "taxonomy": ["Malayalam", "Mongolian", "Albanian", "Somali", "Hawaiian"]}
+{"subject": "Patna", "object": "Hindi", "taxonomy": ["Italian", "Punjabi", "Hebrew", "Hawaiian", "Czech"]}
+{"subject": "Union between Sweden and Norway", "object": "Swedish", "taxonomy": ["Estonian", "Irish", "Romani", "Turkish", "Latin"]}
+{"subject": "Sevastopol", "object": "Ukrainian", "taxonomy": ["Lao", "Romani", "Mongolian", "Finnish", "French"]}
+{"subject": "Royal 22e Régiment", "object": "French", "taxonomy": ["Ukrainian", "Filipino", "Romani", "Marathi", "Malayalam"]}
+{"subject": "Les Bois", "object": "French", "taxonomy": ["Nepali", "Belarusian", "Croatian", "Bulgarian", "Slovene"]}
+{"subject": "Pakistan", "object": "Urdu", "taxonomy": ["Armenian", "Russian", "Norman", "Finnish", "Vietnamese"]}
+{"subject": "Varkaus", "object": "Finnish", "taxonomy": ["Marathi", "Korean", "Czech", "Catalan", "Irish"]}
+{"subject": "Mariehamn", "object": "Swedish", "taxonomy": ["Nepali", "Croatian", "Venetian", "Macedonian", "Norwegian"]}
+{"subject": "canton of Bern", "object": "French", "taxonomy": ["Egyptian", "Scots", "Chinese", "Norwegian", "Nepali"]}
+{"subject": "Luhansk People's Republic", "object": "Ukrainian", "taxonomy": ["Sicilian", "Mongolian", "Czech", "Punjabi", "Azerbaijani"]}
+{"subject": "French immersion", "object": "French", "taxonomy": ["Estonian", "Spanish", "Latvian", "Hebrew", "Khmer"]}
+{"subject": "La Chaux-de-Fonds", "object": "French", "taxonomy": ["Croatian", "Indonesian", "Egyptian", "Bengali", "Armenian"]}
+{"subject": "Kaarina", "object": "Finnish", "taxonomy": ["Polish", "Slovene", "Venetian", "Latin", "Hebrew"]}
+{"subject": "Grand Duchy of Moscow", "object": "Russian", "taxonomy": ["Serbian", "Albanian", "Latin", "Tamil", "Nepali"]}
+{"subject": "Czechoslovakia", "object": "Czech", "taxonomy": ["Italian", "Urdu", "Scots", "Hawaiian", "Nepali"]}
+{"subject": "Senegal", "object": "French", "taxonomy": ["Dutch", "Sicilian", "Slovak", "Mari", "German"]}
+{"subject": "Le Locle", "object": "French", "taxonomy": ["Croatian", "Marathi", "Azerbaijani", "Welsh", "Maltese"]}
+{"subject": "Kirkkonummi", "object": "Swedish", "taxonomy": ["Thai", "Korean", "Hebrew", "Estonian", "Vietnamese"]}
+{"subject": "Porvoo", "object": "Finnish", "taxonomy": ["Greek", "Hindi", "Hebrew", "Danish", "Norman"]}
+{"subject": "Sovereign Military Order of Malta", "object": "Latin", "taxonomy": ["Ukrainian", "Lithuanian", "Albanian", "Chinese", "Turkish"]}
+{"subject": "Pargas", "object": "Finnish", "taxonomy": ["Czech", "Khmer", "Somali", "Romani", "Malayalam"]}
+{"subject": "Nunavut", "object": "English", "taxonomy": ["Catalan", "Belarusian", "Thai", "Spanish", "Turkish"]}
+{"subject": "Geneva", "object": "French", "taxonomy": ["Tonga", "Bulgarian", "Greek", "Hawaiian", "Mongolian"]}
+{"subject": "European Union", "object": "Bulgarian", "taxonomy": ["Turkish", "Portuguese", "Swedish", "Albanian", "Marathi"]}
+{"subject": "canton of Bern", "object": "German", "taxonomy": ["Scots", "Belarusian", "Egyptian", "Bengali", "Thai"]}
+{"subject": "Meyrin", "object": "French", "taxonomy": ["Lao", "Croatian", "Slovak", "Hungarian", "Dutch"]}
+{"subject": "World Health Organization", "object": "English", "taxonomy": ["Filipino", "Azerbaijani", "Ukrainian", "Albanian", "Croatian"]}
+{"subject": "North Kosovo", "object": "Serbian", "taxonomy": ["Maltese", "Urdu", "Azerbaijani", "Turkish", "Nepali"]}
+{"subject": "Sint Eustatius", "object": "Dutch", "taxonomy": ["Slovene", "Serbian", "Scots", "Latin", "Bengali"]}
+{"subject": "Bosnia and Herzegovina", "object": "Serbian", "taxonomy": ["Filipino", "Irish", "Hebrew", "Malay", "Portuguese"]}
+{"subject": "South Tyrol", "object": "Italian", "taxonomy": ["Spanish", "Somali", "Icelandic", "Malayalam", "Vietnamese"]}
+{"subject": "Finland", "object": "Swedish", "taxonomy": ["Irish", "Filipino", "Norman", "Tamil", "Egyptian"]}
+{"subject": "Savoy", "object": "French", "taxonomy": ["Catalan", "Indonesian", "Filipino", "Somali", "Czech"]}
+{"subject": "Papua New Guinea", "object": "English", "taxonomy": ["Italian", "Norman", "Belarusian", "Egyptian", "Lithuanian"]}
+{"subject": "Ticino", "object": "Italian", "taxonomy": ["Japanese", "Vietnamese", "German", "Slovak", "Hungarian"]}
+{"subject": "Lieto", "object": "Finnish", "taxonomy": ["Tamil", "Russian", "Hindi", "English", "Czech"]}
+{"subject": "Malta", "object": "Maltese", "taxonomy": ["Welsh", "Urdu", "Icelandic", "Tamil", "German"]}
+{"subject": "Rwanda", "object": "French", "taxonomy": ["Italian", "Malay", "Montenegrin", "Bengali", "Chinese"]}
+{"subject": "Jokioinen", "object": "Finnish", "taxonomy": ["Malayalam", "Serbian", "Danish", "Turkish", "Scots"]}
+{"subject": "Maaninka", "object": "Finnish", "taxonomy": ["Khmer", "Lithuanian", "Basque", "Latvian", "Romanian"]}
+{"subject": "Nepal", "object": "Nepali", "taxonomy": ["Tonga", "Russian", "Mari", "Bulgarian", "Belarusian"]}
+{"subject": "Botkyrka Municipality", "object": "Swedish", "taxonomy": ["Breton", "Lao", "Maltese", "Lithuanian", "Slovak"]}
+{"subject": "Saltvik", "object": "Swedish", "taxonomy": ["Thai", "Lao", "Icelandic", "Russian", "Bengali"]}
+{"subject": "Pontianak Sultanate", "object": "Malay", "taxonomy": ["Mongolian", "Azerbaijani", "Breton", "Macedonian", "Telugu"]}
+{"subject": "Republic of Venice", "object": "Italian", "taxonomy": ["Scots", "Marathi", "Telugu", "Swedish", "Danish"]}
+{"subject": "Chad", "object": "French", "taxonomy": ["Bengali", "Romani", "Khmer", "Hungarian", "Maltese"]}
+{"subject": "Caslano", "object": "Italian", "taxonomy": ["Spanish", "Hindi", "Macedonian", "Basque", "Georgian"]}
+{"subject": "Yerevan", "object": "Armenian", "taxonomy": ["Bengali", "Punjabi", "French", "Nepali", "Slovene"]}
+{"subject": "Bolivia", "object": "Spanish", "taxonomy": ["Chinese", "Malay", "Russian", "Lao", "Danish"]}
+{"subject": "Benelux", "object": "Dutch", "taxonomy": ["Filipino", "Georgian", "Breton", "Nepali", "Armenian"]}
+{"subject": "Malaysia", "object": "English", "taxonomy": ["Telugu", "Slovene", "Latin", "Tibetan", "Maltese"]}
+{"subject": "Val d'Aran", "object": "Spanish", "taxonomy": ["Icelandic", "Filipino", "Nepali", "Tibetan", "Hawaiian"]}
+{"subject": "Russian Empire", "object": "Finnish", "taxonomy": ["Norman", "Lao", "Norwegian", "Tamil", "Welsh"]}
+{"subject": "South Sudan", "object": "English", "taxonomy": ["Basque", "Korean", "Catalan", "Romanian", "Punjabi"]}
+{"subject": "Equatorial Guinea", "object": "French", "taxonomy": ["Nepali", "Urdu", "Maltese", "Hawaiian", "Turkish"]}
+{"subject": "European Union", "object": "Hungarian", "taxonomy": ["Spanish", "Hindi", "Montenegrin", "Telugu", "Tamil"]}
+{"subject": "Banten", "object": "Indonesian", "taxonomy": ["Thai", "Norman", "Maltese", "Khmer", "Polish"]}
+{"subject": "Gothenburg Municipality", "object": "Swedish", "taxonomy": ["Nepali", "Hungarian", "Scots", "Malay", "Montenegrin"]}
+{"subject": "Huddinge Municipality", "object": "Swedish", "taxonomy": ["Punjabi", "Romanian", "Maltese", "Mongolian", "Welsh"]}
+{"subject": "Loppi", "object": "Finnish", "taxonomy": ["Lao", "Romani", "Basque", "Hungarian", "Spanish"]}
+{"subject": "Kyrgyzstan", "object": "Russian", "taxonomy": ["Estonian", "Irish", "Azerbaijani", "Lithuanian", "Albanian"]}
+{"subject": "Porvoo", "object": "Swedish", "taxonomy": ["German", "Icelandic", "Telugu", "Somali", "Korean"]}
+{"subject": "Vihti", "object": "Finnish", "taxonomy": ["French", "Basque", "Slovene", "Catalan", "Bulgarian"]}
+{"subject": "Basel-Stadt", "object": "German", "taxonomy": ["Georgian", "Egyptian", "Czech", "Finnish", "Korean"]}
+{"subject": "Flemish Region", "object": "Dutch", "taxonomy": ["Montenegrin", "Indonesian", "Albanian", "Latvian", "French"]}
+{"subject": "Tierp Municipality", "object": "Swedish", "taxonomy": ["Polish", "Serbian", "Maltese", "Greek", "Telugu"]}
+{"subject": "Japan", "object": "Japanese", "taxonomy": ["Latvian", "French", "Breton", "Telugu", "Azerbaijani"]}
+{"subject": "Alavus", "object": "Finnish", "taxonomy": ["Lithuanian", "Croatian", "Norwegian", "Tonga", "Serbian"]}
+{"subject": "Byelorussian Soviet Socialist Republic", "object": "Russian", "taxonomy": ["Portuguese", "Icelandic", "Hungarian", "Mongolian", "Catalan"]}
+{"subject": "Kangasala", "object": "Finnish", "taxonomy": ["Telugu", "Japanese", "Croatian", "Khmer", "Marathi"]}
+{"subject": "Iran", "object": "Persian", "taxonomy": ["French", "Marathi", "Egyptian", "Thai", "Czech"]}
+{"subject": "Tampere", "object": "Finnish", "taxonomy": ["Venetian", "Spanish", "Ukrainian", "Georgian", "Telugu"]}
+{"subject": "Oulu", "object": "Finnish", "taxonomy": ["Khmer", "Tibetan", "Polish", "Catalan", "Russian"]}
+{"subject": "Nazi Germany", "object": "German", "taxonomy": ["Irish", "Lithuanian", "Maltese", "Mari", "Czech"]}
+{"subject": "Espoo", "object": "Swedish", "taxonomy": ["Finnish", "Maltese", "Chinese", "Spanish", "Portuguese"]}
+{"subject": "Aragon", "object": "Spanish", "taxonomy": ["Dutch", "Welsh", "Estonian", "Greek", "Montenegrin"]}
+{"subject": "Panama", "object": "Spanish", "taxonomy": ["Scots", "Ukrainian", "Swedish", "Japanese", "Punjabi"]}
+{"subject": "Quebec", "object": "French", "taxonomy": ["Romanian", "Polish", "Indonesian", "Norman", "Persian"]}
+{"subject": "Roman Empire", "object": "Latin", "taxonomy": ["Norman", "German", "Norwegian", "Slovene", "Malayalam"]}
+{"subject": "Equatorial Guinea", "object": "Spanish", "taxonomy": ["Egyptian", "Malayalam", "Lao", "Armenian", "Catalan"]}
+{"subject": "Church of Greece", "object": "Greek", "taxonomy": ["Croatian", "Indonesian", "Romani", "Montenegrin", "Portuguese"]}
+{"subject": "Newfoundland and Labrador", "object": "English", "taxonomy": ["Spanish", "Korean", "Breton", "Tamil", "Lao"]}
+{"subject": "Kaustinen", "object": "Finnish", "taxonomy": ["Catalan", "Venetian", "Punjabi", "Albanian", "Russian"]}
+{"subject": "Yamalo-Nenets Autonomous Okrug", "object": "Russian", "taxonomy": ["Albanian", "Armenian", "Chinese", "Lao", "Swedish"]}
+{"subject": "European Union", "object": "Estonian", "taxonomy": ["Tonga", "Ukrainian", "Telugu", "Macedonian", "Spanish"]}
+{"subject": "South Tyrol", "object": "German", "taxonomy": ["Hindi", "Malayalam", "Catalan", "Tamil", "Latvian"]}
+{"subject": "Moudon", "object": "French", "taxonomy": ["Indonesian", "Malayalam", "Swedish", "Bengali", "Mari"]}
+{"subject": "Versoix", "object": "French", "taxonomy": ["Hungarian", "Japanese", "Italian", "Albanian", "Persian"]}
+{"subject": "Republic of Venice", "object": "Latin", "taxonomy": ["Armenian", "Azerbaijani", "Venetian", "Croatian", "Icelandic"]}
+{"subject": "International Commission on Illumination", "object": "French", "taxonomy": ["Latin", "Belarusian", "Malay", "Malayalam", "Finnish"]}
+{"subject": "Keminmaa", "object": "Finnish", "taxonomy": ["Lao", "Armenian", "Dutch", "Polish", "Breton"]}
+{"subject": "State of Brazil", "object": "Portuguese", "taxonomy": ["Japanese", "Maltese", "Scots", "Georgian", "Albanian"]}
+{"subject": "Kumlinge", "object": "Swedish", "taxonomy": ["Azerbaijani", "Nepali", "Belarusian", "Bengali", "Finnish"]}
+{"subject": "Benelux", "object": "French", "taxonomy": ["Sicilian", "Hungarian", "German", "Slovak", "Icelandic"]}
+{"subject": "Menorca", "object": "Catalan", "taxonomy": ["Estonian", "Spanish", "Mongolian", "Japanese", "Latin"]}
+{"subject": "United Nations", "object": "Spanish", "taxonomy": ["Filipino", "Montenegrin", "Czech", "Hawaiian", "Albanian"]}
+{"subject": "Saba", "object": "Dutch", "taxonomy": ["Finnish", "Tibetan", "Norman", "Telugu", "Venetian"]}
+{"subject": "Qing dynasty", "object": "Tibetan", "taxonomy": ["Welsh", "Lithuanian", "English", "Czech", "Macedonian"]}
+{"subject": "Juva", "object": "Finnish", "taxonomy": ["Tonga", "Sicilian", "Mari", "Welsh", "Vietnamese"]}
+{"subject": "Luhansk Oblast", "object": "Ukrainian", "taxonomy": ["Estonian", "Vietnamese", "Italian", "Norman", "Hungarian"]}
+{"subject": "Vaasa", "object": "Swedish", "taxonomy": ["Croatian", "Hawaiian", "Icelandic", "Czech", "Spanish"]}
+{"subject": "Sakha Republic", "object": "Russian", "taxonomy": ["Slovak", "Italian", "Hawaiian", "Mongolian", "Irish"]}
+{"subject": "Delhi", "object": "Hindi", "taxonomy": ["Polish", "Slovak", "Tibetan", "Japanese", "Chinese"]}
+{"subject": "European Union", "object": "Polish", "taxonomy": ["Croatian", "Bulgarian", "Bengali", "Finnish", "Russian"]}
+{"subject": "United States Virgin Islands", "object": "English", "taxonomy": ["Slovene", "Nepali", "German", "Spanish", "Hawaiian"]}
+{"subject": "Jokkmokk Municipality", "object": "Swedish", "taxonomy": ["Venetian", "Portuguese", "Sicilian", "Albanian", "English"]}
+{"subject": "Dominican Republic", "object": "Spanish", "taxonomy": ["Azerbaijani", "Georgian", "Portuguese", "Danish", "Tonga"]}
+{"subject": "Wales", "object": "Welsh", "taxonomy": ["Mari", "Hindi", "Basque", "Latvian", "Danish"]}
+{"subject": "Ouchy", "object": "French", "taxonomy": ["Greek", "Telugu", "Swedish", "English", "Catalan"]}
+{"subject": "Lucknow", "object": "Urdu", "taxonomy": ["Venetian", "Chinese", "Azerbaijani", "Hawaiian", "Somali"]}
+{"subject": "Donetsk", "object": "Ukrainian", "taxonomy": ["Tibetan", "Welsh", "Malay", "Lao", "Tonga"]}
+{"subject": "Flanders", "object": "Dutch", "taxonomy": ["Indonesian", "Marathi", "Catalan", "Thai", "Belarusian"]}
+{"subject": "Krokom Municipality", "object": "Swedish", "taxonomy": ["Albanian", "Romani", "Hindi", "Welsh", "Slovak"]}
+{"subject": "Huittinen", "object": "Finnish", "taxonomy": ["Lao", "German", "Danish", "Khmer", "Marathi"]}
+{"subject": "Lapua", "object": "Finnish", "taxonomy": ["Norman", "Nepali", "Catalan", "Lithuanian", "Korean"]}
+{"subject": "Jewish Autonomous Oblast", "object": "Russian", "taxonomy": ["Italian", "Venetian", "Malay", "Tonga", "Tibetan"]}
+{"subject": "International Academy of Sciences San Marino", "object": "English", "taxonomy": ["Croatian", "Icelandic", "Hawaiian", "Finnish", "Turkish"]}
+{"subject": "Sundbyberg Municipality", "object": "Swedish", "taxonomy": ["Sicilian", "Maltese", "Khmer", "Chinese", "English"]}
+{"subject": "British Columbia", "object": "English", "taxonomy": ["Swedish", "Ukrainian", "Spanish", "Malay", "Khmer"]}
+{"subject": "Kangasniemi", "object": "Finnish", "taxonomy": ["Malayalam", "Nepali", "Marathi", "Ukrainian", "Albanian"]}
+{"subject": "Belgium", "object": "Dutch", "taxonomy": ["Ukrainian", "Turkish", "Marathi", "Hawaiian", "Hungarian"]}
+{"subject": "Cossonay", "object": "French", "taxonomy": ["Russian", "Vietnamese", "Belarusian", "Hawaiian", "Georgian"]}
+{"subject": "Congress Poland", "object": "Polish", "taxonomy": ["Maltese", "Tonga", "Slovak", "Spanish", "Vietnamese"]}
+{"subject": "Quetzaltenango", "object": "Spanish", "taxonomy": ["Tibetan", "Turkish", "German", "Venetian", "Georgian"]}
+{"subject": "Byzantine Empire", "object": "Latin", "taxonomy": ["Hawaiian", "Romani", "Persian", "Romanian", "Norwegian"]}
+{"subject": "Ireland", "object": "English", "taxonomy": ["Hindi", "Turkish", "Hawaiian", "Tamil", "Macedonian"]}
+{"subject": "Netherlands", "object": "Dutch", "taxonomy": ["Finnish", "German", "Marathi", "Tamil", "Spanish"]}
+{"subject": "Suonenjoki", "object": "Finnish", "taxonomy": ["Urdu", "Georgian", "Egyptian", "Norman", "Catalan"]}
+{"subject": "Kansas", "object": "English", "taxonomy": ["Chinese", "Bengali", "Greek", "Hawaiian", "Breton"]}
+{"subject": "Vantaa", "object": "Finnish", "taxonomy": ["Chinese", "Turkish", "Hebrew", "Hindi", "Telugu"]}
+{"subject": "South Africa", "object": "English", "taxonomy": ["Slovak", "Mongolian", "Marathi", "Vietnamese", "Catalan"]}
+{"subject": "Locarno", "object": "Italian", "taxonomy": ["Somali", "Swedish", "Persian", "Basque", "Serbian"]}
+{"subject": "County of Ribagorza", "object": "Catalan", "taxonomy": ["Hebrew", "Japanese", "Filipino", "Serbian", "Croatian"]}
+{"subject": "Vanuatu", "object": "English", "taxonomy": ["Macedonian", "Irish", "Sicilian", "Italian", "Serbian"]}
+{"subject": "Siuntio", "object": "Finnish", "taxonomy": ["Azerbaijani", "Italian", "Telugu", "Lithuanian", "Malay"]}
+{"subject": "Institut d'Estudis Catalans", "object": "Catalan", "taxonomy": ["Azerbaijani", "Korean", "Belarusian", "Albanian", "Armenian"]}
+{"subject": "Vevey", "object": "French", "taxonomy": ["Tamil", "Persian", "Swedish", "Breton", "Turkish"]}
+{"subject": "Canton of Geneva", "object": "French", "taxonomy": ["Slovene", "Marathi", "Thai", "Japanese", "Italian"]}
+{"subject": "Montenegro", "object": "Croatian", "taxonomy": ["Korean", "Hindi", "Thai", "Bengali", "Malayalam"]}
+{"subject": "Suriname", "object": "Dutch", "taxonomy": ["Malayalam", "Sicilian", "Slovak", "Breton", "Slovene"]}
+{"subject": "Jharkhand", "object": "Hindi", "taxonomy": ["Slovak", "Czech", "Mongolian", "Mari", "Filipino"]}
+{"subject": "Lugano", "object": "Italian", "taxonomy": ["Somali", "Spanish", "Romani", "Venetian", "Basque"]}
+{"subject": "Udmurt Republic", "object": "Russian", "taxonomy": ["Thai", "Irish", "Chinese", "Mari", "Hindi"]}
+{"subject": "Loviisa", "object": "Finnish", "taxonomy": ["Maltese", "Slovak", "Tibetan", "Norman", "Mongolian"]}
+{"subject": "Colorado", "object": "English", "taxonomy": ["Nepali", "Turkish", "Hindi", "Greek", "Vietnamese"]}
+{"subject": "Siikainen", "object": "Finnish", "taxonomy": ["Italian", "Nepali", "Croatian", "Russian", "Malayalam"]}
+{"subject": "Vaasa", "object": "Finnish", "taxonomy": ["English", "Korean", "Montenegrin", "Persian", "Sicilian"]}
+{"subject": "Swiss Federal Constitution", "object": "Italian", "taxonomy": ["Estonian", "Tamil", "Ukrainian", "Croatian", "Filipino"]}
+{"subject": "Kabardino-Balkar Republic", "object": "Russian", "taxonomy": ["Filipino", "Japanese", "Chinese", "Dutch", "Hebrew"]}
+{"subject": "Tonga", "object": "English", "taxonomy": ["Lao", "Tibetan", "Slovene", "Norwegian", "Punjabi"]}
+{"subject": "Lapinlahti", "object": "Finnish", "taxonomy": ["Ukrainian", "Scots", "Marathi", "Greek", "Lithuanian"]}
+{"subject": "England", "object": "English", "taxonomy": ["Latvian", "Ukrainian", "Italian", "Lao", "Vietnamese"]}
+{"subject": "Equatorial Guinea", "object": "Portuguese", "taxonomy": ["Tonga", "Norman", "Macedonian", "French", "Ukrainian"]}
+{"subject": "Forssa", "object": "Finnish", "taxonomy": ["Serbian", "Armenian", "Marathi", "Thai", "Malay"]}
+{"subject": "Transnistria", "object": "Russian", "taxonomy": ["Estonian", "Japanese", "Hebrew", "Marathi", "Chinese"]}
+{"subject": "Byelorussian Soviet Socialist Republic", "object": "Belarusian", "taxonomy": ["Armenian", "Vietnamese", "Montenegrin", "Korean", "Slovak"]}
+{"subject": "English plural", "object": "English", "taxonomy": ["Russian", "Bulgarian", "Romani", "Filipino", "Marathi"]}
+{"subject": "Collonge-Bellerive", "object": "French", "taxonomy": ["Latin", "Tamil", "Bengali", "English", "Breton"]}
+{"subject": "Kyustendil Province", "object": "Bulgarian", "taxonomy": ["Welsh", "Polish", "Finnish", "German", "Swedish"]}
+{"subject": "Orimattila", "object": "Finnish", "taxonomy": ["Tonga", "Latvian", "Malay", "Punjabi", "Malayalam"]}
+{"subject": "Ireland", "object": "Irish", "taxonomy": ["Belarusian", "Macedonian", "Thai", "Hawaiian", "Chinese"]}
+{"subject": "Guinea-Bissau", "object": "Portuguese", "taxonomy": ["Scots", "Belarusian", "Slovene", "Turkish", "Indonesian"]}
+{"subject": "Bosnia and Herzegovina", "object": "Croatian", "taxonomy": ["Indonesian", "Basque", "Malayalam", "Serbian", "Scots"]}
+{"subject": "Indiana", "object": "English", "taxonomy": ["Albanian", "Korean", "Vietnamese", "Portuguese", "Malay"]}
+{"subject": "Renens", "object": "French", "taxonomy": ["Armenian", "Maltese", "Latvian", "Azerbaijani", "Vietnamese"]}
+{"subject": "North Korea", "object": "Korean", "taxonomy": ["Norwegian", "Macedonian", "Mari", "Tonga", "Italian"]}
+{"subject": "Donetsk People's Republic", "object": "Ukrainian", "taxonomy": ["Tibetan", "Chinese", "German", "English", "Icelandic"]}
+{"subject": "Kronoby", "object": "Finnish", "taxonomy": ["Vietnamese", "Italian", "Chinese", "Spanish", "Welsh"]}
+{"subject": "Tavannes", "object": "French", "taxonomy": ["Norman", "Hungarian", "Polish", "Hawaiian", "Mari"]}
+{"subject": "Singapore", "object": "Tamil", "taxonomy": ["Lao", "Thai", "Tibetan", "Italian", "Khmer"]}
+{"subject": "Russia", "object": "Ukrainian", "taxonomy": ["Persian", "Montenegrin", "Khmer", "Belarusian", "Venetian"]}
+{"subject": "Kingdom of Sicily", "object": "Sicilian", "taxonomy": ["Russian", "Italian", "Hawaiian", "Egyptian", "Serbian"]}
+{"subject": "Collective Security Treaty Organisation", "object": "Russian", "taxonomy": ["Georgian", "Norwegian", "Finnish", "Irish", "Thai"]}
+{"subject": "Kuopio", "object": "Finnish", "taxonomy": ["Croatian", "Marathi", "Sicilian", "Lithuanian", "Mongolian"]}
+{"subject": "Kauniainen", "object": "Finnish", "taxonomy": ["Bengali", "Tonga", "Catalan", "Malayalam", "Swedish"]}
+{"subject": "Argentina", "object": "Spanish", "taxonomy": ["Tamil", "Chinese", "Albanian", "Punjabi", "Sicilian"]}
+{"subject": "Eura", "object": "Finnish", "taxonomy": ["Swedish", "Bengali", "Montenegrin", "Polish", "Czech"]}
+{"subject": "Hollola", "object": "Finnish", "taxonomy": ["Swedish", "Slovene", "Telugu", "German", "Japanese"]}
+{"subject": "Mikkeli", "object": "Finnish", "taxonomy": ["Hawaiian", "Mongolian", "Tonga", "Slovak", "Venetian"]}
+{"subject": "Bernese Oberland", "object": "German", "taxonomy": ["Polish", "Scots", "Latin", "Japanese", "Bulgarian"]}
+{"subject": "Duchy of Normandy", "object": "Norman", "taxonomy": ["Breton", "Albanian", "Tonga", "Persian", "Thai"]}
+{"subject": "Netherlands Antilles", "object": "English", "taxonomy": ["Maltese", "Hindi", "Slovene", "Macedonian", "Romani"]}
+{"subject": "Kontiolahti", "object": "Finnish", "taxonomy": ["Breton", "Greek", "Japanese", "German", "Korean"]}
+{"subject": "Royal Society of British Artists", "object": "English", "taxonomy": ["Serbian", "Armenian", "Persian", "German", "Norman"]}
+{"subject": "Espoo", "object": "Finnish", "taxonomy": ["Spanish", "Marathi", "Catalan", "Bulgarian", "Slovene"]}
+{"subject": "Aarau", "object": "German", "taxonomy": ["Breton", "Dutch", "Mongolian", "Bulgarian", "Czech"]}
+{"subject": "Yalta", "object": "Russian", "taxonomy": ["Filipino", "Scots", "Romanian", "Punjabi", "Urdu"]}
+{"subject": "Zhovti Vody", "object": "Russian", "taxonomy": ["Danish", "Latin", "Korean", "Welsh", "Filipino"]}
+{"subject": "Nova Scotia", "object": "English", "taxonomy": ["Spanish", "Swedish", "Mari", "Czech", "Estonian"]}
+{"subject": "Organisation for Economic Co-operation and Development", "object": "English", "taxonomy": ["Russian", "Tonga", "Irish", "Estonian", "Slovak"]}
+{"subject": "Hawaii", "object": "English", "taxonomy": ["Chinese", "Albanian", "Catalan", "Armenian", "Thai"]}
+{"subject": "Campione d'Italia", "object": "Italian", "taxonomy": ["Breton", "Vietnamese", "Russian", "Georgian", "Danish"]}
+{"subject": "Vantaa", "object": "Swedish", "taxonomy": ["Venetian", "Filipino", "Armenian", "Basque", "Mari"]}
+{"subject": "Tsardom of Russia", "object": "Russian", "taxonomy": ["Finnish", "Ukrainian", "German", "Macedonian", "Polish"]}
+{"subject": "Carouge", "object": "French", "taxonomy": ["Urdu", "Maltese", "Tamil", "Lithuanian", "Nepali"]}
+{"subject": "Tolmezzo", "object": "Italian", "taxonomy": ["Filipino", "Hindi", "Lao", "Greek", "Lithuanian"]}
+{"subject": "World Health Organization", "object": "Russian", "taxonomy": ["Romani", "Hungarian", "Urdu", "Sicilian", "English"]}
+{"subject": "Palau", "object": "English", "taxonomy": ["Tamil", "Albanian", "Greek", "Nepali", "Tonga"]}
+{"subject": "County Cork", "object": "Irish", "taxonomy": ["Croatian", "Italian", "Telugu", "Romani", "Khmer"]}
+{"subject": "Azerbaijan Soviet Socialist Republic", "object": "Azerbaijani", "taxonomy": ["Chinese", "Lao", "French", "Portuguese", "Bulgarian"]}
+{"subject": "Rovaniemi", "object": "Finnish", "taxonomy": ["Malayalam", "Breton", "Swedish", "Malay", "Thai"]}
+{"subject": "Vimpeli", "object": "Finnish", "taxonomy": ["Montenegrin", "Russian", "Vietnamese", "Persian", "Spanish"]}
+{"subject": "Niue", "object": "English", "taxonomy": ["Egyptian", "Somali", "Ukrainian", "Finnish", "Georgian"]}
+{"subject": "Old Kingdom of Egypt", "object": "Egyptian", "taxonomy": ["Hawaiian", "Bengali", "Chinese", "Urdu", "Lithuanian"]}
+{"subject": "Ivory Coast", "object": "French", "taxonomy": ["Sicilian", "Malayalam", "Irish", "Marathi", "Punjabi"]}
+{"subject": "Honduras", "object": "Spanish", "taxonomy": ["Greek", "Icelandic", "Korean", "Irish", "German"]}
+{"subject": "New Hampshire", "object": "English", "taxonomy": ["Ukrainian", "Thai", "Armenian", "Indonesian", "Scots"]}
+{"subject": "Cayman Islands", "object": "English", "taxonomy": ["Romanian", "Nepali", "Hungarian", "Irish", "Sicilian"]}
+{"subject": "Burundi", "object": "English", "taxonomy": ["Italian", "Montenegrin", "Tonga", "Khmer", "Icelandic"]}
+{"subject": "Kirkkonummi", "object": "Finnish", "taxonomy": ["Greek", "Filipino", "Breton", "Scots", "Catalan"]}
+{"subject": "Ikaalinen", "object": "Finnish", "taxonomy": ["Polish", "English", "Hindi", "Marathi", "Telugu"]}
+{"subject": "Cameroon", "object": "English", "taxonomy": ["Slovene", "Basque", "Italian", "Filipino", "Swedish"]}
+{"subject": "Alaska", "object": "English", "taxonomy": ["Romanian", "Czech", "Georgian", "Breton", "Mari"]}
+{"subject": "Isojoki", "object": "Finnish", "taxonomy": ["Turkish", "Malay", "English", "Hebrew", "German"]}
+{"subject": "Vatican City", "object": "Italian", "taxonomy": ["Urdu", "Belarusian", "Icelandic", "Finnish", "Spanish"]}
+{"subject": "Donetsk", "object": "Russian", "taxonomy": ["German", "Nepali", "Khmer", "Serbian", "Somali"]}
+{"subject": "Mozambique", "object": "Portuguese", "taxonomy": ["Egyptian", "Azerbaijani", "Hindi", "Turkish", "Basque"]}
+{"subject": "East Timor", "object": "Portuguese", "taxonomy": ["Ukrainian", "Latin", "Slovak", "Nepali", "Indonesian"]}
+{"subject": "Akrotiri and Dhekelia", "object": "English", "taxonomy": ["Ukrainian", "Telugu", "Russian", "Urdu", "Sicilian"]}
+{"subject": "L'Abbaye", "object": "French", "taxonomy": ["Tonga", "Slovene", "Nepali", "Persian", "Georgian"]}
+{"subject": "British Antarctic Territory", "object": "English", "taxonomy": ["Latin", "Albanian", "Hungarian", "Telugu", "Tonga"]}
+{"subject": "Lieksa", "object": "Finnish", "taxonomy": ["Slovene", "Hungarian", "Malayalam", "Portuguese", "Turkish"]}
+{"subject": "Brissago", "object": "Italian", "taxonomy": ["Turkish", "Khmer", "Tamil", "Malay", "Czech"]}
+{"subject": "Russian Empire", "object": "Russian", "taxonomy": ["Hawaiian", "Breton", "Slovene", "Irish", "Urdu"]}
+{"subject": "Nigeria", "object": "English", "taxonomy": ["Venetian", "Dutch", "Maltese", "Czech", "Portuguese"]}
+{"subject": "Kingdom of the Netherlands", "object": "Dutch", "taxonomy": ["Bengali", "Malayalam", "Sicilian", "Scots", "Punjabi"]}
+{"subject": "Abkhazia", "object": "Russian", "taxonomy": ["Albanian", "Mongolian", "Greek", "Thai", "Tamil"]}
+{"subject": "Viitasaari", "object": "Finnish", "taxonomy": ["Scots", "Chinese", "Hawaiian", "Korean", "Estonian"]}
+{"subject": "Majorca", "object": "Spanish", "taxonomy": ["Croatian", "Polish", "Hungarian", "Tonga", "Slovak"]}
+{"subject": "Portugal", "object": "Portuguese", "taxonomy": ["Romani", "Polish", "Hebrew", "Italian", "Icelandic"]}
+{"subject": "Kalajoki", "object": "Finnish", "taxonomy": ["Armenian", "Somali", "Czech", "Spanish", "Azerbaijani"]}
+{"subject": "Union between Sweden and Norway", "object": "Norwegian", "taxonomy": ["Armenian", "Catalan", "Urdu", "Czech", "Khmer"]}
+{"subject": "Haparanda Municipality", "object": "Swedish", "taxonomy": ["Nepali", "Marathi", "Somali", "Maltese", "Portuguese"]}
+{"subject": "Manitoba", "object": "English", "taxonomy": ["Welsh", "Basque", "Urdu", "Polish", "Khmer"]}
+{"subject": "Berg Municipality", "object": "Swedish", "taxonomy": ["Welsh", "Persian", "Basque", "Montenegrin", "Breton"]}
+{"subject": "European Space Agency", "object": "French", "taxonomy": ["Italian", "Montenegrin", "Portuguese", "Polish", "Norman"]}
+{"subject": "Malabo", "object": "Spanish", "taxonomy": ["Somali", "Turkish", "Bulgarian", "Filipino", "Armenian"]}
+{"subject": "European Union", "object": "Spanish", "taxonomy": ["Russian", "Tamil", "Azerbaijani", "Mari", "Basque"]}
+{"subject": "Laukaa", "object": "Finnish", "taxonomy": ["Norman", "French", "Vietnamese", "Lao", "Ukrainian"]}
+{"subject": "Kaavi", "object": "Finnish", "taxonomy": ["Estonian", "Romanian", "Indonesian", "Romani", "Norman"]}
+{"subject": "Sipoo", "object": "Finnish", "taxonomy": ["Armenian", "Polish", "Mongolian", "Icelandic", "Azerbaijani"]}
+{"subject": "Mari El Republic", "object": "Russian", "taxonomy": ["German", "Lithuanian", "Bulgarian", "Japanese", "Slovene"]}
+{"subject": "Helsinki", "object": "Finnish", "taxonomy": ["German", "Marathi", "Latvian", "Sicilian", "Lao"]}
+{"subject": "French Community of Belgium", "object": "French", "taxonomy": ["Georgian", "Greek", "Hebrew", "Telugu", "Venetian"]}
+{"subject": "Kuhmo", "object": "Finnish", "taxonomy": ["Tamil", "Urdu", "Tonga", "Malay", "Romani"]}
+{"subject": "Catalonia", "object": "Spanish", "taxonomy": ["Lao", "Montenegrin", "Sicilian", "Norman", "Hebrew"]}
+{"subject": "Russian Empire", "object": "Polish", "taxonomy": ["Hebrew", "Hungarian", "Ukrainian", "Lithuanian", "Urdu"]}
+{"subject": "Chhattisgarh", "object": "Hindi", "taxonomy": ["Sicilian", "Croatian", "Spanish", "Tibetan", "Latin"]}
+{"subject": "Heinola", "object": "Finnish", "taxonomy": ["Icelandic", "Czech", "Vietnamese", "Chinese", "Hebrew"]}
+{"subject": "Autonomous Republic of Crimea", "object": "Ukrainian", "taxonomy": ["Welsh", "Macedonian", "Sicilian", "Azerbaijani", "Mari"]}
+{"subject": "Seychelles", "object": "English", "taxonomy": ["Maltese", "Bulgarian", "Irish", "Polish", "Japanese"]}
+{"subject": "Navarre", "object": "Basque", "taxonomy": ["Maltese", "Hawaiian", "Ukrainian", "Macedonian", "Irish"]}
+{"subject": "Chardonne", "object": "French", "taxonomy": ["Venetian", "Montenegrin", "Bulgarian", "Icelandic", "Hungarian"]}
+{"subject": "manually coded English", "object": "English", "taxonomy": ["Sicilian", "Maltese", "Estonian", "Persian", "Venetian"]}
+{"subject": "Spanish Empire", "object": "Spanish", "taxonomy": ["Indonesian", "Serbian", "Latvian", "Lithuanian", "Romani"]}
+{"subject": "Haninge Municipality", "object": "Swedish", "taxonomy": ["Ukrainian", "Hindi", "Macedonian", "Albanian", "Croatian"]}
+{"subject": "Saskatchewan", "object": "English", "taxonomy": ["Khmer", "Scots", "Georgian", "Welsh", "Japanese"]}
+{"subject": "Ukrainian Soviet Socialist Republic", "object": "Ukrainian", "taxonomy": ["Persian", "Italian", "Albanian", "Spanish", "Vietnamese"]}
+{"subject": "Asturias", "object": "Spanish", "taxonomy": ["Romanian", "Norman", "Urdu", "Persian", "Finnish"]}
+{"subject": "East Kalimantan", "object": "Indonesian", "taxonomy": ["Romani", "Hungarian", "Ukrainian", "Italian", "Khmer"]}
+{"subject": "Vietnam", "object": "Vietnamese", "taxonomy": ["Lao", "Punjabi", "Azerbaijani", "Irish", "English"]}
+{"subject": "Kosovo", "object": "Albanian", "taxonomy": ["Russian", "Marathi", "Korean", "Tamil", "Latvian"]}
+{"subject": "Cadenazzo", "object": "Italian", "taxonomy": ["Malay", "Armenian", "Irish", "Tibetan", "Macedonian"]}
+{"subject": "Eupen", "object": "German", "taxonomy": ["Indonesian", "Swedish", "Romani", "Turkish", "Dutch"]}
+{"subject": "Valkeakoski", "object": "Finnish", "taxonomy": ["Scots", "Italian", "Russian", "Montenegrin", "Estonian"]}
+{"subject": "Utsjoki", "object": "Finnish", "taxonomy": ["Mongolian", "Catalan", "Hungarian", "Nepali", "Irish"]}
+{"subject": "World Trade Organization", "object": "French", "taxonomy": ["Khmer", "Maltese", "Japanese", "Albanian", "Marathi"]}
+{"subject": "Republic of Serbian Krajina", "object": "Serbian", "taxonomy": ["Hebrew", "Catalan", "Montenegrin", "Polish", "Sicilian"]}
+{"subject": "Finnish Orthodox Church", "object": "Finnish", "taxonomy": ["Marathi", "Catalan", "Mari", "Vietnamese", "Punjabi"]}
+{"subject": "Lappeenranta", "object": "Finnish", "taxonomy": ["Ukrainian", "Basque", "Norwegian", "Urdu", "Breton"]}
+{"subject": "Ecuador", "object": "Spanish", "taxonomy": ["Bulgarian", "Latin", "Indonesian", "Dutch", "Somali"]}
+{"subject": "Luhansk Oblast", "object": "Russian", "taxonomy": ["Greek", "Scots", "Danish", "Somali", "Ukrainian"]}
+{"subject": "Hyderabad", "object": "Telugu", "taxonomy": ["Breton", "Thai", "Egyptian", "Lao", "Croatian"]}
+{"subject": "United Nations", "object": "English", "taxonomy": ["Punjabi", "Irish", "Tamil", "Polish", "Lao"]}
+{"subject": "Jersey", "object": "English", "taxonomy": ["Breton", "Latin", "Venetian", "Macedonian", "Slovak"]}
+{"subject": "Qing dynasty", "object": "Mongolian", "taxonomy": ["Italian", "Turkish", "Mari", "Greek", "French"]}
+{"subject": "VASKhNIL", "object": "Russian", "taxonomy": ["Hawaiian", "Irish", "Croatian", "Portuguese", "Hungarian"]}
+{"subject": "Guyana", "object": "English", "taxonomy": ["Russian", "Slovene", "Maltese", "Korean", "Georgian"]}
+{"subject": "Austria", "object": "German", "taxonomy": ["Mari", "Macedonian", "Tibetan", "Hungarian", "Azerbaijani"]}
+{"subject": "Mistretta", "object": "Italian", "taxonomy": ["Belarusian", "Ukrainian", "Korean", "Serbian", "Georgian"]}
+{"subject": "Singapore", "object": "Malay", "taxonomy": ["French", "Chinese", "Marathi", "Italian", "Montenegrin"]}
+{"subject": "Hailuoto", "object": "Finnish", "taxonomy": ["Irish", "Greek", "Romani", "Maltese", "Basque"]}
+{"subject": "Turkey", "object": "Turkish", "taxonomy": ["Lithuanian", "Malay", "Scots", "Croatian", "Catalan"]}
+{"subject": "Chile", "object": "Spanish", "taxonomy": ["Korean", "Macedonian", "Punjabi", "Bengali", "German"]}
+{"subject": "Veyrier", "object": "French", "taxonomy": ["Indonesian", "Vietnamese", "Persian", "Nepali", "Lithuanian"]}
+{"subject": "Hyrynsalmi", "object": "Finnish", "taxonomy": ["Hawaiian", "Swedish", "Tibetan", "Somali", "Latin"]}
+{"subject": "Sint Maarten", "object": "Dutch", "taxonomy": ["Urdu", "Portuguese", "Norman", "Egyptian", "Hebrew"]}
+{"subject": "International Organization for Standardization", "object": "French", "taxonomy": ["Hawaiian", "Georgian", "German", "Belarusian", "Irish"]}
+{"subject": "European Union", "object": "English", "taxonomy": ["Azerbaijani", "Lao", "Danish", "Greek", "Slovene"]}
+{"subject": "Brussels-Capital Region", "object": "French", "taxonomy": ["Korean", "Vietnamese", "Hindi", "Sicilian", "Romani"]}
+{"subject": "Canton of Valais", "object": "French", "taxonomy": ["German", "Estonian", "English", "Dutch", "Montenegrin"]}
+{"subject": "Delhi", "object": "Urdu", "taxonomy": ["Romani", "Bengali", "Portuguese", "Nepali", "Thai"]}
+{"subject": "Swedish Empire", "object": "Swedish", "taxonomy": ["Egyptian", "Hebrew", "Khmer", "Croatian", "Venetian"]}
+{"subject": "Raseborg", "object": "Swedish", "taxonomy": ["Punjabi", "Tamil", "Catalan", "Khmer", "Lithuanian"]}
+{"subject": "Slovak Socialist Republic", "object": "Slovak", "taxonomy": ["Persian", "Punjabi", "Mongolian", "Polish", "Breton"]}
+{"subject": "Kalix Municipality", "object": "Swedish", "taxonomy": ["Romanian", "Scots", "Vietnamese", "Hindi", "Portuguese"]}
+{"subject": "Raseborg", "object": "Finnish", "taxonomy": ["Mongolian", "Maltese", "Nepali", "Norman", "Latin"]}
+{"subject": "South Dakota", "object": "English", "taxonomy": ["Telugu", "Punjabi", "Croatian", "Bengali", "Danish"]}
+{"subject": "Alabama", "object": "English", "taxonomy": ["Estonian", "Latvian", "Norman", "Irish", "Tibetan"]}
+{"subject": "Miss Universe", "object": "English", "taxonomy": ["Armenian", "Georgian", "Danish", "Tibetan", "Romani"]}
+{"subject": "California", "object": "English", "taxonomy": ["Tibetan", "Malay", "Dutch", "Catalan", "Georgian"]}
+{"subject": "Pacific Alliance", "object": "Spanish", "taxonomy": ["Chinese", "Korean", "Sicilian", "Russian", "Tamil"]}
+{"subject": "Laitila", "object": "Finnish", "taxonomy": ["Ukrainian", "Armenian", "Punjabi", "Tamil", "Chinese"]}
+{"subject": "Switzerland", "object": "Italian", "taxonomy": ["Tibetan", "Czech", "Lithuanian", "Irish", "Macedonian"]}
+{"subject": "Tuva Republic", "object": "Russian", "taxonomy": ["Filipino", "Chinese", "Hungarian", "Indonesian", "Irish"]}
+{"subject": "Russia", "object": "Russian", "taxonomy": ["Bulgarian", "Japanese", "Slovene", "Thai", "Latin"]}
+{"subject": "Sambir", "object": "Ukrainian", "taxonomy": ["Romani", "Hebrew", "Bulgarian", "Lithuanian", "Egyptian"]}
+{"subject": "Yukon", "object": "English", "taxonomy": ["Hebrew", "Lithuanian", "Swedish", "Khmer", "Macedonian"]}
+{"subject": "Liperi", "object": "Finnish", "taxonomy": ["Azerbaijani", "Czech", "Hebrew", "Hungarian", "Malay"]}
+{"subject": "Burkina Faso", "object": "French", "taxonomy": ["Romani", "Venetian", "Turkish", "Malay", "Croatian"]}
+{"subject": "Sonvilier", "object": "French", "taxonomy": ["Marathi", "Hindi", "Tonga", "Breton", "Serbian"]}
+{"subject": "Bosco Gurin", "object": "Italian", "taxonomy": ["Latin", "Chinese", "Georgian", "Telugu", "Nepali"]}
+{"subject": "Jersey", "object": "French", "taxonomy": ["Armenian", "Malay", "Dutch", "Malayalam", "Lao"]}
+{"subject": "Russia", "object": "Azerbaijani", "taxonomy": ["Finnish", "Greek", "Montenegrin", "Swedish", "Dutch"]}
+{"subject": "Russia", "object": "Mari", "taxonomy": ["Vietnamese", "Tibetan", "Croatian", "Slovak", "Khmer"]}
+{"subject": "Nunavut", "object": "French", "taxonomy": ["Welsh", "Scots", "Ukrainian", "Norwegian", "Slovak"]}
+{"subject": "Korpo", "object": "Finnish", "taxonomy": ["Filipino", "Belarusian", "Welsh", "English", "Punjabi"]}
+{"subject": "Nousiainen", "object": "Finnish", "taxonomy": ["Mongolian", "Turkish", "Tamil", "Bulgarian", "Polish"]}
+{"subject": "Kotka", "object": "Finnish", "taxonomy": ["Italian", "Portuguese", "Serbian", "Russian", "Venetian"]}
+{"subject": "Army Public School Peshawar", "object": "English", "taxonomy": ["Czech", "Sicilian", "Romani", "Irish", "Malayalam"]}
+{"subject": "Rabinal", "object": "Spanish", "taxonomy": ["Polish", "Icelandic", "Norman", "Tibetan", "Sicilian"]}
+{"subject": "Italy", "object": "Italian", "taxonomy": ["English", "Slovene", "Bengali", "Danish", "Tonga"]}
+{"subject": "Wetzikon", "object": "German", "taxonomy": ["Romanian", "Irish", "Catalan", "English", "Belarusian"]}
+{"subject": "Qing dynasty", "object": "Chinese", "taxonomy": ["Greek", "Romanian", "Georgian", "Russian", "Catalan"]}
+{"subject": "North Carolina", "object": "English", "taxonomy": ["Albanian", "Finnish", "Croatian", "Montenegrin", "Basque"]}
+{"subject": "Savukoski", "object": "Finnish", "taxonomy": ["Hindi", "Turkish", "Tonga", "Hebrew", "Malay"]}
+{"subject": "Karvia", "object": "Finnish", "taxonomy": ["Persian", "Nepali", "Azerbaijani", "Punjabi", "Catalan"]}
+{"subject": "Philippines", "object": "Filipino", "taxonomy": ["Maltese", "Georgian", "Tonga", "Dutch", "Danish"]}
+{"subject": "Lohja", "object": "Finnish", "taxonomy": ["Georgian", "French", "Korean", "Tamil", "Icelandic"]}
+{"subject": "Philippines", "object": "English", "taxonomy": ["Latvian", "Norwegian", "Romani", "Khmer", "Chinese"]}
+{"subject": "Sweden", "object": "Finnish", "taxonomy": ["Turkish", "Chinese", "Japanese", "Czech", "Armenian"]}
+{"subject": "Idaho", "object": "English", "taxonomy": ["Latin", "Bulgarian", "Portuguese", "Spanish", "Azerbaijani"]}
+{"subject": "Maharashtra", "object": "Marathi", "taxonomy": ["Portuguese", "Finnish", "Venetian", "Macedonian", "Latvian"]}
+{"subject": "Republic of Buryatia", "object": "Russian", "taxonomy": ["Greek", "Urdu", "Portuguese", "Serbian", "Tamil"]}
+{"subject": "Niger", "object": "French", "taxonomy": ["Mongolian", "Russian", "Basque", "Vietnamese", "Slovak"]}
+{"subject": "Solna Municipality", "object": "Swedish", "taxonomy": ["Somali", "German", "Hungarian", "Serbian", "Russian"]}
+{"subject": "Lucknow", "object": "English", "taxonomy": ["Filipino", "Venetian", "Belarusian", "Macedonian", "Khmer"]}
+{"subject": "Russian Soviet Federative Socialist Republic", "object": "Russian", "taxonomy": ["Malayalam", "Serbian", "Welsh", "Bengali", "Mongolian"]}
+{"subject": "Spiez", "object": "German", "taxonomy": ["Indonesian", "Scots", "Serbian", "Finnish", "Telugu"]}
+{"subject": "Autonomous Province of Kosovo and Metohija", "object": "Albanian", "taxonomy": ["Bengali", "Latvian", "Khmer", "Serbian", "Welsh"]}
+{"subject": "Hammarland", "object": "Swedish", "taxonomy": ["Macedonian", "Slovak", "Italian", "Hebrew", "Irish"]}
+{"subject": "Vaala", "object": "Finnish", "taxonomy": ["Icelandic", "Basque", "Urdu", "Vietnamese", "Japanese"]}
+{"subject": "National Film Board of Canada", "object": "French", "taxonomy": ["Latin", "Egyptian", "Urdu", "Punjabi", "Hawaiian"]}
+{"subject": "Jakobstad", "object": "Finnish", "taxonomy": ["Hungarian", "Albanian", "Danish", "Romani", "Tamil"]}
+{"subject": "Mandatory Palestine", "object": "Hebrew", "taxonomy": ["Icelandic", "English", "Latin", "Czech", "Maltese"]}
+{"subject": "ASEAN", "object": "Indonesian", "taxonomy": ["Belarusian", "Basque", "Telugu", "Tamil", "Croatian"]}
+{"subject": "Serbia and Montenegro", "object": "Serbian", "taxonomy": ["Sicilian", "Hebrew", "Romani", "Norwegian", "Welsh"]}
+{"subject": "Nuevo Santander", "object": "Spanish", "taxonomy": ["Tamil", "Tibetan", "Thai", "Romani", "Basque"]}
+{"subject": "International Organization for Standardization", "object": "English", "taxonomy": ["Romanian", "Hungarian", "Persian", "Macedonian", "Russian"]}
+{"subject": "Croatia", "object": "Croatian", "taxonomy": ["Romani", "Malay", "Azerbaijani", "Vietnamese", "Slovene"]}
+{"subject": "Kiruna Municipality", "object": "Finnish", "taxonomy": ["Slovak", "Filipino", "Nepali", "Persian", "Punjabi"]}
+{"subject": "Mashhad", "object": "Persian", "taxonomy": ["Scots", "Polish", "Hawaiian", "Azerbaijani", "Sicilian"]}
+{"subject": "American Samoa", "object": "English", "taxonomy": ["Finnish", "Irish", "Vietnamese", "Persian", "Lithuanian"]}
+{"subject": "Kauniainen", "object": "Swedish", "taxonomy": ["Norwegian", "Hawaiian", "Malayalam", "Danish", "Irish"]}
+{"subject": "Czech Republic", "object": "Czech", "taxonomy": ["Mari", "Macedonian", "English", "Hebrew", "Tibetan"]}
+{"subject": "Saint Lucia", "object": "English", "taxonomy": ["Danish", "Somali", "Bengali", "Indonesian", "Urdu"]}
+{"subject": "North American Free Trade Agreement", "object": "Spanish", "taxonomy": ["Maltese", "Finnish", "Lao", "Greek", "Tibetan"]}
+{"subject": "Liechtenstein", "object": "German", "taxonomy": ["Indonesian", "Finnish", "Japanese", "Danish", "Estonian"]}
+{"subject": "Virolahti", "object": "Finnish", "taxonomy": ["Serbian", "Italian", "Belarusian", "Slovak", "Armenian"]}
+{"subject": "Uganda", "object": "English", "taxonomy": ["Hungarian", "Korean", "Thai", "Breton", "Icelandic"]}
+{"subject": "Republic of Adygea", "object": "Russian", "taxonomy": ["Nepali", "Norman", "Persian", "Romanian", "Sicilian"]}
+{"subject": "Chuvash Republic", "object": "Russian", "taxonomy": ["Egyptian", "Malayalam", "Khmer", "Catalan", "Slovene"]}
+{"subject": "Seychelles", "object": "French", "taxonomy": ["Norman", "Italian", "Persian", "Tibetan", "Somali"]}
+{"subject": "European Union", "object": "Czech", "taxonomy": ["Hungarian", "Serbian", "Japanese", "Persian", "Indonesian"]}
+{"subject": "Eritrea", "object": "English", "taxonomy": ["Korean", "Hungarian", "Italian", "Irish", "Japanese"]}
+{"subject": "Mauritius", "object": "French", "taxonomy": ["Hungarian", "Catalan", "Portuguese", "Khmer", "Hebrew"]}
+{"subject": "European Union", "object": "Lithuanian", "taxonomy": ["Bulgarian", "Thai", "Chinese", "Breton", "Nepali"]}
+{"subject": "Republic of North Ossetia-Alania", "object": "Russian", "taxonomy": ["Hebrew", "Lao", "Malayalam", "Dutch", "Welsh"]}
+{"subject": "La Gomera", "object": "Spanish", "taxonomy": ["Belarusian", "Hindi", "Thai", "Egyptian", "Tonga"]}
+{"subject": "Enlightenment in Spain", "object": "Spanish", "taxonomy": ["Dutch", "Turkish", "Urdu", "Hebrew", "Swedish"]}
+{"subject": "France", "object": "French", "taxonomy": ["Urdu", "Japanese", "Hungarian", "Lithuanian", "Maltese"]}
+{"subject": "Kerala", "object": "Malayalam", "taxonomy": ["Russian", "Macedonian", "Croatian", "Azerbaijani", "Maltese"]}
+{"subject": "Cameroon", "object": "French", "taxonomy": ["Montenegrin", "Malayalam", "Albanian", "Urdu", "Mari"]}
+{"subject": "Quebec City", "object": "French", "taxonomy": ["Icelandic", "Hindi", "Chinese", "Romanian", "Khmer"]}
+{"subject": "Valencian Community", "object": "Spanish", "taxonomy": ["Romani", "Czech", "Filipino", "Croatian", "Azerbaijani"]}
+{"subject": "Thailand", "object": "Thai", "taxonomy": ["English", "Dutch", "Lithuanian", "Icelandic", "Lao"]}
+{"subject": "Asikkala", "object": "Finnish", "taxonomy": ["Romani", "Tamil", "Khmer", "Polish", "Telugu"]}
+{"subject": "Exarchate of Ravenna", "object": "Latin", "taxonomy": ["Khmer", "Indonesian", "Serbian", "Montenegrin", "Japanese"]}
+{"subject": "Organization for Security and Co-operation in Europe", "object": "Italian", "taxonomy": ["Latin", "Scots", "Greek", "Macedonian", "Slovene"]}
+{"subject": "Democratic Republic of the Congo", "object": "French", "taxonomy": ["Danish", "German", "Malayalam", "Turkish", "Irish"]}
+{"subject": "Hungary", "object": "Hungarian", "taxonomy": ["Portuguese", "Finnish", "Norwegian", "Slovak", "Greek"]}
+{"subject": "Izabal Department", "object": "Spanish", "taxonomy": ["Greek", "Mari", "Scots", "English", "Filipino"]}
+{"subject": "Savonlinna", "object": "Finnish", "taxonomy": ["Tamil", "Belarusian", "Greek", "Malayalam", "Norman"]}
+{"subject": "Donetsk People's Republic", "object": "Russian", "taxonomy": ["Korean", "Danish", "English", "Montenegrin", "German"]}
+{"subject": "Vanuatu", "object": "French", "taxonomy": ["Russian", "Slovak", "Polish", "Urdu", "Mongolian"]}
+{"subject": "Estonia", "object": "Estonian", "taxonomy": ["Thai", "Lithuanian", "Malay", "English", "German"]}
+{"subject": "Kentucky", "object": "English", "taxonomy": ["Indonesian", "Maltese", "French", "Montenegrin", "Basque"]}
+{"subject": "Storuman Municipality", "object": "Swedish", "taxonomy": ["Indonesian", "Danish", "French", "Azerbaijani", "Albanian"]}
+{"subject": "Orivesi", "object": "Finnish", "taxonomy": ["Lao", "Belarusian", "Georgian", "Scots", "Latvian"]}
+{"subject": "Paltamo", "object": "Finnish", "taxonomy": ["Hungarian", "Latvian", "Portuguese", "Dutch", "Estonian"]}
+{"subject": "Lucknow", "object": "Hindi", "taxonomy": ["Dutch", "Finnish", "Czech", "Tamil", "Hebrew"]}
+{"subject": "Bali", "object": "Indonesian", "taxonomy": ["Scots", "Telugu", "Somali", "Mari", "Malayalam"]}
+{"subject": "North Dakota", "object": "English", "taxonomy": ["Georgian", "Latin", "Somali", "French", "Swedish"]}
+{"subject": "Kalix Municipality", "object": "Finnish", "taxonomy": ["Maltese", "Telugu", "Punjabi", "Mari", "Malayalam"]}
+{"subject": "Spain", "object": "Basque", "taxonomy": ["Japanese", "Indonesian", "Mongolian", "Russian", "Venetian"]}
+{"subject": "Malta", "object": "English", "taxonomy": ["Ukrainian", "Mongolian", "Urdu", "Bengali", "Mari"]}
+{"subject": "Republic of Kalmykia", "object": "Russian", "taxonomy": ["Estonian", "Romani", "Turkish", "Hebrew", "Latvian"]}
+{"subject": "Teuva", "object": "Finnish", "taxonomy": ["Macedonian", "Welsh", "Croatian", "Maltese", "Egyptian"]}
+{"subject": "Camorino", "object": "Italian", "taxonomy": ["Montenegrin", "Thai", "Mongolian", "Somali", "Lao"]}
+{"subject": "Canton of Fribourg", "object": "French", "taxonomy": ["Tonga", "Romani", "Latin", "Icelandic", "Chinese"]}
+{"subject": "Northwest Territories", "object": "English", "taxonomy": ["Portuguese", "Irish", "Azerbaijani", "Venetian", "Maltese"]}
+{"subject": "Akaa", "object": "Finnish", "taxonomy": ["Tibetan", "Scots", "Hawaiian", "Portuguese", "Irish"]}
+{"subject": "New Brunswick", "object": "English", "taxonomy": ["Latvian", "Italian", "Lithuanian", "Macedonian", "Catalan"]}
+{"subject": "Wales", "object": "English", "taxonomy": ["Tonga", "Macedonian", "Persian", "Romani", "Estonian"]}
+{"subject": "Hamina", "object": "Finnish", "taxonomy": ["Chinese", "Latin", "Estonian", "Somali", "Mongolian"]}
+{"subject": "Comoros", "object": "French", "taxonomy": ["Welsh", "Portuguese", "Lao", "Dutch", "Filipino"]}
+{"subject": "Sweden", "object": "Romani", "taxonomy": ["English", "Czech", "Lao", "Azerbaijani", "Hawaiian"]}
+{"subject": "Sundsvall Municipality", "object": "Swedish", "taxonomy": ["Japanese", "Romani", "Armenian", "Filipino", "Hebrew"]}
+{"subject": "Kingdom of Sicily", "object": "Greek", "taxonomy": ["Tonga", "Georgian", "Latin", "Somali", "Persian"]}
+{"subject": "World Health Organization", "object": "French", "taxonomy": ["Indonesian", "Urdu", "Thai", "Telugu", "Latvian"]}
+{"subject": "Canton of Fribourg", "object": "German", "taxonomy": ["Japanese", "Swedish", "Latvian", "Hungarian", "Filipino"]}
+{"subject": "International Civil Aviation Organization", "object": "Russian", "taxonomy": ["Japanese", "Vietnamese", "Swedish", "Finnish", "Dutch"]}
+{"subject": "German-speaking Community of Belgium", "object": "German", "taxonomy": ["Urdu", "Swedish", "Malay", "Estonian", "Norwegian"]}
+{"subject": "Kannonkoski", "object": "Finnish", "taxonomy": ["Russian", "German", "Scots", "French", "Albanian"]}
+{"subject": "United Nations", "object": "French", "taxonomy": ["Finnish", "Hawaiian", "Welsh", "Egyptian", "Polish"]}
+{"subject": "Roman Empire", "object": "Greek", "taxonomy": ["Vietnamese", "Croatian", "Hindi", "German", "Romanian"]}
+{"subject": "Udmurt Autonomous Oblast", "object": "Russian", "taxonomy": ["Armenian", "Nepali", "Breton", "Punjabi", "Hindi"]}
+{"subject": "Indore", "object": "Hindi", "taxonomy": ["Tonga", "Norman", "Albanian", "Khmer", "Filipino"]}
+{"subject": "Gibraltar", "object": "English", "taxonomy": ["Scots", "Finnish", "Tibetan", "Albanian", "Korean"]}
+{"subject": "Byelorussian Soviet Socialist Republic", "object": "Polish", "taxonomy": ["Irish", "Romanian", "Latvian", "Finnish", "Tibetan"]}
+{"subject": "Spain", "object": "Spanish", "taxonomy": ["Malay", "Malayalam", "Hindi", "Mari", "Macedonian"]}
+{"subject": "Torfaen", "object": "Welsh", "taxonomy": ["Hebrew", "Korean", "Sicilian", "Urdu", "Latvian"]}
+{"subject": "Tamil Nadu", "object": "Tamil", "taxonomy": ["Serbian", "Marathi", "German", "Latin", "Filipino"]}
+{"subject": "Altai Krai", "object": "Russian", "taxonomy": ["Danish", "Maltese", "Indonesian", "Malayalam", "Turkish"]}
+{"subject": "Mendrisio", "object": "Italian", "taxonomy": ["Irish", "Turkish", "Icelandic", "Egyptian", "Belarusian"]}
+{"subject": "Luxembourg", "object": "French", "taxonomy": ["Norwegian", "Sicilian", "Lithuanian", "German", "Albanian"]}
+{"subject": "Aceh", "object": "Indonesian", "taxonomy": ["Mari", "Lithuanian", "Portuguese", "Czech", "Marathi"]}
+{"subject": "El Salvador", "object": "Spanish", "taxonomy": ["Tibetan", "Tamil", "Welsh", "Slovene", "Russian"]}
+{"subject": "European Union", "object": "French", "taxonomy": ["Tibetan", "Romani", "Hungarian", "Sicilian", "Malayalam"]}
+{"subject": "United Kingdom", "object": "Welsh", "taxonomy": ["Egyptian", "Norwegian", "Norman", "Slovene", "English"]}
+{"subject": "Torfaen", "object": "English", "taxonomy": ["Greek", "Azerbaijani", "Romanian", "Khmer", "Mongolian"]}
+{"subject": "Bex", "object": "French", "taxonomy": ["Korean", "Georgian", "Bengali", "Malayalam", "Tonga"]}
+{"subject": "Jambi", "object": "Indonesian", "taxonomy": ["Dutch", "Portuguese", "Punjabi", "Icelandic", "Lithuanian"]}
+{"subject": "Grand-Saconnex", "object": "French", "taxonomy": ["Croatian", "Korean", "Marathi", "Macedonian", "Mongolian"]}
+{"subject": "Denmark", "object": "Danish", "taxonomy": ["Tibetan", "Swedish", "Armenian", "Japanese", "Catalan"]}
+{"subject": "International Organization for Standardization", "object": "Russian", "taxonomy": ["Telugu", "Spanish", "Latvian", "Venetian", "Sicilian"]}
+{"subject": "Kolari", "object": "Finnish", "taxonomy": ["Belarusian", "Hawaiian", "Italian", "Icelandic", "Chinese"]}
+{"subject": "Canada", "object": "French", "taxonomy": ["Romani", "Spanish", "Ukrainian", "Telugu", "Catalan"]}
+{"subject": "Cologny", "object": "French", "taxonomy": ["Mari", "Tibetan", "Vietnamese", "Portuguese", "Czech"]}
+{"subject": "County Cork", "object": "English", "taxonomy": ["Tibetan", "French", "Egyptian", "Tonga", "Polish"]}
+{"subject": "San Marino", "object": "Italian", "taxonomy": ["Tonga", "Japanese", "Montenegrin", "Hawaiian", "Norman"]}
+{"subject": "Pakistan", "object": "English", "taxonomy": ["Venetian", "Lithuanian", "Malayalam", "Indonesian", "Egyptian"]}
+{"subject": "Democratic Republic of Azerbaijan", "object": "Azerbaijani", "taxonomy": ["Icelandic", "English", "Swedish", "Somali", "Portuguese"]}
+{"subject": "European Union", "object": "Portuguese", "taxonomy": ["Mongolian", "Armenian", "Egyptian", "Tibetan", "Ukrainian"]}
+{"subject": "Guernsey", "object": "English", "taxonomy": ["Slovene", "Norwegian", "Icelandic", "Sicilian", "Spanish"]}
+{"subject": "Merikarvia", "object": "Finnish", "taxonomy": ["Latvian", "Khmer", "Basque", "Malayalam", "Mari"]}
+{"subject": "Ligornetto", "object": "Italian", "taxonomy": ["Lao", "Malay", "Icelandic", "Montenegrin", "Scots"]}
+{"subject": "Organization for Security and Co-operation in Europe", "object": "Russian", "taxonomy": ["Greek", "Turkish", "Venetian", "Bulgarian", "Latin"]}
+{"subject": "Dietikon", "object": "German", "taxonomy": ["Czech", "Estonian", "Breton", "Mari", "Serbian"]}
+{"subject": "First Czechoslovak Republic", "object": "Slovak", "taxonomy": ["Dutch", "Hindi", "Macedonian", "Greek", "Serbian"]}
+{"subject": "Republic of Venice", "object": "Venetian", "taxonomy": ["Japanese", "Telugu", "Dutch", "Lao", "Bulgarian"]}
+{"subject": "Dominica", "object": "English", "taxonomy": ["Greek", "Mari", "Azerbaijani", "Catalan", "Swedish"]}
+{"subject": "Faido", "object": "Italian", "taxonomy": ["Indonesian", "Japanese", "Slovene", "Polish", "Lithuanian"]}
+{"subject": "International Association of Athletics Federations", "object": "English", "taxonomy": ["Azerbaijani", "Indonesian", "Hungarian", "Khmer", "French"]}
+{"subject": "Kingdom of Tavolara", "object": "Italian", "taxonomy": ["Azerbaijani", "Serbian", "Indonesian", "Japanese", "Estonian"]}
+{"subject": "International Atomic Energy Agency", "object": "Russian", "taxonomy": ["Czech", "Maltese", "Marathi", "Welsh", "Estonian"]}
+{"subject": "Guatemala", "object": "Spanish", "taxonomy": ["Filipino", "English", "Latvian", "Czech", "Croatian"]}
+{"subject": "Belarus", "object": "Russian", "taxonomy": ["Latin", "Urdu", "Georgian", "Latvian", "Italian"]}
+{"subject": "South Carolina", "object": "English", "taxonomy": ["French", "Vietnamese", "Irish", "Hindi", "Malayalam"]}
+{"subject": "Saint Vincent and the Grenadines", "object": "English", "taxonomy": ["Latvian", "Tamil", "Dutch", "Punjabi", "Marathi"]}
+{"subject": "Aigle", "object": "French", "taxonomy": ["Russian", "Georgian", "Persian", "Turkish", "Bulgarian"]}
+{"subject": "Mauritius", "object": "English", "taxonomy": ["Indonesian", "Swedish", "Hungarian", "Telugu", "Romani"]}
+{"subject": "Timurid Empire", "object": "Persian", "taxonomy": ["Tamil", "Urdu", "Dutch", "German", "Ukrainian"]}
+{"subject": "Nicaragua", "object": "Spanish", "taxonomy": ["Estonian", "Persian", "Czech", "Romani", "Norwegian"]}
+{"subject": "Cebu", "object": "Filipino", "taxonomy": ["Somali", "Portuguese", "Turkish", "Venetian", "Mongolian"]}
+{"subject": "Serbia", "object": "Serbian", "taxonomy": ["Japanese", "Dutch", "Romanian", "Scots", "Ukrainian"]}
+{"subject": "Prussia", "object": "German", "taxonomy": ["Urdu", "Thai", "Persian", "Hebrew", "Swedish"]}
+{"subject": "Ulvila", "object": "Finnish", "taxonomy": ["Japanese", "Lao", "Malayalam", "Croatian", "Romani"]}
+{"subject": "Faroe Islands", "object": "Danish", "taxonomy": ["Tibetan", "Norman", "English", "Marathi", "Catalan"]}
+{"subject": "Iceland", "object": "Icelandic", "taxonomy": ["Norwegian", "Thai", "Armenian", "Chinese", "Catalan"]}
+{"subject": "Montenegro", "object": "Montenegrin", "taxonomy": ["Mongolian", "Catalan", "Dutch", "Filipino", "Vietnamese"]}
+{"subject": "Lemland", "object": "Swedish", "taxonomy": ["English", "Turkish", "Hungarian", "Hindi", "Slovak"]}
+{"subject": "Karlskoga Municipality", "object": "Swedish", "taxonomy": ["Croatian", "Nepali", "Ukrainian", "Urdu", "Egyptian"]}
+{"subject": "Stockholm Municipality", "object": "Swedish", "taxonomy": ["English", "Malayalam", "Catalan", "Romanian", "Khmer"]}
+{"subject": "Korsholm", "object": "Swedish", "taxonomy": ["Welsh", "Macedonian", "Lithuanian", "Norwegian", "Finnish"]}
+{"subject": "Karkkila", "object": "Finnish", "taxonomy": ["Korean", "Marathi", "Georgian", "French", "Welsh"]}
+{"subject": "Eskilstuna Municipality", "object": "Swedish", "taxonomy": ["Chinese", "Latvian", "English", "Macedonian", "Indonesian"]}
+{"subject": "Vichy France", "object": "French", "taxonomy": ["Turkish", "Dutch", "Malayalam", "Lao", "Norman"]}
+{"subject": "Somero", "object": "Finnish", "taxonomy": ["Azerbaijani", "Welsh", "Montenegrin", "Tonga", "Russian"]}
+{"subject": "Melitopol", "object": "Russian", "taxonomy": ["Dutch", "German", "Norwegian", "Slovak", "Vietnamese"]}
+{"subject": "Muonio", "object": "Finnish", "taxonomy": ["Basque", "Latvian", "Sicilian", "Estonian", "Icelandic"]}
+{"subject": "Hankasalmi", "object": "Finnish", "taxonomy": ["Italian", "Ukrainian", "Indonesian", "Irish", "Latvian"]}
+{"subject": "Ilmajoki", "object": "Finnish", "taxonomy": ["Azerbaijani", "Polish", "Montenegrin", "Ukrainian", "Tonga"]}
+{"subject": "Canton of Lucerne", "object": "German", "taxonomy": ["Romani", "Latin", "Estonian", "Catalan", "Malay"]}
+{"subject": "Pervomaysky District, Yaroslavl Oblast", "object": "Russian", "taxonomy": ["Turkish", "Irish", "Marathi", "Breton", "Polish"]}
+{"subject": "Serbian Orthodox Church", "object": "Serbian", "taxonomy": ["Croatian", "Persian", "Mari", "Albanian", "Latin"]}
+{"subject": "Hong Kong", "object": "English", "taxonomy": ["Catalan", "Bulgarian", "Slovak", "Serbian", "Norwegian"]}
+{"subject": "President of the Basque Autonomous Community", "object": "Basque", "taxonomy": ["Welsh", "Georgian", "Sicilian", "Tibetan", "Khmer"]}
+{"subject": "European Union", "object": "Romanian", "taxonomy": ["Dutch", "Armenian", "Latvian", "Tonga", "Venetian"]}
+{"subject": "Liestal", "object": "German", "taxonomy": ["Tamil", "Slovak", "French", "Hebrew", "Thai"]}
+{"subject": "Sui dynasty", "object": "Chinese", "taxonomy": ["Estonian", "Malayalam", "Hebrew", "Persian", "Danish"]}
+{"subject": "Hyderabad", "object": "Urdu", "taxonomy": ["Persian", "Belarusian", "Finnish", "Latin", "Chinese"]}
+{"subject": "Democratic Kampuchea", "object": "Khmer", "taxonomy": ["Bengali", "Tamil", "Armenian", "Greek", "Portuguese"]}
+{"subject": "Biasca", "object": "Italian", "taxonomy": ["Greek", "Filipino", "Slovak", "Persian", "Bengali"]}
+{"subject": "Bolama", "object": "Portuguese", "taxonomy": ["Khmer", "Bengali", "Czech", "Maltese", "Belarusian"]}
+{"subject": "South Ossetia", "object": "Russian", "taxonomy": ["Maltese", "Swedish", "Hindi", "Czech", "Georgian"]}
+{"subject": "Aracena", "object": "Spanish", "taxonomy": ["Latvian", "Egyptian", "Portuguese", "Latin", "Korean"]}
+{"subject": "New Jersey", "object": "English", "taxonomy": ["Belarusian", "Bengali", "Bulgarian", "Armenian", "Russian"]}
+{"subject": "Namibia", "object": "English", "taxonomy": ["Latin", "Romani", "Hawaiian", "Greek", "Vietnamese"]}
+{"subject": "Netherlands Antilles", "object": "Dutch", "taxonomy": ["Filipino", "Estonian", "Swedish", "Azerbaijani", "Icelandic"]}
+{"subject": "Economic Community of West African States", "object": "French", "taxonomy": ["Somali", "Danish", "Japanese", "Punjabi", "Albanian"]}
+{"subject": "Chiasso", "object": "Italian", "taxonomy": ["Hebrew", "French", "Greek", "German", "Japanese"]}
+{"subject": "European Union", "object": "Slovak", "taxonomy": ["Tonga", "Korean", "Malay", "Latvian", "Swedish"]}
+{"subject": "Prilly", "object": "French", "taxonomy": ["Albanian", "Norman", "Sicilian", "Romani", "Punjabi"]}
+{"subject": "history of Limousin", "object": "French", "taxonomy": ["Sicilian", "Latvian", "Dutch", "Georgian", "Norman"]}
+{"subject": "Bangladesh", "object": "Bengali", "taxonomy": ["Dutch", "Portuguese", "Korean", "Filipino", "Thai"]}
+{"subject": "Lamone", "object": "Italian", "taxonomy": ["Malay", "Portuguese", "Japanese", "Ukrainian", "Vietnamese"]}
+{"subject": "Central Visayas", "object": "Filipino", "taxonomy": ["Tamil", "Breton", "Turkish", "Portuguese", "Georgian"]}
+{"subject": "Ranua", "object": "Finnish", "taxonomy": ["Norwegian", "Montenegrin", "Hungarian", "English", "Latin"]}
+{"subject": "Andorra", "object": "Catalan", "taxonomy": ["Marathi", "Bengali", "Greek", "Malayalam", "Welsh"]}
+{"subject": "Trinidad and Tobago", "object": "English", "taxonomy": ["Bulgarian", "Armenian", "Scots", "Macedonian", "Welsh"]}
+{"subject": "United Kingdom", "object": "English", "taxonomy": ["Georgian", "Malay", "Icelandic", "Italian", "Swedish"]}
+{"subject": "Kamchatka Krai", "object": "Russian", "taxonomy": ["Polish", "Nepali", "Indonesian", "Scots", "French"]}
+{"subject": "Blonay", "object": "French", "taxonomy": ["Finnish", "Breton", "Hungarian", "Venetian", "Malay"]}
+{"subject": "Ronco sopra Ascona", "object": "Italian", "taxonomy": ["Greek", "Georgian", "Vietnamese", "Sicilian", "English"]}
+{"subject": "Germany", "object": "German", "taxonomy": ["Macedonian", "Slovene", "Russian", "Korean", "Telugu"]}
+{"subject": "Lausanne", "object": "French", "taxonomy": ["Dutch", "Tibetan", "Somali", "Telugu", "Mari"]}
+{"subject": "Botswana", "object": "English", "taxonomy": ["Japanese", "Malayalam", "Filipino", "Latin", "Indonesian"]}
+{"subject": "Iitti", "object": "Finnish", "taxonomy": ["English", "Maltese", "Thai", "Nepali", "Welsh"]}
+{"subject": "Sint Maarten", "object": "English", "taxonomy": ["Welsh", "Hindi", "Malayalam", "Dutch", "Urdu"]}
+{"subject": "Moscow Mathematical Society", "object": "Russian", "taxonomy": ["Telugu", "Finnish", "Breton", "Azerbaijani", "Scots"]}
+{"subject": "Stavropol Krai", "object": "Russian", "taxonomy": ["Finnish", "Icelandic", "Irish", "Persian", "Khmer"]}
+{"subject": "Central African Republic", "object": "French", "taxonomy": ["Bengali", "Icelandic", "Catalan", "Thai", "Portuguese"]}
+{"subject": "Kingdom of Asturias", "object": "Latin", "taxonomy": ["German", "Romani", "Serbian", "Somali", "Vietnamese"]}
+{"subject": "Gagauzia", "object": "Russian", "taxonomy": ["Telugu", "Finnish", "Korean", "Bengali", "Breton"]}
+{"subject": "NATO", "object": "English", "taxonomy": ["Japanese", "Bengali", "Vietnamese", "Latin", "Nepali"]}
+{"subject": "Tolyatti", "object": "Russian", "taxonomy": ["Azerbaijani", "Urdu", "Filipino", "Nepali", "Belarusian"]}
+{"subject": "Kingdom of Mercia", "object": "Latin", "taxonomy": ["Georgian", "Filipino", "Mari", "Punjabi", "Somali"]}
+{"subject": "Utah", "object": "English", "taxonomy": ["Russian", "Welsh", "Italian", "Vietnamese", "Korean"]}
+{"subject": "South African Republic", "object": "Dutch", "taxonomy": ["Sicilian", "Norwegian", "Swedish", "Polish", "German"]}
+{"subject": "Dundee", "object": "Scots", "taxonomy": ["Latin", "Tonga", "Vietnamese", "Sicilian", "Greek"]}
+{"subject": "Kouvola", "object": "Finnish", "taxonomy": ["Croatian", "Thai", "Japanese", "Mari", "Albanian"]}
+{"subject": "Mandatory Palestine", "object": "English", "taxonomy": ["Catalan", "Romani", "Hawaiian", "Serbian", "Tamil"]}
+{"subject": "Janakkala", "object": "Finnish", "taxonomy": ["Somali", "Filipino", "Vietnamese", "Swedish", "Turkish"]}
+{"subject": "Krasnodar Krai", "object": "Russian", "taxonomy": ["Nepali", "Breton", "Belarusian", "Hawaiian", "Chinese"]}
+{"subject": "Shakhunya", "object": "Russian", "taxonomy": ["Telugu", "Venetian", "Polish", "Latvian", "Norman"]}
+{"subject": "Togo", "object": "French", "taxonomy": ["Malay", "Sicilian", "Somali", "Chinese", "Irish"]}
+{"subject": "Basel-Landschaft", "object": "German", "taxonomy": ["Mari", "Romani", "Hawaiian", "Armenian", "Montenegrin"]}
+{"subject": "Zambia", "object": "English", "taxonomy": ["Czech", "Filipino", "Mongolian", "Egyptian", "Hawaiian"]}
+{"subject": "Liberia", "object": "English", "taxonomy": ["Mongolian", "Danish", "Hungarian", "Bulgarian", "Romanian"]}
+{"subject": "Prince Edward Island", "object": "English", "taxonomy": ["Scots", "Croatian", "Norwegian", "Macedonian", "Albanian"]}
+{"subject": "Kosovo", "object": "Serbian", "taxonomy": ["Indonesian", "Tamil", "Venetian", "Somali", "French"]}
+{"subject": "Mykolaiv Oblast", "object": "Ukrainian", "taxonomy": ["Polish", "French", "Danish", "Maltese", "Turkish"]}
+{"subject": "Kingdom of Jerusalem", "object": "Latin", "taxonomy": ["Scots", "Irish", "Spanish", "Albanian", "Slovene"]}
+{"subject": "Malawi", "object": "English", "taxonomy": ["Basque", "Czech", "Malayalam", "Dutch", "Serbian"]}
+{"subject": "Palestinian territories", "object": "Hebrew", "taxonomy": ["Armenian", "Estonian", "Hindi", "Mari", "English"]}
+{"subject": "Haukipudas", "object": "Finnish", "taxonomy": ["Russian", "Bulgarian", "Khmer", "Lao", "Sicilian"]}
+{"subject": "Stockholm County Council", "object": "Swedish", "taxonomy": ["Urdu", "Sicilian", "German", "Catalan", "Estonian"]}
+{"subject": "Turku", "object": "Finnish", "taxonomy": ["Latin", "Hebrew", "Spanish", "Basque", "German"]}
+{"subject": "International Olympic Committee", "object": "French", "taxonomy": ["Portuguese", "Hungarian", "Danish", "Norman", "Filipino"]}
+{"subject": "Arvidsjaur Municipality", "object": "Swedish", "taxonomy": ["Croatian", "Georgian", "Icelandic", "Greek", "Italian"]}
+{"subject": "Flemish Community", "object": "Dutch", "taxonomy": ["Vietnamese", "German", "Lao", "Breton", "Azerbaijani"]}
+{"subject": "Angola", "object": "Portuguese", "taxonomy": ["Korean", "Filipino", "Slovak", "Hawaiian", "Belarusian"]}
+{"subject": "Turku", "object": "Swedish", "taxonomy": ["Indonesian", "Croatian", "Slovak", "Portuguese", "Bengali"]}
+{"subject": "Jamshedpur", "object": "English", "taxonomy": ["Welsh", "Somali", "Romanian", "Telugu", "Punjabi"]}
+{"subject": "Azad Kashmir", "object": "English", "taxonomy": ["Thai", "Croatian", "Persian", "French", "Japanese"]}
+{"subject": "Suomenniemi", "object": "Finnish", "taxonomy": ["Khmer", "Malay", "Georgian", "Maltese", "Japanese"]}
+{"subject": "Bermuda", "object": "English", "taxonomy": ["Telugu", "Ukrainian", "Belarusian", "Japanese", "Welsh"]}
+{"subject": "Bedano", "object": "Italian", "taxonomy": ["Azerbaijani", "Malay", "Hawaiian", "Marathi", "Tamil"]}
+{"subject": "Formentera", "object": "Catalan", "taxonomy": ["Nepali", "Estonian", "Bulgarian", "Turkish", "Slovene"]}
+{"subject": "Bonaire", "object": "Dutch", "taxonomy": ["Azerbaijani", "Turkish", "Malay", "Norman", "Malayalam"]}
+{"subject": "Sudan", "object": "English", "taxonomy": ["Somali", "Finnish", "Lao", "Estonian", "Norman"]}
+{"subject": "Soviet Union", "object": "Russian", "taxonomy": ["Venetian", "Latvian", "Estonian", "Romanian", "Egyptian"]}
+{"subject": "Saskatchewan", "object": "French", "taxonomy": ["Persian", "Czech", "Romani", "Swedish", "Portuguese"]}
+{"subject": "Haparanda Municipality", "object": "Finnish", "taxonomy": ["Slovak", "Danish", "Urdu", "Bulgarian", "Belarusian"]}
+{"subject": "Aruba", "object": "Dutch", "taxonomy": ["Albanian", "Finnish", "Latvian", "Telugu", "Tamil"]}
+{"subject": "Montserrat", "object": "English", "taxonomy": ["Welsh", "Thai", "Turkish", "Punjabi", "Icelandic"]}
+{"subject": "Somalia", "object": "Somali", "taxonomy": ["Icelandic", "Finnish", "Italian", "Polish", "Chinese"]}
+{"subject": "Hirvensalmi", "object": "Finnish", "taxonomy": ["Russian", "Persian", "Nepali", "Basque", "Icelandic"]}
+{"subject": "Pajala Municipality", "object": "Finnish", "taxonomy": ["Telugu", "Indonesian", "Korean", "Venetian", "Sicilian"]}
+{"subject": "Organization for Security and Co-operation in Europe", "object": "Spanish", "taxonomy": ["Lithuanian", "Chinese", "Hebrew", "Slovene", "Latin"]}
+{"subject": "Oulainen", "object": "Finnish", "taxonomy": ["Swedish", "Azerbaijani", "Chinese", "Estonian", "Czech"]}
+{"subject": "Autonomous Province of Kosovo and Metohija", "object": "Serbian", "taxonomy": ["Macedonian", "German", "Portuguese", "Mari", "Tamil"]}
+{"subject": "Karachay-Cherkess Republic", "object": "Russian", "taxonomy": ["Slovak", "Malay", "Marathi", "Irish", "Bulgarian"]}
+{"subject": "Helsinki", "object": "Swedish", "taxonomy": ["Slovene", "Malayalam", "Romanian", "Filipino", "Georgian"]}
+{"subject": "European Space Agency", "object": "English", "taxonomy": ["Lao", "Macedonian", "Vietnamese", "Ukrainian", "Romanian"]}
+{"subject": "Kokkola", "object": "Swedish", "taxonomy": ["Urdu", "Belarusian", "Croatian", "Malay", "Tibetan"]}
+{"subject": "Morges", "object": "French", "taxonomy": ["Greek", "Swedish", "Hindi", "Bengali", "Thai"]}
+{"subject": "Arizona", "object": "English", "taxonomy": ["Thai", "Romani", "Malay", "Bengali", "Dutch"]}
+{"subject": "Qazvin Province", "object": "Azerbaijani", "taxonomy": ["Hebrew", "Punjabi", "Malayalam", "Hindi", "Persian"]}
+{"subject": "Mongolia", "object": "Mongolian", "taxonomy": ["Chinese", "Venetian", "Spanish", "Hawaiian", "Sicilian"]}
+{"subject": "European Union", "object": "Latvian", "taxonomy": ["Hawaiian", "Tamil", "Marathi", "Japanese", "Bulgarian"]}
+{"subject": "Sierra Leone", "object": "English", "taxonomy": ["Albanian", "Irish", "Slovak", "Hindi", "Portuguese"]}
+{"subject": "Ibiza", "object": "Catalan", "taxonomy": ["Thai", "Latvian", "Nepali", "Filipino", "German"]}
+{"subject": "Paraguay", "object": "Spanish", "taxonomy": ["Filipino", "Breton", "Urdu", "Malay", "Venetian"]}
+{"subject": "Republic of Bashkortostan", "object": "Russian", "taxonomy": ["Malayalam", "French", "Malay", "Icelandic", "Hawaiian"]}
+{"subject": "Indonesia", "object": "Indonesian", "taxonomy": ["Albanian", "Khmer", "Tonga", "Tamil", "Bulgarian"]}
+{"subject": "Siuntio", "object": "Swedish", "taxonomy": ["Bulgarian", "Danish", "Slovak", "Venetian", "Irish"]}
+{"subject": "Cebu", "object": "English", "taxonomy": ["Hindi", "Swedish", "Russian", "Polish", "Welsh"]}
+{"subject": "Monaco", "object": "French", "taxonomy": ["Marathi", "Persian", "Nepali", "Finnish", "Irish"]}
+{"subject": "Zabaykalsky Krai", "object": "Russian", "taxonomy": ["Macedonian", "Portuguese", "Slovene", "Malayalam", "Sicilian"]}
+{"subject": "Northern Mariana Islands", "object": "English", "taxonomy": ["Tibetan", "Maltese", "Tonga", "Breton", "Latin"]}
+{"subject": "Neklinovsky District", "object": "Russian", "taxonomy": ["Tibetan", "Estonian", "Nepali", "Croatian", "Maltese"]}
+{"subject": "Azerbaijan", "object": "Azerbaijani", "taxonomy": ["Estonian", "Bengali", "Croatian", "Ukrainian", "Malayalam"]}
+{"subject": "Canton of Vaud", "object": "French", "taxonomy": ["Tibetan", "Latvian", "Indonesian", "Belarusian", "Persian"]}
+{"subject": "Singapore", "object": "English", "taxonomy": ["Turkish", "Swedish", "Armenian", "Estonian", "Filipino"]}
+{"subject": "Kiruna Municipality", "object": "Swedish", "taxonomy": ["Catalan", "Indonesian", "Danish", "Bulgarian", "Tibetan"]}
+{"subject": "Organisation for Economic Co-operation and Development", "object": "French", "taxonomy": ["Egyptian", "Danish", "Mari", "Sicilian", "Icelandic"]}
+{"subject": "Keuruu", "object": "Finnish", "taxonomy": ["Korean", "Tibetan", "Vietnamese", "Bengali", "Welsh"]}
+{"subject": "Yverdon-les-Bains", "object": "French", "taxonomy": ["Filipino", "Bulgarian", "Spanish", "Sicilian", "Danish"]}
+{"subject": "Bern", "object": "German", "taxonomy": ["Macedonian", "Swedish", "Khmer", "Polish", "Welsh"]}
+{"subject": "Chennai", "object": "Tamil", "taxonomy": ["Latin", "Irish", "Malayalam", "Scots", "Chinese"]}
+{"subject": "Fiji", "object": "English", "taxonomy": ["Scots", "Turkish", "Basque", "Lithuanian", "Azerbaijani"]}
+{"subject": "India", "object": "Hindi", "taxonomy": ["Tamil", "Finnish", "Croatian", "Romanian", "Latvian"]}
+{"subject": "Canada", "object": "English", "taxonomy": ["Welsh", "Maltese", "Malay", "Irish", "Danish"]}
+{"subject": "Mongolian People's Republic", "object": "Mongolian", "taxonomy": ["English", "Punjabi", "Venetian", "Croatian", "Montenegrin"]}
+{"subject": "United Nations", "object": "Russian", "taxonomy": ["Sicilian", "Nepali", "Bengali", "Welsh", "Greek"]}
+{"subject": "Burundi", "object": "French", "taxonomy": ["Thai", "Italian", "Hungarian", "Vietnamese", "Breton"]}
+{"subject": "Dutch Language Union", "object": "Dutch", "taxonomy": ["Bulgarian", "Polish", "Irish", "Sicilian", "Montenegrin"]}
+{"subject": "Dasht-e Azadegan County", "object": "Persian", "taxonomy": ["Georgian", "Bengali", "Sicilian", "Russian", "Malayalam"]}
+{"subject": "Thiruvananthapuram", "object": "Malayalam", "taxonomy": ["Tonga", "Hindi", "Catalan", "Thai", "Armenian"]}
+{"subject": "Trosa Municipality", "object": "Finnish", "taxonomy": ["Chinese", "Russian", "Bengali", "Tibetan", "Turkish"]}
+{"subject": "International Olympic Committee", "object": "English", "taxonomy": ["Japanese", "Scots", "Georgian", "Urdu", "Slovene"]}
+{"subject": "Zaire", "object": "French", "taxonomy": ["Somali", "Indonesian", "Korean", "Basque", "Irish"]}
+{"subject": "Northern Ireland", "object": "English", "taxonomy": ["Bengali", "Urdu", "Portuguese", "Finnish", "Hindi"]}
+{"subject": "Pajala Municipality", "object": "Swedish", "taxonomy": ["Norwegian", "French", "German", "Tibetan", "Polish"]}
+{"subject": "Mali", "object": "French", "taxonomy": ["Irish", "Norwegian", "Chinese", "Latin", "Somali"]}
+{"subject": "Saint Kitts and Nevis", "object": "English", "taxonomy": ["Basque", "Slovak", "Mongolian", "Chinese", "Malayalam"]}
+{"subject": "Vacallo", "object": "Italian", "taxonomy": ["Breton", "Chinese", "Hungarian", "Hawaiian", "Urdu"]}
+{"subject": "Formentera", "object": "Spanish", "taxonomy": ["Mongolian", "Polish", "Tamil", "Tibetan", "Korean"]}
+{"subject": "Central Visayas", "object": "English", "taxonomy": ["Lithuanian", "Polish", "Turkish", "Belarusian", "Bengali"]}
+{"subject": "Saba", "object": "English", "taxonomy": ["German", "Malay", "Hebrew", "Scots", "Norwegian"]}
+{"subject": "Couto Misto", "object": "Spanish", "taxonomy": ["Malayalam", "Tamil", "Irish", "Icelandic", "Norwegian"]}
+{"subject": "Odessa Oblast", "object": "Ukrainian", "taxonomy": ["Armenian", "Marathi", "Hawaiian", "Basque", "Turkish"]}
+{"subject": "Tuusula", "object": "Finnish", "taxonomy": ["Bulgarian", "Swedish", "Georgian", "Portuguese", "Icelandic"]}
+{"subject": "Luxembourg", "object": "German", "taxonomy": ["Hawaiian", "Norwegian", "Mongolian", "Hindi", "Polish"]}
+{"subject": "European Union", "object": "Danish", "taxonomy": ["Spanish", "Ukrainian", "Egyptian", "Lao", "Latvian"]}
+{"subject": "Canton of Jura", "object": "French", "taxonomy": ["Swedish", "Serbian", "Tibetan", "Scots", "Marathi"]}
+{"subject": "Lampung", "object": "Indonesian", "taxonomy": ["Nepali", "Serbian", "Telugu", "Swedish", "French"]}
+{"subject": "Albania", "object": "Albanian", "taxonomy": ["Sicilian", "Urdu", "Egyptian", "Welsh", "Polish"]}
+{"subject": "Ilomantsi", "object": "Finnish", "taxonomy": ["Spanish", "Lithuanian", "Welsh", "Icelandic", "Sicilian"]}
+{"subject": "Iisalmi", "object": "Finnish", "taxonomy": ["Lao", "Filipino", "English", "Danish", "Indonesian"]}
+{"subject": "Lutry", "object": "French", "taxonomy": ["Basque", "Sicilian", "Scots", "Irish", "Breton"]}
+{"subject": "Nokia", "object": "Finnish", "taxonomy": ["Irish", "Icelandic", "Slovene", "Mari", "Latvian"]}
+{"subject": "Pully", "object": "French", "taxonomy": ["Urdu", "Dutch", "Tonga", "Croatian", "Japanese"]}
+{"subject": "Kristinestad", "object": "Swedish", "taxonomy": ["Scots", "Somali", "Azerbaijani", "Italian", "Bengali"]}
+{"subject": "Cyprus", "object": "Turkish", "taxonomy": ["Danish", "Bulgarian", "Scots", "Nepali", "Czech"]}
+{"subject": "Latvia", "object": "Latvian", "taxonomy": ["Nepali", "Sicilian", "Egyptian", "Urdu", "Japanese"]}
+{"subject": "Southern Common Market", "object": "Portuguese", "taxonomy": ["Greek", "Slovak", "Dutch", "Danish", "French"]}
+{"subject": "Republic of Dagestan", "object": "Russian", "taxonomy": ["Scots", "Armenian", "Albanian", "Bengali", "Breton"]}
+{"subject": "Commonwealth of Independent States", "object": "Russian", "taxonomy": ["Italian", "Hawaiian", "Hindi", "Nepali", "Mongolian"]}
+{"subject": "NATO", "object": "French", "taxonomy": ["Macedonian", "Khmer", "Marathi", "Turkish", "Tonga"]}
+{"subject": "Spanish Texas", "object": "Spanish", "taxonomy": ["Greek", "Swedish", "Icelandic", "Finnish", "Norwegian"]}
+{"subject": "Kingdom of Jerusalem", "object": "Greek", "taxonomy": ["Spanish", "Irish", "Dutch", "Lao", "Mari"]}
+{"subject": "Orbe", "object": "French", "taxonomy": ["Norman", "Slovene", "Spanish", "English", "Bulgarian"]}
+{"subject": "Reichskommissariat Moskowien", "object": "Russian", "taxonomy": ["Venetian", "Spanish", "Tonga", "Danish", "Egyptian"]}
+{"subject": "Saint Pierre and Miquelon", "object": "French", "taxonomy": ["Montenegrin", "Maltese", "German", "Slovak", "Khmer"]}
+{"subject": "Bhopal", "object": "Hindi", "taxonomy": ["Maltese", "Polish", "Danish", "Malay", "Dutch"]}
+{"subject": "Armenia", "object": "Armenian", "taxonomy": ["Latvian", "Norman", "Portuguese", "Tamil", "Italian"]}
+{"subject": "Western Cape", "object": "English", "taxonomy": ["Urdu", "Latin", "Finnish", "Slovene", "French"]}
+{"subject": "Kingdom of Bulgaria", "object": "Bulgarian", "taxonomy": ["Finnish", "Romanian", "Croatian", "Azerbaijani", "Chinese"]}
+{"subject": "Gabon", "object": "French", "taxonomy": ["Egyptian", "Vietnamese", "Norman", "Dutch", "Welsh"]}
+{"subject": "Puerto Rico", "object": "Spanish", "taxonomy": ["Tamil", "Chinese", "Georgian", "Czech", "Icelandic"]}
+{"subject": "Puerto Rico", "object": "English", "taxonomy": ["Marathi", "Bengali", "Hebrew", "Slovak", "Indonesian"]}
+{"subject": "Engelberg", "object": "German", "taxonomy": ["Azerbaijani", "Hungarian", "Khmer", "Hindi", "Tonga"]}
+{"subject": "Thrissur", "object": "Malayalam", "taxonomy": ["Russian", "Somali", "Norman", "English", "Telugu"]}
+{"subject": "Bulgarian Orthodox Church", "object": "Bulgarian", "taxonomy": ["Slovene", "Romanian", "Japanese", "Nepali", "Basque"]}
+{"subject": "Tuvalu", "object": "English", "taxonomy": ["Latvian", "French", "Japanese", "German", "Spanish"]}
+{"subject": "Iowa", "object": "English", "taxonomy": ["Czech", "Russian", "Macedonian", "German", "Latin"]}
+{"subject": "Sweden", "object": "Swedish", "taxonomy": ["Montenegrin", "Tibetan", "Hungarian", "Indonesian", "Vietnamese"]}
+{"subject": "Georgian Orthodox Church", "object": "Georgian", "taxonomy": ["Estonian", "Welsh", "Indonesian", "Hawaiian", "Persian"]}
+{"subject": "Aragon", "object": "Catalan", "taxonomy": ["Portuguese", "Norwegian", "Egyptian", "Vietnamese", "English"]}
+{"subject": "Guam", "object": "English", "taxonomy": ["Armenian", "Belarusian", "Japanese", "Nepali", "Estonian"]}
+{"subject": "Autonomous Republic of Crimea", "object": "Russian", "taxonomy": ["Egyptian", "Danish", "Somali", "Tamil", "Macedonian"]}
+{"subject": "Benin", "object": "French", "taxonomy": ["Filipino", "Maltese", "Malayalam", "Tibetan", "Romanian"]}
+{"subject": "Florida", "object": "English", "taxonomy": ["Somali", "Venetian", "Icelandic", "Lithuanian", "Breton"]}
+{"subject": "Virginia", "object": "English", "taxonomy": ["Thai", "Breton", "German", "Spanish", "Polish"]}
+{"subject": "Joensuu", "object": "Finnish", "taxonomy": ["Armenian", "Mari", "Icelandic", "Latvian", "Catalan"]}
+{"subject": "Uppsala Municipality", "object": "Swedish", "taxonomy": ["Norwegian", "Hebrew", "Mongolian", "Albanian", "Egyptian"]}
+{"subject": "Antigua and Barbuda", "object": "English", "taxonomy": ["Estonian", "Turkish", "Catalan", "Bulgarian", "Venetian"]}
+{"subject": "L'Isle", "object": "French", "taxonomy": ["Polish", "Danish", "Scots", "Estonian", "Venetian"]}
+{"subject": "ASEAN", "object": "Chinese", "taxonomy": ["Icelandic", "Norman", "Lithuanian", "Portuguese", "Swedish"]}
+{"subject": "Belgium", "object": "French", "taxonomy": ["Japanese", "Nepali", "Malayalam", "Basque", "Korean"]}
+{"subject": "Nepali literature", "object": "Nepali", "taxonomy": ["Turkish", "Marathi", "Mongolian", "Portuguese", "Chinese"]}
+{"subject": "Suomussalmi", "object": "Finnish", "taxonomy": ["Slovene", "Georgian", "Spanish", "Lithuanian", "Belarusian"]}
+{"subject": "Independent State of Croatia", "object": "Croatian", "taxonomy": ["Montenegrin", "Armenian", "Indonesian", "Georgian", "Danish"]}
+{"subject": "Catalonia", "object": "Catalan", "taxonomy": ["Japanese", "Punjabi", "Estonian", "Basque", "Hungarian"]}
+{"subject": "Petrozavodsk", "object": "Russian", "taxonomy": ["Slovak", "Italian", "Egyptian", "Thai", "Latvian"]}
+{"subject": "Hanko", "object": "Swedish", "taxonomy": ["Polish", "Tibetan", "Belarusian", "Macedonian", "Bengali"]}
+{"subject": "Chukotka Autonomous Okrug", "object": "Russian", "taxonomy": ["Hungarian", "Greek", "Serbian", "Portuguese", "Slovene"]}
+{"subject": "Pays de la Loire", "object": "Breton", "taxonomy": ["Serbian", "Belarusian", "Hindi", "Albanian", "Polish"]}
+{"subject": "Ruokolahti", "object": "Finnish", "taxonomy": ["Polish", "Latin", "Catalan", "Icelandic", "Punjabi"]}
+{"subject": "Dundee", "object": "English", "taxonomy": ["Tonga", "Latin", "Dutch", "Danish", "Egyptian"]}
+{"subject": "Upplands-Bro Municipality", "object": "Swedish", "taxonomy": ["Marathi", "Irish", "Latvian", "Breton", "Ukrainian"]}
+{"subject": "Naantali", "object": "Finnish", "taxonomy": ["Portuguese", "Malay", "Slovak", "Vietnamese", "Telugu"]}
+{"subject": "Kurikka", "object": "Finnish", "taxonomy": ["Spanish", "Thai", "Georgian", "Vietnamese", "Hebrew"]}
+{"subject": "European Union", "object": "Maltese", "taxonomy": ["Slovene", "Indonesian", "Macedonian", "Japanese", "Serbian"]}
+{"subject": "Amravati district", "object": "Marathi", "taxonomy": ["Malay", "Danish", "Slovene", "Greek", "Norwegian"]}
+{"subject": "Brugg", "object": "German", "taxonomy": ["Catalan", "Marathi", "Welsh", "Romani", "Croatian"]}
+{"subject": "Lemi", "object": "Finnish", "taxonomy": ["Lao", "Montenegrin", "Filipino", "Russian", "Hungarian"]}
+{"subject": "Azerbaijan Soviet Socialist Republic", "object": "Russian", "taxonomy": ["Hungarian", "Tamil", "Punjabi", "Thai", "Somali"]}
+{"subject": "Norfolk Island", "object": "English", "taxonomy": ["Romanian", "Portuguese", "Lao", "Vietnamese", "Albanian"]}
+{"subject": "Scotland", "object": "English", "taxonomy": ["Bengali", "Tonga", "Finnish", "Belarusian", "Norwegian"]}
+{"subject": "Cuba", "object": "Spanish", "taxonomy": ["Czech", "Macedonian", "Irish", "Slovak", "Nepali"]}
+{"subject": "Biel/Bienne", "object": "German", "taxonomy": ["Chinese", "Bulgarian", "Irish", "Greek", "Romanian"]}
+{"subject": "Federated States of Micronesia", "object": "English", "taxonomy": ["Malayalam", "Dutch", "Spanish", "Egyptian", "Romani"]}
+{"subject": "Perm Krai", "object": "Russian", "taxonomy": ["Portuguese", "Czech", "Georgian", "Urdu", "Armenian"]}
+{"subject": "Congress Poland", "object": "Russian", "taxonomy": ["Macedonian", "Thai", "Filipino", "Norwegian", "Malay"]}
+{"subject": "Pomarkku", "object": "Finnish", "taxonomy": ["Bulgarian", "Azerbaijani", "Mongolian", "Serbian", "Slovak"]}
+{"subject": "Bulgaria", "object": "Bulgarian", "taxonomy": ["Sicilian", "Italian", "German", "Dutch", "Czech"]}
+{"subject": "United States of America", "object": "English", "taxonomy": ["Russian", "Turkish", "Irish", "Marathi", "Mongolian"]}
+{"subject": "Raisio", "object": "Finnish", "taxonomy": ["Montenegrin", "Lithuanian", "Marathi", "Icelandic", "Malayalam"]}
+{"subject": "Payerne", "object": "French", "taxonomy": ["Somali", "Irish", "Czech", "Punjabi", "Latin"]}
+{"subject": "Illinois", "object": "English", "taxonomy": ["Mari", "Latin", "Finnish", "Somali", "Indonesian"]}
+{"subject": "European Union", "object": "Italian", "taxonomy": ["Mongolian", "Polish", "Persian", "Montenegrin", "Norman"]}
+{"subject": "Perroy", "object": "French", "taxonomy": ["Irish", "Vietnamese", "Welsh", "Venetian", "Urdu"]}
+{"subject": "Arjeplog Municipality", "object": "Swedish", "taxonomy": ["Serbian", "Egyptian", "Czech", "Venetian", "Danish"]}
+{"subject": "North Sumatra", "object": "Indonesian", "taxonomy": ["Finnish", "Persian", "Hebrew", "Scots", "Somali"]}
+{"subject": "Eurajoki", "object": "Finnish", "taxonomy": ["Punjabi", "Greek", "Slovene", "Hungarian", "Georgian"]}
+{"subject": "Liminka", "object": "Finnish", "taxonomy": ["Armenian", "English", "Serbian", "Spanish", "Polish"]}
+{"subject": "ASEAN", "object": "Thai", "taxonomy": ["Bulgarian", "Romanian", "Portuguese", "Montenegrin", "Italian"]}
+{"subject": "British Hong Kong", "object": "Chinese", "taxonomy": ["Telugu", "Dutch", "Venetian", "Finnish", "Romanian"]}
+{"subject": "Republic of Florence", "object": "Latin", "taxonomy": ["Croatian", "Indonesian", "Latvian", "Vietnamese", "Tamil"]}
+{"subject": "Tennessee", "object": "English", "taxonomy": ["Danish", "Punjabi", "Italian", "French", "Sicilian"]}
+{"subject": "Uusikaupunki", "object": "Finnish", "taxonomy": ["Breton", "Mari", "Azerbaijani", "Lithuanian", "Dutch"]}
+{"subject": "Russian Empire", "object": "Swedish", "taxonomy": ["Korean", "Slovene", "Tonga", "Indonesian", "Filipino"]}
+{"subject": "European Union", "object": "Swedish", "taxonomy": ["Portuguese", "Telugu", "Scots", "Khmer", "Macedonian"]}
+{"subject": "Andhra Pradesh", "object": "Telugu", "taxonomy": ["Tonga", "Sicilian", "Slovene", "Spanish", "Mari"]}
+{"subject": "Orange Free State", "object": "Dutch", "taxonomy": ["Ukrainian", "Georgian", "Scots", "Italian", "Egyptian"]}
+{"subject": "Kaskinen", "object": "Swedish", "taxonomy": ["Romani", "Turkish", "Sicilian", "Indonesian", "Venetian"]}
+{"subject": "Guernsey", "object": "French", "taxonomy": ["Swedish", "Estonian", "German", "Ukrainian", "Polish"]}
+{"subject": "Imatra", "object": "Finnish", "taxonomy": ["Italian", "Mongolian", "Welsh", "Danish", "French"]}
+{"subject": "Nakkila", "object": "Finnish", "taxonomy": ["Indonesian", "Latin", "Scots", "Macedonian", "Malayalam"]}
+{"subject": "Canary Islands", "object": "Spanish", "taxonomy": ["Hindi", "Scots", "Montenegrin", "Icelandic", "Croatian"]}
+{"subject": "Republic of Mordovia", "object": "Russian", "taxonomy": ["Irish", "Latvian", "Mari", "Armenian", "Indonesian"]}
+{"subject": "Macau", "object": "Portuguese", "taxonomy": ["German", "Slovene", "Tamil", "Estonian", "Turkish"]}
+{"subject": "Altai Republic", "object": "Russian", "taxonomy": ["Swedish", "German", "Mongolian", "Irish", "Lao"]}
+{"subject": "Costa Rica", "object": "Spanish", "taxonomy": ["Tibetan", "Chinese", "Sicilian", "Egyptian", "Malay"]}
+{"subject": "Saint Vincent and the Grenadines", "object": "Spanish", "taxonomy": ["Norwegian", "Chinese", "Romanian", "Albanian", "Punjabi"]}
+{"subject": "Paimio", "object": "Finnish", "taxonomy": ["Bengali", "Filipino", "Lithuanian", "Russian", "Chinese"]}
+{"subject": "Kitee", "object": "Finnish", "taxonomy": ["Hindi", "Welsh", "Mari", "English", "Scots"]}
+{"subject": "European Union", "object": "German", "taxonomy": ["Chinese", "Dutch", "Hawaiian", "Romanian", "Irish"]}
+{"subject": "International Criminal Court", "object": "French", "taxonomy": ["Somali", "Dutch", "Welsh", "Slovene", "Hawaiian"]}
+{"subject": "Pori", "object": "Finnish", "taxonomy": ["Tibetan", "Bulgarian", "Basque", "Hungarian", "Norman"]}
+{"subject": "Menorca", "object": "Spanish", "taxonomy": ["Persian", "Bulgarian", "Vietnamese", "Ukrainian", "Catalan"]}
+{"subject": "Montenegro", "object": "Albanian", "taxonomy": ["Latin", "Norwegian", "Romanian", "Mongolian", "Hebrew"]}
+{"subject": "Zimbabwe", "object": "Tonga", "taxonomy": ["Danish", "Albanian", "Filipino", "Croatian", "Slovak"]}
+{"subject": "Kashubia", "object": "Polish", "taxonomy": ["Czech", "Maltese", "Scots", "Estonian", "Indonesian"]}
+{"subject": "Paris Commune", "object": "French", "taxonomy": ["Tamil", "Azerbaijani", "Telugu", "Egyptian", "Danish"]}
+{"subject": "Venezuela", "object": "Spanish", "taxonomy": ["Hawaiian", "Filipino", "Urdu", "Egyptian", "Finnish"]}
+{"subject": "Siikajoki", "object": "Finnish", "taxonomy": ["Romani", "Marathi", "German", "Belarusian", "Tibetan"]}
+{"subject": "Marshall Islands", "object": "English", "taxonomy": ["Punjabi", "Mongolian", "Venetian", "Telugu", "Tibetan"]}
+{"subject": "Republic of Karelia", "object": "Russian", "taxonomy": ["Romani", "Spanish", "Latvian", "Czech", "Ukrainian"]}
+{"subject": "Kiiminki", "object": "Finnish", "taxonomy": ["Estonian", "Basque", "Nepali", "Telugu", "Georgian"]}
+{"subject": "Hanko", "object": "Finnish", "taxonomy": ["Estonian", "Hindi", "Norman", "Macedonian", "Armenian"]}
+{"subject": "Snezhinsk", "object": "Russian", "taxonomy": ["Slovene", "Malayalam", "Nepali", "Chinese", "Lao"]}
+{"subject": "Valencian Community", "object": "Catalan", "taxonomy": ["Bengali", "Telugu", "Albanian", "Armenian", "Greek"]}
+{"subject": "Slovakia", "object": "Slovak", "taxonomy": ["Telugu", "Norwegian", "Azerbaijani", "French", "Tamil"]}
+{"subject": "Haryana", "object": "Hindi", "taxonomy": ["Filipino", "Georgian", "Macedonian", "Sicilian", "Nepali"]}
+{"subject": "Humppila", "object": "Finnish", "taxonomy": ["Tibetan", "Bengali", "Icelandic", "Vietnamese", "Estonian"]}
+{"subject": "South Korea", "object": "Korean", "taxonomy": ["Slovene", "Latin", "Lithuanian", "Nepali", "Polish"]}
+{"subject": "Cape Verde", "object": "Portuguese", "taxonomy": ["Chinese", "Spanish", "Dutch", "Khmer", "Czech"]}
+{"subject": "Shimla", "object": "Hindi", "taxonomy": ["Lithuanian", "Slovak", "Croatian", "Khmer", "Bulgarian"]}
+{"subject": "Outokumpu", "object": "Finnish", "taxonomy": ["Vietnamese", "Marathi", "Slovak", "Lao", "German"]}
+{"subject": "Khorasan Province", "object": "Persian", "taxonomy": ["Japanese", "Urdu", "Hawaiian", "Tibetan", "Indonesian"]}
+{"subject": "First Czechoslovak Republic", "object": "Czech", "taxonomy": ["Filipino", "Basque", "Romanian", "Catalan", "Irish"]}
+{"subject": "Caribbean Netherlands", "object": "Dutch", "taxonomy": ["Telugu", "Italian", "Malay", "Indonesian", "Tonga"]}
+{"subject": "Kemi", "object": "Finnish", "taxonomy": ["Malayalam", "Sicilian", "Somali", "Slovak", "Lao"]}
+{"subject": "Oklahoma", "object": "English", "taxonomy": ["Lithuanian", "Swedish", "Maltese", "Hawaiian", "Hindi"]}
+{"subject": "Surahammar Municipality", "object": "Swedish", "taxonomy": ["Maltese", "Russian", "Norwegian", "Breton", "Dutch"]}
+{"subject": "Governor-General of Australia", "object": "English", "taxonomy": ["Hebrew", "Japanese", "Maltese", "Macedonian", "Azerbaijani"]}
+{"subject": "Ukraine", "object": "Ukrainian", "taxonomy": ["Portuguese", "Montenegrin", "German", "Welsh", "Finnish"]}
+{"subject": "Cook Islands", "object": "English", "taxonomy": ["Nepali", "Portuguese", "Venetian", "Latvian", "Hebrew"]}
+{"subject": "Union of European Football Associations", "object": "English", "taxonomy": ["Venetian", "Hungarian", "Malay", "Tibetan", "Danish"]}
+{"subject": "Kokkola", "object": "Finnish", "taxonomy": ["Russian", "Slovak", "Maltese", "Portuguese", "Latvian"]}
+{"subject": "Tanzania", "object": "English", "taxonomy": ["Mari", "Icelandic", "Khmer", "French", "Basque"]}
+{"subject": "Turkmenistan", "object": "Russian", "taxonomy": ["Vietnamese", "Norman", "German", "Scots", "Azerbaijani"]}
+{"subject": "Somaliland", "object": "Somali", "taxonomy": ["Ukrainian", "Russian", "Welsh", "Norman", "German"]}
+{"subject": "Sipoo", "object": "Swedish", "taxonomy": ["Chinese", "Urdu", "Estonian", "French", "Malayalam"]}
+{"subject": "Switzerland", "object": "German", "taxonomy": ["English", "Romanian", "Tonga", "Indonesian", "Breton"]}
+{"subject": "Khabarovsk Krai", "object": "Russian", "taxonomy": ["English", "Mari", "Latvian", "Tamil", "Hawaiian"]}
+{"subject": "Uddevalla Municipality", "object": "Swedish", "taxonomy": ["Egyptian", "Tibetan", "Tonga", "Danish", "Persian"]}
+{"subject": "Lahti", "object": "Finnish", "taxonomy": ["Latvian", "Spanish", "Czech", "Tonga", "Croatian"]}
+{"subject": "Alicante", "object": "Spanish", "taxonomy": ["Venetian", "Tonga", "Polish", "Russian", "Swedish"]}
+{"subject": "Parkano", "object": "Finnish", "taxonomy": ["Persian", "Egyptian", "Bengali", "Lao", "Ukrainian"]}
+{"subject": "Kuhmoinen", "object": "Finnish", "taxonomy": ["Indonesian", "Irish", "Telugu", "Tibetan", "German"]}
+{"subject": "Belarus", "object": "Belarusian", "taxonomy": ["French", "Ukrainian", "Lao", "Turkish", "Basque"]}
+{"subject": "Uttar Pradesh", "object": "Hindi", "taxonomy": ["Tibetan", "Hebrew", "Dutch", "Bulgarian", "Latvian"]}
+{"subject": "Korsholm", "object": "Finnish", "taxonomy": ["Danish", "Catalan", "Lithuanian", "Scots", "Urdu"]}
+{"subject": "Luhansk People's Republic", "object": "Russian", "taxonomy": ["Macedonian", "Bengali", "Somali", "Estonian", "Nepali"]}
+{"subject": "Laos", "object": "Lao", "taxonomy": ["Thai", "Bengali", "Danish", "Slovak", "Tonga"]}
+{"subject": "Masku", "object": "Finnish", "taxonomy": ["Polish", "Romani", "Indonesian", "Filipino", "Ukrainian"]}
+{"subject": "Republic of Ingushetia", "object": "Russian", "taxonomy": ["Dutch", "Filipino", "Tamil", "Vietnamese", "Thai"]}

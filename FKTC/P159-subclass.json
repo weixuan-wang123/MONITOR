@@ -1,0 +1,968 @@
+{"relations": ["In what city is [X] headquartered?", "Which city is [X]'s corporate headquarters located?", "Which city is the location of [X]'s head office?", "In which city is [X]'s main center of operations?", "What is the city that houses [X]'s main administrative center?", "What city serves as the center of [X]'s operations?", "In what city does [X] maintain its headquarters?"]}
+{"subject": "Chandos Records", "object": "Colchester", "taxonomy": ["Lucknow", "Leicestershire", "Sweden", "Haifa", "Waterloo"]}
+{"subject": "Chaparral Cars", "object": "Midland", "taxonomy": ["Gothenburg", "Chesterfield", "Vienna", "Milton", "Bergen"]}
+{"subject": "Stelco", "object": "Hamilton", "taxonomy": ["Wayne", "Vancouver", "Toronto", "Stamford", "Belgrade"]}
+{"subject": "OMERS", "object": "Toronto", "taxonomy": ["Milton", "Mansfield", "Beirut", "Dortmund", "Moscow"]}
+{"subject": "Swedish Orphan Biovitrum", "object": "Stockholm", "taxonomy": ["Toyota", "Atlanta", "Central", "Vienna", "Homestead"]}
+{"subject": "Infogrames Entertainment", "object": "Lyon", "taxonomy": ["Nagoya", "Blackpool", "Meridian", "Toulouse", "Utrecht"]}
+{"subject": "Peroni Brewery", "object": "Rome", "taxonomy": ["Bern", "Riga", "Lausanne", "Damascus", "Denver"]}
+{"subject": "Canadian Jewish Congress", "object": "Ottawa", "taxonomy": ["Seoul", "Athens", "Berlin", "Georgetown", "Colombo"]}
+{"subject": "Florida International University", "object": "Miami", "taxonomy": ["Warsaw", "Bangladesh", "Turin", "Mansfield", "Wolverhampton"]}
+{"subject": "Cineflix", "object": "Montreal", "taxonomy": ["Toronto", "Milan", "Nashville", "Cleveland", "Goa"]}
+{"subject": "Source Cable", "object": "Hamilton", "taxonomy": ["Toronto", "Colorado", "York", "Bangkok", "Israel"]}
+{"subject": "Redpath Sugar", "object": "Montreal", "taxonomy": ["Portsmouth", "Pittsburgh", "Malaysia", "Albuquerque", "Ponce"]}
+{"subject": "Sofapaka F.C.", "object": "Nairobi", "taxonomy": ["Honolulu", "Kolkata", "Peabody", "Birmingham", "Luxembourg"]}
+{"subject": "Telfort", "object": "Netherlands", "taxonomy": ["Brighton", "Wellington", "Delhi", "Bratislava", "Genoa"]}
+{"subject": "Paris Saint-Germain F.C.", "object": "Paris", "taxonomy": ["Georgetown", "Hayward", "Helsinki", "Oldham", "Baku"]}
+{"subject": "Industrias Vassallo", "object": "Ponce", "taxonomy": ["Hamilton", "Cincinnati", "Minnesota", "Bournemouth", "Jerusalem"]}
+{"subject": "Overkill Software", "object": "Stockholm", "taxonomy": ["Jakarta", "Grimsby", "Chennai", "Minnesota", "Scotland"]}
+{"subject": "Edipresse", "object": "Lausanne", "taxonomy": ["Meridian", "Kabul", "Burlington", "Providence", "Dortmund"]}
+{"subject": "Asa Lees", "object": "Oldham", "taxonomy": ["Dresden", "Beijing", "Queensland", "Vilnius", "Canberra"]}
+{"subject": "Waterloo Maple", "object": "Waterloo", "taxonomy": ["Valencia", "Charlotte", "Swindon", "Lucknow", "Meridian"]}
+{"subject": "Scottish Socialist Party", "object": "Glasgow", "taxonomy": ["Berlin", "Bolton", "Rochester", "Dhaka", "Geneva"]}
+{"subject": "Azerbaijan Medical University", "object": "Baku", "taxonomy": ["Vienna", "Sweden", "Seoul", "Hertfordshire", "Luxembourg"]}
+{"subject": "Ceirano Fabbrica Automobili", "object": "Turin", "taxonomy": ["Egypt", "Madrid", "Wayne", "Leeds", "Seattle"]}
+{"subject": "Cambridge United F.C.", "object": "Cambridge", "taxonomy": ["Cleveland", "Istanbul", "Warsaw", "Nuremberg", "Greenwich"]}
+{"subject": "Jimdo", "object": "Hamburg", "taxonomy": ["Anaheim", "Bournemouth", "Nancy", "Bordeaux", "Bonn"]}
+{"subject": "Sydney Theatre Company", "object": "Sydney", "taxonomy": ["Wilmington", "Lagos", "Hanover", "Albuquerque", "Goa"]}
+{"subject": "Irish Ferries", "object": "Dublin", "taxonomy": ["Brooklyn", "Bend", "Perth", "Paramount", "Moscow"]}
+{"subject": "Bloc populaire", "object": "Montreal", "taxonomy": ["Madison", "Miami", "Carlisle", "Dublin", "Bolton"]}
+{"subject": "Stephenson Blake", "object": "Sheffield", "taxonomy": ["Milwaukee", "Rugby", "Bangladesh", "Hamilton", "Hollywood"]}
+{"subject": "SBS Transit", "object": "Singapore", "taxonomy": ["Coventry", "Gothenburg", "Princeton", "Colorado", "Tallinn"]}
+{"subject": "The Trussell Trust", "object": "Salisbury", "taxonomy": ["Montevideo", "Hanover", "Hayward", "Quincy", "Cambridge"]}
+{"subject": "University of Florence", "object": "Florence", "taxonomy": ["Blackpool", "Bordeaux", "Durham", "Ponce", "Nancy"]}
+{"subject": "Polish Socialist Party", "object": "Warsaw", "taxonomy": ["Valencia", "Alexandria", "Ecuador", "Milan", "Denver"]}
+{"subject": "Uprok Records", "object": "Seattle", "taxonomy": ["Moscow", "Honolulu", "Bordeaux", "Avon", "Georgetown"]}
+{"subject": "Sandvine", "object": "Waterloo", "taxonomy": ["Wellington", "Delhi", "Baltimore", "Dublin", "Salzburg"]}
+{"subject": "Far East Organization", "object": "Singapore", "taxonomy": ["Pune", "Helsinki", "Vienna", "Utrecht", "Genoa"]}
+{"subject": "Palfinger", "object": "Salzburg", "taxonomy": ["Norfolk", "Kiel", "Aberdeen", "Charlotte", "Hanover"]}
+{"subject": "AFC Bournemouth", "object": "Bournemouth", "taxonomy": ["Madrid", "Northampton", "Edmonton", "Wayne", "Jerusalem"]}
+{"subject": "Warwick School", "object": "Warwick", "taxonomy": ["Japan", "Lahore", "Rhodes", "Oldham", "Wilmington"]}
+{"subject": "Boston Navy Yard", "object": "Boston", "taxonomy": ["Oldham", "Queensland", "Bordeaux", "Homestead", "California"]}
+{"subject": "Veracode", "object": "Burlington", "taxonomy": ["Chandler", "Bedford", "Belgrade", "Indianapolis", "Casablanca"]}
+{"subject": "Environics", "object": "Toronto", "taxonomy": ["Sarajevo", "Pasadena", "Bangladesh", "Baghdad", "Chandler"]}
+{"subject": "DNB ASA", "object": "Oslo", "taxonomy": ["Nancy", "Franklin", "Hertfordshire", "Dublin", "Bedford"]}
+{"subject": "Syrian Arab Army", "object": "Damascus", "taxonomy": ["Orange", "Blackpool", "Hamilton", "Stockholm", "Baghdad"]}
+{"subject": "Integral Coach Factory", "object": "Chennai", "taxonomy": ["Cincinnati", "Bangalore", "Shrewsbury", "Brighton", "France"]}
+{"subject": "Dynegy", "object": "Houston", "taxonomy": ["Mumbai", "Haifa", "Princeton", "Stamford", "Lexington"]}
+{"subject": "Day Software", "object": "Basel", "taxonomy": ["Sheffield", "Kolkata", "Montana", "Derby", "Springfield"]}
+{"subject": "Ahlstrom-Munksjö", "object": "Helsinki", "taxonomy": ["Hertfordshire", "Montana", "Nashville", "Orange", "Berkeley"]}
+{"subject": "Beacon Press", "object": "Boston", "taxonomy": ["Croydon", "Goa", "Zagreb", "Coventry", "Oldham"]}
+{"subject": "Berliner AK 07", "object": "Berlin", "taxonomy": ["Dunedin", "Paris", "Norfolk", "Seattle", "Baghdad"]}
+{"subject": "P&O Cruises Australia", "object": "Southampton", "taxonomy": ["Nanjing", "Brooklyn", "Perth", "Miami", "Bangkok"]}
+{"subject": "Verkehrsverbund Berlin-Brandenburg", "object": "Berlin", "taxonomy": ["Liverpool", "Brighton", "Chesterfield", "Oldham", "Mansfield"]}
+{"subject": "Roger Dubuis", "object": "Geneva", "taxonomy": ["Middlesbrough", "Lausanne", "Blackpool", "Luxembourg", "Minnesota"]}
+{"subject": "Sun Shipbuilding & Drydock Co.", "object": "Philadelphia", "taxonomy": ["Miami", "Oslo", "Anaheim", "Colombo", "Vienna"]}
+{"subject": "Crown Airways", "object": "Philadelphia", "taxonomy": ["Canberra", "Copenhagen", "Kiel", "Belgium", "Bradford"]}
+{"subject": "Southern United FC", "object": "Dunedin", "taxonomy": ["Aurora", "Damascus", "Thessaloniki", "Atlanta", "Jerusalem"]}
+{"subject": "Hapoel Haifa F.C.", "object": "Haifa", "taxonomy": ["Hamburg", "Florence", "Caracas", "Southampton", "Salzburg"]}
+{"subject": "British Tanker Company", "object": "London", "taxonomy": ["Philadelphia", "Meridian", "Montreal", "Moscow", "Athens"]}
+{"subject": "Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft", "object": "Hamburg", "taxonomy": ["Paris", "Canton", "Ankara", "Irvine", "Franklin"]}
+{"subject": "Anadol", "object": "Istanbul", "taxonomy": ["Manila", "Greenville", "Chesapeake", "Rhodes", "Jakarta"]}
+{"subject": "Kroger", "object": "Cincinnati", "taxonomy": ["Aberdeen", "Brooklyn", "Beirut", "Greenville", "Istanbul"]}
+{"subject": "Milano Vipers", "object": "Milan", "taxonomy": ["Norman", "Perth", "Middlesbrough", "Delhi", "Pune"]}
+{"subject": "Eos Press", "object": "Seattle", "taxonomy": ["Manchester", "Taipei", "Beirut", "Chandler", "Golden"]}
+{"subject": "Seibu Kaihatsu", "object": "Japan", "taxonomy": ["Hayward", "Warsaw", "Calgary", "Malaysia", "Franklin"]}
+{"subject": "Markham & Co.", "object": "Chesterfield", "taxonomy": ["Avon", "Franklin", "Bangkok", "Nagoya", "California"]}
+{"subject": "IndusInd Bank", "object": "Mumbai", "taxonomy": ["Cincinnati", "Stamford", "Rhodes", "Coventry", "Midland"]}
+{"subject": "Crawford Composites", "object": "Denver", "taxonomy": ["Sarajevo", "Marshall", "Stamford", "Limerick", "Columbus"]}
+{"subject": "Pukka Pies", "object": "Leicestershire", "taxonomy": ["Caracas", "Lancaster", "Montana", "Madrid", "Meridian"]}
+{"subject": "Deutsche Post AG", "object": "Bonn", "taxonomy": ["Toronto", "Cairo", "Bergen", "Canton", "Sweden"]}
+{"subject": "Arcadia Group", "object": "London", "taxonomy": ["Rochester", "Helsinki", "Lausanne", "Dwight", "Hollywood"]}
+{"subject": "Asprey", "object": "London", "taxonomy": ["Charlotte", "Toyota", "Derby", "Hayward", "Vilnius"]}
+{"subject": "Nazi Party", "object": "Munich", "taxonomy": ["Minnesota", "Dhaka", "Sweden", "Bangalore", "Tbilisi"]}
+{"subject": "Belavia", "object": "Minsk", "taxonomy": ["Nashville", "Cleveland", "Hollywood", "Luxembourg", "Ottawa"]}
+{"subject": "International Tea Co. Stores", "object": "London", "taxonomy": ["Poole", "Chesapeake", "Riga", "Shanghai", "Stockholm"]}
+{"subject": "Eat'n Park", "object": "Homestead", "taxonomy": ["Alexandria", "Shanghai", "Mansfield", "Cairo", "Stockholm"]}
+{"subject": "Dangote Cement", "object": "Lagos", "taxonomy": ["Warwick", "Cologne", "Edmonton", "Meridian", "Albany"]}
+{"subject": "University of New Mexico", "object": "Albuquerque", "taxonomy": ["Brisbane", "California", "Mecca", "Toulouse", "Middlesbrough"]}
+{"subject": "Zotac", "object": "Macau", "taxonomy": ["Greenwich", "Rugby", "Central", "Albuquerque", "Ireland"]}
+{"subject": "Autodesk Media and Entertainment", "object": "Montreal", "taxonomy": ["Minnesota", "Cologne", "Nancy", "Caracas", "Berlin"]}
+{"subject": "Halliburton", "object": "Houston", "taxonomy": ["Waterloo", "Moscow", "Shrewsbury", "Athens", "Damascus"]}
+{"subject": "United Nations Observer Mission in Georgia", "object": "Tbilisi", "taxonomy": ["Cairo", "Netherlands", "Moscow", "Hawthorne", "Santiago"]}
+{"subject": "Cleveland City Stars", "object": "Cleveland", "taxonomy": ["Central", "Hamburg", "Tokyo", "Orange", "Manchester"]}
+{"subject": "Cable & Wireless Communications", "object": "London", "taxonomy": ["Kyoto", "Basel", "Kolkata", "Derby", "Seoul"]}
+{"subject": "University of Detroit Mercy", "object": "Detroit", "taxonomy": ["Montana", "Manchester", "Basel", "Warsaw", "Waterford"]}
+{"subject": "RoboCop", "object": "Detroit", "taxonomy": ["Middlesbrough", "Croydon", "Baghdad", "Manchester", "Franklin"]}
+{"subject": "9 Story Media Group", "object": "Toronto", "taxonomy": ["Italy", "Toulouse", "Vilnius", "Berlin", "Bangladesh"]}
+{"subject": "Harlan and Hollingsworth", "object": "Wilmington", "taxonomy": ["Peabody", "Wellington", "Sarajevo", "Aberdeen", "Bedford"]}
+{"subject": "Rushes Postproduction", "object": "London", "taxonomy": ["Minsk", "Oxford", "Baghdad", "Queensland", "Pasadena"]}
+{"subject": "Livingston F.C.", "object": "Livingston", "taxonomy": ["Newport", "Casablanca", "Hanover", "Prague", "Oslo"]}
+{"subject": "Coventry Building Society", "object": "Coventry", "taxonomy": ["Kyoto", "Durham", "France", "Colombo", "Shrewsbury"]}
+{"subject": "CPP Investment Board", "object": "Toronto", "taxonomy": ["Aurora", "Japan", "Sarajevo", "Montreal", "Golden"]}
+{"subject": "American Wrestling Association", "object": "Minneapolis", "taxonomy": ["Beijing", "Utrecht", "Genoa", "Tehran", "Scarborough"]}
+{"subject": "Jisc", "object": "Bristol", "taxonomy": ["Manila", "Moscow", "Bratislava", "Belfast", "Strasbourg"]}
+{"subject": "Lotte Hotels & Resorts", "object": "Seoul", "taxonomy": ["Livingston", "Jerusalem", "Springfield", "Baghdad", "Lebanon"]}
+{"subject": "Green Party of England and Wales", "object": "London", "taxonomy": ["Athens", "Thessaloniki", "Hawthorne", "Rotterdam", "Sweden"]}
+{"subject": "Republic Airways Holdings", "object": "Indianapolis", "taxonomy": ["Minneapolis", "Wayne", "Norfolk", "Birmingham", "Bristol"]}
+{"subject": "Famous Players Film Company", "object": "Hollywood", "taxonomy": ["Sheffield", "Ankara", "Copenhagen", "Santiago", "Rochester"]}
+{"subject": "American Licorice Company", "object": "Bend", "taxonomy": ["Tokyo", "Philadelphia", "Minneapolis", "Leiden", "Japan"]}
+{"subject": "Annick Press", "object": "Toronto", "taxonomy": ["Pittsburgh", "Caracas", "Warsaw", "Central", "Colorado"]}
+{"subject": "Mercure de France", "object": "Paris", "taxonomy": ["Burlington", "Bremen", "Claremont", "Nagoya", "Hayward"]}
+{"subject": "Heinz Heise", "object": "Hanover", "taxonomy": ["York", "Bordeaux", "Midland", "Jerusalem", "Jakarta"]}
+{"subject": "All India Muslim League", "object": "Lucknow", "taxonomy": ["Norfolk", "Hertfordshire", "Canton", "Meridian", "Cincinnati"]}
+{"subject": "Latvian Way", "object": "Riga", "taxonomy": ["Amherst", "Queensland", "Quincy", "Lincolnshire", "Lucknow"]}
+{"subject": "Terra Firma Capital Partners", "object": "London", "taxonomy": ["Ottawa", "Haifa", "Norfolk", "Sheffield", "Scotland"]}
+{"subject": "Bulgarian National Radio", "object": "Sofia", "taxonomy": ["Norman", "Dortmund", "Baltimore", "Stamford", "Cambridge"]}
+{"subject": "MillerCoors", "object": "Chicago", "taxonomy": ["Greenwich", "Edinburgh", "Bonn", "Nairobi", "Portsmouth"]}
+{"subject": "Baker McKenzie", "object": "Chicago", "taxonomy": ["York", "Alexandria", "Berlin", "Turin", "Albany"]}
+{"subject": "Optomen", "object": "London", "taxonomy": ["Franklin", "Warwick", "Knoxville", "Italy", "Sofia"]}
+{"subject": "Freud Communications", "object": "London", "taxonomy": ["Manchester", "Lebanon", "Manila", "Utrecht", "Boulder"]}
+{"subject": "Stroytransgaz", "object": "Moscow", "taxonomy": ["Taipei", "Beijing", "Swindon", "Toronto", "Belgium"]}
+{"subject": "Umm Al-Qura University", "object": "Mecca", "taxonomy": ["Norfolk", "Croydon", "Kabul", "Perth", "Mumbai"]}
+{"subject": "State University of New York", "object": "Albany", "taxonomy": ["Sweden", "Bend", "Pune", "Barcelona", "Stockholm"]}
+{"subject": "GMR Group", "object": "Bangalore", "taxonomy": ["Moscow", "Lima", "Haifa", "Sofia", "Italy"]}
+{"subject": "Yerevan Ararat Wine Factory", "object": "Yerevan", "taxonomy": ["Cambridge", "Nanjing", "Hagen", "Derby", "Canberra"]}
+{"subject": "Democratic Arab Socialist Union", "object": "Paris", "taxonomy": ["Dortmund", "Bangkok", "Cambridge", "Minneapolis", "Queensland"]}
+{"subject": "National Development and Reform Commission", "object": "Beijing", "taxonomy": ["Manchester", "Norwich", "Colombo", "Athens", "Queensland"]}
+{"subject": "Heart Attack Grill", "object": "Chandler", "taxonomy": ["Perth", "Boston", "Netherlands", "Delhi", "Salisbury"]}
+{"subject": "Zebra Technologies", "object": "Lincolnshire", "taxonomy": ["Middlesbrough", "Princeton", "Copenhagen", "Canton", "Munich"]}
+{"subject": "Rogers TV", "object": "Ottawa", "taxonomy": ["Derby", "Waterford", "Malaysia", "Budapest", "Bari"]}
+{"subject": "Acne Studios", "object": "Stockholm", "taxonomy": ["Bangkok", "Basel", "Dhaka", "Swindon", "Beirut"]}
+{"subject": "Norwegian News Agency", "object": "Oslo", "taxonomy": ["Hagen", "Toyota", "Waterford", "Beijing", "Croydon"]}
+{"subject": "Ocean Pacific", "object": "Irvine", "taxonomy": ["Strasbourg", "Tallinn", "Ottawa", "Bradford", "Lebanon"]}
+{"subject": "Ross Stores", "object": "Dublin", "taxonomy": ["Limerick", "Taipei", "Riga", "Rochester", "Singapore"]}
+{"subject": "European Business School Paris", "object": "Paris", "taxonomy": ["Atlanta", "Philadelphia", "Bergen", "Winnipeg", "Oxford"]}
+{"subject": "Union for the Mediterranean", "object": "Barcelona", "taxonomy": ["Milton", "Karachi", "Aurora", "Belgrade", "Hanover"]}
+{"subject": "PFC CSKA  Sofia", "object": "Sofia", "taxonomy": ["Oldham", "Madison", "Houston", "Dundee", "Waterford"]}
+{"subject": "Rank Organisation", "object": "London", "taxonomy": ["Cairo", "Macau", "Salzburg", "Detroit", "Santiago"]}
+{"subject": "Telehouse Europe", "object": "London", "taxonomy": ["France", "Lima", "Toronto", "Baltimore", "Thessaloniki"]}
+{"subject": "Jordan Marsh", "object": "Boston", "taxonomy": ["Turin", "Bournemouth", "Lagos", "Genoa", "Mansfield"]}
+{"subject": "Getlink", "object": "Paris", "taxonomy": ["Bratislava", "Bethlehem", "Vienna", "Winnipeg", "Anaheim"]}
+{"subject": "Kemira", "object": "Helsinki", "taxonomy": ["Alexandria", "Mecca", "Warwick", "Cairo", "Frankfurt"]}
+{"subject": "Norwegian Public Roads Administration", "object": "Oslo", "taxonomy": ["Madison", "Charlotte", "Kiev", "Bedford", "Quincy"]}
+{"subject": "Columbia Daily Tribune", "object": "Columbia", "taxonomy": ["Mecca", "Brooklyn", "Baku", "Bern", "Luxembourg"]}
+{"subject": "Fuji Kyuko", "object": "Japan", "taxonomy": ["Southampton", "Luxembourg", "Warwick", "Jakarta", "Bournemouth"]}
+{"subject": "Ladenburg Thalmann", "object": "Miami", "taxonomy": ["Chesapeake", "Sofia", "Sheffield", "Istanbul", "Kiel"]}
+{"subject": "Smurfit-Stone Container", "object": "Chicago", "taxonomy": ["Stamford", "Nancy", "Hamilton", "Tehran", "Lima"]}
+{"subject": "Graduate Institute of International and Development Studies", "object": "Geneva", "taxonomy": ["Aurora", "Gothenburg", "Ireland", "Peabody", "Bolton"]}
+{"subject": "Hooters", "object": "Atlanta", "taxonomy": ["Albuquerque", "Norwich", "Cologne", "Sarajevo", "Homestead"]}
+{"subject": "CTV Television Network", "object": "Toronto", "taxonomy": ["Atlanta", "Damascus", "Portsmouth", "Miami", "Salisbury"]}
+{"subject": "Istanbul Agop Cymbals", "object": "Istanbul", "taxonomy": ["Manila", "Anaheim", "Bucharest", "Limerick", "Ankara"]}
+{"subject": "Crazy Eddie", "object": "Brooklyn", "taxonomy": ["Ponce", "Dublin", "Bern", "Nagoya", "Dhaka"]}
+{"subject": "Interpol", "object": "Lyon", "taxonomy": ["Nanjing", "Santiago", "Middlesbrough", "Belgium", "Atlanta"]}
+{"subject": "Global Humanitarian Forum", "object": "Geneva", "taxonomy": ["Sheffield", "Dhaka", "Marshall", "Bucharest", "Coventry"]}
+{"subject": "Egyptian Exchange", "object": "Cairo", "taxonomy": ["Georgetown", "Leicestershire", "Stamford", "Rugby", "Cleveland"]}
+{"subject": "Darke County", "object": "Greenville", "taxonomy": ["Lincolnshire", "Philadelphia", "Moscow", "Bern", "Durham"]}
+{"subject": "Canadian National Railway", "object": "Montreal", "taxonomy": ["Lancaster", "Quincy", "Florence", "Moscow", "Perth"]}
+{"subject": "FontShop International", "object": "Berlin", "taxonomy": ["Lexington", "Lucknow", "Carlisle", "Limerick", "Vancouver"]}
+{"subject": "Russian State Archive of Literature and Art", "object": "Moscow", "taxonomy": ["Waterloo", "Troy", "Stockholm", "Hawaii", "Swindon"]}
+{"subject": "National Assessments Bureau", "object": "Wellington", "taxonomy": ["Ankara", "Baghdad", "Leicestershire", "Durham", "Croydon"]}
+{"subject": "Eurocreme", "object": "London", "taxonomy": ["Strasbourg", "Cleveland", "Blackpool", "Bergen", "Liverpool"]}
+{"subject": "De Beers", "object": "Johannesburg", "taxonomy": ["Hanover", "Norman", "Alexandria", "Turin", "Grimsby"]}
+{"subject": "Sukhoi", "object": "Moscow", "taxonomy": ["Lagos", "Luxembourg", "Italy", "Franklin", "Newport"]}
+{"subject": "Democratic Progressive Party", "object": "Taipei", "taxonomy": ["Lincolnshire", "Cleveland", "Salisbury", "Waterloo", "Genoa"]}
+{"subject": "Cardiff University", "object": "Cardiff", "taxonomy": ["Belfast", "Strasbourg", "Bucharest", "Lancaster", "Chesapeake"]}
+{"subject": "University of Strathclyde", "object": "Glasgow", "taxonomy": ["Minnesota", "Istanbul", "Zagreb", "Kolkata", "Nagoya"]}
+{"subject": "Astronomische Gesellschaft", "object": "Hamburg", "taxonomy": ["Beirut", "Manila", "Bend", "Leipzig", "Beijing"]}
+{"subject": "Associated British Foods", "object": "London", "taxonomy": ["Troy", "Bethlehem", "Toronto", "Rhodes", "Ecuador"]}
+{"subject": "Politiken", "object": "Copenhagen", "taxonomy": ["Caracas", "Norfolk", "Bremen", "Albuquerque", "Peabody"]}
+{"subject": "Dundee F.C.", "object": "Dundee", "taxonomy": ["Prague", "Liverpool", "Nairobi", "Berkeley", "Hertfordshire"]}
+{"subject": "Co-operative College", "object": "Manchester", "taxonomy": ["Sheffield", "Ottawa", "Manila", "Kolkata", "Aurora"]}
+{"subject": "Norcem", "object": "Oslo", "taxonomy": ["Anaheim", "Homestead", "Coventry", "Franklin", "Hawthorne"]}
+{"subject": "The Royal Conservatory of Music", "object": "Toronto", "taxonomy": ["Rome", "Bangkok", "Claremont", "Israel", "Bergen"]}
+{"subject": "ARM Holdings", "object": "Cambridge", "taxonomy": ["Northampton", "Colchester", "Ottawa", "Barcelona", "Toronto"]}
+{"subject": "Velocette", "object": "Birmingham", "taxonomy": ["Toulouse", "Haifa", "Derby", "Minneapolis", "Bangalore"]}
+{"subject": "Sporveien", "object": "Oslo", "taxonomy": ["Prague", "Georgetown", "Minneapolis", "Sydney", "Edmonton"]}
+{"subject": "Harvard Medical School", "object": "Boston", "taxonomy": ["Helsinki", "Utrecht", "Toulouse", "Amsterdam", "Chesapeake"]}
+{"subject": "National Security Intelligence", "object": "Dhaka", "taxonomy": ["Detroit", "Troy", "Waterford", "Bangalore", "Blackpool"]}
+{"subject": "International Trade Centre", "object": "Geneva", "taxonomy": ["Santiago", "Miami", "Florence", "Lancaster", "Durham"]}
+{"subject": "Mirage Studios", "object": "Northampton", "taxonomy": ["Dwight", "Tehran", "Istanbul", "Sofia", "Rotterdam"]}
+{"subject": "Minerva", "object": "London", "taxonomy": ["Kyoto", "Monroe", "Hanover", "Vancouver", "Damascus"]}
+{"subject": "World Class Championship Wrestling", "object": "Dallas", "taxonomy": ["Goa", "Chennai", "Norfolk", "Midland", "London"]}
+{"subject": "Csepel SC", "object": "Budapest", "taxonomy": ["Scotland", "Bucharest", "Karachi", "Montana", "Wolverhampton"]}
+{"subject": "Historic New England", "object": "Boston", "taxonomy": ["Ponce", "Lima", "Dunedin", "Brooklyn", "Glasgow"]}
+{"subject": "Northern Foods", "object": "Leeds", "taxonomy": ["Goa", "Tehran", "Kiel", "Sydney", "Limerick"]}
+{"subject": "Rabobank", "object": "Utrecht", "taxonomy": ["Chesapeake", "York", "Montana", "Leipzig", "Providence"]}
+{"subject": "Stronach Group", "object": "Aurora", "taxonomy": ["Salisbury", "Lahore", "Berkeley", "Rhodes", "Bonn"]}
+{"subject": "Jim Beam", "object": "Chicago", "taxonomy": ["Minsk", "Salisbury", "Southampton", "Ankara", "Bangkok"]}
+{"subject": "Oslo Commerce School", "object": "Oslo", "taxonomy": ["Vilnius", "Bournemouth", "Bari", "Livingston", "Southampton"]}
+{"subject": "Chinese Skating Association", "object": "Beijing", "taxonomy": ["Casablanca", "Wolverhampton", "Columbia", "Manchester", "Minnesota"]}
+{"subject": "Ferrero SpA", "object": "Alba", "taxonomy": ["Lexington", "Montana", "Franklin", "Beijing", "Belgium"]}
+{"subject": "EMI", "object": "London", "taxonomy": ["Perth", "Shrewsbury", "Honolulu", "Brisbane", "Cardiff"]}
+{"subject": "Bauer Type Foundry", "object": "Frankfurt", "taxonomy": ["Brighton", "Rosario", "Stamford", "Santiago", "Midland"]}
+{"subject": "Alberta Government Telephones", "object": "Edmonton", "taxonomy": ["Newport", "Jakarta", "Mansfield", "Sarajevo", "Liverpool"]}
+{"subject": "Child World", "object": "Avon", "taxonomy": ["Seoul", "Kiel", "Sofia", "Utrecht", "Toyota"]}
+{"subject": "Matrix Software", "object": "Tokyo", "taxonomy": ["Japan", "Geneva", "Milwaukee", "Helsinki", "Providence"]}
+{"subject": "Scotiabank", "object": "Toronto", "taxonomy": ["Delhi", "Athens", "Montana", "Columbus", "Rotterdam"]}
+{"subject": "HHCL", "object": "London", "taxonomy": ["Leipzig", "Prague", "Lyon", "Thessaloniki", "Quincy"]}
+{"subject": "Baskin-Robbins", "object": "Canton", "taxonomy": ["Hollywood", "Pune", "Mansfield", "Bend", "Nashville"]}
+{"subject": "Smirnoff", "object": "Moscow", "taxonomy": ["Atlanta", "Scarborough", "Newport", "Seoul", "Dallas"]}
+{"subject": "A.S. Nancy-Lorraine", "object": "Nancy", "taxonomy": ["Casablanca", "Vienna", "Greenville", "Sarajevo", "Golden"]}
+{"subject": "Digital Chameleon", "object": "Winnipeg", "taxonomy": ["Southampton", "Ireland", "Leipzig", "Montreal", "Peabody"]}
+{"subject": "Seagram Company Ltd.", "object": "Montreal", "taxonomy": ["Budapest", "Durham", "Belgium", "Avon", "Perth"]}
+{"subject": "Frederick & Nelson", "object": "Seattle", "taxonomy": ["Quincy", "Leiden", "Netherlands", "Genoa", "Ponce"]}
+{"subject": "Andrew Handyside and Company", "object": "Derby", "taxonomy": ["Oslo", "Japan", "Denver", "Newport", "Wilmington"]}
+{"subject": "Dickinson College", "object": "Carlisle", "taxonomy": ["Dublin", "Indianapolis", "Irvine", "Paramount", "Bangkok"]}
+{"subject": "Hinkley Locomotive Works", "object": "Boston", "taxonomy": ["Franklin", "Montevideo", "Houston", "Albuquerque", "Stamford"]}
+{"subject": "Wadia Group", "object": "Mumbai", "taxonomy": ["Kabul", "Montevideo", "Kiev", "Lima", "Nanjing"]}
+{"subject": "SoundCloud", "object": "Berlin", "taxonomy": ["Mansfield", "Quincy", "York", "Moscow", "Egypt"]}
+{"subject": "PACE Sports Management", "object": "London", "taxonomy": ["Amsterdam", "Paramount", "Taipei", "Southampton", "Utrecht"]}
+{"subject": "École des hautes études commerciales du nord", "object": "Paris", "taxonomy": ["Turin", "Strasbourg", "Springfield", "Bremen", "Chesterfield"]}
+{"subject": "Colefax Group", "object": "London", "taxonomy": ["Poole", "Bristol", "Amsterdam", "Meridian", "Ireland"]}
+{"subject": "Wimm-Bill-Dann Foods", "object": "Moscow", "taxonomy": ["Lebanon", "Tampa", "Avon", "Hayward", "Anaheim"]}
+{"subject": "University at Buffalo", "object": "Amherst", "taxonomy": ["Strasbourg", "Tallinn", "Hagen", "Rhodes", "Bolton"]}
+{"subject": "Danish Film Institute", "object": "Copenhagen", "taxonomy": ["Bangkok", "Milton", "Sofia", "Bratislava", "Frankfurt"]}
+{"subject": "Coal India", "object": "Kolkata", "taxonomy": ["Lausanne", "Providence", "Berkeley", "Damascus", "Swindon"]}
+{"subject": "Cadillac", "object": "Detroit", "taxonomy": ["Japan", "Seattle", "Alexandria", "Swindon", "Lexington"]}
+{"subject": "Telia Company", "object": "Stockholm", "taxonomy": ["Southampton", "Waterford", "Durham", "Middlesbrough", "London"]}
+{"subject": "Second Bank of the United States", "object": "Philadelphia", "taxonomy": ["Geneva", "Nanjing", "Cairo", "Leipzig", "Greenwich"]}
+{"subject": "Munich Re", "object": "Munich", "taxonomy": ["Belfast", "Nashville", "Wilmington", "Liverpool", "Warwick"]}
+{"subject": "Energopetrol", "object": "Sarajevo", "taxonomy": ["Indianapolis", "Pasadena", "Bedford", "Blackpool", "Hawthorne"]}
+{"subject": "Artnet", "object": "Berlin", "taxonomy": ["Ireland", "Gothenburg", "Cleveland", "Waterloo", "Nancy"]}
+{"subject": "Progressive Conservative Association of Alberta", "object": "Edmonton", "taxonomy": ["Waterloo", "France", "Canberra", "Hamilton", "Charlotte"]}
+{"subject": "Atlantis FC", "object": "Helsinki", "taxonomy": ["Cincinnati", "Lausanne", "Genoa", "Bangladesh", "Amherst"]}
+{"subject": "EasyJet Switzerland", "object": "Geneva", "taxonomy": ["Norman", "Delhi", "Dhaka", "Oxford", "Lausanne"]}
+{"subject": "University of Bucharest", "object": "Bucharest", "taxonomy": ["Bournemouth", "Istanbul", "Basel", "Ponce", "Marshall"]}
+{"subject": "Sharp, Stewart and Company", "object": "Glasgow", "taxonomy": ["Kyoto", "Marshall", "Lima", "France", "Chicago"]}
+{"subject": "South Side Elevated Railroad", "object": "Chicago", "taxonomy": ["Waterford", "Livingston", "Rochester", "Carlisle", "Oldham"]}
+{"subject": "Universal Esperanto Association", "object": "Rotterdam", "taxonomy": ["Blackpool", "Colorado", "Columbia", "Bangalore", "Leipzig"]}
+{"subject": "Staver", "object": "Chicago", "taxonomy": ["Aberdeen", "Nuremberg", "Seoul", "Rhodes", "Berlin"]}
+{"subject": "Racing Club de Montevideo", "object": "Montevideo", "taxonomy": ["Avon", "Melbourne", "Grimsby", "London", "Thessaloniki"]}
+{"subject": "British Railways Board", "object": "London", "taxonomy": ["Damascus", "Georgetown", "Sydney", "York", "Montreal"]}
+{"subject": "European Aviation Safety Agency", "object": "Cologne", "taxonomy": ["Salisbury", "Belgium", "Kiel", "California", "Columbia"]}
+{"subject": "Haifa Theatre", "object": "Haifa", "taxonomy": ["Sheffield", "Meridian", "Amsterdam", "Hertfordshire", "Philadelphia"]}
+{"subject": "B. Hick and Sons", "object": "Bolton", "taxonomy": ["Dallas", "Central", "Springfield", "Bari", "Colchester"]}
+{"subject": "Eesti Televisioon", "object": "Tallinn", "taxonomy": ["Cambridge", "Wolverhampton", "Vancouver", "Milwaukee", "Derby"]}
+{"subject": "Intransitive Recordings", "object": "Cambridge", "taxonomy": ["Warwick", "Nagoya", "Baltimore", "Delhi", "Mumbai"]}
+{"subject": "Teesside University", "object": "Middlesbrough", "taxonomy": ["Paramount", "Claremont", "Dallas", "Berkeley", "Belgrade"]}
+{"subject": "Monell Chemical Senses Center", "object": "Philadelphia", "taxonomy": ["Honolulu", "Derby", "Marshall", "Montana", "Kyoto"]}
+{"subject": "Henry Ford Health System", "object": "Detroit", "taxonomy": ["Glasgow", "Alexandria", "Italy", "Honolulu", "Porto"]}
+{"subject": "Canada West Foundation", "object": "Calgary", "taxonomy": ["Belgium", "Croydon", "Central", "Budapest", "Waterloo"]}
+{"subject": "Viper Comics", "object": "Dallas", "taxonomy": ["Goa", "Belgium", "Winnipeg", "Zagreb", "Belgrade"]}
+{"subject": "Acid Jazz Records", "object": "London", "taxonomy": ["Berlin", "Chesapeake", "Dundee", "Baku", "Columbus"]}
+{"subject": "Brooks Sports", "object": "Seattle", "taxonomy": ["Dallas", "Budapest", "Rome", "Hawaii", "Golden"]}
+{"subject": "Brown Company", "object": "Berlin", "taxonomy": ["Dresden", "Egypt", "Goa", "Durham", "Turin"]}
+{"subject": "Polydor Records", "object": "London", "taxonomy": ["Strasbourg", "Tampa", "Chesterfield", "Macau", "Pune"]}
+{"subject": "Fat Cat Records", "object": "Brighton", "taxonomy": ["Boston", "Columbia", "Belgium", "Geneva", "Waterford"]}
+{"subject": "National Technical University of Athens", "object": "Athens", "taxonomy": ["Central", "Madrid", "Scotland", "Damascus", "Oslo"]}
+{"subject": "Gray Television", "object": "Atlanta", "taxonomy": ["Montreal", "Italy", "Bangkok", "Berlin", "Columbia"]}
+{"subject": "Tatts Group", "object": "Queensland", "taxonomy": ["Paramount", "Thessaloniki", "Aberdeen", "Norman", "Vilnius"]}
+{"subject": "Shanghai Jiao Tong University", "object": "Shanghai", "taxonomy": ["Milwaukee", "Lancaster", "Nairobi", "Seoul", "Minneapolis"]}
+{"subject": "Sun Media Corporation", "object": "Toronto", "taxonomy": ["Sydney", "Georgetown", "Wayne", "Greenwich", "Meridian"]}
+{"subject": "North British Locomotive Company", "object": "Glasgow", "taxonomy": ["Chennai", "Budapest", "Knoxville", "Macau", "Nancy"]}
+{"subject": "SunTrust Banks", "object": "Atlanta", "taxonomy": ["Lausanne", "Lancaster", "Carlisle", "Santiago", "Yerevan"]}
+{"subject": "Jacobs University Bremen", "object": "Bremen", "taxonomy": ["Netherlands", "Colombo", "Houston", "Greenville", "Bangladesh"]}
+{"subject": "Limerick F.C.", "object": "Limerick", "taxonomy": ["Meridian", "Jakarta", "Wayne", "Nuremberg", "York"]}
+{"subject": "Fore River Shipyard", "object": "Quincy", "taxonomy": ["Lebanon", "Warsaw", "Rochester", "Orange", "Midland"]}
+{"subject": "Lippo Group", "object": "Jakarta", "taxonomy": ["Bangkok", "Ecuador", "Wellington", "Tokyo", "Lagos"]}
+{"subject": "Israel Electric Corporation", "object": "Haifa", "taxonomy": ["Irvine", "Florence", "Albuquerque", "Milan", "Bucharest"]}
+{"subject": "Mander Brothers", "object": "Wolverhampton", "taxonomy": ["Wayne", "Bedford", "Dublin", "Amsterdam", "Ankara"]}
+{"subject": "Republic Pictures", "object": "Hollywood", "taxonomy": ["Frankfurt", "Boston", "Brisbane", "Santiago", "Orange"]}
+{"subject": "Dargaud", "object": "Paris", "taxonomy": ["Bremen", "Middlesbrough", "Northampton", "Lancaster", "Leiden"]}
+{"subject": "Nintendo", "object": "Kyoto", "taxonomy": ["Nuremberg", "Colorado", "Anaheim", "Hawaii", "Santiago"]}
+{"subject": "Crossroads Christian Communications", "object": "Burlington", "taxonomy": ["Bonn", "Sofia", "Hollywood", "Canton", "Montana"]}
+{"subject": "Jane Goodall Institute", "object": "Vienna", "taxonomy": ["Ireland", "Edmonton", "Ottawa", "Mecca", "Dundee"]}
+{"subject": "Bristol & West", "object": "Bristol", "taxonomy": ["Ecuador", "Yerevan", "Limerick", "Genoa", "Detroit"]}
+{"subject": "Jewel-Osco", "object": "Chicago", "taxonomy": ["Utrecht", "Turin", "Johannesburg", "Mecca", "Cairo"]}
+{"subject": "University of Valencia", "object": "Valencia", "taxonomy": ["Dresden", "Leeds", "Belfast", "Milwaukee", "Wilmington"]}
+{"subject": "New Azerbaijan Party", "object": "Baku", "taxonomy": ["Prague", "Norman", "Lucknow", "Berlin", "Warsaw"]}
+{"subject": "Chello Multicanal", "object": "Madrid", "taxonomy": ["Oslo", "Burlington", "Bangkok", "Tbilisi", "Moscow"]}
+{"subject": "Prairie Mountain Publishing", "object": "Boulder", "taxonomy": ["Leeds", "Bend", "Aurora", "Strasbourg", "Turin"]}
+{"subject": "Hasselblad", "object": "Gothenburg", "taxonomy": ["Hamburg", "Chesapeake", "Goa", "Claremont", "Bucharest"]}
+{"subject": "University of Cambridge", "object": "Cambridge", "taxonomy": ["Melbourne", "Oslo", "Grimsby", "Warwick", "Providence"]}
+{"subject": "Urban Outfitters", "object": "Philadelphia", "taxonomy": ["Shrewsbury", "Tbilisi", "Vilnius", "Meridian", "Northampton"]}
+{"subject": "The Denver Dry Goods Company", "object": "Denver", "taxonomy": ["Valencia", "Geneva", "Belfast", "Macau", "Swindon"]}
+{"subject": "Miracle Mart", "object": "Montreal", "taxonomy": ["Bethlehem", "Manila", "Karachi", "Amsterdam", "Irvine"]}
+{"subject": "Sunrise Party", "object": "Tokyo", "taxonomy": ["Ottawa", "Nanjing", "Colorado", "Glasgow", "Milwaukee"]}
+{"subject": "Astaldi", "object": "Rome", "taxonomy": ["Columbia", "Wilmington", "Chesapeake", "Mumbai", "Detroit"]}
+{"subject": "BMC Software", "object": "Houston", "taxonomy": ["Hamilton", "Honolulu", "Central", "Montevideo", "Providence"]}
+{"subject": "Argo Tea", "object": "Chicago", "taxonomy": ["Norfolk", "Poole", "Thessaloniki", "Central", "Beijing"]}
+{"subject": "Edda Media", "object": "Oslo", "taxonomy": ["Northampton", "Bolton", "Lahore", "Lexington", "Irvine"]}
+{"subject": "Six Shooter Records", "object": "Toronto", "taxonomy": ["Central", "Bethlehem", "Edmonton", "Alba", "Swindon"]}
+{"subject": "de Havilland", "object": "Hertfordshire", "taxonomy": ["Toulouse", "Calgary", "California", "Chesterfield", "Rotterdam"]}
+{"subject": "Boston Market", "object": "Boston", "taxonomy": ["Taipei", "Edinburgh", "Delhi", "Charlotte", "Lucknow"]}
+{"subject": "AC Entertainment", "object": "Knoxville", "taxonomy": ["Nanjing", "Athens", "Warwick", "Milwaukee", "Vienna"]}
+{"subject": "Royal Australian Air Force", "object": "Canberra", "taxonomy": ["Sheffield", "Leipzig", "Copenhagen", "Southampton", "Tallinn"]}
+{"subject": "DCD Media", "object": "London", "taxonomy": ["Bergen", "Tokyo", "Bangladesh", "Milan", "Albuquerque"]}
+{"subject": "Legoland", "object": "Poole", "taxonomy": ["Lucknow", "Sweden", "Queensland", "Tehran", "Albany"]}
+{"subject": "Boston Athletic Association", "object": "Boston", "taxonomy": ["Chennai", "Canton", "Wolverhampton", "Tampa", "Barcelona"]}
+{"subject": "Emily Carr University of Art and Design", "object": "Vancouver", "taxonomy": ["Belfast", "Delhi", "Chandler", "Damascus", "Bari"]}
+{"subject": "Club Med", "object": "Paris", "taxonomy": ["Norfolk", "Tallinn", "Sydney", "Hamburg", "Munich"]}
+{"subject": "STX Europe", "object": "Oslo", "taxonomy": ["Italy", "Chesapeake", "Kyoto", "Golden", "Baghdad"]}
+{"subject": "NBC Sports Chicago", "object": "Chicago", "taxonomy": ["Bergen", "Leiden", "Rhodes", "Dortmund", "Moscow"]}
+{"subject": "University of South Florida", "object": "Tampa", "taxonomy": ["Moscow", "Minneapolis", "Lancaster", "Bordeaux", "Chicago"]}
+{"subject": "Montreal Light, Heat & Power", "object": "Montreal", "taxonomy": ["Israel", "Taipei", "Oldham", "Hamburg", "Princeton"]}
+{"subject": "Microland", "object": "Bangalore", "taxonomy": ["Brooklyn", "Montana", "Vancouver", "Macau", "Melbourne"]}
+{"subject": "Biman Bangladesh Airlines", "object": "Dhaka", "taxonomy": ["Wolverhampton", "Mecca", "Midland", "Seoul", "Chennai"]}
+{"subject": "Pitchfork", "object": "Chicago", "taxonomy": ["Cardiff", "Marshall", "Lexington", "Utrecht", "Cambridge"]}
+{"subject": "Wood Gundy", "object": "Toronto", "taxonomy": ["Orange", "Milton", "Ireland", "Cambridge", "Rhodes"]}
+{"subject": "Coventry Climax", "object": "Coventry", "taxonomy": ["Basel", "Copenhagen", "Rome", "Madison", "Beijing"]}
+{"subject": "GTCR", "object": "Chicago", "taxonomy": ["Colchester", "Genoa", "Burlington", "Oldham", "Cardiff"]}
+{"subject": "UBM plc", "object": "London", "taxonomy": ["Zagreb", "York", "Lancaster", "Hamilton", "Burlington"]}
+{"subject": "Citilink", "object": "Jakarta", "taxonomy": ["Prague", "Malaysia", "Beijing", "Yerevan", "Mecca"]}
+{"subject": "St Patrick's Athletic F.C.", "object": "Dublin", "taxonomy": ["Casablanca", "Hertfordshire", "Aberdeen", "Montreal", "Chesterfield"]}
+{"subject": "Marilyn Agency", "object": "Paris", "taxonomy": ["Hayward", "Hamburg", "Ireland", "Indianapolis", "Lima"]}
+{"subject": "Fudan University", "object": "Shanghai", "taxonomy": ["Boulder", "Honolulu", "Taipei", "Seattle", "Birmingham"]}
+{"subject": "BBC Radio", "object": "London", "taxonomy": ["Manchester", "Swindon", "Manila", "Calgary", "Warwick"]}
+{"subject": "Dollar Tree", "object": "Chesapeake", "taxonomy": ["Bratislava", "Kabul", "Philadelphia", "Tallinn", "Boulder"]}
+{"subject": "Faculty of Law (University of Sarajevo)", "object": "Sarajevo", "taxonomy": ["Paramount", "Berkeley", "Dunedin", "Salzburg", "Ecuador"]}
+{"subject": "Waco Aircraft Company", "object": "Troy", "taxonomy": ["Chicago", "Dhaka", "Tokyo", "Budapest", "Lexington"]}
+{"subject": "Delta Holding", "object": "Belgrade", "taxonomy": ["Cleveland", "Boston", "Franklin", "Kiel", "Portsmouth"]}
+{"subject": "Motosacoche", "object": "Geneva", "taxonomy": ["Bergen", "Leeds", "Dhaka", "Rhodes", "Minsk"]}
+{"subject": "P2P Foundation", "object": "Amsterdam", "taxonomy": ["Goa", "Wilmington", "Kabul", "Hayward", "Alexandria"]}
+{"subject": "HSH Nordbank", "object": "Hamburg", "taxonomy": ["Lyon", "Kiev", "Sarajevo", "California", "Paramount"]}
+{"subject": "FC Pyunik", "object": "Yerevan", "taxonomy": ["Quincy", "Lebanon", "Springfield", "Miami", "Hawaii"]}
+{"subject": "Soviet Air Defence Forces", "object": "Moscow", "taxonomy": ["Madison", "Sofia", "Cairo", "Alba", "Turin"]}
+{"subject": "Omni Hotels & Resorts", "object": "Dallas", "taxonomy": ["Prague", "Pune", "Barcelona", "Hawthorne", "Waterford"]}
+{"subject": "Nippon Cultural Broadcasting", "object": "Tokyo", "taxonomy": ["Lincolnshire", "Boston", "Damascus", "Rochester", "Georgetown"]}
+{"subject": "Delhi Transport Corporation", "object": "Delhi", "taxonomy": ["Santiago", "Nagoya", "Dresden", "Vilnius", "Atlanta"]}
+{"subject": "1. FC Lokomotive Leipzig", "object": "Leipzig", "taxonomy": ["Brisbane", "Dallas", "Lahore", "Croydon", "Winnipeg"]}
+{"subject": "Berenberg Bank", "object": "Hamburg", "taxonomy": ["Albuquerque", "Alba", "Colorado", "Toulouse", "Hollywood"]}
+{"subject": "Newport County A.F.C.", "object": "Newport", "taxonomy": ["Colombo", "Haifa", "Belfast", "Leicestershire", "Shanghai"]}
+{"subject": "International Socialist Tendency", "object": "London", "taxonomy": ["Bethlehem", "Limerick", "Boston", "York", "Coventry"]}
+{"subject": "DFDS", "object": "Copenhagen", "taxonomy": ["Stamford", "Chesterfield", "Strasbourg", "Scotland", "Ponce"]}
+{"subject": "Dogfish Head Brewery", "object": "Milton", "taxonomy": ["Salzburg", "Berlin", "Helsinki", "Jerusalem", "Winnipeg"]}
+{"subject": "Leeds Permanent Building Society", "object": "Leeds", "taxonomy": ["Honolulu", "Dhaka", "Lucknow", "Utrecht", "Knoxville"]}
+{"subject": "Austereo Radio Network", "object": "Melbourne", "taxonomy": ["Genoa", "Golden", "Cairo", "Amsterdam", "Wellington"]}
+{"subject": "TMF Nederland", "object": "Amsterdam", "taxonomy": ["Cincinnati", "Springfield", "Ponce", "Delhi", "Damascus"]}
+{"subject": "Keshavarz F.C.", "object": "Tehran", "taxonomy": ["Troy", "Ottawa", "Vilnius", "Ecuador", "Tampa"]}
+{"subject": "Cummins", "object": "Columbus", "taxonomy": ["Glasgow", "Manchester", "Nagoya", "Bolton", "France"]}
+{"subject": "Newcomen Society", "object": "London", "taxonomy": ["Lima", "Montevideo", "Dortmund", "Bangalore", "Edmonton"]}
+{"subject": "Chicago Public Library", "object": "Chicago", "taxonomy": ["Salzburg", "Cincinnati", "Utrecht", "Bournemouth", "Athens"]}
+{"subject": "BlueSky Software", "object": "California", "taxonomy": ["Milton", "Budapest", "Porto", "Taipei", "Ankara"]}
+{"subject": "Republican Left of Catalonia", "object": "Barcelona", "taxonomy": ["Birmingham", "Southampton", "Copenhagen", "Houston", "Dallas"]}
+{"subject": "El Dorado Wrestling", "object": "Tokyo", "taxonomy": ["Boston", "Liverpool", "Hawthorne", "Nanjing", "Brooklyn"]}
+{"subject": "Tundra Books", "object": "Toronto", "taxonomy": ["Nanjing", "Rotterdam", "Toyota", "Peabody", "Malaysia"]}
+{"subject": "LG Chem", "object": "Seoul", "taxonomy": ["Lima", "Edmonton", "Rhodes", "Cairo", "Lyon"]}
+{"subject": "Tanzeem-e-Islami", "object": "Lahore", "taxonomy": ["Blackpool", "Dresden", "Canberra", "Milwaukee", "Leiden"]}
+{"subject": "Germanwings", "object": "Cologne", "taxonomy": ["Hawthorne", "Detroit", "Lagos", "Paris", "Leipzig"]}
+{"subject": "Sora Ltd.", "object": "Tokyo", "taxonomy": ["Jakarta", "Bournemouth", "Lucknow", "Paris", "Lincolnshire"]}
+{"subject": "Sportskeeda", "object": "Bangalore", "taxonomy": ["Casablanca", "Chesapeake", "Claremont", "Egypt", "Kiel"]}
+{"subject": "Centralwings", "object": "Warsaw", "taxonomy": ["Peabody", "Sydney", "Chesapeake", "Florence", "Goa"]}
+{"subject": "Bank Mellat", "object": "Tehran", "taxonomy": ["Baltimore", "Johannesburg", "Bergen", "Anaheim", "Scarborough"]}
+{"subject": "Rupa & Co.", "object": "Kolkata", "taxonomy": ["Denver", "Queensland", "Chandler", "Strasbourg", "Houston"]}
+{"subject": "game companies named Stern", "object": "Chicago", "taxonomy": ["Minnesota", "Jerusalem", "Ottawa", "Albany", "Toyota"]}
+{"subject": "Deutsche Reichsbahn (GDR)", "object": "Berlin", "taxonomy": ["Beijing", "Newport", "York", "Avon", "Frankfurt"]}
+{"subject": "NTUC FairPrice", "object": "Singapore", "taxonomy": ["Ottawa", "Hayward", "Dwight", "Tokyo", "Brisbane"]}
+{"subject": "NACCO Industries", "object": "Cleveland", "taxonomy": ["Norwich", "Rotterdam", "Leicestershire", "Paris", "Ankara"]}
+{"subject": "Crystal Palace Baltimore", "object": "Baltimore", "taxonomy": ["Vancouver", "Paramount", "Queensland", "Central", "Providence"]}
+{"subject": "Lakeshore Technical College", "object": "Cleveland", "taxonomy": ["Hagen", "Homestead", "Milton", "Nairobi", "Indianapolis"]}
+{"subject": "Cinevistaas Limited", "object": "Mumbai", "taxonomy": ["Liverpool", "Montevideo", "Hollywood", "Wellington", "Warwick"]}
+{"subject": "Lyndon B. Johnson Space Center", "object": "Houston", "taxonomy": ["Hawthorne", "Bari", "Marshall", "Johannesburg", "Cairo"]}
+{"subject": "Slip-n-Slide Records", "object": "Miami", "taxonomy": ["Winnipeg", "Yerevan", "Wellington", "Shrewsbury", "Milwaukee"]}
+{"subject": "Singapore Bus Service", "object": "Singapore", "taxonomy": ["Carlisle", "Yerevan", "Nancy", "Toulouse", "Shanghai"]}
+{"subject": "MacMillan Bloedel", "object": "Vancouver", "taxonomy": ["Livingston", "Swindon", "Croydon", "Bangkok", "Bucharest"]}
+{"subject": "World Championship Wrestling", "object": "Atlanta", "taxonomy": ["Madison", "Nancy", "Salisbury", "Midland", "Carlisle"]}
+{"subject": "Baja Fresh", "object": "Irvine", "taxonomy": ["Bedford", "Nuremberg", "Mumbai", "Monroe", "Bucharest"]}
+{"subject": "CEDADE", "object": "Barcelona", "taxonomy": ["Denver", "Wilmington", "Dhaka", "Waterloo", "Nanjing"]}
+{"subject": "Christian Salvesen", "object": "Edinburgh", "taxonomy": ["Beijing", "Prague", "Sweden", "Singapore", "Vilnius"]}
+{"subject": "EDP Renewables North America", "object": "Houston", "taxonomy": ["Honolulu", "Providence", "Ponce", "Oldham", "Midland"]}
+{"subject": "Vanderbilt University", "object": "Nashville", "taxonomy": ["Macau", "Georgetown", "Hollywood", "Brisbane", "Singapore"]}
+{"subject": "Royal Automobile Club of Queensland", "object": "Queensland", "taxonomy": ["Mansfield", "Marshall", "London", "Hayward", "Baghdad"]}
+{"subject": "Douglas Holding", "object": "Hagen", "taxonomy": ["Winnipeg", "Riga", "Budapest", "Moscow", "Midland"]}
+{"subject": "Klipfolio Dashboard", "object": "Ottawa", "taxonomy": ["Marshall", "Dunedin", "Lancaster", "Durham", "Houston"]}
+{"subject": "Norwegian Industrial Property Office", "object": "Oslo", "taxonomy": ["Berkeley", "Chandler", "Bratislava", "Stamford", "Nagoya"]}
+{"subject": "Harvey Mudd College", "object": "Claremont", "taxonomy": ["Pasadena", "Hagen", "Manila", "Ecuador", "Lancaster"]}
+{"subject": "Geo D. Whitcomb Company", "object": "Chicago", "taxonomy": ["Lexington", "Cleveland", "Porto", "Sofia", "Kolkata"]}
+{"subject": "Kids Can Press", "object": "Toronto", "taxonomy": ["Thessaloniki", "Jerusalem", "Brighton", "Wolverhampton", "Avon"]}
+{"subject": "Turkish Radio and Television Corporation", "object": "Ankara", "taxonomy": ["Avon", "Waterloo", "Lagos", "Troy", "Budapest"]}
+{"subject": "iRobot", "object": "Bedford", "taxonomy": ["Genoa", "Baltimore", "Canberra", "Rome", "Utrecht"]}
+{"subject": "Warp Films", "object": "Sheffield", "taxonomy": ["Gothenburg", "Nanjing", "Alexandria", "Kiev", "Lausanne"]}
+{"subject": "Digital Eel", "object": "Seattle", "taxonomy": ["Dublin", "Leipzig", "Kiel", "Manila", "Springfield"]}
+{"subject": "League of Communists of Yugoslavia", "object": "Belgrade", "taxonomy": ["Pittsburgh", "Queensland", "Cairo", "Lincolnshire", "Lausanne"]}
+{"subject": "Wiener AC", "object": "Vienna", "taxonomy": ["Ponce", "Belfast", "Burlington", "Seoul", "Cardiff"]}
+{"subject": "Fraser Institute", "object": "Vancouver", "taxonomy": ["Lexington", "Winnipeg", "Quincy", "Rhodes", "Bangalore"]}
+{"subject": "Eurasian Natural Resources Corporation", "object": "London", "taxonomy": ["Lausanne", "Bangkok", "Delhi", "Colorado", "France"]}
+{"subject": "LWRC International", "object": "Cambridge", "taxonomy": ["Minnesota", "Scotland", "Pittsburgh", "Bradford", "Mansfield"]}
+{"subject": "Alitalia-Linee Aeree Italiane", "object": "Rome", "taxonomy": ["Madison", "Lausanne", "Taipei", "Amsterdam", "Athens"]}
+{"subject": "Transarc", "object": "Pittsburgh", "taxonomy": ["Beirut", "Lausanne", "Anaheim", "Hamburg", "Albuquerque"]}
+{"subject": "Sega Sports R&D", "object": "Japan", "taxonomy": ["Lima", "Hawaii", "Lexington", "Vancouver", "Birmingham"]}
+{"subject": "Royal Numismatic Society", "object": "London", "taxonomy": ["Denver", "Geneva", "Pasadena", "Hawthorne", "Lagos"]}
+{"subject": "Wien-Film", "object": "Vienna", "taxonomy": ["Boulder", "Honolulu", "Dundee", "Miami", "Yerevan"]}
+{"subject": "Vancouver Royals", "object": "Vancouver", "taxonomy": ["Paramount", "Albuquerque", "Durham", "Valencia", "Amherst"]}
+{"subject": "IF Brommapojkarna", "object": "Stockholm", "taxonomy": ["Lahore", "Goa", "Mumbai", "Honolulu", "Munich"]}
+{"subject": "Bristol Aerospace", "object": "Winnipeg", "taxonomy": ["Nagoya", "Hagen", "Troy", "Caracas", "Wilmington"]}
+{"subject": "Northern Championship Wrestling", "object": "Montreal", "taxonomy": ["Pune", "Greenwich", "Gothenburg", "Quincy", "Glasgow"]}
+{"subject": "Eros International", "object": "Mumbai", "taxonomy": ["Italy", "Vienna", "Malaysia", "Aurora", "Thessaloniki"]}
+{"subject": "Nymphenburg Porcelain Manufactory", "object": "Munich", "taxonomy": ["Lausanne", "Warsaw", "Boulder", "Tampa", "Nancy"]}
+{"subject": "Popular National Union", "object": "Warsaw", "taxonomy": ["Rosario", "Baghdad", "Alexandria", "Bari", "Ankara"]}
+{"subject": "Caproni", "object": "Milan", "taxonomy": ["Cairo", "Seattle", "Lyon", "Italy", "York"]}
+{"subject": "Croatian National Bank", "object": "Zagreb", "taxonomy": ["Oslo", "Rugby", "Dallas", "Leiden", "Gothenburg"]}
+{"subject": "ISG Business School", "object": "Paris", "taxonomy": ["Johannesburg", "Miami", "Pittsburgh", "Liverpool", "Central"]}
+{"subject": "University of Washington", "object": "Seattle", "taxonomy": ["Greenville", "Georgetown", "Colorado", "Bordeaux", "Singapore"]}
+{"subject": "Bergverlag Rother", "object": "Munich", "taxonomy": ["Croydon", "Denver", "Dortmund", "Sydney", "Dublin"]}
+{"subject": "Case Western Reserve University", "object": "Cleveland", "taxonomy": ["Cologne", "Budapest", "Tehran", "Calgary", "Florence"]}
+{"subject": "Sherwin-Williams", "object": "Cleveland", "taxonomy": ["Bethlehem", "Bradford", "Minneapolis", "Greenwich", "Chennai"]}
+{"subject": "Ericsson", "object": "Stockholm", "taxonomy": ["Edmonton", "Milton", "Northampton", "Ecuador", "Thessaloniki"]}
+{"subject": "Campari Group", "object": "Milan", "taxonomy": ["Dwight", "Nanjing", "Leeds", "Milwaukee", "Bangalore"]}
+{"subject": "Sporting Clube de Goa", "object": "Goa", "taxonomy": ["Brighton", "Bari", "Amherst", "Bonn", "Anaheim"]}
+{"subject": "UAL Corporation", "object": "Chicago", "taxonomy": ["Rosario", "Leeds", "Minsk", "Charlotte", "Bonn"]}
+{"subject": "Wayne State University Press", "object": "Detroit", "taxonomy": ["Bolton", "Amsterdam", "Honolulu", "Winnipeg", "Wolverhampton"]}
+{"subject": "Crossley Motors", "object": "Manchester", "taxonomy": ["Lexington", "Manila", "Genoa", "France", "Athens"]}
+{"subject": "Brentford F.C.", "object": "London", "taxonomy": ["Colombo", "Wolverhampton", "Franklin", "Houston", "Paramount"]}
+{"subject": "Boulton & Paul", "object": "Norwich", "taxonomy": ["Bonn", "Minsk", "Burlington", "Karachi", "Blackpool"]}
+{"subject": "Gerrit Rietveld Academie", "object": "Amsterdam", "taxonomy": ["Poole", "Houston", "Helsinki", "Berkeley", "Kiev"]}
+{"subject": "Matson, Inc.", "object": "Hawaii", "taxonomy": ["Canberra", "Bangalore", "Bend", "Hamilton", "Melbourne"]}
+{"subject": "United Grain Growers", "object": "Winnipeg", "taxonomy": ["Nuremberg", "Honolulu", "Delhi", "Toronto", "Boulder"]}
+{"subject": "Narrative Science", "object": "Chicago", "taxonomy": ["Croydon", "Oldham", "Shanghai", "London", "Quincy"]}
+{"subject": "Popular Prakashan", "object": "Mumbai", "taxonomy": ["Bolton", "Bordeaux", "Hollywood", "Belfast", "Haifa"]}
+{"subject": "Amirkabir University of Technology", "object": "Tehran", "taxonomy": ["Israel", "Burlington", "Japan", "Madrid", "Baghdad"]}
+{"subject": "OMRON", "object": "Kyoto", "taxonomy": ["Florence", "Lima", "Kiel", "Seattle", "Knoxville"]}
+{"subject": "Healthways", "object": "Franklin", "taxonomy": ["Hamburg", "Tehran", "Kolkata", "Nashville", "Hawthorne"]}
+{"subject": "Heilmann & Littmann", "object": "Berlin", "taxonomy": ["York", "Chesterfield", "Liverpool", "Lima", "Birmingham"]}
+{"subject": "Porto Editora", "object": "Porto", "taxonomy": ["Helsinki", "Milan", "Bari", "York", "Belfast"]}
+{"subject": "People's Democratic Party of Afghanistan", "object": "Kabul", "taxonomy": ["Goa", "Glasgow", "Northampton", "Tokyo", "Newport"]}
+{"subject": "First Chicago Bank", "object": "Chicago", "taxonomy": ["Kyoto", "London", "Dublin", "Columbia", "Scotland"]}
+{"subject": "Allen & Overy", "object": "London", "taxonomy": ["Israel", "Aurora", "Golden", "Providence", "Newport"]}
+{"subject": "CHUM Limited", "object": "Toronto", "taxonomy": ["Kolkata", "Cardiff", "Durham", "Liverpool", "Scarborough"]}
+{"subject": "Gerasimov Institute of Cinematography", "object": "Moscow", "taxonomy": ["Leicestershire", "Wilmington", "Hawthorne", "Greenville", "Claremont"]}
+{"subject": "Latvian Russian Union", "object": "Riga", "taxonomy": ["Hanover", "Ecuador", "Golden", "Hollywood", "Poole"]}
+{"subject": "Liberty Mutual", "object": "Boston", "taxonomy": ["Birmingham", "Sarajevo", "Casablanca", "Chandler", "Minsk"]}
+{"subject": "Gulf and Ohio Railways", "object": "Knoxville", "taxonomy": ["London", "Jakarta", "Central", "Monroe", "Lyon"]}
+{"subject": "Boulton Paul Aircraft", "object": "Norwich", "taxonomy": ["Bern", "Warsaw", "Strasbourg", "Atlanta", "Bangalore"]}
+{"subject": "Samsung", "object": "Seoul", "taxonomy": ["Kyoto", "Norfolk", "Jerusalem", "Blackpool", "Milwaukee"]}
+{"subject": "Phaidon Press", "object": "London", "taxonomy": ["Bournemouth", "Warsaw", "Dublin", "Lexington", "Shrewsbury"]}
+{"subject": "Northern & Shell", "object": "London", "taxonomy": ["Bratislava", "Minnesota", "Edmonton", "Basel", "Monroe"]}
+{"subject": "Candover Investments", "object": "London", "taxonomy": ["Berkeley", "Minnesota", "Poole", "Portsmouth", "Coventry"]}
+{"subject": "Hamburg-Bergedorf Railway Company", "object": "Hamburg", "taxonomy": ["Vilnius", "Perth", "Blackpool", "Central", "Cincinnati"]}
+{"subject": "Burnham and Root", "object": "Chicago", "taxonomy": ["Nanjing", "Lausanne", "Zagreb", "Atlanta", "Montana"]}
+{"subject": "Southeast University", "object": "Nanjing", "taxonomy": ["Perth", "Italy", "Norwich", "Beirut", "Sheffield"]}
+{"subject": "Radical Axis", "object": "Atlanta", "taxonomy": ["Toronto", "Honolulu", "Bradford", "Dortmund", "Glasgow"]}
+{"subject": "Scott Free Productions", "object": "London", "taxonomy": ["Waterloo", "Swindon", "Helsinki", "Sydney", "Frankfurt"]}
+{"subject": "Ipsos MORI", "object": "London", "taxonomy": ["Detroit", "Minnesota", "Oslo", "Aberdeen", "Alexandria"]}
+{"subject": "Nortel", "object": "Toronto", "taxonomy": ["Casablanca", "Kiel", "Mansfield", "Warsaw", "Georgetown"]}
+{"subject": "Physikalisch-Technische Bundesanstalt", "object": "Brunswick", "taxonomy": ["Dortmund", "Blackpool", "Shrewsbury", "Boulder", "Aberdeen"]}
+{"subject": "Bajaj Electricals", "object": "Mumbai", "taxonomy": ["Riga", "Middlesbrough", "Johannesburg", "Cologne", "Oslo"]}
+{"subject": "New Kabul Bank", "object": "Kabul", "taxonomy": ["Rome", "Jerusalem", "Strasbourg", "Norman", "Orange"]}
+{"subject": "MZKT", "object": "Minsk", "taxonomy": ["Golden", "Nairobi", "Wayne", "Swindon", "Dortmund"]}
+{"subject": "Venoco", "object": "Denver", "taxonomy": ["Wellington", "Seoul", "Nuremberg", "Hamburg", "Atlanta"]}
+{"subject": "The Weather Channel", "object": "Atlanta", "taxonomy": ["Pune", "Amherst", "Karachi", "Bordeaux", "Geneva"]}
+{"subject": "Human Entertainment", "object": "Japan", "taxonomy": ["Geneva", "California", "Sarajevo", "Hawaii", "Bristol"]}
+{"subject": "TNK-BP", "object": "Moscow", "taxonomy": ["Kiel", "Honolulu", "Cleveland", "Colombo", "Bangladesh"]}
+{"subject": "Taft Broadcasting", "object": "Cincinnati", "taxonomy": ["Belgium", "Detroit", "Kabul", "Minsk", "Zagreb"]}
+{"subject": "Free Association Books", "object": "London", "taxonomy": ["Salzburg", "Lebanon", "Stockholm", "Bern", "Stamford"]}
+{"subject": "Zamboni Company", "object": "Paramount", "taxonomy": ["Blackpool", "Leeds", "Oslo", "Marshall", "Vancouver"]}
+{"subject": "Tokyo Actor's Consumer's Cooperative Society", "object": "Tokyo", "taxonomy": ["Manchester", "Bonn", "Springfield", "Milan", "Ponce"]}
+{"subject": "TU Wien", "object": "Vienna", "taxonomy": ["California", "Haifa", "Kyoto", "Seattle", "Salisbury"]}
+{"subject": "Bisexual Resource Center", "object": "Boston", "taxonomy": ["Bern", "Taipei", "Nuremberg", "Durham", "Minsk"]}
+{"subject": "Virtue Party", "object": "Ankara", "taxonomy": ["Minneapolis", "Delhi", "Lancaster", "Middlesbrough", "Alba"]}
+{"subject": "John B. Stetson Company", "object": "Philadelphia", "taxonomy": ["Warwick", "Chesapeake", "Delhi", "Lahore", "Belgium"]}
+{"subject": "Italian Democratic Socialist Party", "object": "Rome", "taxonomy": ["Pittsburgh", "Waterloo", "Ottawa", "Columbia", "Winnipeg"]}
+{"subject": "Sunoco", "object": "Philadelphia", "taxonomy": ["Goa", "Strasbourg", "Bethlehem", "Amherst", "Toronto"]}
+{"subject": "Grattan plc", "object": "Bradford", "taxonomy": ["Nancy", "Italy", "Hagen", "Waterford", "Minnesota"]}
+{"subject": "Kering", "object": "Paris", "taxonomy": ["Leeds", "Tehran", "Lima", "Milwaukee", "Honolulu"]}
+{"subject": "Caudill Rowlett Scott", "object": "Houston", "taxonomy": ["Chesterfield", "Vancouver", "Albuquerque", "Lexington", "Wayne"]}
+{"subject": "Beijing Guoan F.C.", "object": "Beijing", "taxonomy": ["Kolkata", "Cairo", "Sarajevo", "Denver", "Kiel"]}
+{"subject": "Comintern", "object": "Moscow", "taxonomy": ["Copenhagen", "Nanjing", "Belgium", "Blackpool", "Paris"]}
+{"subject": "Co-operative Commonwealth Federation (Ontario Section)", "object": "Toronto", "taxonomy": ["Sweden", "Belgium", "Leiden", "Warwick", "Bethlehem"]}
+{"subject": "Cognos", "object": "Ottawa", "taxonomy": ["Waterloo", "Casablanca", "Leeds", "Bergen", "Seoul"]}
+{"subject": "Manchester Business School", "object": "Manchester", "taxonomy": ["Indianapolis", "Winnipeg", "Casablanca", "Rotterdam", "Queensland"]}
+{"subject": "Telespazio", "object": "Rome", "taxonomy": ["Colorado", "Chandler", "Mansfield", "Netherlands", "Salisbury"]}
+{"subject": "Estonian Shipping Company", "object": "Tallinn", "taxonomy": ["Colorado", "Genoa", "Stockholm", "Sydney", "Salisbury"]}
+{"subject": "MAMA & Company", "object": "London", "taxonomy": ["Homestead", "Newport", "Marshall", "Norwich", "Mansfield"]}
+{"subject": "FIBA Africa", "object": "Cairo", "taxonomy": ["Bangalore", "Houston", "Tampa", "Brunswick", "Bucharest"]}
+{"subject": "American Eagle Outfitters", "object": "Pittsburgh", "taxonomy": ["Monroe", "Turin", "Brisbane", "Winnipeg", "Delhi"]}
+{"subject": "L&L Hawaiian Barbecue", "object": "Honolulu", "taxonomy": ["Cambridge", "Mansfield", "Milwaukee", "Nanjing", "Ankara"]}
+{"subject": "Hi-Point Firearms", "object": "Mansfield", "taxonomy": ["Milton", "Baghdad", "Portsmouth", "Greenville", "Bradford"]}
+{"subject": "Netafim", "object": "Israel", "taxonomy": ["Northampton", "Hamilton", "Edinburgh", "Lagos", "Dwight"]}
+{"subject": "PopLlama Records", "object": "Seattle", "taxonomy": ["Charlotte", "Baku", "Rotterdam", "Italy", "Philadelphia"]}
+{"subject": "Trafigura Beheer B.V.", "object": "Amsterdam", "taxonomy": ["Mansfield", "Jerusalem", "Leicestershire", "Goa", "Netherlands"]}
+{"subject": "ITC Entertainment", "object": "London", "taxonomy": ["Alba", "Manchester", "Houston", "Tokyo", "Santiago"]}
+{"subject": "Double Helix Games", "object": "Irvine", "taxonomy": ["Indianapolis", "Manila", "Tbilisi", "Ecuador", "Sarajevo"]}
+{"subject": "Common Purpose UK", "object": "London", "taxonomy": ["Glasgow", "Utrecht", "Meridian", "Wayne", "Alba"]}
+{"subject": "Universities Scotland", "object": "Scotland", "taxonomy": ["Chesterfield", "Toronto", "Livingston", "Stamford", "Monroe"]}
+{"subject": "Seiyu Group", "object": "Tokyo", "taxonomy": ["Delhi", "Rochester", "Bolton", "Valencia", "Bern"]}
+{"subject": "Communist Party of Indonesia", "object": "Jakarta", "taxonomy": ["Lucknow", "Nanjing", "Frankfurt", "Berkeley", "Houston"]}
+{"subject": "Bagley & Wright", "object": "Oldham", "taxonomy": ["Amsterdam", "Kiel", "Ecuador", "Warsaw", "Derby"]}
+{"subject": "Tiro Federal", "object": "Rosario", "taxonomy": ["Brooklyn", "Charlotte", "Nuremberg", "Chesterfield", "Minneapolis"]}
+{"subject": "Gillig Corporation", "object": "Hayward", "taxonomy": ["Montana", "Blackpool", "Rugby", "Colchester", "Lexington"]}
+{"subject": "Valencia CF Mestalla", "object": "Valencia", "taxonomy": ["Stockholm", "Baltimore", "Boulder", "Bangkok", "Seoul"]}
+{"subject": "Goa ISL team", "object": "Goa", "taxonomy": ["Charlotte", "Lyon", "Haifa", "Rugby", "Princeton"]}
+{"subject": "Beykent University", "object": "Istanbul", "taxonomy": ["London", "Durham", "Nagoya", "Oxford", "Cologne"]}
+{"subject": "College Football News", "object": "Chicago", "taxonomy": ["Central", "Macau", "Malaysia", "Stockholm", "Waterloo"]}
+{"subject": "Ayn Rand Institute", "object": "Irvine", "taxonomy": ["Pittsburgh", "Beirut", "Manila", "Lucknow", "Seoul"]}
+{"subject": "RTV Studio B", "object": "Belgrade", "taxonomy": ["Taipei", "Seattle", "France", "Middlesbrough", "Rochester"]}
+{"subject": "Club Sport Emelec", "object": "Ecuador", "taxonomy": ["Salzburg", "Durham", "Bonn", "Frankfurt", "Santiago"]}
+{"subject": "HealthCap", "object": "Stockholm", "taxonomy": ["Anaheim", "Monroe", "Minneapolis", "Vienna", "Toronto"]}
+{"subject": "International Airlines Group", "object": "London", "taxonomy": ["Japan", "Baku", "Manila", "Detroit", "Coventry"]}
+{"subject": "Green Ronin Publishing", "object": "Seattle", "taxonomy": ["Tehran", "Oxford", "Providence", "Paramount", "Thessaloniki"]}
+{"subject": "McKendree University", "object": "Lebanon", "taxonomy": ["Warsaw", "Barcelona", "Vilnius", "Toulouse", "Tbilisi"]}
+{"subject": "Cogeco", "object": "Montreal", "taxonomy": ["Calgary", "Claremont", "Italy", "Greenwich", "Bucharest"]}
+{"subject": "Taito Corporation", "object": "Tokyo", "taxonomy": ["Hagen", "Belgium", "Hamburg", "Paris", "Lexington"]}
+{"subject": "Pontifical Catholic University of Chile", "object": "Santiago", "taxonomy": ["Dresden", "Bremen", "Bergen", "Milwaukee", "Monroe"]}
+{"subject": "Uranium One", "object": "Toronto", "taxonomy": ["Italy", "Paramount", "Waterford", "Derby", "Nashville"]}
+{"subject": "Imagine Publishing", "object": "Bournemouth", "taxonomy": ["France", "Princeton", "Tallinn", "Bremen", "Barcelona"]}
+{"subject": "Guinness World Records", "object": "London", "taxonomy": ["California", "Bangalore", "Miami", "Beijing", "Lexington"]}
+{"subject": "Alinta Energy", "object": "Sydney", "taxonomy": ["Caracas", "Birmingham", "Rhodes", "Aberdeen", "France"]}
+{"subject": "TV Magazine", "object": "Paris", "taxonomy": ["Calgary", "Ankara", "Madrid", "Belfast", "Hayward"]}
+{"subject": "Tata Consultancy Services", "object": "Mumbai", "taxonomy": ["Chicago", "Bangladesh", "London", "Ireland", "Bucharest"]}
+{"subject": "Serono", "object": "Geneva", "taxonomy": ["Burlington", "Istanbul", "Bern", "Wilmington", "Zagreb"]}
+{"subject": "Fat Possum Records", "object": "Oxford", "taxonomy": ["Chennai", "Rugby", "Shanghai", "Alba", "Hayward"]}
+{"subject": "Boston Market", "object": "Golden", "taxonomy": ["Leiden", "Dresden", "Hamburg", "Waterford", "California"]}
+{"subject": "Keystone Bridge Company", "object": "Pittsburgh", "taxonomy": ["Damascus", "Marshall", "Bethlehem", "Minsk", "Newport"]}
+{"subject": "Land Securities", "object": "London", "taxonomy": ["Genoa", "Chicago", "Newport", "Toronto", "Kiel"]}
+{"subject": "Boston and Maine Corporation", "object": "Boston", "taxonomy": ["Delhi", "Paris", "Cairo", "Orange", "Bournemouth"]}
+{"subject": "Packt Publishing Ltd.", "object": "Birmingham", "taxonomy": ["Baku", "Florence", "Greenwich", "Sarajevo", "Sheffield"]}
+{"subject": "Pars Khodro", "object": "Tehran", "taxonomy": ["Budapest", "Norwich", "Rome", "Karachi", "Malaysia"]}
+{"subject": "David McKay Publications", "object": "Philadelphia", "taxonomy": ["Valencia", "Greenville", "Boulder", "Warsaw", "Madison"]}
+{"subject": "Wagram Music", "object": "Paris", "taxonomy": ["Oxford", "Poole", "Burlington", "Bonn", "Dwight"]}
+{"subject": "Istanbul Technical University", "object": "Istanbul", "taxonomy": ["Lincolnshire", "Marshall", "Peabody", "Alexandria", "Albany"]}
+{"subject": "Carnival Films", "object": "London", "taxonomy": ["Rochester", "Thessaloniki", "Winnipeg", "Kiev", "Lima"]}
+{"subject": "Sydney Olympic FC", "object": "Sydney", "taxonomy": ["Rome", "Canton", "Bratislava", "Providence", "Nuremberg"]}
+{"subject": "FIDE", "object": "Athens", "taxonomy": ["California", "Oldham", "Cleveland", "Hamilton", "Ireland"]}
+{"subject": "Aer Arann", "object": "Dublin", "taxonomy": ["Rosario", "Meridian", "Madison", "Rome", "Chandler"]}
+{"subject": "Politics Can Be Different", "object": "Budapest", "taxonomy": ["Bangkok", "Toronto", "Avon", "Bristol", "Barcelona"]}
+{"subject": "Deutz AG", "object": "Cologne", "taxonomy": ["Basel", "Providence", "Wayne", "Melbourne", "Istanbul"]}
+{"subject": "Sud Aviation", "object": "Toulouse", "taxonomy": ["Dhaka", "Cleveland", "Lucknow", "Blackpool", "Berkeley"]}
+{"subject": "New Zealand Labour Party", "object": "Wellington", "taxonomy": ["Leiden", "Japan", "Tampa", "Frankfurt", "Canberra"]}
+{"subject": "SK Group", "object": "Seoul", "taxonomy": ["Charlotte", "California", "Belgium", "Porto", "Northampton"]}
+{"subject": "Czech National Bank", "object": "Prague", "taxonomy": ["Lancaster", "Dwight", "Ireland", "Scarborough", "Oldham"]}
+{"subject": "Sullivan Bluth Studios", "object": "Dublin", "taxonomy": ["Sheffield", "Dortmund", "Karachi", "Greenville", "Minneapolis"]}
+{"subject": "Da Capo Press", "object": "Boston", "taxonomy": ["Honolulu", "Toronto", "Athens", "Milan", "Troy"]}
+{"subject": "Canada Life Financial", "object": "Toronto", "taxonomy": ["Jakarta", "Montevideo", "Durham", "Moscow", "Indianapolis"]}
+{"subject": "Talbot", "object": "Paris", "taxonomy": ["Knoxville", "Lancaster", "Geneva", "Cardiff", "Scarborough"]}
+{"subject": "Playdead", "object": "Copenhagen", "taxonomy": ["Dunedin", "Valencia", "Sarajevo", "Croydon", "Minnesota"]}
+{"subject": "Orion Publishing Group", "object": "London", "taxonomy": ["Anaheim", "Haifa", "Salisbury", "Perth", "Strasbourg"]}
+{"subject": "Pappas Restaurants", "object": "Houston", "taxonomy": ["Utrecht", "Pittsburgh", "Meridian", "Bedford", "Rochester"]}
+{"subject": "Henry Boot PLC", "object": "Sheffield", "taxonomy": ["Utrecht", "Lincolnshire", "Lucknow", "Burlington", "Ottawa"]}
+{"subject": "TGV Cinemas", "object": "Malaysia", "taxonomy": ["Orange", "Tallinn", "Turin", "Perth", "Marshall"]}
+{"subject": "Cracker Barrel", "object": "Lebanon", "taxonomy": ["Glasgow", "Cincinnati", "Sheffield", "Manchester", "Nashville"]}
+{"subject": "TSAR Publications", "object": "Toronto", "taxonomy": ["Indianapolis", "Marshall", "Boston", "Bristol", "Wolverhampton"]}
+{"subject": "King Chulalongkorn Memorial Hospital", "object": "Bangkok", "taxonomy": ["Bratislava", "Jerusalem", "Kiev", "Stockholm", "Brisbane"]}
+{"subject": "Ace Hardware", "object": "Chicago", "taxonomy": ["Rhodes", "Chesapeake", "Berlin", "Waterford", "Malaysia"]}
+{"subject": "Rolex", "object": "Geneva", "taxonomy": ["Nagoya", "Princeton", "Calgary", "Wellington", "Providence"]}
+{"subject": "PGi", "object": "Atlanta", "taxonomy": ["Lyon", "Bethlehem", "Detroit", "Beirut", "Queensland"]}
+{"subject": "Bulgarian Communist Party", "object": "Sofia", "taxonomy": ["Porto", "Macau", "Geneva", "Lahore", "Bangladesh"]}
+{"subject": "Assyrian Church of the East", "object": "Chicago", "taxonomy": ["Sydney", "Dhaka", "Bangladesh", "Durham", "Caracas"]}
+{"subject": "RotorWay International", "object": "Chandler", "taxonomy": ["Brighton", "Minnesota", "Cambridge", "Nancy", "Bern"]}
+{"subject": "Grameen Bank", "object": "Bangladesh", "taxonomy": ["Aberdeen", "Calgary", "Kiev", "Damascus", "Netherlands"]}
+{"subject": "Polistil", "object": "Milan", "taxonomy": ["Quincy", "Golden", "Sweden", "Livingston", "Haifa"]}
+{"subject": "National Trust", "object": "Swindon", "taxonomy": ["Manchester", "Kolkata", "Moscow", "Bordeaux", "Colorado"]}
+{"subject": "Standard Chartered", "object": "London", "taxonomy": ["Thessaloniki", "Rosario", "Minsk", "Valencia", "Seattle"]}
+{"subject": "Visy Industries", "object": "Melbourne", "taxonomy": ["Kabul", "Johannesburg", "Bedford", "Dundee", "Bradford"]}
+{"subject": "Phoenix Group", "object": "London", "taxonomy": ["Hamilton", "Wellington", "Warsaw", "Copenhagen", "Avon"]}
+{"subject": "FC Nordstern Basel", "object": "Basel", "taxonomy": ["Moscow", "Boulder", "Providence", "Wellington", "Tokyo"]}
+{"subject": "Chinese Academy of Sciences", "object": "Beijing", "taxonomy": ["Minneapolis", "Avon", "Coventry", "Calgary", "Marshall"]}
+{"subject": "WeMade Entertainment", "object": "Seoul", "taxonomy": ["Ireland", "Melbourne", "Athens", "Netherlands", "California"]}
+{"subject": "Musicland Studios", "object": "Munich", "taxonomy": ["Nagoya", "Derby", "Paris", "Hayward", "Lincolnshire"]}
+{"subject": "Black Sparrow Books", "object": "Boston", "taxonomy": ["Brighton", "York", "Belgium", "Rhodes", "Greenwich"]}
+{"subject": "Magen David Adom", "object": "Israel", "taxonomy": ["Barcelona", "Quincy", "Limerick", "Meridian", "Irvine"]}
+{"subject": "Golden Spike Company", "object": "Colorado", "taxonomy": ["Birmingham", "Milwaukee", "Paramount", "Alexandria", "Chesapeake"]}
+{"subject": "DQE", "object": "Pittsburgh", "taxonomy": ["Leeds", "Bangkok", "Lexington", "Peabody", "Boulder"]}
+{"subject": "Ross Group", "object": "Grimsby", "taxonomy": ["Colorado", "Bend", "Johannesburg", "Poole", "Madrid"]}
+{"subject": "Carl Braun Camera-Werk", "object": "Nuremberg", "taxonomy": ["Gothenburg", "Barcelona", "Dhaka", "Basel", "Bolton"]}
+{"subject": "Century 21 Real Estate", "object": "Madison", "taxonomy": ["Southampton", "Lincolnshire", "Stockholm", "Nairobi", "Boston"]}
+{"subject": "Zulily", "object": "Seattle", "taxonomy": ["Thessaloniki", "Singapore", "Bangladesh", "Manila", "Rotterdam"]}
+{"subject": "Bergens Tidende", "object": "Bergen", "taxonomy": ["Homestead", "Liverpool", "Perth", "Dwight", "Manchester"]}
+{"subject": "University of Paris", "object": "Paris", "taxonomy": ["Haifa", "Montreal", "Derby", "Swindon", "Bend"]}
+{"subject": "Hellenic Army", "object": "Athens", "taxonomy": ["Oxford", "Denver", "Ecuador", "Salisbury", "Dunedin"]}
+{"subject": "Miss Montana USA", "object": "Montana", "taxonomy": ["Oldham", "Brisbane", "Belgrade", "Chicago", "Wellington"]}
+{"subject": "Nintendo Software Planning & Development", "object": "Kyoto", "taxonomy": ["Golden", "Brooklyn", "Bonn", "Bend", "Rome"]}
+{"subject": "Volkswagen Commercial Vehicles", "object": "Hanover", "taxonomy": ["Sofia", "Tallinn", "Manchester", "Bari", "Chicago"]}
+{"subject": "SoftMaker", "object": "Nuremberg", "taxonomy": ["Montana", "Brunswick", "Dublin", "Bend", "Milan"]}
+{"subject": "Chicago Public Schools", "object": "Chicago", "taxonomy": ["Lebanon", "Sheffield", "Ecuador", "London", "Scarborough"]}
+{"subject": "Spencer Stuart", "object": "Chicago", "taxonomy": ["Poole", "Nagoya", "Leiden", "Columbus", "Japan"]}
+{"subject": "c2c", "object": "London", "taxonomy": ["Livingston", "Cardiff", "Bradford", "Norman", "Tbilisi"]}
+{"subject": "Jan De Nul", "object": "Luxembourg", "taxonomy": ["Lahore", "Baltimore", "Charlotte", "Cincinnati", "Bradford"]}
+{"subject": "DB Netz", "object": "Frankfurt", "taxonomy": ["Malaysia", "Coventry", "Genoa", "Springfield", "Albuquerque"]}
+{"subject": "SFK 2000", "object": "Sarajevo", "taxonomy": ["Gothenburg", "Nanjing", "Hamilton", "Bangkok", "Lucknow"]}
+{"subject": "Strait Shipping", "object": "Wellington", "taxonomy": ["York", "Nancy", "Manila", "Paris", "Japan"]}
+{"subject": "Takara", "object": "Tokyo", "taxonomy": ["Bournemouth", "Genoa", "Brunswick", "Bordeaux", "Montevideo"]}
+{"subject": "Rundell and Bridge", "object": "London", "taxonomy": ["Taipei", "Montreal", "Damascus", "Belgrade", "Newport"]}
+{"subject": "Institution of Structural Engineers", "object": "London", "taxonomy": ["Hawaii", "Bethlehem", "Prague", "Cleveland", "Zagreb"]}
+{"subject": "Royal Dramatic Theatre", "object": "Stockholm", "taxonomy": ["Columbus", "Albany", "Swindon", "Damascus", "Casablanca"]}
+{"subject": "Miller Brewing Company", "object": "Milwaukee", "taxonomy": ["Vancouver", "Nagoya", "Hollywood", "Leiden", "Detroit"]}
+{"subject": "NASDAQ OMX Vilnius", "object": "Vilnius", "taxonomy": ["Oxford", "Cardiff", "Seattle", "Sofia", "Moscow"]}
+{"subject": "Baltimore Gas and Electric", "object": "Baltimore", "taxonomy": ["Warwick", "Edinburgh", "Toulouse", "Dunedin", "France"]}
+{"subject": "Starwood Capital Group", "object": "Greenwich", "taxonomy": ["Cairo", "Brooklyn", "Chesapeake", "Brisbane", "Barcelona"]}
+{"subject": "American Bar Association", "object": "Chicago", "taxonomy": ["Paramount", "Lagos", "Amsterdam", "Central", "Hanover"]}
+{"subject": "James Purdey & Sons", "object": "London", "taxonomy": ["Stamford", "Northampton", "Wilmington", "Waterloo", "Perth"]}
+{"subject": "Schibsted", "object": "Oslo", "taxonomy": ["Springfield", "Kiev", "York", "Ankara", "Wayne"]}
+{"subject": "Rudolph Wurlitzer Company", "object": "Cincinnati", "taxonomy": ["Tehran", "Paris", "California", "Boston", "Florence"]}
+{"subject": "GIC Private Limited", "object": "Singapore", "taxonomy": ["Bradford", "Bolton", "Sheffield", "Warsaw", "Hollywood"]}
+{"subject": "International Tennis Federation", "object": "London", "taxonomy": ["Lexington", "Perth", "Berlin", "Miami", "Quincy"]}
+{"subject": "Vijaya Vauhini Studios", "object": "Chennai", "taxonomy": ["Bratislava", "Irvine", "Croydon", "Wayne", "Boston"]}
+{"subject": "Dresdner SC", "object": "Dresden", "taxonomy": ["Kiev", "Pune", "Hanover", "Limerick", "Leeds"]}
+{"subject": "LaSalle Bank", "object": "Chicago", "taxonomy": ["Houston", "Bordeaux", "Sheffield", "Swindon", "Tokyo"]}
+{"subject": "Renault Trucks", "object": "Lyon", "taxonomy": ["Nagoya", "Istanbul", "Poole", "Salzburg", "Hertfordshire"]}
+{"subject": "Iraklis Thessaloniki B.C.", "object": "Thessaloniki", "taxonomy": ["Atlanta", "Indianapolis", "Bedford", "Brighton", "Carlisle"]}
+{"subject": "Gazi University", "object": "Ankara", "taxonomy": ["Albany", "Bangkok", "Avon", "Swindon", "Lyon"]}
+{"subject": "Big C", "object": "Bangkok", "taxonomy": ["Liverpool", "Hertfordshire", "Tallinn", "Singapore", "Knoxville"]}
+{"subject": "Tanjug", "object": "Belgrade", "taxonomy": ["Glasgow", "Oldham", "Utrecht", "Scotland", "Colombo"]}
+{"subject": "Atlanta Silverbacks", "object": "Atlanta", "taxonomy": ["Frankfurt", "Livingston", "Greenville", "Delhi", "Utrecht"]}
+{"subject": "Aigle Azur", "object": "Paris", "taxonomy": ["Livingston", "Stockholm", "Chesapeake", "Vienna", "Nuremberg"]}
+{"subject": "Birkbeck, University of London", "object": "London", "taxonomy": ["Ottawa", "Belgrade", "Southampton", "Warwick", "Shrewsbury"]}
+{"subject": "Mansfield Town F.C.", "object": "Mansfield", "taxonomy": ["Anaheim", "Baku", "Nashville", "Lausanne", "Detroit"]}
+{"subject": "University of Otago", "object": "Dunedin", "taxonomy": ["Valencia", "Canberra", "Bratislava", "Cleveland", "Minneapolis"]}
+{"subject": "Graphisoft SE", "object": "Budapest", "taxonomy": ["Berlin", "Hertfordshire", "Cambridge", "Bethlehem", "Lyon"]}
+{"subject": "tronc, Inc.", "object": "Chicago", "taxonomy": ["Liverpool", "Colombo", "Montana", "Franklin", "Burlington"]}
+{"subject": "Deutsche Welle", "object": "Bonn", "taxonomy": ["Leeds", "Kolkata", "Delhi", "Berlin", "Burlington"]}
+{"subject": "United Nations Economic Commission for Latin America and the Caribbean", "object": "Santiago", "taxonomy": ["Kabul", "Queensland", "Canberra", "Belgium", "Zagreb"]}
+{"subject": "Pepe Jeans", "object": "London", "taxonomy": ["Dublin", "Mecca", "Ireland", "Burlington", "Midland"]}
+{"subject": "BSC Young Boys", "object": "Bern", "taxonomy": ["Geneva", "Derby", "Bangkok", "Liverpool", "Brunswick"]}
+{"subject": "Vosper & Company", "object": "Portsmouth", "taxonomy": ["Bolton", "Bend", "Limerick", "Minneapolis", "Leiden"]}
+{"subject": "Cray Wanderers F.C.", "object": "London", "taxonomy": ["Columbus", "Taipei", "Marshall", "Nairobi", "Kolkata"]}
+{"subject": "Heilmann & Littmann", "object": "Munich", "taxonomy": ["Hagen", "Brunswick", "Colorado", "Brighton", "Lahore"]}
+{"subject": "Sega Wow", "object": "Japan", "taxonomy": ["Brisbane", "Seoul", "Liverpool", "Dunedin", "Carlisle"]}
+{"subject": "Reading Company", "object": "Philadelphia", "taxonomy": ["Bangalore", "Casablanca", "Waterford", "Hawaii", "Rosario"]}
+{"subject": "Sonata Software", "object": "Bangalore", "taxonomy": ["Springfield", "Homestead", "Utrecht", "Midland", "Manila"]}
+{"subject": "Long-Term Capital Management", "object": "Greenwich", "taxonomy": ["Bucharest", "Lexington", "Budapest", "Kyoto", "Bangalore"]}
+{"subject": "Iron Mountain Incorporated", "object": "Boston", "taxonomy": ["Ottawa", "Marshall", "Goa", "Milwaukee", "Greenville"]}
+{"subject": "TEAC Corporation", "object": "Tokyo", "taxonomy": ["Bern", "Nanjing", "Oxford", "Knoxville", "Sheffield"]}
+{"subject": "Bank Polska Kasa Opieki", "object": "Warsaw", "taxonomy": ["Melbourne", "Bangladesh", "Bari", "Edinburgh", "Kiev"]}
+{"subject": "Sheffield Wednesday F.C.", "object": "Sheffield", "taxonomy": ["Taipei", "Scotland", "Providence", "Johannesburg", "Milton"]}
+{"subject": "World Trade Organization", "object": "Geneva", "taxonomy": ["Copenhagen", "Ireland", "Boston", "Kabul", "Karachi"]}
+{"subject": "Athens Football Clubs Association", "object": "Athens", "taxonomy": ["Lincolnshire", "Mecca", "Kolkata", "Albany", "Malaysia"]}
+{"subject": "Sun Life Financial", "object": "Toronto", "taxonomy": ["Belfast", "Croydon", "Newport", "Vienna", "Winnipeg"]}
+{"subject": "Bratislava City Gallery", "object": "Bratislava", "taxonomy": ["Rochester", "Bucharest", "Hertfordshire", "Lucknow", "Kiev"]}
+{"subject": "BC Hydro", "object": "Vancouver", "taxonomy": ["Belgium", "Detroit", "Tbilisi", "Montreal", "Columbia"]}
+{"subject": "Naft Tehran F.C.", "object": "Tehran", "taxonomy": ["Franklin", "Haifa", "Providence", "Tokyo", "Oldham"]}
+{"subject": "Sunbeam Television", "object": "Miami", "taxonomy": ["Mecca", "Dundee", "Dallas", "Nagoya", "Liverpool"]}
+{"subject": "Cambridge University Press", "object": "Cambridge", "taxonomy": ["Montreal", "Montana", "Lagos", "Honolulu", "Edmonton"]}
+{"subject": "Dickins & Jones", "object": "London", "taxonomy": ["Barcelona", "Valencia", "Boston", "Poole", "Milwaukee"]}
+{"subject": "Partick Thistle F.C.", "object": "Glasgow", "taxonomy": ["Rochester", "Croydon", "Brunswick", "Nairobi", "Hamilton"]}
+{"subject": "Grout", "object": "Orange", "taxonomy": ["Cleveland", "Ecuador", "Chesterfield", "Wilmington", "Greenville"]}
+{"subject": "Kolossos Rodou B.C.", "object": "Rhodes", "taxonomy": ["Scotland", "Warwick", "Ottawa", "Georgetown", "Poole"]}
+{"subject": "Qimonda", "object": "Munich", "taxonomy": ["Singapore", "Goa", "Toulouse", "Boulder", "Pune"]}
+{"subject": "RB Leipzig", "object": "Leipzig", "taxonomy": ["Bangladesh", "Rome", "Bordeaux", "Peabody", "Boston"]}
+{"subject": "Videocon", "object": "Mumbai", "taxonomy": ["Copenhagen", "Porto", "Winnipeg", "France", "Luxembourg"]}
+{"subject": "Micro Instrumentation and Telemetry Systems", "object": "Albuquerque", "taxonomy": ["Bucharest", "Moscow", "Berkeley", "Honolulu", "Columbus"]}
+{"subject": "Chicago Stock Exchange", "object": "Chicago", "taxonomy": ["Helsinki", "Pune", "Toronto", "Egypt", "Lexington"]}
+{"subject": "ChemAxon", "object": "Budapest", "taxonomy": ["Hawthorne", "Charlotte", "Utrecht", "Basel", "Cairo"]}
+{"subject": "Diatto", "object": "Turin", "taxonomy": ["Edmonton", "Salzburg", "Waterloo", "Shrewsbury", "Dhaka"]}
+{"subject": "Layar", "object": "Amsterdam", "taxonomy": ["Rhodes", "Durham", "Limerick", "Bordeaux", "Hamilton"]}
+{"subject": "Nordic Museum", "object": "Stockholm", "taxonomy": ["Ecuador", "Bratislava", "Chesapeake", "Brunswick", "Dallas"]}
+{"subject": "United States Soccer Federation", "object": "Chicago", "taxonomy": ["Manila", "Claremont", "Quincy", "Wolverhampton", "Dunedin"]}
+{"subject": "Gazprombank", "object": "Moscow", "taxonomy": ["Houston", "Tehran", "Miami", "Cleveland", "Bonn"]}
+{"subject": "Short Brothers", "object": "Belfast", "taxonomy": ["Bern", "Munich", "Rosario", "Lexington", "Bordeaux"]}
+{"subject": "VTB Capital", "object": "Moscow", "taxonomy": ["Santiago", "Shanghai", "Madison", "Southampton", "Rosario"]}
+{"subject": "Ganger Rolf ASA", "object": "Oslo", "taxonomy": ["Prague", "Madison", "Amsterdam", "Bangladesh", "Norman"]}
+{"subject": "Smith & Nephew", "object": "London", "taxonomy": ["Pittsburgh", "Lancaster", "Calgary", "Perth", "Milwaukee"]}
+{"subject": "Irish Citizen Army", "object": "Dublin", "taxonomy": ["Stockholm", "Prague", "Beijing", "Portsmouth", "Milan"]}
+{"subject": "RioCan Real Estate Investment Trust", "object": "Toronto", "taxonomy": ["Haifa", "Sydney", "Stockholm", "Oslo", "Hawthorne"]}
+{"subject": "Amsterdam Stock Exchange", "object": "Amsterdam", "taxonomy": ["Kabul", "Jerusalem", "Hertfordshire", "Cardiff", "Wilmington"]}
+{"subject": "Swordfish Studios", "object": "Birmingham", "taxonomy": ["Colorado", "Minneapolis", "Bratislava", "Bari", "Wayne"]}
+{"subject": "Interislander", "object": "Wellington", "taxonomy": ["Rhodes", "Dundee", "Leiden", "Boston", "Birmingham"]}
+{"subject": "Stop & Shop", "object": "Quincy", "taxonomy": ["Albany", "Winnipeg", "Columbia", "Stamford", "Shrewsbury"]}
+{"subject": "BP", "object": "London", "taxonomy": ["Atlanta", "Lucknow", "Lagos", "Porto", "Scarborough"]}
+{"subject": "Raja Casablanca", "object": "Casablanca", "taxonomy": ["York", "Delhi", "Bangladesh", "Singapore", "Egypt"]}
+{"subject": "Lenovo", "object": "Beijing", "taxonomy": ["Houston", "Bordeaux", "Georgetown", "Munich", "Malaysia"]}
+{"subject": "Merisant", "object": "Chicago", "taxonomy": ["Nancy", "Brunswick", "Strasbourg", "Lincolnshire", "Aberdeen"]}
+{"subject": "Sri Lanka Railways", "object": "Colombo", "taxonomy": ["Queensland", "Sheffield", "Nanjing", "Berkeley", "Norwich"]}
+{"subject": "Vortex Comics", "object": "Toronto", "taxonomy": ["Beijing", "Knoxville", "Meridian", "Cambridge", "Madison"]}
+{"subject": "All India Anna Dravida Munnetra Kazhagam", "object": "Chennai", "taxonomy": ["Mumbai", "Sheffield", "Wolverhampton", "Wayne", "Hamilton"]}
+{"subject": "Transwede Airways", "object": "Stockholm", "taxonomy": ["Baghdad", "Georgetown", "Nuremberg", "Salzburg", "Brighton"]}
+{"subject": "Scottish Handball Association", "object": "Scotland", "taxonomy": ["Seattle", "Montreal", "Thessaloniki", "Brunswick", "Alba"]}
+{"subject": "Toyota", "object": "Toyota", "taxonomy": ["Prague", "Taipei", "Bangalore", "Thessaloniki", "Amherst"]}
+{"subject": "Coffee Time", "object": "Toronto", "taxonomy": ["Glasgow", "Shanghai", "Bergen", "Minsk", "Sydney"]}
+{"subject": "John Thompson Productions", "object": "Berlin", "taxonomy": ["Perth", "Quincy", "Boston", "York", "Paramount"]}
+{"subject": "Smyths", "object": "Ireland", "taxonomy": ["Stamford", "Kyoto", "Salzburg", "Moscow", "Baku"]}
+{"subject": "University of Western Australia", "object": "Perth", "taxonomy": ["Macau", "Netherlands", "Detroit", "Helsinki", "Leiden"]}
+{"subject": "O.F.K. Beograd", "object": "Belgrade", "taxonomy": ["Cambridge", "Rotterdam", "Bangkok", "Milwaukee", "Minsk"]}
+{"subject": "I.DE.A Institute", "object": "Turin", "taxonomy": ["Zagreb", "Frankfurt", "Colombo", "Warwick", "Philadelphia"]}
+{"subject": "ESPN Plus", "object": "Charlotte", "taxonomy": ["Stamford", "Blackpool", "Lyon", "Bethlehem", "Chicago"]}
+{"subject": "Gamigo AG", "object": "Hamburg", "taxonomy": ["Milton", "Honolulu", "Tampa", "Taipei", "Minsk"]}
+{"subject": "Abarth", "object": "Turin", "taxonomy": ["Glasgow", "Paris", "Aurora", "Vancouver", "Beirut"]}
+{"subject": "Brill Publishers", "object": "Leiden", "taxonomy": ["Lagos", "Ireland", "Leicestershire", "Colorado", "Cincinnati"]}
+{"subject": "Rogue Ales", "object": "Newport", "taxonomy": ["Italy", "Milwaukee", "Basel", "Goa", "Scotland"]}
+{"subject": "French Academy of Sciences", "object": "Paris", "taxonomy": ["Bonn", "Dundee", "Springfield", "Bolton", "Edmonton"]}
+{"subject": "Tamarrod Movement", "object": "Egypt", "taxonomy": ["Liverpool", "Bethlehem", "Jerusalem", "Columbus", "Netherlands"]}
+{"subject": "Melodiya", "object": "Moscow", "taxonomy": ["Montana", "Honolulu", "Lincolnshire", "Chennai", "Coventry"]}
+{"subject": "Nordic Institute for Theoretical Physics", "object": "Stockholm", "taxonomy": ["Boulder", "Scotland", "Belgium", "Bratislava", "Bangladesh"]}
+{"subject": "Sentinel Waggon Works", "object": "Shrewsbury", "taxonomy": ["Minnesota", "Chandler", "Troy", "Budapest", "Colombo"]}
+{"subject": "Partners HealthCare", "object": "Boston", "taxonomy": ["Portsmouth", "Dallas", "Nanjing", "Salisbury", "Minneapolis"]}
+{"subject": "Oil Refineries Ltd", "object": "Haifa", "taxonomy": ["Nuremberg", "Central", "Albuquerque", "Swindon", "Porto"]}
+{"subject": "Royal Society of Edinburgh", "object": "Edinburgh", "taxonomy": ["Rosario", "Charlotte", "Wellington", "Mecca", "Bern"]}
+{"subject": "Ansaldo STS", "object": "Genoa", "taxonomy": ["Bangladesh", "Edinburgh", "Rochester", "Dortmund", "Colombo"]}
+{"subject": "Disneyland Resort", "object": "Anaheim", "taxonomy": ["Taipei", "Valencia", "Nuremberg", "Lima", "Tallinn"]}
+{"subject": "Liquor Control Board of Ontario", "object": "Toronto", "taxonomy": ["Japan", "Milwaukee", "Coventry", "Netherlands", "Cleveland"]}
+{"subject": "Center for Jewish–Christian Understanding and Cooperation", "object": "Jerusalem", "taxonomy": ["Bergen", "Bend", "Turin", "Cincinnati", "Nashville"]}
+{"subject": "Pagan Federation", "object": "London", "taxonomy": ["Italy", "Georgetown", "Bangalore", "Macau", "Knoxville"]}
+{"subject": "UniCredit", "object": "Milan", "taxonomy": ["Honolulu", "Montevideo", "Warsaw", "Ankara", "Lancaster"]}
+{"subject": "Mac Guff", "object": "Paris", "taxonomy": ["Rhodes", "Colchester", "Istanbul", "Bristol", "Chesterfield"]}
+{"subject": "Commerzbank", "object": "Frankfurt", "taxonomy": ["Valencia", "Bratislava", "Brunswick", "Genoa", "Nashville"]}
+{"subject": "Weta Digital", "object": "Wellington", "taxonomy": ["Sarajevo", "Manila", "Berlin", "Monroe", "Luxembourg"]}
+{"subject": "Gianni Versace S.p.A.", "object": "Milan", "taxonomy": ["Vienna", "Troy", "Riga", "Hertfordshire", "Aberdeen"]}
+{"subject": "Cinven", "object": "London", "taxonomy": ["Berlin", "Florence", "Seattle", "Queensland", "Hayward"]}
+{"subject": "Vision Research Phantom", "object": "Wayne", "taxonomy": ["Casablanca", "Caracas", "Queensland", "Warsaw", "Leipzig"]}
+{"subject": "Lion Air", "object": "Jakarta", "taxonomy": ["Nuremberg", "Springfield", "Lagos", "Rome", "Cairo"]}
+{"subject": "Peabody Veterans Memorial High School", "object": "Peabody", "taxonomy": ["Amsterdam", "Helsinki", "Columbus", "Strasbourg", "Belfast"]}
+{"subject": "German Football Association", "object": "Frankfurt", "taxonomy": ["Calgary", "Dublin", "Durham", "Springfield", "Nagoya"]}
+{"subject": "Institute of Chartered Secretaries and Administrators", "object": "London", "taxonomy": ["Bern", "Honolulu", "Florence", "Baku", "Thessaloniki"]}
+{"subject": "United States Patent and Trademark Office", "object": "Alexandria", "taxonomy": ["Seoul", "Florence", "Bern", "Columbia", "Troy"]}
+{"subject": "Bolckow Vaughan", "object": "Middlesbrough", "taxonomy": ["Waterford", "London", "Hawthorne", "Caracas", "Luxembourg"]}
+{"subject": "Bulgarian Agrarian National Union", "object": "Sofia", "taxonomy": ["Lucknow", "Salisbury", "Milan", "Hanover", "Pune"]}
+{"subject": "Ensco plc", "object": "London", "taxonomy": ["Bratislava", "Chandler", "Warsaw", "Damascus", "Alexandria"]}
+{"subject": "Miran Pastourma", "object": "Athens", "taxonomy": ["Hertfordshire", "Dublin", "Toyota", "Chesapeake", "Albuquerque"]}
+{"subject": "Coles Group", "object": "Melbourne", "taxonomy": ["Bedford", "Leiden", "Princeton", "Wayne", "Dortmund"]}
+{"subject": "Euronext", "object": "Amsterdam", "taxonomy": ["Bend", "Macau", "Egypt", "Thessaloniki", "Peabody"]}
+{"subject": "Red Star Line", "object": "Philadelphia", "taxonomy": ["Chennai", "Barcelona", "Miami", "Ankara", "Moscow"]}
+{"subject": "FK Daugava (2003)", "object": "Riga", "taxonomy": ["Perth", "Caracas", "Belgium", "Scotland", "Lausanne"]}
+{"subject": "China Poly Group Corporation", "object": "Beijing", "taxonomy": ["Kabul", "Baghdad", "Alba", "Damascus", "Madison"]}
+{"subject": "Elsevier", "object": "Philadelphia", "taxonomy": ["Boulder", "Athens", "Genoa", "Ankara", "Hanover"]}
+{"subject": "Scarborough F.C.", "object": "Scarborough", "taxonomy": ["Rugby", "Charlotte", "Bangalore", "Bradford", "Pasadena"]}
+{"subject": "Power Jets", "object": "Rugby", "taxonomy": ["Lyon", "Egypt", "Bordeaux", "Claremont", "Sweden"]}
+{"subject": "Swindon Town F.C.", "object": "Swindon", "taxonomy": ["Vancouver", "Marshall", "Blackpool", "Casablanca", "Sheffield"]}
+{"subject": "Faygo", "object": "Detroit", "taxonomy": ["Paris", "Rotterdam", "Norwich", "Sofia", "Haifa"]}
+{"subject": "E-CO Energi", "object": "Oslo", "taxonomy": ["Baku", "Minsk", "Colombo", "Florence", "Baltimore"]}
+{"subject": "Zillow", "object": "Seattle", "taxonomy": ["Belgrade", "Cairo", "York", "Delhi", "Rhodes"]}
+{"subject": "United Aircraft Corporation", "object": "Moscow", "taxonomy": ["Brisbane", "Caracas", "Vancouver", "Amsterdam", "Charlotte"]}
+{"subject": "Germanischer Lloyd SE", "object": "Hamburg", "taxonomy": ["Seattle", "Aberdeen", "Dwight", "London", "Durham"]}
+{"subject": "X5 Music Group", "object": "Stockholm", "taxonomy": ["Poole", "Kolkata", "Bari", "Vancouver", "Jakarta"]}
+{"subject": "Real Academia de Bellas Artes de San Fernando", "object": "Madrid", "taxonomy": ["Waterford", "Lucknow", "Belgium", "Japan", "Warwick"]}
+{"subject": "Karolinska Institute", "object": "Stockholm", "taxonomy": ["Delhi", "Pune", "Berlin", "Leipzig", "Manchester"]}
+{"subject": "The Imaginarium Studios", "object": "London", "taxonomy": ["Avon", "Beijing", "Cardiff", "Wilmington", "Columbus"]}
+{"subject": "Pantheon-Sorbonne University", "object": "Paris", "taxonomy": ["Pune", "Helsinki", "Newport", "Karachi", "Kiev"]}
+{"subject": "Nagoya City Art Museum", "object": "Nagoya", "taxonomy": ["Lagos", "Porto", "Leeds", "Amsterdam", "Sarajevo"]}
+{"subject": "Hellas Online", "object": "Athens", "taxonomy": ["Delhi", "Oxford", "Sweden", "Waterford", "Bend"]}
+{"subject": "BayernLB", "object": "Munich", "taxonomy": ["Lucknow", "Nancy", "Denver", "Rhodes", "Columbus"]}
+{"subject": "Castlemaine Perkins", "object": "Brisbane", "taxonomy": ["Calgary", "Brooklyn", "Bergen", "Wilmington", "Anaheim"]}
+{"subject": "Kita-Osaka Kyuko Railway", "object": "Japan", "taxonomy": ["Sweden", "Lancaster", "Melbourne", "Swindon", "Irvine"]}
+{"subject": "Russian Post", "object": "Moscow", "taxonomy": ["Pasadena", "Colchester", "Valencia", "Paramount", "Chicago"]}
+{"subject": "Midvale Steel", "object": "Philadelphia", "taxonomy": ["Bucharest", "Utrecht", "Aberdeen", "Kyoto", "Columbia"]}
+{"subject": "Polson Iron Works Limited", "object": "Toronto", "taxonomy": ["Peabody", "Montreal", "Riga", "Colorado", "Tbilisi"]}
+{"subject": "Croatian Democratic Union", "object": "Zagreb", "taxonomy": ["Tbilisi", "Middlesbrough", "Damascus", "Utrecht", "Philadelphia"]}
+{"subject": "Spot Image", "object": "Toulouse", "taxonomy": ["Wellington", "Hanover", "Bangalore", "Athens", "Basel"]}
+{"subject": "Slightly Mad Studios", "object": "London", "taxonomy": ["Beirut", "Paris", "Norfolk", "Alba", "Poole"]}
+{"subject": "Robert Allan Ltd.", "object": "Vancouver", "taxonomy": ["Montreal", "Wilmington", "Sarajevo", "Nashville", "Gothenburg"]}
+{"subject": "Central University of Venezuela", "object": "Caracas", "taxonomy": ["Wayne", "Wolverhampton", "Houston", "Queensland", "Lancaster"]}
+{"subject": "Aviastroitel", "object": "Moscow", "taxonomy": ["Norfolk", "Denver", "Tampa", "Rochester", "Aurora"]}
+{"subject": "Army of the Guardians of the Islamic Revolution", "object": "Tehran", "taxonomy": ["Bari", "Sarajevo", "Middlesbrough", "Grimsby", "Queensland"]}
+{"subject": "Trussed Concrete Steel Company", "object": "Detroit", "taxonomy": ["Wolverhampton", "Milan", "Hagen", "Anaheim", "Wayne"]}
+{"subject": "Communist Party", "object": "Gothenburg", "taxonomy": ["Scotland", "Lausanne", "Middlesbrough", "Lebanon", "Nairobi"]}
+{"subject": "Majlis-e-Ahrar-ul-Islam", "object": "Lahore", "taxonomy": ["Carlisle", "Springfield", "Brisbane", "Pasadena", "Nashville"]}
+{"subject": "TransGaming Inc.", "object": "Toronto", "taxonomy": ["Bedford", "Delhi", "Limerick", "Philadelphia", "Indianapolis"]}
+{"subject": "Ontario Hydro", "object": "Toronto", "taxonomy": ["Cleveland", "Sofia", "Central", "Scarborough", "Kabul"]}
+{"subject": "Tonkam", "object": "France", "taxonomy": ["Utrecht", "Perth", "Cologne", "Brooklyn", "Beijing"]}
+{"subject": "Big Ten Network", "object": "Chicago", "taxonomy": ["Belfast", "Quincy", "Hamilton", "Delhi", "Cincinnati"]}
+{"subject": "DuPont", "object": "Wilmington", "taxonomy": ["Glasgow", "Warwick", "Helsinki", "Nanjing", "Hagen"]}
+{"subject": "Lokalbahn AG", "object": "Munich", "taxonomy": ["Karachi", "Princeton", "Manila", "Hamilton", "Taipei"]}
+{"subject": "Smith & Wesson", "object": "Springfield", "taxonomy": ["Croydon", "Damascus", "Kabul", "Warsaw", "Grimsby"]}
+{"subject": "Rosbank", "object": "Moscow", "taxonomy": ["Homestead", "Madison", "Colorado", "Jerusalem", "Northampton"]}
+{"subject": "World Association of Girl Guides and Girl Scouts", "object": "London", "taxonomy": ["Leipzig", "Warwick", "Prague", "Ecuador", "Northampton"]}
+{"subject": "Delage", "object": "Paris", "taxonomy": ["Dundee", "Shrewsbury", "Oslo", "Greenville", "Manila"]}
+{"subject": "Alligator Records", "object": "Chicago", "taxonomy": ["Midland", "Hawaii", "Turin", "Milan", "Norwich"]}
+{"subject": "Tesch & Stabenow", "object": "Hamburg", "taxonomy": ["Bedford", "Poole", "Hertfordshire", "Italy", "Warsaw"]}
+{"subject": "Destineer", "object": "Minnesota", "taxonomy": ["Minsk", "Haifa", "Cleveland", "Singapore", "Southampton"]}
+{"subject": "Krauss-Maffei", "object": "Munich", "taxonomy": ["Basel", "Netherlands", "Tallinn", "Genoa", "Jerusalem"]}
+{"subject": "Bell TV", "object": "Montreal", "taxonomy": ["Hawaii", "Nanjing", "Barcelona", "Shanghai", "Mecca"]}
+{"subject": "Minnesota Strikers", "object": "Minneapolis", "taxonomy": ["Bradford", "Beirut", "Tehran", "Santiago", "Rotterdam"]}
+{"subject": "Propellerhead Software", "object": "Stockholm", "taxonomy": ["Leeds", "Miami", "Vancouver", "Minnesota", "Damascus"]}
+{"subject": "Sciences Po", "object": "Paris", "taxonomy": ["Canberra", "Milan", "Honolulu", "Rosario", "Lexington"]}
+{"subject": "Spendrups", "object": "Sweden", "taxonomy": ["Philadelphia", "Princeton", "Monroe", "Hamburg", "Aberdeen"]}
+{"subject": "Bayerischer Rundfunk", "object": "Munich", "taxonomy": ["Poole", "Queensland", "Aberdeen", "Bucharest", "Hagen"]}
+{"subject": "Euromoney Institutional Investor", "object": "London", "taxonomy": ["Tokyo", "Bend", "Kyoto", "Helsinki", "Riga"]}
+{"subject": "Crosley Broadcasting Corporation", "object": "Cincinnati", "taxonomy": ["Dhaka", "Belfast", "Providence", "Lima", "Kyoto"]}
+{"subject": "Alexandria University", "object": "Alexandria", "taxonomy": ["Kyoto", "Golden", "Bratislava", "Moscow", "Bangladesh"]}
+{"subject": "Millennium & Copthorne Hotels", "object": "London", "taxonomy": ["Troy", "Turin", "Cairo", "Dresden", "Dunedin"]}
+{"subject": "Metroplex", "object": "Detroit", "taxonomy": ["Wayne", "Poole", "Canberra", "Boston", "Norwich"]}
+{"subject": "Mayo Clinic", "object": "Rochester", "taxonomy": ["Belgium", "Wayne", "Bangalore", "Georgetown", "Dunedin"]}
+{"subject": "Pennzoil", "object": "Houston", "taxonomy": ["Detroit", "Oldham", "Kolkata", "Anaheim", "Northampton"]}
+{"subject": "NI Railways", "object": "Belfast", "taxonomy": ["Norman", "Singapore", "Brisbane", "Detroit", "Toulouse"]}
+{"subject": "Beijing Benz", "object": "Beijing", "taxonomy": ["Nairobi", "Winnipeg", "Franklin", "Toronto", "Croydon"]}
+{"subject": "North Carolina Central University", "object": "Durham", "taxonomy": ["Colchester", "Shrewsbury", "Paris", "Ottawa", "Montreal"]}
+{"subject": "ACTIVE Network, LLC", "object": "Dallas", "taxonomy": ["Bern", "Porto", "Wilmington", "Genoa", "Munich"]}
+{"subject": "Clover Studio", "object": "Japan", "taxonomy": ["Hamilton", "Montevideo", "Nashville", "Lahore", "Florence"]}
+{"subject": "Nedlloyd", "object": "Rotterdam", "taxonomy": ["Malaysia", "Albuquerque", "Minsk", "Dortmund", "Colorado"]}
+{"subject": "FC Dynamo Kyiv", "object": "Kiev", "taxonomy": ["Gothenburg", "Haifa", "Amherst", "Salisbury", "Dublin"]}
+{"subject": "Ministry of Foreign Affairs", "object": "Moscow", "taxonomy": ["Lebanon", "Oxford", "Amherst", "Anaheim", "Johannesburg"]}
+{"subject": "Alberta Liberal Party", "object": "Edmonton", "taxonomy": ["Tokyo", "Hayward", "Rhodes", "Meridian", "Lausanne"]}
+{"subject": "Amoco", "object": "Chicago", "taxonomy": ["Waterford", "Kyoto", "Bristol", "Chesapeake", "Tampa"]}
+{"subject": "F.K. Sarajevo", "object": "Sarajevo", "taxonomy": ["Anaheim", "Jakarta", "Dwight", "Poole", "Hamburg"]}
+{"subject": "Tyan", "object": "Taipei", "taxonomy": ["Mumbai", "Albany", "Ottawa", "Frankfurt", "Shanghai"]}
+{"subject": "Ferrotramviaria", "object": "Bari", "taxonomy": ["Lausanne", "Knoxville", "Berlin", "Istanbul", "Beijing"]}
+{"subject": "Officine Stampaggi Industriali", "object": "Turin", "taxonomy": ["Tampa", "Chesapeake", "Albany", "Rotterdam", "Homestead"]}
+{"subject": "Jacobs Engineering Group", "object": "Pasadena", "taxonomy": ["Baghdad", "Wellington", "Belgium", "Belgrade", "Porto"]}
+{"subject": "Johnson Publishing Company", "object": "Chicago", "taxonomy": ["Wilmington", "Poole", "Northampton", "Seattle", "Miami"]}
+{"subject": "Beetham Organization", "object": "Liverpool", "taxonomy": ["Florence", "London", "Athens", "Lima", "Madison"]}
+{"subject": "Lavazza", "object": "Turin", "taxonomy": ["Cincinnati", "Bangalore", "Miami", "Queensland", "Lincolnshire"]}
+{"subject": "United Airlines", "object": "Chicago", "taxonomy": ["Kyoto", "Chennai", "Orange", "Porto", "Stockholm"]}
+{"subject": "Zagreb Film", "object": "Zagreb", "taxonomy": ["Troy", "Belgrade", "Leipzig", "Brooklyn", "Taipei"]}
+{"subject": "Ottawa Sun", "object": "Ottawa", "taxonomy": ["Shanghai", "Midland", "Lincolnshire", "Miami", "Dhaka"]}
+{"subject": "Adeline Software International", "object": "Lyon", "taxonomy": ["Cincinnati", "Chennai", "Cardiff", "Hamilton", "Milton"]}
+{"subject": "Roman Catholic Archdiocese of Minsk-Mohilev", "object": "Minsk", "taxonomy": ["Perth", "Cleveland", "Denver", "Egypt", "Basel"]}
+{"subject": "Susquehanna Radio Corporation", "object": "York", "taxonomy": ["Brighton", "Troy", "Florence", "Gothenburg", "Claremont"]}
+{"subject": "IMRB International", "object": "Mumbai", "taxonomy": ["Indianapolis", "Carlisle", "Lancaster", "Cairo", "Nancy"]}
+{"subject": "Northland Communications", "object": "Seattle", "taxonomy": ["Colorado", "Scotland", "Dunedin", "Indianapolis", "Tbilisi"]}
+{"subject": "Euro1080", "object": "Belgium", "taxonomy": ["Bucharest", "Toronto", "Irvine", "Bremen", "Bangalore"]}
+{"subject": "Brisbane Times", "object": "Brisbane", "taxonomy": ["Brighton", "Vienna", "Canton", "Bethlehem", "Peabody"]}
+{"subject": "David Suzuki Foundation", "object": "Vancouver", "taxonomy": ["Tokyo", "Alexandria", "Wayne", "Macau", "Dhaka"]}
+{"subject": "OneWest Bank", "object": "Pasadena", "taxonomy": ["Liverpool", "Geneva", "Grimsby", "Hawthorne", "Genoa"]}
+{"subject": "Scarlet Records", "object": "Milan", "taxonomy": ["Waterloo", "Ecuador", "Perth", "Salzburg", "Ponce"]}
+{"subject": "DSK Shivajians F.C.", "object": "Pune", "taxonomy": ["Macau", "Burlington", "Blackpool", "Montreal", "Kabul"]}
+{"subject": "Piramal Enterprises Ltd", "object": "Mumbai", "taxonomy": ["Nashville", "Manila", "Israel", "Athens", "Chesterfield"]}
+{"subject": "Keeley Institute", "object": "Dwight", "taxonomy": ["Blackpool", "Istanbul", "Norfolk", "California", "Nuremberg"]}
+{"subject": "Combatant Clergy Association", "object": "Tehran", "taxonomy": ["Beijing", "Copenhagen", "Lima", "Durham", "Wolverhampton"]}
+{"subject": "Dallas Times Herald", "object": "Dallas", "taxonomy": ["Kabul", "Derby", "Lexington", "Middlesbrough", "Lahore"]}
+{"subject": "Bianet", "object": "Istanbul", "taxonomy": ["Bordeaux", "Tampa", "Springfield", "Charlotte", "Toyota"]}
+{"subject": "Fantasy Studios", "object": "Berkeley", "taxonomy": ["Cardiff", "Bristol", "Marshall", "Lyon", "Melbourne"]}
+{"subject": "Packard", "object": "Detroit", "taxonomy": ["Bangkok", "Haifa", "Baghdad", "Charlotte", "Chesapeake"]}
+{"subject": "Electrolux", "object": "Stockholm", "taxonomy": ["Blackpool", "Boston", "California", "Bordeaux", "Bournemouth"]}
+{"subject": "FUN Technologies", "object": "Toronto", "taxonomy": ["Hawthorne", "Belgrade", "Bend", "Dwight", "Israel"]}
+{"subject": "Mykolas Romeris University", "object": "Vilnius", "taxonomy": ["Toyota", "Tbilisi", "Dublin", "Tehran", "Istanbul"]}
+{"subject": "American Indian Center", "object": "Chicago", "taxonomy": ["Hawaii", "Wilmington", "Croydon", "Cairo", "Waterford"]}
+{"subject": "Nu Boyana Film", "object": "Sofia", "taxonomy": ["Zagreb", "Florence", "Minsk", "Madison", "Mecca"]}
+{"subject": "University of Kentucky", "object": "Lexington", "taxonomy": ["Winnipeg", "Middlesbrough", "Warwick", "Jerusalem", "Poole"]}
+{"subject": "Nasdaq AB", "object": "Stockholm", "taxonomy": ["Providence", "Meridian", "Dublin", "Manila", "Edinburgh"]}
+{"subject": "Christian Democrats", "object": "Stockholm", "taxonomy": ["Lausanne", "Knoxville", "Rugby", "Haifa", "Derby"]}
+{"subject": "International Livestock Research Institute", "object": "Nairobi", "taxonomy": ["Utrecht", "Springfield", "Scotland", "Northampton", "Mansfield"]}
+{"subject": "Holt Renfrew", "object": "Toronto", "taxonomy": ["Wilmington", "Vancouver", "Vilnius", "Cleveland", "Marshall"]}
+{"subject": "Mitre Corporation", "object": "Bedford", "taxonomy": ["Taipei", "Nuremberg", "Hagen", "Lincolnshire", "Sydney"]}
+{"subject": "Indian Space Research Organisation", "object": "Bangalore", "taxonomy": ["Wolverhampton", "Stamford", "Egypt", "Alexandria", "Oxford"]}
+{"subject": "North German Automobile and Engine", "object": "Bremen", "taxonomy": ["Colombo", "Albany", "Newport", "Kiev", "Mumbai"]}
+{"subject": "Aviation Industry Corporation of China", "object": "Beijing", "taxonomy": ["Alexandria", "Dallas", "Wellington", "Toronto", "Haifa"]}
+{"subject": "AstraZeneca", "object": "London", "taxonomy": ["Vilnius", "Homestead", "Gothenburg", "Norwich", "Chicago"]}
+{"subject": "Shelbourne F.C.", "object": "Dublin", "taxonomy": ["Caracas", "Bangladesh", "Istanbul", "Brisbane", "Newport"]}
+{"subject": "Iranian reform movement", "object": "Tehran", "taxonomy": ["Dunedin", "Shanghai", "Bordeaux", "Luxembourg", "Princeton"]}
+{"subject": "Palace Software", "object": "London", "taxonomy": ["Delhi", "Pasadena", "Riga", "Middlesbrough", "Nashville"]}
+{"subject": "Richer Sounds", "object": "London", "taxonomy": ["Toyota", "Sarajevo", "Philadelphia", "Nancy", "Bonn"]}
+{"subject": "Square Enix Europe", "object": "London", "taxonomy": ["Bergen", "Colchester", "Moscow", "Frankfurt", "Baku"]}
+{"subject": "SNK European Democrats", "object": "Prague", "taxonomy": ["Irvine", "Lahore", "Bethlehem", "Alba", "Edinburgh"]}
+{"subject": "Hang Seng Bank", "object": "Central", "taxonomy": ["Genoa", "Queensland", "Claremont", "Boulder", "Kiev"]}
+{"subject": "Ernst & Young", "object": "London", "taxonomy": ["Hayward", "Tokyo", "Waterloo", "Amsterdam", "Wolverhampton"]}
+{"subject": "Jiangsu Broadcasting Corporation", "object": "Nanjing", "taxonomy": ["Delhi", "Salzburg", "Edinburgh", "Albuquerque", "Florence"]}
+{"subject": "Teo LT", "object": "Vilnius", "taxonomy": ["Dresden", "Meridian", "Turin", "Hagen", "Tokyo"]}
+{"subject": "VV DOS", "object": "Utrecht", "taxonomy": ["Colorado", "Columbia", "Bratislava", "Perth", "Canton"]}
+{"subject": "Ewing family", "object": "Dallas", "taxonomy": ["Italy", "Knoxville", "Limerick", "Sofia", "Boulder"]}
+{"subject": "East China Normal University", "object": "Shanghai", "taxonomy": ["Rochester", "Dortmund", "Indianapolis", "Seoul", "Philadelphia"]}
+{"subject": "Philadelphia International Records", "object": "Philadelphia", "taxonomy": ["Malaysia", "Bradford", "Miami", "Delhi", "Cleveland"]}
+{"subject": "State Street Corporation", "object": "Boston", "taxonomy": ["Helsinki", "Cleveland", "Milan", "Ankara", "Beijing"]}
+{"subject": "Shanghai Animation Film Studio", "object": "Shanghai", "taxonomy": ["Hamburg", "Philadelphia", "Bratislava", "Coventry", "Bergen"]}
+{"subject": "Shanghai Shenxin F.C.", "object": "Shanghai", "taxonomy": ["Central", "Johannesburg", "Amherst", "Shrewsbury", "Yerevan"]}
+{"subject": "Lancaster Newspapers, Inc.", "object": "Lancaster", "taxonomy": ["Bangalore", "Bristol", "Pittsburgh", "Strasbourg", "Dortmund"]}
+{"subject": "IONIS Education Group", "object": "Paris", "taxonomy": ["Aberdeen", "Montevideo", "Chicago", "Newport", "Grimsby"]}
+{"subject": "Shanghai Electric", "object": "Shanghai", "taxonomy": ["Northampton", "Aberdeen", "Lagos", "Claremont", "Amsterdam"]}
+{"subject": "Serbian Orthodox Church", "object": "Belgrade", "taxonomy": ["Nanjing", "London", "Hanover", "Colchester", "Boston"]}
+{"subject": "The Manila Times", "object": "Manila", "taxonomy": ["Philadelphia", "Toyota", "Kolkata", "Portsmouth", "Bari"]}
+{"subject": "National Party of Australia", "object": "Canberra", "taxonomy": ["Albany", "Hawthorne", "Sydney", "Colchester", "Waterloo"]}
+{"subject": "Plaid Cymru", "object": "Cardiff", "taxonomy": ["Ponce", "Avon", "Croydon", "Perth", "Porto"]}
+{"subject": "Sabrang Communications", "object": "Mumbai", "taxonomy": ["Lebanon", "Tehran", "Colchester", "Sweden", "Perth"]}
+{"subject": "DataWind", "object": "Montreal", "taxonomy": ["Warwick", "Bolton", "Copenhagen", "Sarajevo", "Egypt"]}
+{"subject": "RPG Group", "object": "Mumbai", "taxonomy": ["Ottawa", "Bucharest", "Wolverhampton", "Poole", "Croydon"]}
+{"subject": "European Space Agency", "object": "Paris", "taxonomy": ["Salisbury", "Denver", "Greenwich", "Beijing", "Oslo"]}
+{"subject": "Supermarine", "object": "Southampton", "taxonomy": ["Ecuador", "Rugby", "Lagos", "Riga", "Nancy"]}
+{"subject": "Mediafax", "object": "Bucharest", "taxonomy": ["Alba", "Nairobi", "Tehran", "Albany", "Bratislava"]}
+{"subject": "WaterAid", "object": "London", "taxonomy": ["Milton", "Rugby", "Pittsburgh", "Georgetown", "Hawaii"]}
+{"subject": "Northlands", "object": "Edmonton", "taxonomy": ["Burlington", "Salisbury", "Belgrade", "Egypt", "Baltimore"]}
+{"subject": "Maccabi Haifa F.C.", "object": "Haifa", "taxonomy": ["Thessaloniki", "Rome", "Santiago", "Kyoto", "Lyon"]}
+{"subject": "SpaceX", "object": "Hawthorne", "taxonomy": ["Israel", "Canton", "Glasgow", "Zagreb", "Basel"]}
+{"subject": "Brown University", "object": "Providence", "taxonomy": ["Turin", "Mansfield", "Tbilisi", "Birmingham", "Bangkok"]}
+{"subject": "Osler, Hoskin & Harcourt", "object": "Toronto", "taxonomy": ["Livingston", "Bradford", "Shanghai", "Vilnius", "Glasgow"]}
+{"subject": "BenQ", "object": "Taipei", "taxonomy": ["Newport", "Calgary", "Chandler", "Strasbourg", "Rhodes"]}
+{"subject": "Schwan Food Company", "object": "Marshall", "taxonomy": ["Derby", "Berkeley", "Netherlands", "Florence", "Providence"]}
+{"subject": "Service Electric", "object": "Bethlehem", "taxonomy": ["Luxembourg", "Tallinn", "Kiev", "Oldham", "Caracas"]}
+{"subject": "HAVELSAN", "object": "Ankara", "taxonomy": ["Nagoya", "Brooklyn", "Indianapolis", "London", "Poole"]}
+{"subject": "Minerva Press", "object": "London", "taxonomy": ["Kiel", "Montevideo", "Italy", "Canton", "Melbourne"]}
+{"subject": "Middle East Forum", "object": "Philadelphia", "taxonomy": ["Toyota", "Bratislava", "Honolulu", "Frankfurt", "Leipzig"]}
+{"subject": "Atletico Roma F.C.", "object": "Rome", "taxonomy": ["Beijing", "Greenwich", "Golden", "Bedford", "Istanbul"]}
+{"subject": "BRIT School", "object": "Croydon", "taxonomy": ["Bern", "Claremont", "Toronto", "Boulder", "Dhaka"]}
+{"subject": "Chivas Regal", "object": "Aberdeen", "taxonomy": ["Canton", "Zagreb", "Quincy", "Scarborough", "Leicestershire"]}
+{"subject": "CreativeLive", "object": "Seattle", "taxonomy": ["Norman", "Rhodes", "Norfolk", "Hawaii", "Houston"]}
+{"subject": "Princeton University Press", "object": "Princeton", "taxonomy": ["Beijing", "Peabody", "Cardiff", "Poole", "Damascus"]}
+{"subject": "Track Record", "object": "London", "taxonomy": ["Milwaukee", "Seoul", "Malaysia", "Rhodes", "Berlin"]}
+{"subject": "True Value", "object": "Chicago", "taxonomy": ["Geneva", "Blackpool", "Milwaukee", "Norfolk", "Shanghai"]}
+{"subject": "Georgian Airways", "object": "Tbilisi", "taxonomy": ["Cincinnati", "France", "Egypt", "Warwick", "Cleveland"]}
+{"subject": "University of Geneva", "object": "Geneva", "taxonomy": ["Mecca", "Lexington", "Ponce", "Norwich", "Thessaloniki"]}
+{"subject": "Tulloch Limited", "object": "Rhodes", "taxonomy": ["Minnesota", "Gothenburg", "Irvine", "Columbus", "Turin"]}
+{"subject": "Diabetes UK", "object": "London", "taxonomy": ["Atlanta", "Tbilisi", "Stamford", "Scarborough", "Norwich"]}
+{"subject": "University of Oklahoma", "object": "Norman", "taxonomy": ["Cologne", "Peabody", "Poole", "Rhodes", "Lancaster"]}
+{"subject": "University of Bordeaux 1", "object": "Bordeaux", "taxonomy": ["Boulder", "Newport", "Macau", "Porto", "Dublin"]}
+{"subject": "J.M. Meulenhoff", "object": "Amsterdam", "taxonomy": ["Cairo", "Kiev", "Basel", "Sheffield", "Knoxville"]}
+{"subject": "Tata Teleservices", "object": "Mumbai", "taxonomy": ["Tehran", "Colombo", "Sweden", "Denver", "Dhaka"]}
+{"subject": "SKY Perfect Well Think", "object": "Tokyo", "taxonomy": ["Brisbane", "Orange", "Central", "Barcelona", "Malaysia"]}
+{"subject": "Grey Nuns", "object": "Montreal", "taxonomy": ["Grimsby", "Helsinki", "Chesterfield", "Alexandria", "Oxford"]}
+{"subject": "Independent Newspapers", "object": "Wellington", "taxonomy": ["Taipei", "Mumbai", "Philadelphia", "Milton", "Madrid"]}
+{"subject": "Obsidian Entertainment", "object": "Irvine", "taxonomy": ["Egypt", "France", "Canton", "Calgary", "Cairo"]}
+{"subject": "FTSE Group", "object": "London", "taxonomy": ["Egypt", "Belgium", "Minneapolis", "Manila", "Macau"]}
+{"subject": "Godrej Consumer Products Limited", "object": "Mumbai", "taxonomy": ["Swindon", "Manchester", "Bangladesh", "Milwaukee", "Nagoya"]}
+{"subject": "Nahdlatul Ulama", "object": "Jakarta", "taxonomy": ["Aberdeen", "Barcelona", "Bremen", "Central", "Hawaii"]}
+{"subject": "Royal Birmingham Society of Artists", "object": "Birmingham", "taxonomy": ["Norfolk", "Beijing", "Lebanon", "Minsk", "York"]}
+{"subject": "Majorette", "object": "Lyon", "taxonomy": ["Wolverhampton", "Blackpool", "Egypt", "Paramount", "Taipei"]}
+{"subject": "Hibernian L.F.C.", "object": "Edinburgh", "taxonomy": ["Manchester", "Bonn", "Amsterdam", "Macau", "Istanbul"]}
+{"subject": "Hamilton Bradshaw", "object": "London", "taxonomy": ["Sarajevo", "Princeton", "Cardiff", "Canton", "Oldham"]}
+{"subject": "Dominican Order", "object": "Rome", "taxonomy": ["Princeton", "Queensland", "Grimsby", "Toyota", "Liverpool"]}
+{"subject": "Mitsubishi Corporation", "object": "Tokyo", "taxonomy": ["California", "Amherst", "Detroit", "Newport", "Oldham"]}
+{"subject": "Skinner & Eddy", "object": "Seattle", "taxonomy": ["Hanover", "Meridian", "Shrewsbury", "Sheffield", "Boulder"]}
+{"subject": "Tata Steel Europe", "object": "London", "taxonomy": ["Warwick", "Warsaw", "Hollywood", "Chandler", "Durham"]}
+{"subject": "Mumtaz Group", "object": "Bradford", "taxonomy": ["Columbus", "Liverpool", "Brunswick", "Italy", "Peabody"]}
+{"subject": "Brown, Shipley & Co.", "object": "London", "taxonomy": ["Boulder", "Edmonton", "Singapore", "Bern", "Seattle"]}
+{"subject": "WWE", "object": "Stamford", "taxonomy": ["Cologne", "Colombo", "Swindon", "Chesapeake", "Cairo"]}
+{"subject": "Centers for Disease Control and Prevention", "object": "Atlanta", "taxonomy": ["Coventry", "Tallinn", "Baku", "Montevideo", "Greenwich"]}
+{"subject": "Amalgamated Wireless", "object": "Sydney", "taxonomy": ["Lyon", "Kolkata", "Houston", "Marshall", "Madison"]}
+{"subject": "Cirque du Soleil", "object": "Montreal", "taxonomy": ["Portsmouth", "Oslo", "Manila", "Edmonton", "Ankara"]}
+{"subject": "McGill University", "object": "Montreal", "taxonomy": ["Princeton", "Scarborough", "Bern", "Ireland", "Strasbourg"]}
+{"subject": "Banque Misr", "object": "Cairo", "taxonomy": ["Berkeley", "Chandler", "Porto", "Hayward", "Montana"]}
+{"subject": "Radio and Television of Bosnia and Herzegovina", "object": "Sarajevo", "taxonomy": ["Central", "Helsinki", "Porto", "Orange", "Knoxville"]}
+{"subject": "J. G. Brill Company", "object": "Philadelphia", "taxonomy": ["Ponce", "Basel", "Florence", "Cincinnati", "Miami"]}
+{"subject": "Schwartz Publishing", "object": "Melbourne", "taxonomy": ["Kiev", "Sweden", "Durham", "Colorado", "Nashville"]}
+{"subject": "Black Mark Productions", "object": "Stockholm", "taxonomy": ["Delhi", "Damascus", "Vancouver", "Utrecht", "Derby"]}
+{"subject": "National City Corp.", "object": "Cleveland", "taxonomy": ["Bucharest", "Cardiff", "Budapest", "Toulouse", "Rhodes"]}
+{"subject": "House of Reeves", "object": "Croydon", "taxonomy": ["Swindon", "Waterford", "Charlotte", "Coventry", "Seattle"]}
+{"subject": "Rauch and Lang", "object": "Cleveland", "taxonomy": ["Nanjing", "Nagoya", "Lexington", "Wayne", "Egypt"]}
+{"subject": "Hitachi Consulting", "object": "Dallas", "taxonomy": ["Lyon", "Minnesota", "Geneva", "Ankara", "Minneapolis"]}
+{"subject": "Compagnie des Transports Strasbourgeois", "object": "Strasbourg", "taxonomy": ["Nuremberg", "Rotterdam", "Berlin", "Vancouver", "Wayne"]}
+{"subject": "Northeastern University", "object": "Boston", "taxonomy": ["Belgium", "Mansfield", "Istanbul", "Greenville", "Limerick"]}
+{"subject": "Cassella", "object": "Frankfurt", "taxonomy": ["Peabody", "Irvine", "Rhodes", "Amsterdam", "Geneva"]}
+{"subject": "Socimi", "object": "Italy", "taxonomy": ["Taipei", "Livingston", "Basel", "Northampton", "Bordeaux"]}
+{"subject": "Force Motors", "object": "Pune", "taxonomy": ["Egypt", "Munich", "Montreal", "Istanbul", "Warwick"]}
+{"subject": "CenturyLink", "object": "Monroe", "taxonomy": ["Baku", "Springfield", "Dallas", "Luxembourg", "Denver"]}
+{"subject": "Pakistan Awami Tehreek", "object": "Lahore", "taxonomy": ["Lexington", "Bradford", "Pittsburgh", "Sheffield", "Springfield"]}
+{"subject": "Tube Investments of India Limited", "object": "Chennai", "taxonomy": ["Dresden", "Bangkok", "Bournemouth", "Stockholm", "Geneva"]}
+{"subject": "Italian Social Movement", "object": "Rome", "taxonomy": ["Toyota", "Pune", "Strasbourg", "Delhi", "Middlesbrough"]}
+{"subject": "Boston Bolts", "object": "Boston", "taxonomy": ["Coventry", "Birmingham", "Bangladesh", "Sydney", "Taipei"]}
+{"subject": "Zeneca", "object": "London", "taxonomy": ["Cambridge", "Chennai", "California", "Turin", "Florence"]}
+{"subject": "Stena Line", "object": "Gothenburg", "taxonomy": ["Bangkok", "Newport", "Rochester", "Hollywood", "Yerevan"]}
+{"subject": "Mater Health Services", "object": "Brisbane", "taxonomy": ["Middlesbrough", "Dhaka", "Hayward", "Mumbai", "Berlin"]}
+{"subject": "Royal Mail Steam Packet Company", "object": "London", "taxonomy": ["Paramount", "Leiden", "Oslo", "Troy", "Chandler"]}
+{"subject": "Holstein Kiel", "object": "Kiel", "taxonomy": ["Genoa", "Hanover", "Wellington", "Calgary", "Norman"]}
+{"subject": "Czechoslovak Television", "object": "Prague", "taxonomy": ["Middlesbrough", "Berlin", "Ecuador", "Honolulu", "Poole"]}
+{"subject": "Tangerine Confectionery", "object": "Blackpool", "taxonomy": ["Delhi", "Geneva", "Queensland", "Durham", "Warwick"]}
+{"subject": "Tuxera", "object": "Helsinki", "taxonomy": ["Paris", "Bethlehem", "Barcelona", "Aurora", "Cincinnati"]}
+{"subject": "Lavalin", "object": "Montreal", "taxonomy": ["Warsaw", "Winnipeg", "Lexington", "Sydney", "Bremen"]}
+{"subject": "PDVSA", "object": "Caracas", "taxonomy": ["Beirut", "Lahore", "Pune", "Thessaloniki", "Gothenburg"]}
+{"subject": "United Nations High Commissioner for Human Rights", "object": "Geneva", "taxonomy": ["Cambridge", "Rome", "Bend", "Providence", "Budapest"]}
+{"subject": "Pakistan Steel Mills", "object": "Karachi", "taxonomy": ["Liverpool", "Brighton", "Amherst", "Minneapolis", "Jerusalem"]}
+{"subject": "AIK Fotboll", "object": "Stockholm", "taxonomy": ["Bethlehem", "Nairobi", "Cambridge", "Carlisle", "Durham"]}
+{"subject": "Mimar Sinan Fine Arts University", "object": "Istanbul", "taxonomy": ["Bonn", "California", "Gothenburg", "Wayne", "Tallinn"]}
+{"subject": "Caribbean Community Secretariat", "object": "Georgetown", "taxonomy": ["Dhaka", "Brighton", "Sweden", "Dresden", "Lexington"]}
+{"subject": "TU Dortmund", "object": "Dortmund", "taxonomy": ["Bremen", "Shrewsbury", "Wolverhampton", "Durham", "Ponce"]}
+{"subject": "Triumph Motorcycles Ltd", "object": "Coventry", "taxonomy": ["Gothenburg", "Warwick", "Oxford", "Bolton", "Colombo"]}
+{"subject": "Modern Love Records", "object": "Manchester", "taxonomy": ["Toronto", "Barcelona", "Chesapeake", "Hawaii", "Central"]}
+{"subject": "Alberta University of the Arts", "object": "Calgary", "taxonomy": ["Beijing", "Ponce", "Honolulu", "Aberdeen", "Frankfurt"]}
+{"subject": "Carlton Communications", "object": "London", "taxonomy": ["Warwick", "Kolkata", "Toronto", "Paramount", "Toulouse"]}
+{"subject": "Macedonia Football Clubs Association", "object": "Thessaloniki", "taxonomy": ["Birmingham", "Brighton", "Milton", "Cleveland", "London"]}
+{"subject": "Morr Music", "object": "Berlin", "taxonomy": ["Valencia", "Waterloo", "Winnipeg", "Meridian", "Singapore"]}
+{"subject": "AZLK", "object": "Moscow", "taxonomy": ["Hamburg", "Caracas", "Goa", "Baku", "Alexandria"]}
+{"subject": "Il Sole 24 Ore", "object": "Milan", "taxonomy": ["Ireland", "Goa", "Dundee", "Mumbai", "Lahore"]}
+{"subject": "Hambros Bank", "object": "London", "taxonomy": ["California", "Indianapolis", "Aurora", "Bend", "Quincy"]}
+{"subject": "Vergo Retail", "object": "Liverpool", "taxonomy": ["Charlotte", "Vienna", "Dallas", "Norwich", "Bristol"]}
+{"subject": "Fairfax Media", "object": "Sydney", "taxonomy": ["Malaysia", "Atlanta", "Dundee", "Orange", "Valencia"]}
+{"subject": "Oratory of Saint Philip Neri", "object": "Rome", "taxonomy": ["Brisbane", "Houston", "Perth", "Grimsby", "Munich"]}
+{"subject": "Tusker F.C.", "object": "Nairobi", "taxonomy": ["Bari", "Riga", "Hollywood", "Delhi", "Leeds"]}
+{"subject": "Starz Inc.", "object": "Meridian", "taxonomy": ["Colombo", "California", "Scarborough", "Thessaloniki", "Chennai"]}
+{"subject": "Detroit Express", "object": "Detroit", "taxonomy": ["Colorado", "Beirut", "Scarborough", "Rome", "Liverpool"]}
+{"subject": "Partisan Records", "object": "Brooklyn", "taxonomy": ["Cologne", "Utrecht", "Bangkok", "London", "Minsk"]}
+{"subject": "Kewpee", "object": "Lima", "taxonomy": ["Mecca", "Copenhagen", "Kabul", "Porto", "Alba"]}
+{"subject": "Newtown School, Waterford", "object": "Waterford", "taxonomy": ["Montreal", "Madison", "Tehran", "Utrecht", "Norman"]}
+{"subject": "Lexus", "object": "Nagoya", "taxonomy": ["Egypt", "Damascus", "Amsterdam", "Copenhagen", "Turin"]}
+{"subject": "Air Macau", "object": "Macau", "taxonomy": ["Blackpool", "Sarajevo", "Hawaii", "Italy", "Chennai"]}
+{"subject": "ATA Airlines", "object": "Indianapolis", "taxonomy": ["Baku", "Barcelona", "Seoul", "Monroe", "Northampton"]}
+{"subject": "Vertigo Films", "object": "London", "taxonomy": ["Detroit", "Albany", "Indianapolis", "Houston", "Kiev"]}
+{"subject": "Muse Entertainment", "object": "Montreal", "taxonomy": ["Ireland", "Chicago", "Irvine", "Copenhagen", "Sarajevo"]}
+{"subject": "Reaktion Books", "object": "London", "taxonomy": ["Bangalore", "Hagen", "Italy", "Pune", "Brunswick"]}
+{"subject": "Christiania Bank", "object": "Oslo", "taxonomy": ["Haifa", "Waterford", "Munich", "Minsk", "Bolton"]}
+{"subject": "Berliner Verkehrsbetriebe", "object": "Berlin", "taxonomy": ["Lucknow", "Belgium", "Dortmund", "Bremen", "Leeds"]}
+{"subject": "Sheffield United F.C.", "object": "Sheffield", "taxonomy": ["Atlanta", "Lancaster", "Newport", "Montevideo", "Edinburgh"]}
+{"subject": "Boston Beer Company", "object": "Boston", "taxonomy": ["Beijing", "Carlisle", "Mansfield", "Seattle", "Amsterdam"]}
+{"subject": "Epitome Pictures", "object": "Toronto", "taxonomy": ["Nancy", "Munich", "Dublin", "Egypt", "Bergen"]}
+{"subject": "Gyldendal", "object": "Copenhagen", "taxonomy": ["Rosario", "Anaheim", "Norfolk", "Southampton", "Hertfordshire"]}
+{"subject": "Boldklubben Frem", "object": "Copenhagen", "taxonomy": ["Tokyo", "Warsaw", "Belgrade", "Hawthorne", "Alba"]}
+{"subject": "United Continental Holdings", "object": "Chicago", "taxonomy": ["Cardiff", "Basel", "Milan", "Egypt", "Montreal"]}
+{"subject": "Food Lion", "object": "Salisbury", "taxonomy": ["Boulder", "Bangladesh", "Bolton", "Japan", "Dublin"]}
+{"subject": "Liverpool Hope University", "object": "Liverpool", "taxonomy": ["Aurora", "Helsinki", "Singapore", "Blackpool", "Colombo"]}
+{"subject": "La Caixa", "object": "Barcelona", "taxonomy": ["Liverpool", "Canton", "Burlington", "Oxford", "Netherlands"]}
+{"subject": "Al-Ansar SC", "object": "Beirut", "taxonomy": ["Marshall", "Jakarta", "Aurora", "Hayward", "Madison"]}
+{"subject": "Glitch Mode Recordings", "object": "Chicago", "taxonomy": ["Minnesota", "Central", "Midland", "Brighton", "Hamburg"]}
+{"subject": "Sysco", "object": "Houston", "taxonomy": ["Chesapeake", "Singapore", "Dhaka", "York", "Nashville"]}
+{"subject": "Library House", "object": "Cambridge", "taxonomy": ["Kyoto", "Montreal", "Utrecht", "Bangalore", "Shanghai"]}
+{"subject": "ITC Limited", "object": "Kolkata", "taxonomy": ["Dortmund", "Nashville", "Bedford", "Bangalore", "Dunedin"]}
+{"subject": "FFA Private Bank", "object": "Beirut", "taxonomy": ["Milan", "Jakarta", "Taipei", "Detroit", "Bergen"]}
+{"subject": "Canadian Cancer Society", "object": "Toronto", "taxonomy": ["Warwick", "Madison", "Warsaw", "Ankara", "Netherlands"]}
+{"subject": "Lebedev Physical Institute", "object": "Moscow", "taxonomy": ["Florence", "Monroe", "Lincolnshire", "Vancouver", "Dresden"]}
+{"subject": "Calcutta Tramways Company", "object": "Kolkata", "taxonomy": ["Baghdad", "London", "Paramount", "Baku", "Canton"]}
+{"subject": "Cardiff City Ladies F.C.", "object": "Cardiff", "taxonomy": ["Wolverhampton", "Ankara", "Bangkok", "Columbus", "Waterford"]}
+{"subject": "Iraqi Republic Railways", "object": "Baghdad", "taxonomy": ["Mumbai", "London", "Croydon", "Mansfield", "Lebanon"]}
+{"subject": "National Provincial Bank", "object": "London", "taxonomy": ["Helsinki", "Georgetown", "Orange", "Mecca", "Amherst"]}
+{"subject": "Remstar", "object": "Montreal", "taxonomy": ["Lausanne", "Rome", "Sarajevo", "Casablanca", "Colchester"]}
+{"subject": "Allied Command Transformation", "object": "Norfolk", "taxonomy": ["Delhi", "Carlisle", "Aurora", "Barcelona", "York"]}

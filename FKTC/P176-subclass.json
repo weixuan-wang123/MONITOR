@@ -1,0 +1,983 @@
+{"relations": ["What is the manufacturer of [X]?", "Which company produces [X]?", "Which organization is responsible for producing [X]?", "Which company manufactures [X]?", "What is the company that makes [X]?", "Who is responsible for the production of [X]?", "Who is the creator of [X]?"]}
+{"subject": "Fiat Multipla", "object": "Fiat", "taxonomy": ["Pontiac", "Mercury", "Google", "Cadillac", "Renault"]}
+{"subject": "Cadillac Fleetwood", "object": "Cadillac", "taxonomy": ["Sega", "Porsche", "Adobe", "Fairchild", "Boeing"]}
+{"subject": "Nokia Lumia 800", "object": "Nokia", "taxonomy": ["Chevrolet", "Fairchild", "Triumph", "sugar", "Packard"]}
+{"subject": "Renault Vel Satis", "object": "Renault", "taxonomy": ["Airbus", "Adobe", "Honda", "Apple", "Mercury"]}
+{"subject": "IBM 407", "object": "IBM", "taxonomy": ["Fairchild", "Nintendo", "Hercules", "Triumph", "Amazon"]}
+{"subject": "Chevrolet Malibu", "object": "Chevrolet", "taxonomy": ["McLaren", "Siemens", "Iran", "Douglas", "Hercules"]}
+{"subject": "Honda Life", "object": "Honda", "taxonomy": ["Nokia", "Toyota", "Samsung", "Triumph", "sugar"]}
+{"subject": "System Controller Hub", "object": "Intel", "taxonomy": ["Google", "Atari", "Samsung", "God", "Ferrari"]}
+{"subject": "Chevrolet Cobalt", "object": "Chevrolet", "taxonomy": ["Vickers", "Nokia", "Sears", "Cadillac", "Apple"]}
+{"subject": "Cadillac V-12", "object": "Cadillac", "taxonomy": ["McLaren", "Douglas", "Adobe", "Suzuki", "Sears"]}
+{"subject": "Toyota Etios", "object": "Toyota", "taxonomy": ["BMW", "Audi", "Yamaha", "Dodge", "Microsoft"]}
+{"subject": "Cadillac de Ville series", "object": "Cadillac", "taxonomy": ["Douglas", "Ferrari", "God", "Google", "Siemens"]}
+{"subject": "IBM 402", "object": "IBM", "taxonomy": ["Vickers", "Jeep", "Nissan", "Fiat", "Philips"]}
+{"subject": "Nissan GT-R", "object": "Nissan", "taxonomy": ["Fiat", "Samsung", "Chrysler", "Pontiac", "Mercury"]}
+{"subject": "Nissan Stagea", "object": "Nissan", "taxonomy": ["Toyota", "God", "Cadillac", "Siemens", "Porsche"]}
+{"subject": "Enzo Ferrari", "object": "Ferrari", "taxonomy": ["Renault", "McLaren", "Vickers", "Nokia", "God"]}
+{"subject": "Chevrolet Lumina APV", "object": "Chevrolet", "taxonomy": ["Iran", "Porsche", "Apple", "Packard", "sugar"]}
+{"subject": "Fiat 126", "object": "Fiat", "taxonomy": ["Zeppelin", "Atari", "Porsche", "Sears", "BMW"]}
+{"subject": "Chrysler K platform", "object": "Chrysler", "taxonomy": ["Mitsubishi", "Chevrolet", "Nokia", "Adobe", "Boeing"]}
+{"subject": "Windows 2000", "object": "Microsoft", "taxonomy": ["BMW", "Hercules", "Renault", "Porsche", "Mitsubishi"]}
+{"subject": "Fiat Idea", "object": "Fiat", "taxonomy": ["Spain", "Packard", "Fairchild", "BMW", "Iran"]}
+{"subject": "Fiat Ritmo", "object": "Fiat", "taxonomy": ["Sony", "Hercules", "Audi", "Porsche", "Chrysler"]}
+{"subject": "Triumph Herald", "object": "Triumph", "taxonomy": ["Samsung", "Amazon", "Chevrolet", "Zeppelin", "Vickers"]}
+{"subject": "Suzuki SV 650", "object": "Suzuki", "taxonomy": ["Fairchild", "Sony", "IBM", "Sears", "Microsoft"]}
+{"subject": "Chrysler 200", "object": "Chrysler", "taxonomy": ["Zeppelin", "Nissan", "Mitsubishi", "Cadillac", "Sony"]}
+{"subject": "Sega Pico", "object": "Sega", "taxonomy": ["Toyota", "Nintendo", "Samsung", "Philips", "Sears"]}
+{"subject": "Ferrari Daytona", "object": "Ferrari", "taxonomy": ["Google", "Triumph", "Toyota", "Microsoft", "Cadillac"]}
+{"subject": "Toyota Supra", "object": "Toyota", "taxonomy": ["Spain", "Boeing", "Pontiac", "Airbus", "Siemens"]}
+{"subject": "Porsche 910", "object": "Porsche", "taxonomy": ["Intel", "Mitsubishi", "Fairchild", "Zeppelin", "Amazon"]}
+{"subject": "Honda CB750", "object": "Honda", "taxonomy": ["IBM", "Nissan", "Boeing", "Intel", "Samsung"]}
+{"subject": "Honda Concerto", "object": "Honda", "taxonomy": ["Porsche", "Nintendo", "Pontiac", "Hercules", "Renault"]}
+{"subject": "IBM RAD6000", "object": "IBM", "taxonomy": ["Samsung", "Microsoft", "Hercules", "Sega", "Packard"]}
+{"subject": "Dodge Nitro", "object": "Dodge", "taxonomy": ["Suzuki", "Cadillac", "Jeep", "Apple", "Spain"]}
+{"subject": "Nissan MR engine", "object": "Nissan", "taxonomy": ["Amazon", "Triumph", "Toyota", "Zeppelin", "Chevrolet"]}
+{"subject": "Fiat Tipo", "object": "Fiat", "taxonomy": ["Douglas", "Vickers", "Pontiac", "Siemens", "Dodge"]}
+{"subject": "Shahab-2", "object": "Iran", "taxonomy": ["Spain", "Vickers", "Jeep", "Microsoft", "Intel"]}
+{"subject": "Daihatsu Boon", "object": "Toyota", "taxonomy": ["Apple", "Philips", "Chrysler", "Douglas", "Cadillac"]}
+{"subject": "Nissan President", "object": "Nissan", "taxonomy": ["Mercury", "Fairchild", "Triumph", "Fiat", "God"]}
+{"subject": "Honda ST1100", "object": "Honda", "taxonomy": ["Dodge", "Intel", "Yamaha", "BMW", "IBM"]}
+{"subject": "Airbus A330", "object": "Airbus", "taxonomy": ["Zeppelin", "Fiat", "Atari", "Yamaha", "Renault"]}
+{"subject": "Chevrolet Monte Carlo", "object": "Chevrolet", "taxonomy": ["Bentley", "BMW", "Mercury", "Porsche", "Douglas"]}
+{"subject": "BMW 5 Series Gran Turismo", "object": "BMW", "taxonomy": ["Yamaha", "Toyota", "Porsche", "Nintendo", "Adobe"]}
+{"subject": "Nissan Livina Geniss", "object": "Nissan", "taxonomy": ["Honda", "Cadillac", "Jeep", "McLaren", "Hercules"]}
+{"subject": "Windows Server 2003", "object": "Microsoft", "taxonomy": ["Philips", "Siemens", "BMW", "God", "Samsung"]}
+{"subject": "Dodge Dakota", "object": "Dodge", "taxonomy": ["Douglas", "Samsung", "Sony", "Renault", "Nissan"]}
+{"subject": "Audi 80", "object": "Audi", "taxonomy": ["Volvo", "Nokia", "Sega", "Sony", "Mitsubishi"]}
+{"subject": "Ferrari 212 Inter", "object": "Ferrari", "taxonomy": ["sugar", "Sony", "Chrysler", "Nokia", "Nintendo"]}
+{"subject": "Nokia Lumia 900", "object": "Nokia", "taxonomy": ["Vickers", "Atari", "Volvo", "Yamaha", "Douglas"]}
+{"subject": "Kindle Fire", "object": "Amazon", "taxonomy": ["Honda", "Douglas", "Pontiac", "Packard", "Audi"]}
+{"subject": "Toyota Corona", "object": "Toyota", "taxonomy": ["Nintendo", "Iran", "Porsche", "Sears", "Airbus"]}
+{"subject": "BMW N54", "object": "BMW", "taxonomy": ["Siemens", "Douglas", "sugar", "Honda", "Jeep"]}
+{"subject": "British Rail Class 360", "object": "Siemens", "taxonomy": ["Iran", "IBM", "Sony", "Jeep", "Dodge"]}
+{"subject": "Lancia Dedra", "object": "Fiat", "taxonomy": ["BMW", "Apple", "Nissan", "Mercury", "Spain"]}
+{"subject": "Douglas A2D Skyshark", "object": "Douglas", "taxonomy": ["Chevrolet", "Sega", "Nissan", "Audi", "God"]}
+{"subject": "Toyota Previa", "object": "Toyota", "taxonomy": ["Renault", "Spain", "Siemens", "God", "Adobe"]}
+{"subject": "Nasr-1", "object": "Iran", "taxonomy": ["Airbus", "Fairchild", "Amazon", "Dodge", "Pontiac"]}
+{"subject": "Dino", "object": "Ferrari", "taxonomy": ["Yamaha", "Samsung", "Hercules", "Nokia", "Triumph"]}
+{"subject": "Dino", "object": "Fiat", "taxonomy": ["Atari", "Chrysler", "IBM", "Nokia", "Hercules"]}
+{"subject": "BMW 7 F01 F02", "object": "BMW", "taxonomy": ["Adobe", "Microsoft", "Fiat", "Audi", "Boeing"]}
+{"subject": "Dodge Charger", "object": "Dodge", "taxonomy": ["Porsche", "Sony", "Mercury", "liver", "Airbus"]}
+{"subject": "Douglas DC-1", "object": "Douglas", "taxonomy": ["Chrysler", "Ferrari", "McLaren", "Siemens", "Microsoft"]}
+{"subject": "Toyota Yaris Verso", "object": "Toyota", "taxonomy": ["Atari", "BMW", "Microsoft", "Sega", "Fairchild"]}
+{"subject": "Renault Safrane", "object": "Renault", "taxonomy": ["Philips", "Toyota", "Chrysler", "Apple", "Zeppelin"]}
+{"subject": "Yamaha YZR 500", "object": "Yamaha", "taxonomy": ["Nokia", "liver", "Fiat", "McLaren", "Pontiac"]}
+{"subject": "Acura Legend", "object": "Honda", "taxonomy": ["Chrysler", "Cadillac", "Atari", "Nokia", "Hercules"]}
+{"subject": "Wii Balance Board", "object": "Nintendo", "taxonomy": ["Porsche", "Jeep", "Apple", "Bentley", "liver"]}
+{"subject": "Cadillac Series 61", "object": "Cadillac", "taxonomy": ["Honda", "Yamaha", "Atari", "Philips", "Fiat"]}
+{"subject": "Fiat Cinquecento", "object": "Fiat", "taxonomy": ["Mercury", "Atari", "Apple", "Samsung", "Volvo"]}
+{"subject": "Toyota Stout", "object": "Toyota", "taxonomy": ["Yamaha", "Suzuki", "Bentley", "Triumph", "Porsche"]}
+{"subject": "Nokia 1100", "object": "Nokia", "taxonomy": ["Microsoft", "Jeep", "Philips", "Fiat", "Renault"]}
+{"subject": "Suzuki Jimny", "object": "Suzuki", "taxonomy": ["Microsoft", "Chrysler", "McLaren", "Douglas", "IBM"]}
+{"subject": "Toyota Dyna", "object": "Toyota", "taxonomy": ["Chevrolet", "Google", "Nintendo", "Iran", "Ferrari"]}
+{"subject": "Bentley Turbo R", "object": "Bentley", "taxonomy": ["Mitsubishi", "Nintendo", "Fiat", "Intel", "Cadillac"]}
+{"subject": "Chevrolet Aveo", "object": "Chevrolet", "taxonomy": ["Spain", "Microsoft", "Packard", "Intel", "Pontiac"]}
+{"subject": "Nissan Xterra", "object": "Nissan", "taxonomy": ["McLaren", "Iran", "Volvo", "Chrysler", "Siemens"]}
+{"subject": "Honda FCX", "object": "Honda", "taxonomy": ["Ferrari", "Atari", "Jeep", "Airbus", "IBM"]}
+{"subject": "Nintendo DS Lite", "object": "Nintendo", "taxonomy": ["Nokia", "Ferrari", "IBM", "Pontiac", "Renault"]}
+{"subject": "Renault 14", "object": "Renault", "taxonomy": ["Iran", "Intel", "liver", "Adobe", "Microsoft"]}
+{"subject": "Porsche Panamera", "object": "Porsche", "taxonomy": ["Nintendo", "Sega", "Fiat", "Mitsubishi", "Packard"]}
+{"subject": "Nokia Lumia 630", "object": "Nokia", "taxonomy": ["Sony", "Chrysler", "liver", "Zeppelin", "Cadillac"]}
+{"subject": "Dodge SRT-4", "object": "Dodge", "taxonomy": ["Jeep", "Ferrari", "Zeppelin", "sugar", "Nintendo"]}
+{"subject": "Amiibo", "object": "Nintendo", "taxonomy": ["Google", "Douglas", "Chrysler", "IBM", "Pontiac"]}
+{"subject": "BMW M30", "object": "BMW", "taxonomy": ["Yamaha", "Fairchild", "Ferrari", "Nintendo", "Sega"]}
+{"subject": "Daihatsu Charmant", "object": "Toyota", "taxonomy": ["sugar", "Yamaha", "Boeing", "Mitsubishi", "Philips"]}
+{"subject": "Pontiac Firebird", "object": "Chevrolet", "taxonomy": ["IBM", "Sears", "Suzuki", "Nintendo", "Atari"]}
+{"subject": "Toyota Tundra", "object": "Toyota", "taxonomy": ["Douglas", "Cadillac", "Zeppelin", "Nissan", "Jeep"]}
+{"subject": "Dodge Dynasty", "object": "Dodge", "taxonomy": ["Toyota", "Sega", "Iran", "Volvo", "God"]}
+{"subject": "PlayStation Eye", "object": "Sony", "taxonomy": ["Dodge", "BMW", "Triumph", "God", "Suzuki"]}
+{"subject": "Daihatsu Sirion", "object": "Toyota", "taxonomy": ["Chevrolet", "Microsoft", "Jeep", "Douglas", "Ferrari"]}
+{"subject": "Honda Vamos", "object": "Honda", "taxonomy": ["Google", "Bentley", "Pontiac", "Sega", "Renault"]}
+{"subject": "Toyota Mark X ZiO", "object": "Toyota", "taxonomy": ["Jeep", "Sony", "IBM", "liver", "Microsoft"]}
+{"subject": "Nokia N810", "object": "Nokia", "taxonomy": ["Zeppelin", "Vickers", "Pontiac", "Toyota", "Honda"]}
+{"subject": "Ferrari 250 GTO", "object": "Fiat", "taxonomy": ["Dodge", "Apple", "Bentley", "Mercury", "Philips"]}
+{"subject": "Jeep Commander", "object": "Jeep", "taxonomy": ["Nissan", "Boeing", "Porsche", "Ferrari", "Vickers"]}
+{"subject": "Lancia 037", "object": "Fiat", "taxonomy": ["Amazon", "BMW", "Volvo", "Google", "Toyota"]}
+{"subject": "Porsche 911", "object": "Porsche", "taxonomy": ["Chrysler", "Hercules", "Audi", "Philips", "Toyota"]}
+{"subject": "Nokia X", "object": "Nokia", "taxonomy": ["Airbus", "Pontiac", "Cadillac", "Atari", "Triumph"]}
+{"subject": "Nissan Be-1", "object": "Nissan", "taxonomy": ["Intel", "Honda", "Pontiac", "Zeppelin", "IBM"]}
+{"subject": "Fiat Stilo", "object": "Fiat", "taxonomy": ["BMW", "Honda", "Hercules", "Samsung", "God"]}
+{"subject": "Philips CD-i", "object": "Philips", "taxonomy": ["Spain", "Chrysler", "IBM", "God", "Bentley"]}
+{"subject": "IBM 1710", "object": "IBM", "taxonomy": ["Sears", "Nintendo", "Packard", "Triumph", "Jeep"]}
+{"subject": "Typekit", "object": "Adobe", "taxonomy": ["Siemens", "Airbus", "Bentley", "Microsoft", "Pontiac"]}
+{"subject": "Honda Civic", "object": "Honda", "taxonomy": ["sugar", "Triumph", "Yamaha", "Audi", "Suzuki"]}
+{"subject": "Nissan Armada", "object": "Nissan", "taxonomy": ["Boeing", "Bentley", "Spain", "Vickers", "Sony"]}
+{"subject": "BMW E65", "object": "BMW", "taxonomy": ["Adobe", "Nokia", "Jeep", "IBM", "Toyota"]}
+{"subject": "SteadyShot", "object": "Sony", "taxonomy": ["McLaren", "Volvo", "Chrysler", "Bentley", "Intel"]}
+{"subject": "Acura EL", "object": "Honda", "taxonomy": ["Zeppelin", "Ferrari", "Spain", "Intel", "Apple"]}
+{"subject": "Nokia 5800 XpressMusic", "object": "Nokia", "taxonomy": ["Volvo", "Toyota", "Google", "sugar", "God"]}
+{"subject": "Cadillac V-16", "object": "Cadillac", "taxonomy": ["Sony", "Audi", "McLaren", "Zeppelin", "Toyota"]}
+{"subject": "Honda Brio", "object": "Honda", "taxonomy": ["Douglas", "Chrysler", "Siemens", "Mitsubishi", "God"]}
+{"subject": "Toyota FJ Cruiser", "object": "Toyota", "taxonomy": ["Spain", "Porsche", "Nokia", "Bentley", "Dodge"]}
+{"subject": "Honda Mobilio", "object": "Honda", "taxonomy": ["Nintendo", "Mitsubishi", "Bentley", "Yamaha", "Ferrari"]}
+{"subject": "Audi A8", "object": "Audi", "taxonomy": ["Ferrari", "God", "Pontiac", "Bentley", "Mitsubishi"]}
+{"subject": "Toyota Platz", "object": "Toyota", "taxonomy": ["Intel", "Suzuki", "Zeppelin", "Iran", "BMW"]}
+{"subject": "Chevrolet Vega", "object": "Chevrolet", "taxonomy": ["Mercury", "Sega", "Sears", "Microsoft", "Intel"]}
+{"subject": "Nissan 300ZX", "object": "Nissan", "taxonomy": ["Packard", "Porsche", "Spain", "sugar", "Boeing"]}
+{"subject": "Ferrari 195 Inter", "object": "Ferrari", "taxonomy": ["sugar", "Pontiac", "Airbus", "Fiat", "Nintendo"]}
+{"subject": "Porsche 911 GT2", "object": "Porsche", "taxonomy": ["Sony", "Siemens", "liver", "Cadillac", "Vickers"]}
+{"subject": "Sony NEX-5", "object": "Sony", "taxonomy": ["sugar", "Spain", "Airbus", "Amazon", "Fiat"]}
+{"subject": "Cadillac Eldorado", "object": "Cadillac", "taxonomy": ["Zeppelin", "Adobe", "Fiat", "Honda", "Vickers"]}
+{"subject": "Dardo IFV", "object": "Fiat", "taxonomy": ["IBM", "Volvo", "Audi", "Amazon", "Nintendo"]}
+{"subject": "Rolls-Royce Phantom", "object": "BMW", "taxonomy": ["Atari", "Cadillac", "Spain", "Toyota", "Volvo"]}
+{"subject": "Renault 12", "object": "Renault", "taxonomy": ["Adobe", "IBM", "Dodge", "sugar", "Packard"]}
+{"subject": "Toyota Tacoma", "object": "Toyota", "taxonomy": ["Chrysler", "McLaren", "Fiat", "Renault", "Adobe"]}
+{"subject": "Acura TL", "object": "Honda", "taxonomy": ["Sony", "Microsoft", "Apple", "liver", "Samsung"]}
+{"subject": "Autobianchi A112", "object": "Fiat", "taxonomy": ["Toyota", "Spain", "Sears", "liver", "Audi"]}
+{"subject": "Nissan Bluebird", "object": "Nissan", "taxonomy": ["Chrysler", "Packard", "Microsoft", "Pontiac", "Mitsubishi"]}
+{"subject": "Audi A1", "object": "Audi", "taxonomy": ["Apple", "Airbus", "Dodge", "Vickers", "Chrysler"]}
+{"subject": "Dodge Stratus", "object": "Dodge", "taxonomy": ["Douglas", "Packard", "Philips", "Renault", "Chrysler"]}
+{"subject": "PGM-11 Redstone", "object": "Chrysler", "taxonomy": ["Ferrari", "Apple", "liver", "Nintendo", "Mitsubishi"]}
+{"subject": "Toyota Origin", "object": "Toyota", "taxonomy": ["Yamaha", "BMW", "Vickers", "Ferrari", "Mercury"]}
+{"subject": "Nokia N8", "object": "Nokia", "taxonomy": ["Mercury", "Chrysler", "Atari", "Intel", "Audi"]}
+{"subject": "Volvo C30", "object": "Volvo", "taxonomy": ["Toyota", "Atari", "Boeing", "God", "Spain"]}
+{"subject": "Sony NEX-7", "object": "Sony", "taxonomy": ["Renault", "Packard", "Porsche", "Mitsubishi", "Sega"]}
+{"subject": "Cadillac ELR", "object": "Cadillac", "taxonomy": ["IBM", "Suzuki", "Fairchild", "Nintendo", "Chevrolet"]}
+{"subject": "Ferrari F12 berlinetta", "object": "Ferrari", "taxonomy": ["Apple", "God", "Nokia", "Suzuki", "Intel"]}
+{"subject": "Nissan NPT-90", "object": "Nissan", "taxonomy": ["Jeep", "Apple", "Sears", "Triumph", "Yamaha"]}
+{"subject": "Ferrari 458", "object": "Ferrari", "taxonomy": ["God", "Porsche", "Fairchild", "Microsoft", "Bentley"]}
+{"subject": "Acura TSX", "object": "Honda", "taxonomy": ["Nintendo", "Airbus", "Fairchild", "Siemens", "Apple"]}
+{"subject": "BMW Z1", "object": "BMW", "taxonomy": ["Fairchild", "Audi", "Triumph", "Philips", "Apple"]}
+{"subject": "C-40 Clipper", "object": "Boeing", "taxonomy": ["Nissan", "Sega", "Suzuki", "Pontiac", "Douglas"]}
+{"subject": "Nissan Wingroad", "object": "Nissan", "taxonomy": ["Dodge", "God", "Honda", "Audi", "Suzuki"]}
+{"subject": "Fiat Dino", "object": "Fiat", "taxonomy": ["Nissan", "Samsung", "Packard", "Audi", "Nintendo"]}
+{"subject": "Ferrari F40", "object": "Ferrari", "taxonomy": ["Zeppelin", "Amazon", "Packard", "Atari", "Sears"]}
+{"subject": "Dodge Colt", "object": "Dodge", "taxonomy": ["Hercules", "Siemens", "Ferrari", "Yamaha", "Suzuki"]}
+{"subject": "Acura RDX", "object": "Honda", "taxonomy": ["Microsoft", "Intel", "Fiat", "Douglas", "Mercury"]}
+{"subject": "Honda Vigor", "object": "Honda", "taxonomy": ["Ferrari", "Vickers", "Sega", "Nissan", "Boeing"]}
+{"subject": "Fiat 1100", "object": "Fiat", "taxonomy": ["Siemens", "Iran", "Honda", "God", "Suzuki"]}
+{"subject": "BMW 4 Series", "object": "BMW", "taxonomy": ["Fairchild", "Douglas", "Boeing", "Dodge", "Nissan"]}
+{"subject": "Honda NSX", "object": "Honda", "taxonomy": ["liver", "Nintendo", "Atari", "Samsung", "IBM"]}
+{"subject": "BMW 3 Series", "object": "BMW", "taxonomy": ["Siemens", "IBM", "Bentley", "Fiat", "Dodge"]}
+{"subject": "Suzuki Aerio", "object": "Suzuki", "taxonomy": ["Porsche", "Google", "McLaren", "God", "Toyota"]}
+{"subject": "Honda NSR250", "object": "Honda", "taxonomy": ["Jeep", "Intel", "Spain", "Sears", "Fiat"]}
+{"subject": "Porsche 356", "object": "Porsche", "taxonomy": ["Packard", "Siemens", "liver", "Spain", "Vickers"]}
+{"subject": "LZ 127 Graf Zeppelin", "object": "Zeppelin", "taxonomy": ["Sony", "Toyota", "Suzuki", "Nissan", "Microsoft"]}
+{"subject": "BMW E24", "object": "BMW", "taxonomy": ["McLaren", "Bentley", "Chevrolet", "Sony", "Fiat"]}
+{"subject": "Toyota RAV4 EV", "object": "Toyota", "taxonomy": ["Suzuki", "Hercules", "Spain", "Pontiac", "Cadillac"]}
+{"subject": "Ferrari 125 F1", "object": "Ferrari", "taxonomy": ["IBM", "Nokia", "God", "Audi", "liver"]}
+{"subject": "Chevrolet Monza (Brazil)", "object": "Chevrolet", "taxonomy": ["Zeppelin", "Fairchild", "BMW", "Iran", "Amazon"]}
+{"subject": "CineAlta", "object": "Sony", "taxonomy": ["Ferrari", "Spain", "Toyota", "Boeing", "Siemens"]}
+{"subject": "Honda Stream", "object": "Honda", "taxonomy": ["Pontiac", "Boeing", "Triumph", "Vickers", "Cadillac"]}
+{"subject": "Honda Wave series", "object": "Honda", "taxonomy": ["Intel", "McLaren", "Pontiac", "Audi", "Fairchild"]}
+{"subject": "Zeppelin LZ 2", "object": "Zeppelin", "taxonomy": ["Fiat", "Apple", "Vickers", "Suzuki", "Pontiac"]}
+{"subject": "Porsche 911 GT3", "object": "Porsche", "taxonomy": ["Apple", "Philips", "Nokia", "Suzuki", "Triumph"]}
+{"subject": "Toyota Highlander", "object": "Toyota", "taxonomy": ["Douglas", "Nokia", "Volvo", "Google", "Spain"]}
+{"subject": "Chevrolet Corvette C3", "object": "Chevrolet", "taxonomy": ["Sears", "Ferrari", "Toyota", "Mitsubishi", "Apple"]}
+{"subject": "Nissan Sentra", "object": "Nissan", "taxonomy": ["Yamaha", "Packard", "Toyota", "Cadillac", "Spain"]}
+{"subject": "Renault Twingo", "object": "Renault", "taxonomy": ["Apple", "Fiat", "Pontiac", "BMW", "sugar"]}
+{"subject": "Dodge Charger", "object": "Dodge", "taxonomy": ["Sears", "Bentley", "Fiat", "Nintendo", "Douglas"]}
+{"subject": "iPod Mini", "object": "Apple", "taxonomy": ["Amazon", "Spain", "Volvo", "Sony", "Airbus"]}
+{"subject": "Toyota Raum", "object": "Toyota", "taxonomy": ["Vickers", "Nokia", "sugar", "Chrysler", "Jeep"]}
+{"subject": "Apple II series", "object": "Apple", "taxonomy": ["Adobe", "Chevrolet", "Spain", "Atari", "Ferrari"]}
+{"subject": "Honda VFR1200F", "object": "Honda", "taxonomy": ["McLaren", "Zeppelin", "Fairchild", "Douglas", "Spain"]}
+{"subject": "Lexus SC", "object": "Toyota", "taxonomy": ["Nintendo", "Ferrari", "Intel", "Siemens", "Cadillac"]}
+{"subject": "Dodge WC54", "object": "Dodge", "taxonomy": ["IBM", "sugar", "Packard", "Hercules", "Audi"]}
+{"subject": "Honda CX series", "object": "Honda", "taxonomy": ["Microsoft", "Triumph", "Cadillac", "Volvo", "Apple"]}
+{"subject": "BMW X5", "object": "BMW", "taxonomy": ["Spain", "liver", "Honda", "Packard", "Volvo"]}
+{"subject": "Bentley T-series", "object": "Bentley", "taxonomy": ["Atari", "Cadillac", "Fairchild", "Sony", "Triumph"]}
+{"subject": "Audi R8R", "object": "Audi", "taxonomy": ["Philips", "Fairchild", "Apple", "Fiat", "Atari"]}
+{"subject": "Triumph TR2", "object": "Triumph", "taxonomy": ["Bentley", "Suzuki", "Mitsubishi", "Toyota", "IBM"]}
+{"subject": "IBM 5100", "object": "IBM", "taxonomy": ["Amazon", "Apple", "Bentley", "Audi", "Chevrolet"]}
+{"subject": "Toyota Belta", "object": "Toyota", "taxonomy": ["McLaren", "Audi", "Apple", "Pontiac", "Bentley"]}
+{"subject": "Game Boy Advance SP", "object": "Nintendo", "taxonomy": ["Triumph", "Suzuki", "Airbus", "Renault", "Jeep"]}
+{"subject": "Renault 4", "object": "Renault", "taxonomy": ["Dodge", "Fairchild", "Triumph", "Boeing", "Honda"]}
+{"subject": "Renault 25", "object": "Renault", "taxonomy": ["God", "Adobe", "Amazon", "IBM", "Boeing"]}
+{"subject": "Fiat 500X", "object": "Fiat", "taxonomy": ["Sony", "Pontiac", "sugar", "Audi", "Samsung"]}
+{"subject": "Chevrolet Captiva", "object": "Chevrolet", "taxonomy": ["Renault", "Zeppelin", "Sega", "Fiat", "Mercury"]}
+{"subject": "Chrysler 3.3 & 3.8 engine", "object": "Chrysler", "taxonomy": ["McLaren", "Honda", "Chevrolet", "Samsung", "BMW"]}
+{"subject": "Toyota Crown", "object": "Toyota", "taxonomy": ["Chrysler", "Fairchild", "God", "Nissan", "Sony"]}
+{"subject": "Jeep Cherokee (XJ)", "object": "Jeep", "taxonomy": ["IBM", "Yamaha", "Apple", "Audi", "Spain"]}
+{"subject": "Mercury Colony Park", "object": "Mercury", "taxonomy": ["Packard", "Cadillac", "Spain", "Intel", "sugar"]}
+{"subject": "Sony Alpha 77", "object": "Sony", "taxonomy": ["Intel", "Microsoft", "Renault", "Douglas", "Nintendo"]}
+{"subject": "Volvo 200 Series", "object": "Volvo", "taxonomy": ["Chevrolet", "Renault", "Ferrari", "Sega", "Toyota"]}
+{"subject": "M6 Gun Motor Carriage", "object": "Dodge", "taxonomy": ["Hercules", "Nokia", "Iran", "Adobe", "Amazon"]}
+{"subject": "Nissan Cedric", "object": "Nissan", "taxonomy": ["Microsoft", "Airbus", "Cadillac", "Yamaha", "Triumph"]}
+{"subject": "BMW M5", "object": "BMW", "taxonomy": ["Jeep", "Sears", "Fairchild", "Atari", "Airbus"]}
+{"subject": "Fiat Barchetta", "object": "Fiat", "taxonomy": ["Nintendo", "Nissan", "Cadillac", "sugar", "Fairchild"]}
+{"subject": "IBM 9370", "object": "IBM", "taxonomy": ["McLaren", "Suzuki", "Fiat", "Chevrolet", "Atari"]}
+{"subject": "Prince R380", "object": "Nissan", "taxonomy": ["God", "Cadillac", "Nokia", "Honda", "Suzuki"]}
+{"subject": "Daihatsu Compagno", "object": "Toyota", "taxonomy": ["Pontiac", "Mitsubishi", "Samsung", "Microsoft", "Cadillac"]}
+{"subject": "Plymouth Valiant", "object": "Chrysler", "taxonomy": ["Amazon", "Douglas", "Samsung", "Audi", "Zeppelin"]}
+{"subject": "C-119 Flying Boxcar", "object": "Fairchild", "taxonomy": ["Chevrolet", "Nokia", "Spain", "Jeep", "Adobe"]}
+{"subject": "Toyota Paseo", "object": "Toyota", "taxonomy": ["Sears", "Renault", "Google", "Fairchild", "Audi"]}
+{"subject": "DeltaWing", "object": "Nissan", "taxonomy": ["God", "Mitsubishi", "Intel", "Iran", "Chevrolet"]}
+{"subject": "Hepcidin antimicrobial peptide", "object": "liver", "taxonomy": ["Iran", "Yamaha", "Apple", "Airbus", "Sega"]}
+{"subject": "Toyota Auris", "object": "Toyota", "taxonomy": ["Audi", "Nokia", "Honda", "Suzuki", "Jeep"]}
+{"subject": "BMW E9", "object": "BMW", "taxonomy": ["IBM", "Sony", "Nissan", "Suzuki", "liver"]}
+{"subject": "BMW M70", "object": "BMW", "taxonomy": ["Hercules", "Bentley", "Audi", "Microsoft", "Sears"]}
+{"subject": "LGA 775", "object": "Intel", "taxonomy": ["Chevrolet", "Atari", "Google", "Fairchild", "Siemens"]}
+{"subject": "Dodge Dart", "object": "Dodge", "taxonomy": ["BMW", "Sega", "liver", "Iran", "Porsche"]}
+{"subject": "Boeing 777", "object": "Boeing", "taxonomy": ["Volvo", "Douglas", "Sears", "Ferrari", "Toyota"]}
+{"subject": "Dodge Caravan", "object": "Dodge", "taxonomy": ["Fiat", "Fairchild", "Apple", "Siemens", "Airbus"]}
+{"subject": "Honda RA272", "object": "Honda", "taxonomy": ["Nokia", "BMW", "Packard", "Toyota", "Chrysler"]}
+{"subject": "IBM Personal Computer", "object": "IBM", "taxonomy": ["Zeppelin", "Nissan", "Jeep", "Amazon", "Mitsubishi"]}
+{"subject": "Dodge Rampage", "object": "Dodge", "taxonomy": ["Fiat", "God", "Renault", "Mercury", "Zeppelin"]}
+{"subject": "Nissan Elgrand", "object": "Nissan", "taxonomy": ["Intel", "Douglas", "Triumph", "liver", "God"]}
+{"subject": "Honda Express", "object": "Honda", "taxonomy": ["Dodge", "Vickers", "Volvo", "Chevrolet", "Mercury"]}
+{"subject": "Windows 7", "object": "Microsoft", "taxonomy": ["Adobe", "IBM", "Suzuki", "Yamaha", "Honda"]}
+{"subject": "Volvo S40", "object": "Volvo", "taxonomy": ["Porsche", "Mitsubishi", "Jeep", "Intel", "Renault"]}
+{"subject": "Lancia Thema", "object": "Fiat", "taxonomy": ["Nintendo", "Philips", "Jeep", "Mercury", "Airbus"]}
+{"subject": "Game Boy Micro", "object": "Nintendo", "taxonomy": ["Cadillac", "IBM", "sugar", "Honda", "Jeep"]}
+{"subject": "Nintendo 3DS", "object": "Nintendo", "taxonomy": ["Cadillac", "IBM", "Ferrari", "liver", "Fairchild"]}
+{"subject": "Suzuki GT750", "object": "Suzuki", "taxonomy": ["Nintendo", "Bentley", "Sears", "Apple", "Volvo"]}
+{"subject": "Honda Accord", "object": "Honda", "taxonomy": ["Sears", "Nissan", "Google", "Fairchild", "Douglas"]}
+{"subject": "Chevrolet Biscayne", "object": "Chevrolet", "taxonomy": ["Sears", "Hercules", "Sega", "Toyota", "Ferrari"]}
+{"subject": "BMW i8", "object": "BMW", "taxonomy": ["Apple", "Hercules", "Volvo", "Pontiac", "Dodge"]}
+{"subject": "Porsche 996", "object": "Porsche", "taxonomy": ["Pontiac", "BMW", "Nissan", "God", "McLaren"]}
+{"subject": "Bentley Arnage", "object": "Bentley", "taxonomy": ["McLaren", "Nokia", "liver", "God", "BMW"]}
+{"subject": "Fully Integrated Robotised Engine", "object": "Fiat", "taxonomy": ["Packard", "Renault", "Amazon", "God", "liver"]}
+{"subject": "Atari 8-bit family", "object": "Atari", "taxonomy": ["Microsoft", "Samsung", "IBM", "Siemens", "Philips"]}
+{"subject": "Nokia Lumia 925", "object": "Nokia", "taxonomy": ["Porsche", "IBM", "Sears", "Volvo", "Fairchild"]}
+{"subject": "Ferrari Monza", "object": "Ferrari", "taxonomy": ["Chevrolet", "Chrysler", "Siemens", "Porsche", "Packard"]}
+{"subject": "Toyota Publica", "object": "Toyota", "taxonomy": ["Amazon", "Samsung", "Bentley", "Adobe", "McLaren"]}
+{"subject": "Suzuki GSV-R", "object": "Suzuki", "taxonomy": ["Mitsubishi", "Intel", "Volvo", "Boeing", "Fairchild"]}
+{"subject": "Audi RSQ", "object": "Audi", "taxonomy": ["Nissan", "Siemens", "McLaren", "Pontiac", "God"]}
+{"subject": "Nissan Murano", "object": "Nissan", "taxonomy": ["Sega", "Jeep", "Toyota", "Boeing", "Vickers"]}
+{"subject": "iPad 4", "object": "Apple", "taxonomy": ["McLaren", "liver", "Packard", "IBM", "Triumph"]}
+{"subject": "BMW X1", "object": "BMW", "taxonomy": ["Sega", "Hercules", "Dodge", "Microsoft", "Renault"]}
+{"subject": "BMW 328", "object": "BMW", "taxonomy": ["Mitsubishi", "Siemens", "Bentley", "Adobe", "Jeep"]}
+{"subject": "Suzuki Kizashi", "object": "Suzuki", "taxonomy": ["Pontiac", "Porsche", "Dodge", "God", "Sega"]}
+{"subject": "Renault 19", "object": "Renault", "taxonomy": ["Packard", "Boeing", "Jeep", "McLaren", "Iran"]}
+{"subject": "Toyota Alphard", "object": "Toyota", "taxonomy": ["Nintendo", "Triumph", "Chrysler", "Google", "Nokia"]}
+{"subject": "Chevrolet Aveo T200", "object": "Chevrolet", "taxonomy": ["Nokia", "Packard", "Apple", "Sega", "Intel"]}
+{"subject": "Nissan Sunny", "object": "Nissan", "taxonomy": ["Douglas", "Cadillac", "Chrysler", "Dodge", "Porsche"]}
+{"subject": "BMW 3 Series", "object": "BMW", "taxonomy": ["sugar", "God", "Yamaha", "Cadillac", "Zeppelin"]}
+{"subject": "Alfa Romeo SZ", "object": "Fiat", "taxonomy": ["Microsoft", "Cadillac", "Chevrolet", "Hercules", "Sega"]}
+{"subject": "Audi Q5", "object": "Audi", "taxonomy": ["Chevrolet", "Jeep", "Samsung", "Microsoft", "Bentley"]}
+{"subject": "BMW 303", "object": "BMW", "taxonomy": ["Microsoft", "Douglas", "Mercury", "Fiat", "Sega"]}
+{"subject": "Ferrari 166 S", "object": "Ferrari", "taxonomy": ["Fiat", "Nissan", "Intel", "Hercules", "Chrysler"]}
+{"subject": "Honda Fireblade", "object": "Honda", "taxonomy": ["Sony", "Toyota", "Sega", "sugar", "Douglas"]}
+{"subject": "Nissan Quest", "object": "Nissan", "taxonomy": ["Amazon", "BMW", "IBM", "Spain", "Zeppelin"]}
+{"subject": "Lancia Lybra", "object": "Fiat", "taxonomy": ["Sears", "Vickers", "sugar", "Google", "Sony"]}
+{"subject": "Ferrari FF", "object": "Ferrari", "taxonomy": ["Spain", "Fairchild", "Airbus", "Google", "Audi"]}
+{"subject": "Honda NR500", "object": "Honda", "taxonomy": ["Mitsubishi", "Samsung", "Sony", "sugar", "Ferrari"]}
+{"subject": "Hwasong-5", "object": "Iran", "taxonomy": ["Packard", "Apple", "Fairchild", "Cadillac", "Spain"]}
+{"subject": "Audi e-tron", "object": "Audi", "taxonomy": ["Atari", "Bentley", "Adobe", "Mitsubishi", "Ferrari"]}
+{"subject": "Volvo 140 Series", "object": "Volvo", "taxonomy": ["Microsoft", "Toyota", "Iran", "Triumph", "Chevrolet"]}
+{"subject": "Renault Dauphine", "object": "Renault", "taxonomy": ["Sears", "Yamaha", "Porsche", "Toyota", "Nintendo"]}
+{"subject": "Hercules Graphics Card", "object": "Hercules", "taxonomy": ["Boeing", "Mercury", "Suzuki", "Honda", "Microsoft"]}
+{"subject": "Samsung NX-mount", "object": "Samsung", "taxonomy": ["Iran", "God", "Packard", "Yamaha", "Atari"]}
+{"subject": "IBM 3790", "object": "IBM", "taxonomy": ["Suzuki", "Dodge", "Spain", "Cadillac", "Douglas"]}
+{"subject": "Eagle Premier", "object": "Renault", "taxonomy": ["McLaren", "Fairchild", "IBM", "Sega", "Volvo"]}
+{"subject": "Fiat 124 Sport Spider", "object": "Fiat", "taxonomy": ["Microsoft", "Google", "Hercules", "Intel", "Chevrolet"]}
+{"subject": "Honda Domani", "object": "Honda", "taxonomy": ["Adobe", "Triumph", "Cadillac", "Douglas", "Suzuki"]}
+{"subject": "Vickers Viking", "object": "Vickers", "taxonomy": ["Amazon", "Jeep", "Douglas", "Airbus", "Renault"]}
+{"subject": "Chevrolet Equinox", "object": "Chevrolet", "taxonomy": ["Chrysler", "Nokia", "Sega", "Fairchild", "BMW"]}
+{"subject": "Dodge Intrepid", "object": "Dodge", "taxonomy": ["Yamaha", "Microsoft", "Chevrolet", "Packard", "Honda"]}
+{"subject": "Toyota RAV4", "object": "Toyota", "taxonomy": ["Amazon", "Zeppelin", "Jeep", "Vickers", "Renault"]}
+{"subject": "Nissan Qashqai", "object": "Nissan", "taxonomy": ["Airbus", "Volvo", "Dodge", "Fairchild", "Amazon"]}
+{"subject": "Honda VFR800", "object": "Honda", "taxonomy": ["Siemens", "Boeing", "Hercules", "Porsche", "Yamaha"]}
+{"subject": "Bentley Continental GT", "object": "Bentley", "taxonomy": ["Samsung", "Adobe", "Dodge", "Fiat", "Philips"]}
+{"subject": "Nissan Pivo", "object": "Nissan", "taxonomy": ["Atari", "Renault", "God", "Zeppelin", "Amazon"]}
+{"subject": "Suzuki RGV500", "object": "Suzuki", "taxonomy": ["Nintendo", "Google", "Jeep", "Sears", "Renault"]}
+{"subject": "IBM AP-101", "object": "IBM", "taxonomy": ["Triumph", "Amazon", "Suzuki", "Airbus", "Fiat"]}
+{"subject": "Toyota Crown Majesta", "object": "Toyota", "taxonomy": ["Sega", "Honda", "Fiat", "Mercury", "Philips"]}
+{"subject": "iPhone", "object": "Apple", "taxonomy": ["Intel", "Nokia", "Zeppelin", "Philips", "Dodge"]}
+{"subject": "iPhone 5", "object": "Apple", "taxonomy": ["Sears", "Packard", "IBM", "Porsche", "Dodge"]}
+{"subject": "Fiat Linea", "object": "Fiat", "taxonomy": ["Vickers", "liver", "God", "Nokia", "IBM"]}
+{"subject": "Microsoft Band", "object": "Microsoft", "taxonomy": ["Nokia", "Adobe", "Toyota", "Zeppelin", "IBM"]}
+{"subject": "Chevrolet Chevelle", "object": "Chevrolet", "taxonomy": ["Yamaha", "Apple", "Boeing", "Samsung", "sugar"]}
+{"subject": "McLaren MP4-20", "object": "McLaren", "taxonomy": ["Zeppelin", "Mitsubishi", "Yamaha", "Triumph", "Apple"]}
+{"subject": "Chevrolet Citation", "object": "Chevrolet", "taxonomy": ["Packard", "Zeppelin", "Pontiac", "Boeing", "Apple"]}
+{"subject": "Plymouth Prowler", "object": "Chrysler", "taxonomy": ["liver", "Hercules", "Porsche", "Samsung", "Nokia"]}
+{"subject": "Honda XR series", "object": "Honda", "taxonomy": ["Spain", "Porsche", "BMW", "Intel", "Pontiac"]}
+{"subject": "Cadillac CTS-V", "object": "Cadillac", "taxonomy": ["Porsche", "Amazon", "Toyota", "Samsung", "Hercules"]}
+{"subject": "Porsche 944", "object": "Porsche", "taxonomy": ["Dodge", "Intel", "Iran", "Vickers", "God"]}
+{"subject": "Intel 8008", "object": "Intel", "taxonomy": ["Vickers", "Cadillac", "God", "Sony", "Chevrolet"]}
+{"subject": "Nintendo e-Reader", "object": "Nintendo", "taxonomy": ["Douglas", "Apple", "Sega", "Vickers", "liver"]}
+{"subject": "Audi RS 4", "object": "Audi", "taxonomy": ["Triumph", "Microsoft", "liver", "Toyota", "Nissan"]}
+{"subject": "Renault 4CV", "object": "Renault", "taxonomy": ["Zeppelin", "Google", "Chevrolet", "Microsoft", "Ferrari"]}
+{"subject": "Cyber-shot", "object": "Sony", "taxonomy": ["Yamaha", "Philips", "Chrysler", "Packard", "Audi"]}
+{"subject": "Sony camcorders", "object": "Sony", "taxonomy": ["Cadillac", "Honda", "Siemens", "Chrysler", "Fiat"]}
+{"subject": "Fairchild 71", "object": "Fairchild", "taxonomy": ["Honda", "liver", "Suzuki", "Audi", "Douglas"]}
+{"subject": "BMW 003", "object": "BMW", "taxonomy": ["Spain", "Jeep", "sugar", "Toyota", "Volvo"]}
+{"subject": "Nokia E72", "object": "Nokia", "taxonomy": ["Douglas", "McLaren", "Spain", "liver", "Jeep"]}
+{"subject": "Toyota Comfort", "object": "Toyota", "taxonomy": ["Mercury", "Sega", "Nokia", "Nintendo", "Intel"]}
+{"subject": "Suzuki Ertiga", "object": "Suzuki", "taxonomy": ["Toyota", "Microsoft", "Siemens", "Porsche", "Cadillac"]}
+{"subject": "Renault Symbol", "object": "Renault", "taxonomy": ["Suzuki", "McLaren", "Volvo", "BMW", "Zeppelin"]}
+{"subject": "Acura ILX", "object": "Honda", "taxonomy": ["Mercury", "Spain", "Pontiac", "Iran", "Adobe"]}
+{"subject": "Windows Phone 8", "object": "Microsoft", "taxonomy": ["God", "Suzuki", "Atari", "Chevrolet", "Nokia"]}
+{"subject": "Geo Metro", "object": "Suzuki", "taxonomy": ["Pontiac", "Amazon", "Nintendo", "Atari", "Apple"]}
+{"subject": "Nokia E71", "object": "Nokia", "taxonomy": ["Volvo", "Toyota", "Zeppelin", "Chrysler", "Google"]}
+{"subject": "DualShock", "object": "Sony", "taxonomy": ["Bentley", "Ferrari", "Iran", "Fairchild", "Nissan"]}
+{"subject": "Chevrolet Corvair", "object": "Chevrolet", "taxonomy": ["BMW", "Microsoft", "Vickers", "Nintendo", "Triumph"]}
+{"subject": "Google Authenticator", "object": "Google", "taxonomy": ["Volvo", "Mercury", "Sony", "Yamaha", "Mitsubishi"]}
+{"subject": "Fiat Croma", "object": "Fiat", "taxonomy": ["BMW", "Hercules", "Cadillac", "Yamaha", "Renault"]}
+{"subject": "Audi A5", "object": "Audi", "taxonomy": ["Chevrolet", "Dodge", "Hercules", "Fairchild", "liver"]}
+{"subject": "Porsche 930", "object": "Porsche", "taxonomy": ["Samsung", "Hercules", "Nintendo", "Sega", "Chevrolet"]}
+{"subject": "iTunes Remote", "object": "Apple", "taxonomy": ["Iran", "Nintendo", "Mitsubishi", "Boeing", "Vickers"]}
+{"subject": "Toyota Matrix", "object": "Toyota", "taxonomy": ["Mitsubishi", "Cadillac", "Packard", "Boeing", "McLaren"]}
+{"subject": "Sony Alpha 99", "object": "Sony", "taxonomy": ["Hercules", "Porsche", "McLaren", "Sega", "Siemens"]}
+{"subject": "Daihatsu Terios", "object": "Toyota", "taxonomy": ["Mercury", "Renault", "IBM", "Sony", "Philips"]}
+{"subject": "Toyota Land Cruiser", "object": "Toyota", "taxonomy": ["Nissan", "Hercules", "Siemens", "BMW", "Honda"]}
+{"subject": "Packard Eight", "object": "Packard", "taxonomy": ["Intel", "BMW", "Nissan", "Triumph", "Fiat"]}
+{"subject": "Toyota Camry Solara", "object": "Toyota", "taxonomy": ["Fairchild", "Dodge", "God", "Siemens", "Google"]}
+{"subject": "Datsun Sports", "object": "Nissan", "taxonomy": ["Honda", "Suzuki", "Jeep", "Fiat", "Sony"]}
+{"subject": "Toyota Camry", "object": "Toyota", "taxonomy": ["Renault", "Nissan", "Dodge", "Boeing", "Fairchild"]}
+{"subject": "BMW Z3", "object": "BMW", "taxonomy": ["Boeing", "Siemens", "Mercury", "Amazon", "Ferrari"]}
+{"subject": "Airbus A380", "object": "Airbus", "taxonomy": ["Sears", "Microsoft", "Zeppelin", "Iran", "Chevrolet"]}
+{"subject": "Nokia N900", "object": "Nokia", "taxonomy": ["Spain", "Vickers", "Airbus", "Philips", "Nintendo"]}
+{"subject": "Acura RL", "object": "Honda", "taxonomy": ["Spain", "Adobe", "Fiat", "Packard", "Ferrari"]}
+{"subject": "Dodge Spirit", "object": "Dodge", "taxonomy": ["Spain", "Amazon", "Atari", "Triumph", "Renault"]}
+{"subject": "Honda Civic (fifth generation)", "object": "Honda", "taxonomy": ["Bentley", "Fiat", "sugar", "Airbus", "Ferrari"]}
+{"subject": "Sony Mavica", "object": "Sony", "taxonomy": ["Intel", "Vickers", "BMW", "God", "Ferrari"]}
+{"subject": "PGM-17 Thor", "object": "Douglas", "taxonomy": ["Airbus", "Honda", "Apple", "Volvo", "Ferrari"]}
+{"subject": "Fiat 850", "object": "Fiat", "taxonomy": ["Boeing", "Apple", "Ferrari", "Fairchild", "Yamaha"]}
+{"subject": "Alpine A108", "object": "Renault", "taxonomy": ["Iran", "Pontiac", "Ferrari", "Chrysler", "Nokia"]}
+{"subject": "Toyota Coaster", "object": "Toyota", "taxonomy": ["Jeep", "Nissan", "Ferrari", "Spain", "Intel"]}
+{"subject": "Siemens Desiro", "object": "Siemens", "taxonomy": ["Apple", "sugar", "Dodge", "Sony", "Porsche"]}
+{"subject": "Triumph Stag", "object": "Triumph", "taxonomy": ["Adobe", "Fiat", "Volvo", "Airbus", "Chrysler"]}
+{"subject": "Volvo S70", "object": "Volvo", "taxonomy": ["Philips", "Sony", "Microsoft", "Chrysler", "Intel"]}
+{"subject": "Honda Super Cub", "object": "Honda", "taxonomy": ["McLaren", "Microsoft", "Chrysler", "Siemens", "Iran"]}
+{"subject": "Honda FCX Clarity", "object": "Honda", "taxonomy": ["Boeing", "Philips", "Chrysler", "Mitsubishi", "Vickers"]}
+{"subject": "Fiat Panda", "object": "Fiat", "taxonomy": ["Spain", "Sony", "Vickers", "Volvo", "sugar"]}
+{"subject": "Jeep Grand Cherokee", "object": "Chrysler", "taxonomy": ["Intel", "Douglas", "Ferrari", "Nintendo", "Mercury"]}
+{"subject": "Cadillac Brougham", "object": "Cadillac", "taxonomy": ["BMW", "Spain", "Honda", "Triumph", "Sega"]}
+{"subject": "Porsche 959", "object": "Porsche", "taxonomy": ["Hercules", "Spain", "Samsung", "Apple", "Airbus"]}
+{"subject": "Dodge Charger Daytona", "object": "Dodge", "taxonomy": ["God", "Chrysler", "Mitsubishi", "Toyota", "Volvo"]}
+{"subject": "Honda CB400T", "object": "Honda", "taxonomy": ["Iran", "Chrysler", "Vickers", "Nissan", "Suzuki"]}
+{"subject": "iPhone 4s", "object": "Apple", "taxonomy": ["Hercules", "Chevrolet", "Chrysler", "Mitsubishi", "Yamaha"]}
+{"subject": "Chevrolet Chevelle Laguna", "object": "Chevrolet", "taxonomy": ["Nokia", "Douglas", "Zeppelin", "Volvo", "liver"]}
+{"subject": "Renault Avantime", "object": "Renault", "taxonomy": ["IBM", "Nissan", "Toyota", "McLaren", "Atari"]}
+{"subject": "Mercury Comet", "object": "Mercury", "taxonomy": ["Adobe", "Sears", "Hercules", "Yamaha", "IBM"]}
+{"subject": "BMW 503", "object": "BMW", "taxonomy": ["Boeing", "Iran", "Chevrolet", "Nintendo", "Intel"]}
+{"subject": "Toyota Sports 800", "object": "Toyota", "taxonomy": ["Spain", "Sega", "Honda", "liver", "Sony"]}
+{"subject": "Volvo S80", "object": "Volvo", "taxonomy": ["Apple", "Vickers", "Atari", "Honda", "Dodge"]}
+{"subject": "Nintendo DS", "object": "Nintendo", "taxonomy": ["Honda", "sugar", "Fiat", "Sears", "Boeing"]}
+{"subject": "BMW M6", "object": "BMW", "taxonomy": ["IBM", "Zeppelin", "Boeing", "liver", "Ferrari"]}
+{"subject": "Fiat Regata", "object": "Fiat", "taxonomy": ["Hercules", "Fairchild", "Sega", "Iran", "Spain"]}
+{"subject": "Audi Q7", "object": "Audi", "taxonomy": ["Apple", "Amazon", "Bentley", "Google", "Packard"]}
+{"subject": "iISO flash shoe", "object": "Sony", "taxonomy": ["Hercules", "Chrysler", "Siemens", "liver", "God"]}
+{"subject": "Nissan Caravan", "object": "Nissan", "taxonomy": ["Siemens", "Pontiac", "Atari", "Adobe", "IBM"]}
+{"subject": "Nissan NX", "object": "Nissan", "taxonomy": ["Yamaha", "Apple", "Hercules", "God", "Sony"]}
+{"subject": "MessagePad", "object": "Apple", "taxonomy": ["Sears", "Atari", "Nokia", "Nintendo", "Packard"]}
+{"subject": "B-17 Flying Fortress", "object": "Boeing", "taxonomy": ["Renault", "BMW", "McLaren", "Fairchild", "Jeep"]}
+{"subject": "Sony SLT camera", "object": "Sony", "taxonomy": ["Sega", "Zeppelin", "Packard", "Atari", "Spain"]}
+{"subject": "Toyota Allion", "object": "Toyota", "taxonomy": ["Apple", "Sony", "McLaren", "God", "Google"]}
+{"subject": "Cadillac Northstar LMP", "object": "Cadillac", "taxonomy": ["IBM", "Zeppelin", "Amazon", "Google", "Nintendo"]}
+{"subject": "Audi TT", "object": "Audi", "taxonomy": ["Samsung", "IBM", "Cadillac", "Chevrolet", "Renault"]}
+{"subject": "Honda CB450", "object": "Honda", "taxonomy": ["Fiat", "Microsoft", "Nissan", "Chrysler", "Intel"]}
+{"subject": "Honda Civic Hybrid", "object": "Honda", "taxonomy": ["Jeep", "Mercury", "Apple", "Amazon", "Microsoft"]}
+{"subject": "Nissan Skyline GT-R", "object": "Nissan", "taxonomy": ["Spain", "BMW", "Mercury", "Volvo", "Bentley"]}
+{"subject": "Honda Logo", "object": "Honda", "taxonomy": ["Douglas", "Iran", "Fiat", "Triumph", "Philips"]}
+{"subject": "Apple III", "object": "Apple", "taxonomy": ["Atari", "Philips", "Amazon", "Suzuki", "Chevrolet"]}
+{"subject": "Porsche 997", "object": "Porsche", "taxonomy": ["Adobe", "Intel", "Atari", "Toyota", "Fairchild"]}
+{"subject": "Fiat Bravo", "object": "Fiat", "taxonomy": ["Sears", "Nokia", "Ferrari", "Samsung", "Hercules"]}
+{"subject": "Toyota MR2", "object": "Toyota", "taxonomy": ["Jeep", "Samsung", "IBM", "Adobe", "Triumph"]}
+{"subject": "Mitsubishi F1M", "object": "Mitsubishi", "taxonomy": ["IBM", "Airbus", "Sega", "Triumph", "Yamaha"]}
+{"subject": "Apple I", "object": "Apple", "taxonomy": ["Amazon", "Siemens", "Spain", "Suzuki", "Zeppelin"]}
+{"subject": "Sega Mega-CD", "object": "Sega", "taxonomy": ["Cadillac", "BMW", "Microsoft", "Nokia", "Suzuki"]}
+{"subject": "DC-9", "object": "Douglas", "taxonomy": ["Atari", "Porsche", "BMW", "Siemens", "Chevrolet"]}
+{"subject": "Toyota Cressida", "object": "Toyota", "taxonomy": ["Nintendo", "Porsche", "Sega", "Renault", "Dodge"]}
+{"subject": "iPod Classic", "object": "Apple", "taxonomy": ["Airbus", "Cadillac", "Intel", "Chevrolet", "McLaren"]}
+{"subject": "Honda Passport", "object": "Honda", "taxonomy": ["Spain", "Fairchild", "Sears", "Fiat", "Intel"]}
+{"subject": "Scion xD", "object": "Toyota", "taxonomy": ["Samsung", "Pontiac", "Yamaha", "Jeep", "Microsoft"]}
+{"subject": "Triumph GT6", "object": "Triumph", "taxonomy": ["Apple", "Renault", "Suzuki", "Mitsubishi", "Google"]}
+{"subject": "SEAT 133", "object": "Fiat", "taxonomy": ["Amazon", "Hercules", "Chrysler", "Iran", "McLaren"]}
+{"subject": "Honda CR-X", "object": "Honda", "taxonomy": ["McLaren", "Douglas", "Jeep", "Cadillac", "Fairchild"]}
+{"subject": "Honda N360", "object": "Honda", "taxonomy": ["BMW", "Fairchild", "Porsche", "Amazon", "Apple"]}
+{"subject": "Nissan Prairie", "object": "Nissan", "taxonomy": ["Sears", "Microsoft", "Audi", "Mitsubishi", "Airbus"]}
+{"subject": "Porsche 550", "object": "Porsche", "taxonomy": ["Boeing", "Iran", "Hercules", "Nokia", "Vickers"]}
+{"subject": "Sony E-mount", "object": "Sony", "taxonomy": ["Nokia", "Apple", "IBM", "Jeep", "Spain"]}
+{"subject": "Zelzal-2", "object": "Iran", "taxonomy": ["Sony", "BMW", "sugar", "Nokia", "Chevrolet"]}
+{"subject": "Nissan Leaf", "object": "Nissan", "taxonomy": ["Airbus", "Packard", "Jeep", "Ferrari", "Microsoft"]}
+{"subject": "Ferrari 125 S", "object": "Ferrari", "taxonomy": ["Nissan", "Siemens", "Airbus", "Samsung", "Nintendo"]}
+{"subject": "Toyota Hilux", "object": "Toyota", "taxonomy": ["Intel", "Nokia", "Fiat", "liver", "Cadillac"]}
+{"subject": "Toyota Verossa", "object": "Toyota", "taxonomy": ["Intel", "Apple", "Honda", "Audi", "McLaren"]}
+{"subject": "Toyota AE86", "object": "Toyota", "taxonomy": ["Hercules", "Nokia", "Douglas", "Chevrolet", "Sony"]}
+{"subject": "Family Computer Disk System", "object": "Nintendo", "taxonomy": ["liver", "Amazon", "Apple", "Spain", "Douglas"]}
+{"subject": "Jeep Compass", "object": "Jeep", "taxonomy": ["Spain", "Iran", "Porsche", "Nintendo", "Apple"]}
+{"subject": "BMW Z4 E85", "object": "BMW", "taxonomy": ["Atari", "Ferrari", "Google", "Mercury", "Audi"]}
+{"subject": "Douglas O-31", "object": "Douglas", "taxonomy": ["Mercury", "IBM", "liver", "Cadillac", "Sega"]}
+{"subject": "BMW 3 Series (E46)", "object": "BMW", "taxonomy": ["Honda", "Sony", "Philips", "Intel", "Siemens"]}
+{"subject": "BMW 5 Series", "object": "BMW", "taxonomy": ["Mitsubishi", "Philips", "Zeppelin", "Vickers", "Samsung"]}
+{"subject": "Renault 16", "object": "Renault", "taxonomy": ["Sony", "Zeppelin", "Google", "Vickers", "Airbus"]}
+{"subject": "Chevrolet Corsica", "object": "Chevrolet", "taxonomy": ["Nissan", "Spain", "Zeppelin", "Sears", "IBM"]}
+{"subject": "Mercury Montclair", "object": "Mercury", "taxonomy": ["Amazon", "Douglas", "Sega", "Spain", "Vickers"]}
+{"subject": "Xbox", "object": "Microsoft", "taxonomy": ["Nissan", "Fairchild", "Yamaha", "sugar", "Douglas"]}
+{"subject": "Renault Modus", "object": "Renault", "taxonomy": ["Intel", "Microsoft", "liver", "Adobe", "McLaren"]}
+{"subject": "Ferrari Mondial", "object": "Ferrari", "taxonomy": ["Suzuki", "Mitsubishi", "Triumph", "Nissan", "Atari"]}
+{"subject": "BMW E32", "object": "BMW", "taxonomy": ["Yamaha", "liver", "Iran", "Vickers", "Boeing"]}
+{"subject": "Triumph TR7", "object": "Triumph", "taxonomy": ["Adobe", "sugar", "Amazon", "Jeep", "Cadillac"]}
+{"subject": "RC-135", "object": "Boeing", "taxonomy": ["Vickers", "Suzuki", "Chevrolet", "Audi", "Airbus"]}
+{"subject": "Toyota Corolla", "object": "Toyota", "taxonomy": ["Atari", "Suzuki", "Chevrolet", "Audi", "Philips"]}
+{"subject": "Exmor", "object": "Sony", "taxonomy": ["Spain", "Douglas", "Suzuki", "Iran", "Mercury"]}
+{"subject": "Toyota ist", "object": "Toyota", "taxonomy": ["Nintendo", "Vickers", "Yamaha", "Microsoft", "Bentley"]}
+{"subject": "Nokia Lumia 1020", "object": "Nokia", "taxonomy": ["God", "Porsche", "Zeppelin", "Google", "Intel"]}
+{"subject": "iPhone 3GS", "object": "Apple", "taxonomy": ["Samsung", "Vickers", "Yamaha", "Spain", "Airbus"]}
+{"subject": "Audi R10 TDI", "object": "Audi", "taxonomy": ["Intel", "Adobe", "Porsche", "Cadillac", "Triumph"]}
+{"subject": "BMW New Class", "object": "BMW", "taxonomy": ["Volvo", "Airbus", "Packard", "Nissan", "Chevrolet"]}
+{"subject": "Honda Legend", "object": "Honda", "taxonomy": ["Atari", "Spain", "Packard", "Renault", "Chevrolet"]}
+{"subject": "Honda Orthia", "object": "Honda", "taxonomy": ["Sega", "BMW", "Triumph", "Iran", "Pontiac"]}
+{"subject": "Suzuki Ignis", "object": "Suzuki", "taxonomy": ["Atari", "Google", "Boeing", "Nokia", "Mercury"]}
+{"subject": "Packard Super Eight", "object": "Packard", "taxonomy": ["Hercules", "BMW", "Audi", "Apple", "Sears"]}
+{"subject": "Nissan Avenir", "object": "Nissan", "taxonomy": ["Adobe", "Samsung", "Chrysler", "Ferrari", "Sega"]}
+{"subject": "Nokia N73", "object": "Nokia", "taxonomy": ["Renault", "Mercury", "Spain", "Google", "sugar"]}
+{"subject": "Cadillac Fleetwood Brougham", "object": "Cadillac", "taxonomy": ["Triumph", "McLaren", "Nissan", "Apple", "Boeing"]}
+{"subject": "Autobianchi Y10", "object": "Fiat", "taxonomy": ["Apple", "Chevrolet", "Airbus", "Renault", "Nissan"]}
+{"subject": "Dodge Diplomat", "object": "Dodge", "taxonomy": ["Suzuki", "Chrysler", "Microsoft", "Atari", "Jeep"]}
+{"subject": "Ferrari FXX", "object": "Ferrari", "taxonomy": ["Amazon", "Hercules", "Renault", "Apple", "Volvo"]}
+{"subject": "Fiat Marea", "object": "Fiat", "taxonomy": ["Renault", "Triumph", "Nissan", "Philips", "Nokia"]}
+{"subject": "Honda CBR600RR", "object": "Honda", "taxonomy": ["Chevrolet", "Airbus", "Renault", "Boeing", "Audi"]}
+{"subject": "Scion tC", "object": "Toyota", "taxonomy": ["Renault", "IBM", "Cadillac", "Douglas", "Vickers"]}
+{"subject": "BMW E87", "object": "BMW", "taxonomy": ["Airbus", "Sega", "IBM", "liver", "Audi"]}
+{"subject": "Chevrolet HHR", "object": "Chevrolet", "taxonomy": ["Sony", "sugar", "Jeep", "Mercury", "Cadillac"]}
+{"subject": "Nissan Cube", "object": "Nissan", "taxonomy": ["Porsche", "Renault", "Sony", "Zeppelin", "Audi"]}
+{"subject": "Audi V8", "object": "Audi", "taxonomy": ["Pontiac", "Amazon", "Philips", "Chrysler", "Airbus"]}
+{"subject": "iPod", "object": "Apple", "taxonomy": ["Cadillac", "Hercules", "Fairchild", "Mercury", "Dodge"]}
+{"subject": "Honda CBX", "object": "Honda", "taxonomy": ["Bentley", "Fiat", "Google", "Spain", "sugar"]}
+{"subject": "Yamaha Royal Star Venture", "object": "Yamaha", "taxonomy": ["Dodge", "Chrysler", "Samsung", "Triumph", "Hercules"]}
+{"subject": "Chevrolet Corvette C5-R", "object": "Chevrolet", "taxonomy": ["Yamaha", "Suzuki", "Adobe", "Intel", "IBM"]}
+{"subject": "Dodge Super Bee", "object": "Dodge", "taxonomy": ["Fairchild", "Vickers", "sugar", "Pontiac", "Chevrolet"]}
+{"subject": "Audi RS 2 Avant", "object": "Audi", "taxonomy": ["Amazon", "Siemens", "Zeppelin", "Sears", "Microsoft"]}
+{"subject": "Toyota FT-HS", "object": "Toyota", "taxonomy": ["Siemens", "Google", "Zeppelin", "Dodge", "Mercury"]}
+{"subject": "Ferrari 333 SP", "object": "Ferrari", "taxonomy": ["Mitsubishi", "Apple", "Yamaha", "Sega", "IBM"]}
+{"subject": "Acura ZDX", "object": "Honda", "taxonomy": ["IBM", "Douglas", "Google", "Chrysler", "Toyota"]}
+{"subject": "Yamaha TZR250", "object": "Yamaha", "taxonomy": ["liver", "Chevrolet", "Ferrari", "Vickers", "Fairchild"]}
+{"subject": "Bentley Mark VI", "object": "Bentley", "taxonomy": ["Mercury", "McLaren", "Nintendo", "Vickers", "Iran"]}
+{"subject": "Dodge Lancer", "object": "Dodge", "taxonomy": ["Boeing", "Vickers", "Apple", "Nissan", "Airbus"]}
+{"subject": "Nokia C7-00", "object": "Nokia", "taxonomy": ["Google", "Boeing", "Zeppelin", "McLaren", "Honda"]}
+{"subject": "Mercury Villager", "object": "Mercury", "taxonomy": ["Chrysler", "Volvo", "Mitsubishi", "Zeppelin", "Apple"]}
+{"subject": "BMW M52", "object": "BMW", "taxonomy": ["Microsoft", "Yamaha", "Bentley", "Douglas", "Vickers"]}
+{"subject": "Windows Phone 7", "object": "Microsoft", "taxonomy": ["Fiat", "Sears", "Sega", "McLaren", "God"]}
+{"subject": "Chevrolet Van", "object": "Chevrolet", "taxonomy": ["Toyota", "Google", "God", "Intel", "Nissan"]}
+{"subject": "AGM-69 SRAM", "object": "Boeing", "taxonomy": ["BMW", "Samsung", "Mitsubishi", "Yamaha", "Nintendo"]}
+{"subject": "Honda S600", "object": "Honda", "taxonomy": ["Porsche", "Samsung", "Atari", "Audi", "Nokia"]}
+{"subject": "Renault 21", "object": "Renault", "taxonomy": ["Nissan", "Spain", "Microsoft", "Chevrolet", "sugar"]}
+{"subject": "Bentley Brooklands", "object": "Bentley", "taxonomy": ["Apple", "Honda", "McLaren", "Fiat", "Volvo"]}
+{"subject": "Super Game Boy", "object": "Nintendo", "taxonomy": ["Samsung", "Audi", "Mitsubishi", "Vickers", "Hercules"]}
+{"subject": "BMW X3", "object": "BMW", "taxonomy": ["Apple", "Nissan", "Volvo", "Mercury", "Sears"]}
+{"subject": "BMW 3 Series", "object": "BMW", "taxonomy": ["Atari", "IBM", "Packard", "Nintendo", "Boeing"]}
+{"subject": "Dodge Monaco", "object": "Dodge", "taxonomy": ["Intel", "Samsung", "Mitsubishi", "Siemens", "Packard"]}
+{"subject": "Auto Avio Costruzioni 815", "object": "Ferrari", "taxonomy": ["sugar", "Sears", "Dodge", "McLaren", "Chrysler"]}
+{"subject": "BMW X5", "object": "BMW", "taxonomy": ["Amazon", "Atari", "Chevrolet", "Sears", "Adobe"]}
+{"subject": "Alfa Romeo 164", "object": "Fiat", "taxonomy": ["Chevrolet", "Sega", "Nissan", "Nokia", "Samsung"]}
+{"subject": "Nissan 180SX", "object": "Nissan", "taxonomy": ["Google", "Jeep", "Philips", "Iran", "Chrysler"]}
+{"subject": "Triumph TR4", "object": "Triumph", "taxonomy": ["McLaren", "Fairchild", "Samsung", "Spain", "Zeppelin"]}
+{"subject": "Nissan R390 GT1", "object": "Nissan", "taxonomy": ["Cadillac", "Fiat", "Ferrari", "Siemens", "Samsung"]}
+{"subject": "B-29 Superfortress", "object": "Boeing", "taxonomy": ["BMW", "Cadillac", "Suzuki", "Fairchild", "Amazon"]}
+{"subject": "Lancia Ypsilon", "object": "Fiat", "taxonomy": ["Jeep", "Nintendo", "Boeing", "Audi", "Chrysler"]}
+{"subject": "Platform Controller Hub", "object": "Intel", "taxonomy": ["Jeep", "Ferrari", "Packard", "Nokia", "Nissan"]}
+{"subject": "IBM 7030 Stretch", "object": "IBM", "taxonomy": ["Honda", "Cadillac", "Bentley", "Atari", "Yamaha"]}
+{"subject": "Audi S5", "object": "Audi", "taxonomy": ["Toyota", "Boeing", "Atari", "Cadillac", "Jeep"]}
+{"subject": "MacBook Air", "object": "Apple", "taxonomy": ["Ferrari", "Dodge", "Porsche", "Fairchild", "Fiat"]}
+{"subject": "Alfa Romeo 75", "object": "Fiat", "taxonomy": ["God", "Amazon", "Spain", "Sony", "Packard"]}
+{"subject": "Nissan S30", "object": "Nissan", "taxonomy": ["Samsung", "McLaren", "Adobe", "Boeing", "Philips"]}
+{"subject": "Douglas DC-5", "object": "Douglas", "taxonomy": ["Amazon", "Airbus", "Fiat", "Google", "Sears"]}
+{"subject": "iPod shuffle", "object": "Apple", "taxonomy": ["God", "Jeep", "Atari", "Samsung", "Zeppelin"]}
+{"subject": "Audi R18", "object": "Audi", "taxonomy": ["Ferrari", "Nintendo", "Pontiac", "Atari", "Google"]}
+{"subject": "Chevrolet Orlando", "object": "Chevrolet", "taxonomy": ["Spain", "Mitsubishi", "Audi", "Siemens", "Sony"]}
+{"subject": "Toyota bB", "object": "Toyota", "taxonomy": ["Spain", "Mitsubishi", "Ferrari", "Apple", "Google"]}
+{"subject": "Ferrari 375 F1", "object": "Ferrari", "taxonomy": ["liver", "Iran", "sugar", "Chrysler", "Dodge"]}
+{"subject": "Alfa Romeo Alfasud", "object": "Fiat", "taxonomy": ["Sega", "Bentley", "Philips", "Pontiac", "Yamaha"]}
+{"subject": "Yamaha YZF-R1", "object": "Yamaha", "taxonomy": ["Bentley", "Packard", "Vickers", "Volvo", "Atari"]}
+{"subject": "Ferrari 312PB", "object": "Ferrari", "taxonomy": ["Spain", "Microsoft", "liver", "Toyota", "Chevrolet"]}
+{"subject": "Chevrolet Brookwood", "object": "Chevrolet", "taxonomy": ["Packard", "Nokia", "Dodge", "Samsung", "Google"]}
+{"subject": "Dodge Power Wagon", "object": "Dodge", "taxonomy": ["Renault", "God", "Zeppelin", "Douglas", "Jeep"]}
+{"subject": "Triumph TR8", "object": "Triumph", "taxonomy": ["Google", "Atari", "Iran", "Philips", "Toyota"]}
+{"subject": "Renault Koleos", "object": "Renault", "taxonomy": ["IBM", "Pontiac", "Adobe", "Dodge", "Philips"]}
+{"subject": "Audi 100", "object": "Audi", "taxonomy": ["Renault", "Fiat", "Suzuki", "Chevrolet", "IBM"]}
+{"subject": "Fiat Duna", "object": "Fiat", "taxonomy": ["Suzuki", "Airbus", "Zeppelin", "Toyota", "Spain"]}
+{"subject": "Audi S4", "object": "Audi", "taxonomy": ["Sega", "Fiat", "Airbus", "Nokia", "Jeep"]}
+{"subject": "Chromebook Pixel", "object": "Google", "taxonomy": ["Ferrari", "Packard", "Intel", "Yamaha", "Douglas"]}
+{"subject": "Chrysler 300C", "object": "Chrysler", "taxonomy": ["Google", "McLaren", "God", "Mitsubishi", "Nokia"]}
+{"subject": "AGM-86 ALCM", "object": "Boeing", "taxonomy": ["Volvo", "Audi", "Amazon", "Chevrolet", "Toyota"]}
+{"subject": "Alfa Romeo Brera", "object": "Fiat", "taxonomy": ["sugar", "Chevrolet", "Atari", "Jeep", "Iran"]}
+{"subject": "Volvo Duett", "object": "Volvo", "taxonomy": ["Nokia", "Zeppelin", "Airbus", "BMW", "Renault"]}
+{"subject": "Sega 32X", "object": "Sega", "taxonomy": ["Nissan", "IBM", "Pontiac", "Mercury", "Packard"]}
+{"subject": "BMW i3", "object": "BMW", "taxonomy": ["Triumph", "IBM", "Airbus", "Sears", "Philips"]}
+{"subject": "Toyota GT-86", "object": "Toyota", "taxonomy": ["Honda", "God", "Samsung", "sugar", "Yamaha"]}
+{"subject": "Toyota LiteAce", "object": "Toyota", "taxonomy": ["Microsoft", "Boeing", "liver", "Pontiac", "Chrysler"]}
+{"subject": "C-82 Packet", "object": "Fairchild", "taxonomy": ["Google", "Nissan", "sugar", "Mitsubishi", "Hercules"]}
+{"subject": "Honda Z series", "object": "Honda", "taxonomy": ["Mitsubishi", "Suzuki", "Fiat", "Apple", "Google"]}
+{"subject": "Packard One-Twenty", "object": "Packard", "taxonomy": ["Chrysler", "Atari", "Honda", "Google", "IBM"]}
+{"subject": "Alpine A106", "object": "Renault", "taxonomy": ["Intel", "Douglas", "Nintendo", "liver", "Microsoft"]}
+{"subject": "Honda Shadow", "object": "Honda", "taxonomy": ["Amazon", "Spain", "BMW", "Volvo", "McLaren"]}
+{"subject": "Chevrolet S-10 Blazer", "object": "Chevrolet", "taxonomy": ["Chrysler", "Honda", "Ferrari", "Pontiac", "Volvo"]}
+{"subject": "Honda Zoomer", "object": "Honda", "taxonomy": ["Mitsubishi", "Fairchild", "Hercules", "Suzuki", "Ferrari"]}
+{"subject": "Suzuki B-King", "object": "Suzuki", "taxonomy": ["Fiat", "Amazon", "liver", "Iran", "Volvo"]}
+{"subject": "Airbus A330neo", "object": "Airbus", "taxonomy": ["Fiat", "Boeing", "sugar", "IBM", "Apple"]}
+{"subject": "BMW IIIa", "object": "BMW", "taxonomy": ["Fiat", "Triumph", "Fairchild", "Siemens", "Amazon"]}
+{"subject": "Cadillac Sixty Special", "object": "Cadillac", "taxonomy": ["Pontiac", "liver", "Siemens", "Sears", "Chrysler"]}
+{"subject": "Honda Ballade", "object": "Honda", "taxonomy": ["Airbus", "Atari", "liver", "Packard", "IBM"]}
+{"subject": "Lexus ES", "object": "Toyota", "taxonomy": ["Yamaha", "Cadillac", "Siemens", "Suzuki", "Sega"]}
+{"subject": "Audi A2", "object": "Audi", "taxonomy": ["Chevrolet", "Fiat", "Mitsubishi", "Iran", "Triumph"]}
+{"subject": "BMW 1 Series", "object": "BMW", "taxonomy": ["Sony", "Suzuki", "Sears", "Chevrolet", "Philips"]}
+{"subject": "Renault 8", "object": "Renault", "taxonomy": ["Adobe", "Zeppelin", "Apple", "Sony", "Atari"]}
+{"subject": "Toyota Mirai", "object": "Toyota", "taxonomy": ["Nissan", "Atari", "Intel", "Sony", "Nokia"]}
+{"subject": "Porsche 906", "object": "Porsche", "taxonomy": ["Sony", "Siemens", "Airbus", "Volvo", "Sega"]}
+{"subject": "Toyota Century", "object": "Toyota", "taxonomy": ["Spain", "Yamaha", "Renault", "Nissan", "God"]}
+{"subject": "Nintendo Entertainment System", "object": "Nintendo", "taxonomy": ["Honda", "Hercules", "Airbus", "Cadillac", "Porsche"]}
+{"subject": "Bentley Continental Flying Spur", "object": "Bentley", "taxonomy": ["Fairchild", "Triumph", "Siemens", "Yamaha", "Renault"]}
+{"subject": "Dodge 400", "object": "Dodge", "taxonomy": ["Jeep", "Amazon", "Bentley", "Volvo", "Iran"]}
+{"subject": "Nokia N85", "object": "Nokia", "taxonomy": ["Volvo", "Honda", "Cadillac", "Sony", "Apple"]}
+{"subject": "Nissan Vanette", "object": "Nissan", "taxonomy": ["Bentley", "Honda", "Dodge", "Airbus", "BMW"]}
+{"subject": "Dodge Challenger", "object": "Dodge", "taxonomy": ["Cadillac", "Douglas", "Toyota", "Jeep", "Yamaha"]}
+{"subject": "Infiniti Q50", "object": "Nissan", "taxonomy": ["Microsoft", "Spain", "Packard", "Intel", "Douglas"]}
+{"subject": "Toyota Soarer", "object": "Toyota", "taxonomy": ["Chrysler", "Hercules", "Dodge", "Porsche", "Bentley"]}
+{"subject": "Ictineo II", "object": "Spain", "taxonomy": ["Porsche", "Cadillac", "Sears", "sugar", "Siemens"]}
+{"subject": "Toyota Cresta", "object": "Toyota", "taxonomy": ["Apple", "Fairchild", "Microsoft", "Jeep", "BMW"]}
+{"subject": "Chromecast", "object": "Google", "taxonomy": ["Adobe", "Vickers", "Boeing", "Fairchild", "Sony"]}
+{"subject": "Honda Insight", "object": "Honda", "taxonomy": ["Philips", "Audi", "Toyota", "Fairchild", "BMW"]}
+{"subject": "Porsche 919 Hybrid", "object": "Porsche", "taxonomy": ["Sony", "Sears", "Nokia", "Intel", "Ferrari"]}
+{"subject": "Nissan Almera", "object": "Nissan", "taxonomy": ["Packard", "God", "Nintendo", "sugar", "McLaren"]}
+{"subject": "Apple IIGS", "object": "Apple", "taxonomy": ["Audi", "Intel", "Microsoft", "Fairchild", "Jeep"]}
+{"subject": "BMW R32", "object": "BMW", "taxonomy": ["Audi", "Amazon", "Yamaha", "Microsoft", "Porsche"]}
+{"subject": "IBM 2780/3780", "object": "IBM", "taxonomy": ["Toyota", "Sega", "Porsche", "McLaren", "Audi"]}
+{"subject": "Nissan Bluebird", "object": "Nissan", "taxonomy": ["Amazon", "Toyota", "Bentley", "Honda", "Adobe"]}
+{"subject": "Fiat 125", "object": "Fiat", "taxonomy": ["Cadillac", "Sears", "IBM", "Sony", "Intel"]}
+{"subject": "Honda Prelude", "object": "Honda", "taxonomy": ["Chevrolet", "Adobe", "Sony", "Yamaha", "Atari"]}
+{"subject": "iPad Mini", "object": "Apple", "taxonomy": ["Sony", "Mitsubishi", "Fiat", "Fairchild", "Adobe"]}
+{"subject": "Fiat 132/Argenta", "object": "Fiat", "taxonomy": ["McLaren", "Iran", "Renault", "Yamaha", "Jeep"]}
+{"subject": "Nissan Fuga", "object": "Nissan", "taxonomy": ["Ferrari", "Fiat", "Zeppelin", "Spain", "Vickers"]}
+{"subject": "Ferrari 575M Maranello", "object": "Ferrari", "taxonomy": ["Suzuki", "Packard", "Jeep", "Nokia", "BMW"]}
+{"subject": "MacBook Pro", "object": "Apple", "taxonomy": ["Samsung", "Amazon", "Iran", "Renault", "Atari"]}
+{"subject": "Nissan 370Z", "object": "Nissan", "taxonomy": ["Samsung", "Adobe", "Suzuki", "Intel", "Triumph"]}
+{"subject": "Chevrolet Camaro (fifth generation)", "object": "Chevrolet", "taxonomy": ["Honda", "Vickers", "Fiat", "Chrysler", "Apple"]}
+{"subject": "YF-22", "object": "Boeing", "taxonomy": ["Packard", "Atari", "Sears", "Honda", "Sega"]}
+{"subject": "Porsche 908", "object": "Porsche", "taxonomy": ["God", "Pontiac", "Amazon", "Fairchild", "Chrysler"]}
+{"subject": "Nissan GT-R LM Nismo", "object": "Nissan", "taxonomy": ["Douglas", "Volvo", "McLaren", "Intel", "Chrysler"]}
+{"subject": "EA-18G Growler", "object": "Boeing", "taxonomy": ["Renault", "Audi", "Zeppelin", "sugar", "Mitsubishi"]}
+{"subject": "Chevrolet Venture", "object": "Chevrolet", "taxonomy": ["McLaren", "Jeep", "Google", "Packard", "God"]}
+{"subject": "Porsche Cayenne", "object": "Porsche", "taxonomy": ["Suzuki", "Sega", "Volvo", "Philips", "McLaren"]}
+{"subject": "Suzuki GSX-R750", "object": "Suzuki", "taxonomy": ["Pontiac", "Amazon", "BMW", "Yamaha", "Philips"]}
+{"subject": "Toyota Celica", "object": "Toyota", "taxonomy": ["sugar", "Google", "Samsung", "Airbus", "Apple"]}
+{"subject": "Alfa Romeo 155", "object": "Fiat", "taxonomy": ["Chrysler", "Philips", "Airbus", "Nintendo", "Jeep"]}
+{"subject": "1955 Dodge", "object": "Dodge", "taxonomy": ["Atari", "Nintendo", "McLaren", "Iran", "sugar"]}
+{"subject": "Nissan Teana", "object": "Nissan", "taxonomy": ["IBM", "Dodge", "Vickers", "Fairchild", "liver"]}
+{"subject": "Ferrari Berlinetta Boxer", "object": "Ferrari", "taxonomy": ["Mercury", "Google", "Nintendo", "Atari", "Sears"]}
+{"subject": "Toyota Corona EXiV", "object": "Toyota", "taxonomy": ["God", "Ferrari", "Philips", "Sears", "Siemens"]}
+{"subject": "Fiat 128", "object": "Fiat", "taxonomy": ["IBM", "sugar", "Vickers", "Jeep", "Mitsubishi"]}
+{"subject": "Nissan Silvia", "object": "Nissan", "taxonomy": ["Samsung", "Boeing", "Sega", "Volvo", "Iran"]}
+{"subject": "Nissan Skyline", "object": "Nissan", "taxonomy": ["Jeep", "Bentley", "Nintendo", "Fairchild", "McLaren"]}
+{"subject": "Lexus RX", "object": "Toyota", "taxonomy": ["Fiat", "Boeing", "Adobe", "Renault", "liver"]}
+{"subject": "Dodge Daytona", "object": "Dodge", "taxonomy": ["Adobe", "Renault", "Philips", "Hercules", "Porsche"]}
+{"subject": "iPad", "object": "Apple", "taxonomy": ["Nokia", "sugar", "Google", "Sony", "Chevrolet"]}
+{"subject": "Alfa Romeo Montreal", "object": "Fiat", "taxonomy": ["Honda", "Chrysler", "Mercury", "Renault", "Sega"]}
+{"subject": "Triumph Acclaim", "object": "Triumph", "taxonomy": ["Dodge", "Samsung", "Google", "Zeppelin", "Ferrari"]}
+{"subject": "Monomail", "object": "Boeing", "taxonomy": ["God", "Pontiac", "Chrysler", "Amazon", "Volvo"]}
+{"subject": "New Nintendo 3DS", "object": "Nintendo", "taxonomy": ["Philips", "Porsche", "sugar", "Sega", "Renault"]}
+{"subject": "Renault Alpine A442", "object": "Renault", "taxonomy": ["Suzuki", "Spain", "Ferrari", "Sega", "Airbus"]}
+{"subject": "Toyota Sprinter", "object": "Toyota", "taxonomy": ["Vickers", "Amazon", "Nissan", "Ferrari", "Zeppelin"]}
+{"subject": "Nissan Juke", "object": "Nissan", "taxonomy": ["Sony", "Yamaha", "Microsoft", "Honda", "Porsche"]}
+{"subject": "C-135 Stratolifter", "object": "Boeing", "taxonomy": ["Ferrari", "God", "Pontiac", "Google", "Microsoft"]}
+{"subject": "StyleWriter", "object": "Apple", "taxonomy": ["God", "Nintendo", "Yamaha", "Pontiac", "Nissan"]}
+{"subject": "Nissan NV200", "object": "Nissan", "taxonomy": ["Philips", "Hercules", "Samsung", "God", "Nintendo"]}
+{"subject": "Windows Live Mail", "object": "Microsoft", "taxonomy": ["Ferrari", "Adobe", "Pontiac", "Douglas", "Chevrolet"]}
+{"subject": "Nissan Z-car", "object": "Nissan", "taxonomy": ["Zeppelin", "Hercules", "Triumph", "Nokia", "Microsoft"]}
+{"subject": "Nissan Lafesta", "object": "Nissan", "taxonomy": ["Bentley", "Triumph", "Microsoft", "Airbus", "Nokia"]}
+{"subject": "Multi Interface Shoe", "object": "Sony", "taxonomy": ["Porsche", "Hercules", "Pontiac", "McLaren", "Dodge"]}
+{"subject": "Cadillac SRX", "object": "Cadillac", "taxonomy": ["Apple", "Honda", "Nissan", "BMW", "Nokia"]}
+{"subject": "Toyota TS010", "object": "Toyota", "taxonomy": ["Dodge", "Amazon", "Chevrolet", "Jeep", "Chrysler"]}
+{"subject": "BMW M50", "object": "BMW", "taxonomy": ["Nissan", "Chrysler", "Yamaha", "Amazon", "Mercury"]}
+{"subject": "Douglas DC-4", "object": "Douglas", "taxonomy": ["Zeppelin", "McLaren", "Dodge", "Volvo", "Airbus"]}
+{"subject": "California and Hawaiian Sugar Company", "object": "sugar", "taxonomy": ["Suzuki", "Sony", "Audi", "Nokia", "BMW"]}
+{"subject": "Sileighty", "object": "Nissan", "taxonomy": ["Iran", "BMW", "Boeing", "Chrysler", "Samsung"]}
+{"subject": "Nokia N82", "object": "Nokia", "taxonomy": ["Bentley", "Iran", "sugar", "Google", "Nintendo"]}
+{"subject": "Toyota Sera", "object": "Toyota", "taxonomy": ["Atari", "Iran", "Sears", "Pontiac", "Nissan"]}
+{"subject": "Nissan Patrol", "object": "Nissan", "taxonomy": ["Cadillac", "God", "Renault", "Dodge", "Packard"]}
+{"subject": "Nokia N80", "object": "Nokia", "taxonomy": ["Intel", "Atari", "Renault", "Spain", "Vickers"]}
+{"subject": "Shahab-1", "object": "Iran", "taxonomy": ["Google", "Adobe", "Triumph", "Porsche", "Fiat"]}
+{"subject": "Porsche 936", "object": "Porsche", "taxonomy": ["Suzuki", "Triumph", "Amazon", "Douglas", "Airbus"]}
+{"subject": "Honda Racing Corporation", "object": "Honda", "taxonomy": ["Atari", "Jeep", "Douglas", "Sega", "Pontiac"]}
+{"subject": "Toyota Prius", "object": "Toyota", "taxonomy": ["Amazon", "Nintendo", "Sega", "Packard", "BMW"]}
+{"subject": "Toyota Sienna", "object": "Toyota", "taxonomy": ["Chrysler", "Google", "Pontiac", "Porsche", "Mercury"]}
+{"subject": "Renault Twizy", "object": "Renault", "taxonomy": ["Airbus", "Samsung", "Iran", "Zeppelin", "Intel"]}
+{"subject": "Toyota Sequoia", "object": "Toyota", "taxonomy": ["Samsung", "IBM", "Spain", "Iran", "Zeppelin"]}
+{"subject": "Toyota Aygo", "object": "Toyota", "taxonomy": ["Sega", "Microsoft", "Honda", "Fiat", "Amazon"]}
+{"subject": "Bluesmobile", "object": "Dodge", "taxonomy": ["Jeep", "Airbus", "Apple", "Fiat", "IBM"]}
+{"subject": "McLaren MP4-25", "object": "McLaren", "taxonomy": ["Amazon", "BMW", "Apple", "Fiat", "Renault"]}
+{"subject": "IBM Roadrunner", "object": "IBM", "taxonomy": ["Sega", "Spain", "Samsung", "Porsche", "Google"]}
+{"subject": "Suzuki Cultus Crescent", "object": "Suzuki", "taxonomy": ["Mercury", "Bentley", "Sega", "Microsoft", "IBM"]}
+{"subject": "Fiat 130", "object": "Fiat", "taxonomy": ["Spain", "Nissan", "Philips", "Microsoft", "Mitsubishi"]}
+{"subject": "CIM-10 Bomarc", "object": "Boeing", "taxonomy": ["Nokia", "Fiat", "Porsche", "Triumph", "Volvo"]}
+{"subject": "Nissan Civilian", "object": "Nissan", "taxonomy": ["Suzuki", "Packard", "Atari", "Honda", "Cadillac"]}
+{"subject": "Lancia Aprilia", "object": "Fiat", "taxonomy": ["Yamaha", "liver", "Cadillac", "Apple", "Airbus"]}
+{"subject": "BMW Z4", "object": "BMW", "taxonomy": ["Nissan", "Audi", "Boeing", "Samsung", "McLaren"]}
+{"subject": "Airbus A300", "object": "Airbus", "taxonomy": ["Volvo", "Boeing", "McLaren", "Fairchild", "Vickers"]}
+{"subject": "Fiat 1400", "object": "Fiat", "taxonomy": ["Ferrari", "Packard", "Nissan", "Hercules", "Spain"]}
+{"subject": "Honda Acty", "object": "Honda", "taxonomy": ["Pontiac", "BMW", "Porsche", "Mitsubishi", "Samsung"]}
+{"subject": "Porsche 2020", "object": "Porsche", "taxonomy": ["Sears", "Zeppelin", "Triumph", "Adobe", "Boeing"]}
+{"subject": "Nokia Asha 501", "object": "Nokia", "taxonomy": ["Atari", "Honda", "Nintendo", "Mitsubishi", "Audi"]}
+{"subject": "Volvo 900 Series", "object": "Volvo", "taxonomy": ["Philips", "Chrysler", "Google", "Toyota", "Sony"]}
+{"subject": "Audi Q3", "object": "Audi", "taxonomy": ["Zeppelin", "sugar", "IBM", "Sears", "Boeing"]}
+{"subject": "Nokia X family", "object": "Nokia", "taxonomy": ["Fairchild", "Sega", "Volvo", "Amazon", "liver"]}
+{"subject": "Honda CB900F", "object": "Honda", "taxonomy": ["Hercules", "Yamaha", "Atari", "Mitsubishi", "Sega"]}
+{"subject": "Jeep Wrangler", "object": "Chrysler", "taxonomy": ["Renault", "Sega", "Atari", "Google", "Suzuki"]}
+{"subject": "BMW M3", "object": "BMW", "taxonomy": ["McLaren", "Philips", "sugar", "Samsung", "Sony"]}
+{"subject": "Audi R8C", "object": "Audi", "taxonomy": ["Sony", "Yamaha", "Mitsubishi", "Chrysler", "Nintendo"]}
+{"subject": "LaFerrari", "object": "Ferrari", "taxonomy": ["McLaren", "Yamaha", "Sega", "Nokia", "Pontiac"]}
+{"subject": "Boeing 367-80", "object": "Boeing", "taxonomy": ["Renault", "Spain", "Volvo", "Apple", "Audi"]}
+{"subject": "Toyota Mega Cruiser", "object": "Toyota", "taxonomy": ["Microsoft", "Siemens", "BMW", "Amazon", "Sears"]}
+{"subject": "Pratt & Miller", "object": "Chevrolet", "taxonomy": ["Atari", "Google", "Intel", "BMW", "liver"]}
+{"subject": "Dacia Sandero", "object": "Renault", "taxonomy": ["Mitsubishi", "Spain", "Fairchild", "Jeep", "McLaren"]}
+{"subject": "BMW 3 Series", "object": "BMW", "taxonomy": ["Intel", "Spain", "Douglas", "sugar", "Google"]}
+{"subject": "SNES-CD", "object": "Sony", "taxonomy": ["Zeppelin", "Mercury", "BMW", "Douglas", "Iran"]}
+{"subject": "iPhone 1", "object": "Apple", "taxonomy": ["Mercury", "Nissan", "Sega", "Zeppelin", "Nintendo"]}
+{"subject": "Nissan Navara", "object": "Nissan", "taxonomy": ["Dodge", "Fairchild", "Nintendo", "Douglas", "Jeep"]}
+{"subject": "Suzuki Hayabusa", "object": "Suzuki", "taxonomy": ["Renault", "Yamaha", "Google", "Philips", "McLaren"]}
+{"subject": "Fiat Campagnola", "object": "Fiat", "taxonomy": ["Hercules", "Ferrari", "Douglas", "Amazon", "Microsoft"]}
+{"subject": "Audi R15 TDI", "object": "Audi", "taxonomy": ["Sony", "Vickers", "BMW", "Bentley", "Toyota"]}
+{"subject": "Toyopet Master", "object": "Toyota", "taxonomy": ["Fairchild", "Iran", "Siemens", "Vickers", "Bentley"]}
+{"subject": "Bentley Continental", "object": "Bentley", "taxonomy": ["Toyota", "Amazon", "sugar", "Ferrari", "Philips"]}
+{"subject": "PowerFlite", "object": "Chrysler", "taxonomy": ["Renault", "Nintendo", "Sega", "Mercury", "Jeep"]}
+{"subject": "Suzuki Intruder", "object": "Suzuki", "taxonomy": ["Spain", "Philips", "Audi", "Honda", "Cadillac"]}
+{"subject": "Renault 4P", "object": "Renault", "taxonomy": ["Airbus", "Suzuki", "Packard", "Chevrolet", "Sears"]}
+{"subject": "omnipotence", "object": "God", "taxonomy": ["BMW", "Samsung", "Mercury", "Pontiac", "Sony"]}
+{"subject": "Dacia Duster", "object": "Renault", "taxonomy": ["Sears", "Philips", "Vickers", "IBM", "Audi"]}
+{"subject": "Volvo 850", "object": "Volvo", "taxonomy": ["sugar", "Triumph", "Intel", "Packard", "Samsung"]}
+{"subject": "Fiat 127", "object": "Fiat", "taxonomy": ["Cadillac", "Audi", "Packard", "Airbus", "Pontiac"]}
+{"subject": "Ferrari 365", "object": "Ferrari", "taxonomy": ["Volvo", "sugar", "Nissan", "Douglas", "Iran"]}
+{"subject": "Chevrolet Spark", "object": "Chevrolet", "taxonomy": ["Dodge", "Hercules", "Jeep", "Google", "BMW"]}
+{"subject": "Infiniti QX", "object": "Nissan", "taxonomy": ["Dodge", "Airbus", "Suzuki", "Pontiac", "Amazon"]}
+{"subject": "Chevrolet Express", "object": "Chevrolet", "taxonomy": ["Douglas", "BMW", "Mitsubishi", "Suzuki", "Packard"]}
+{"subject": "Ferrari 550", "object": "Ferrari", "taxonomy": ["Zeppelin", "Boeing", "liver", "Cadillac", "Iran"]}
+{"subject": "PGM-19 Jupiter", "object": "Chrysler", "taxonomy": ["Mercury", "Siemens", "Audi", "Google", "Iran"]}
+{"subject": "Sapsan", "object": "Siemens", "taxonomy": ["Honda", "Fiat", "Porsche", "Intel", "Jeep"]}
+{"subject": "Cadillac Series 62", "object": "Cadillac", "taxonomy": ["sugar", "Chevrolet", "Sony", "BMW", "Microsoft"]}
+{"subject": "Renault Wind", "object": "Renault", "taxonomy": ["Nintendo", "Sears", "Yamaha", "Fairchild", "Google"]}
+{"subject": "Toyota Corolla E140", "object": "Toyota", "taxonomy": ["Boeing", "Cadillac", "Honda", "Fiat", "Adobe"]}
+{"subject": "Nissan Laurel", "object": "Nissan", "taxonomy": ["Sega", "Toyota", "IBM", "Hercules", "Zeppelin"]}
+{"subject": "Honda CBR600F3", "object": "Honda", "taxonomy": ["Bentley", "Volvo", "Boeing", "Yamaha", "Philips"]}
+{"subject": "Toyota Sprinter Marino", "object": "Toyota", "taxonomy": ["Iran", "Nintendo", "Porsche", "Pontiac", "Sony"]}
+{"subject": "Dodge Omni", "object": "Dodge", "taxonomy": ["Renault", "Nissan", "Chevrolet", "Airbus", "Yamaha"]}
+{"subject": "Cadillac Type 51", "object": "Cadillac", "taxonomy": ["Zeppelin", "Pontiac", "Ferrari", "Atari", "Siemens"]}
+{"subject": "Dodge Custom Royal", "object": "Dodge", "taxonomy": ["Douglas", "BMW", "Vickers", "Mercury", "Intel"]}
+{"subject": "Fiat Fiorino", "object": "Fiat", "taxonomy": ["God", "Packard", "Ferrari", "liver", "BMW"]}
+{"subject": "Boeing 601", "object": "Boeing", "taxonomy": ["Sega", "Suzuki", "Vickers", "Honda", "Sony"]}
+{"subject": "Apple IIe Card", "object": "Apple", "taxonomy": ["Honda", "Cadillac", "Sega", "Jeep", "McLaren"]}
+{"subject": "Toyota Avalon", "object": "Toyota", "taxonomy": ["liver", "Iran", "Mercury", "Jeep", "Sega"]}
+{"subject": "Fiat 124", "object": "Fiat", "taxonomy": ["Volvo", "Bentley", "Boeing", "Samsung", "Google"]}
+{"subject": "Fiat 500", "object": "Fiat", "taxonomy": ["Boeing", "Nissan", "Atari", "Yamaha", "Philips"]}
+{"subject": "IBM 704", "object": "IBM", "taxonomy": ["Philips", "Vickers", "Suzuki", "Google", "Boeing"]}
+{"subject": "Mini E", "object": "BMW", "taxonomy": ["Siemens", "Mercury", "Spain", "Fairchild", "Philips"]}
+{"subject": "AMR 35", "object": "Renault", "taxonomy": ["Google", "Chrysler", "Cadillac", "Adobe", "Zeppelin"]}
+{"subject": "Shahab-4", "object": "Iran", "taxonomy": ["Porsche", "Dodge", "BMW", "Philips", "Yamaha"]}
+{"subject": "Isetta", "object": "BMW", "taxonomy": ["Sony", "Sears", "Audi", "Philips", "IBM"]}
+{"subject": "Chevrolet LUV", "object": "Chevrolet", "taxonomy": ["Atari", "Google", "Packard", "Microsoft", "Mercury"]}
+{"subject": "Dodge Kingsway", "object": "Dodge", "taxonomy": ["Porsche", "Siemens", "Nintendo", "IBM", "Vickers"]}
+{"subject": "AMR 33", "object": "Renault", "taxonomy": ["Airbus", "Google", "Cadillac", "Vickers", "Yamaha"]}
+{"subject": "Toyota Starlet", "object": "Toyota", "taxonomy": ["Yamaha", "Intel", "Siemens", "Fiat", "Ferrari"]}
+{"subject": "Nokia 3310", "object": "Nokia", "taxonomy": ["McLaren", "Google", "Airbus", "Sony", "Adobe"]}
+{"subject": "Japanese battleship Mikasa", "object": "Vickers", "taxonomy": ["Adobe", "IBM", "Airbus", "Audi", "Suzuki"]}
+{"subject": "Triumph TR6", "object": "Triumph", "taxonomy": ["Nissan", "Intel", "Packard", "Volvo", "Vickers"]}
+{"subject": "Volvo Amazon", "object": "Volvo", "taxonomy": ["Mitsubishi", "liver", "Renault", "Amazon", "Honda"]}
+{"subject": "Toyota Porte", "object": "Toyota", "taxonomy": ["Nintendo", "liver", "Mitsubishi", "Nissan", "Philips"]}
+{"subject": "Chevrolet Kingswood", "object": "Chevrolet", "taxonomy": ["Yamaha", "Douglas", "Boeing", "Pontiac", "Toyota"]}
+{"subject": "BMW M54", "object": "BMW", "taxonomy": ["Siemens", "Ferrari", "Pontiac", "Toyota", "Jeep"]}
+{"subject": "Nokia 808 PureView", "object": "Nokia", "taxonomy": ["Airbus", "Apple", "Intel", "Spain", "Mercury"]}
+{"subject": "Lancia Gamma", "object": "Fiat", "taxonomy": ["Bentley", "Samsung", "Sears", "Zeppelin", "Airbus"]}
+{"subject": "Nissan X-Trail", "object": "Nissan", "taxonomy": ["Packard", "Douglas", "Suzuki", "IBM", "Airbus"]}
+{"subject": "Fiat Siena", "object": "Fiat", "taxonomy": ["Chevrolet", "Suzuki", "Vickers", "Douglas", "Nintendo"]}
+{"subject": "Porsche 911 GT1", "object": "Porsche", "taxonomy": ["Audi", "Philips", "Bentley", "Suzuki", "Nokia"]}
+{"subject": "Porsche 804", "object": "Porsche", "taxonomy": ["Volvo", "Douglas", "Fairchild", "Microsoft", "BMW"]}
+{"subject": "Audi Quattro", "object": "Audi", "taxonomy": ["Airbus", "Dodge", "Vickers", "Sega", "Adobe"]}
+{"subject": "Volvo 300 Series", "object": "Volvo", "taxonomy": ["Fairchild", "Sony", "IBM", "Spain", "Atari"]}
+{"subject": "Dodge Hornet", "object": "Dodge", "taxonomy": ["Siemens", "Sega", "Spain", "Sears", "Fairchild"]}
+{"subject": "Ferrari 599 GTB Fiorano", "object": "Ferrari", "taxonomy": ["Renault", "IBM", "Sears", "Cadillac", "Bentley"]}
+{"subject": "Nissan S130", "object": "Nissan", "taxonomy": ["Yamaha", "Fairchild", "Sears", "Mercury", "God"]}
+{"subject": "Renault 18", "object": "Renault", "taxonomy": ["liver", "Nissan", "Suzuki", "Packard", "Microsoft"]}
+{"subject": "Lancia Musa", "object": "Fiat", "taxonomy": ["Toyota", "Amazon", "Porsche", "Google", "Spain"]}
+{"subject": "Ferrari 375 MM", "object": "Ferrari", "taxonomy": ["Bentley", "Intel", "Sony", "IBM", "Fiat"]}
+{"subject": "Game Boy Advance", "object": "Nintendo", "taxonomy": ["God", "Dodge", "Douglas", "liver", "Nissan"]}
+{"subject": "Audi R8", "object": "Audi", "taxonomy": ["Nokia", "Porsche", "Chevrolet", "Douglas", "Mercury"]}
+{"subject": "Volvo 66", "object": "Volvo", "taxonomy": ["Philips", "Renault", "Douglas", "Nintendo", "Ferrari"]}
+{"subject": "Toyota FCHV", "object": "Toyota", "taxonomy": ["Samsung", "Siemens", "Spain", "Chrysler", "Airbus"]}
+{"subject": "BMW ActiveE", "object": "BMW", "taxonomy": ["Sony", "sugar", "Vickers", "Zeppelin", "Fairchild"]}
+{"subject": "Bentley State Limousine", "object": "Bentley", "taxonomy": ["Spain", "Amazon", "Atari", "Google", "liver"]}
+{"subject": "Dodge Durango", "object": "Dodge", "taxonomy": ["Triumph", "Fairchild", "Boeing", "Mercury", "Douglas"]}
+{"subject": "Chevrolet Delray", "object": "Chevrolet", "taxonomy": ["sugar", "Nissan", "Apple", "Atari", "Yamaha"]}
+{"subject": "Suzuki Swift", "object": "Suzuki", "taxonomy": ["Yamaha", "Amazon", "Fiat", "Nokia", "Spain"]}
+{"subject": "Chevrolet TrailBlazer", "object": "Chevrolet", "taxonomy": ["Renault", "Fairchild", "Spain", "Packard", "IBM"]}
+{"subject": "Honda Today", "object": "Honda", "taxonomy": ["liver", "Hercules", "Google", "Bentley", "Nintendo"]}
+{"subject": "Chevrolet El Camino", "object": "Chevrolet", "taxonomy": ["Spain", "Sega", "sugar", "Apple", "Yamaha"]}
+{"subject": "Audi A6 allroad quattro", "object": "Audi", "taxonomy": ["Ferrari", "Renault", "Intel", "Iran", "Hercules"]}
+{"subject": "Honda Inspire", "object": "Honda", "taxonomy": ["Suzuki", "Amazon", "Apple", "Chevrolet", "Iran"]}
+{"subject": "Nokia 8800", "object": "Nokia", "taxonomy": ["sugar", "Triumph", "Apple", "Nintendo", "Volvo"]}
+{"subject": "Fairchild Swearingen Metroliner", "object": "Fairchild", "taxonomy": ["Hercules", "God", "Sony", "Packard", "Microsoft"]}
+{"subject": "BMW M1", "object": "BMW", "taxonomy": ["Vickers", "Chevrolet", "Hercules", "Mercury", "McLaren"]}
+{"subject": "Toyota Toyoace", "object": "Toyota", "taxonomy": ["Porsche", "Mitsubishi", "Ferrari", "Honda", "BMW"]}
+{"subject": "Chevrolet Suburban", "object": "Chevrolet", "taxonomy": ["Suzuki", "Philips", "Spain", "Siemens", "Sony"]}
+{"subject": "Nokia N9", "object": "Nokia", "taxonomy": ["Hercules", "Iran", "McLaren", "Volvo", "Intel"]}
+{"subject": "BMW M60", "object": "BMW", "taxonomy": ["Philips", "Toyota", "Sears", "Honda", "Chrysler"]}
+{"subject": "Honda CRF series", "object": "Honda", "taxonomy": ["McLaren", "Nissan", "Fairchild", "Bentley", "Nokia"]}
+{"subject": "Bionz", "object": "Sony", "taxonomy": ["Airbus", "Pontiac", "Renault", "Apple", "Nintendo"]}
+{"subject": "F3D Skyknight", "object": "Douglas", "taxonomy": ["Mitsubishi", "Hercules", "Zeppelin", "Volvo", "McLaren"]}
+{"subject": "Game & Watch", "object": "Nintendo", "taxonomy": ["Jeep", "Hercules", "Renault", "Samsung", "Triumph"]}
+{"subject": "Dodge 600", "object": "Dodge", "taxonomy": ["Adobe", "Zeppelin", "Sears", "God", "Sony"]}
+{"subject": "Volvo V70", "object": "Volvo", "taxonomy": ["Intel", "Zeppelin", "McLaren", "Adobe", "Sony"]}
+{"subject": "Ferrari 612 Scaglietti", "object": "Ferrari", "taxonomy": ["Sears", "Microsoft", "Pontiac", "Mitsubishi", "Sony"]}
+{"subject": "Sega Game Gear", "object": "Sega", "taxonomy": ["Mercury", "Fairchild", "Apple", "Ferrari", "sugar"]}
+{"subject": "BMW 6 Series", "object": "BMW", "taxonomy": ["Packard", "Mercury", "sugar", "Audi", "Philips"]}
+{"subject": "Airbus A320", "object": "Airbus", "taxonomy": ["Triumph", "Bentley", "Yamaha", "Iran", "God"]}
+{"subject": "Nissan 200SX", "object": "Nissan", "taxonomy": ["Renault", "Vickers", "Chevrolet", "Apple", "liver"]}
+{"subject": "Lexus IS", "object": "Toyota", "taxonomy": ["Intel", "Philips", "Nissan", "Google", "Packard"]}
+{"subject": "Dodge Ram SRT-10", "object": "Dodge", "taxonomy": ["Nintendo", "Toyota", "Mercury", "Intel", "God"]}
+{"subject": "Honda ST1300", "object": "Honda", "taxonomy": ["Airbus", "Microsoft", "God", "Suzuki", "liver"]}
+{"subject": "Renault Captur", "object": "Renault", "taxonomy": ["Packard", "Airbus", "Bentley", "Ferrari", "Suzuki"]}
+{"subject": "Chevrolet Corvette (C4)", "object": "Chevrolet", "taxonomy": ["Sega", "Douglas", "Airbus", "Amazon", "Chrysler"]}
+{"subject": "Suzuki Carry", "object": "Suzuki", "taxonomy": ["Triumph", "Fairchild", "God", "Renault", "Boeing"]}
+{"subject": "Chevrolet Corvette C7", "object": "Chevrolet", "taxonomy": ["Zeppelin", "Douglas", "Nokia", "Bentley", "Packard"]}
+{"subject": "Ferrari F430 Challenge", "object": "Ferrari", "taxonomy": ["Yamaha", "Vickers", "Suzuki", "IBM", "BMW"]}
+{"subject": "Apple II", "object": "Apple", "taxonomy": ["McLaren", "Nissan", "Audi", "Microsoft", "Cadillac"]}
+{"subject": "Honda EV Plus", "object": "Honda", "taxonomy": ["Apple", "Nokia", "God", "Airbus", "Sony"]}
+{"subject": "Packard 1A-2500", "object": "Packard", "taxonomy": ["Renault", "BMW", "Samsung", "Chevrolet", "Spain"]}
+{"subject": "Toyota Avanza", "object": "Toyota", "taxonomy": ["Nintendo", "Nissan", "Yamaha", "Google", "Atari"]}
+{"subject": "Chevrolet Astro", "object": "Chevrolet", "taxonomy": ["Vickers", "Nissan", "Nokia", "Audi", "Mitsubishi"]}
+{"subject": "Nissan Pulsar", "object": "Nissan", "taxonomy": ["Chrysler", "Sears", "Dodge", "Mitsubishi", "Nintendo"]}
+{"subject": "Chevrolet Caprice", "object": "Chevrolet", "taxonomy": ["Jeep", "Atari", "Cadillac", "Sears", "liver"]}
+{"subject": "Chevrolet 210", "object": "Chevrolet", "taxonomy": ["McLaren", "Apple", "Samsung", "IBM", "Triumph"]}
+{"subject": "Cadillac Escalade", "object": "Cadillac", "taxonomy": ["Adobe", "Sears", "Dodge", "Sony", "Yamaha"]}
+{"subject": "Nissan Latio", "object": "Nissan", "taxonomy": ["Intel", "Dodge", "Nokia", "Mitsubishi", "Honda"]}
+{"subject": "Triumph 2000", "object": "Triumph", "taxonomy": ["Zeppelin", "Porsche", "Boeing", "McLaren", "Google"]}
+{"subject": "Toyota Isis", "object": "Toyota", "taxonomy": ["McLaren", "Honda", "Nokia", "Airbus", "God"]}
+{"subject": "Audi Le Mans quattro", "object": "Audi", "taxonomy": ["Nintendo", "Volvo", "Sega", "Mitsubishi", "Sony"]}
+{"subject": "Toyota HiAce", "object": "Toyota", "taxonomy": ["Hercules", "Fairchild", "liver", "Mitsubishi", "Jeep"]}
+{"subject": "Nokia N800", "object": "Nokia", "taxonomy": ["Sony", "Hercules", "Philips", "Mercury", "Triumph"]}
+{"subject": "BMW E38", "object": "BMW", "taxonomy": ["liver", "Microsoft", "Sony", "Chrysler", "Audi"]}
+{"subject": "Toyota Tercel", "object": "Toyota", "taxonomy": ["IBM", "Zeppelin", "liver", "Boeing", "Audi"]}
+{"subject": "Nokia Lumia 920", "object": "Nokia", "taxonomy": ["Sears", "Cadillac", "God", "Toyota", "Amazon"]}
+{"subject": "Cadillac DTS", "object": "Cadillac", "taxonomy": ["Bentley", "Nissan", "Fiat", "Jeep", "Suzuki"]}
+{"subject": "Chevrolet Kodiak", "object": "Chevrolet", "taxonomy": ["Amazon", "Hercules", "Sega", "BMW", "Iran"]}
+{"subject": "Windows Vista", "object": "Microsoft", "taxonomy": ["Dodge", "Intel", "Fairchild", "BMW", "Chevrolet"]}
+{"subject": "Chevrolet Tavera", "object": "Chevrolet", "taxonomy": ["Philips", "Bentley", "Sears", "Mercury", "Intel"]}
+{"subject": "Nissan Cima", "object": "Nissan", "taxonomy": ["BMW", "Mercury", "Spain", "Jeep", "Philips"]}
+{"subject": "Nokia 6233", "object": "Nokia", "taxonomy": ["Boeing", "BMW", "Google", "Chevrolet", "Mitsubishi"]}
+{"subject": "Dodge Ram", "object": "Dodge", "taxonomy": ["Hercules", "Microsoft", "Sony", "Google", "Porsche"]}
+{"subject": "Triumph Dolomite", "object": "Triumph", "taxonomy": ["Sears", "Porsche", "Adobe", "Iran", "Google"]}
+{"subject": "Toyota Vios", "object": "Toyota", "taxonomy": ["IBM", "Hercules", "McLaren", "God", "Nintendo"]}
+{"subject": "MIM-3 Nike-Ajax", "object": "Douglas", "taxonomy": ["Iran", "Philips", "Yamaha", "Bentley", "Adobe"]}
+{"subject": "Porsche 904", "object": "Porsche", "taxonomy": ["Zeppelin", "Renault", "Google", "Toyota", "Suzuki"]}
+{"subject": "Toyota SA", "object": "Toyota", "taxonomy": ["Airbus", "liver", "Porsche", "Adobe", "Chevrolet"]}
+{"subject": "Chevrolet Trax", "object": "Chevrolet", "taxonomy": ["Suzuki", "Sears", "Sony", "Porsche", "Adobe"]}
+{"subject": "Porsche Carrera", "object": "Porsche", "taxonomy": ["Philips", "Chevrolet", "Sony", "Apple", "Microsoft"]}
+{"subject": "Renault Juvaquatre", "object": "Renault", "taxonomy": ["Microsoft", "Jeep", "Bentley", "Mercury", "Mitsubishi"]}
+{"subject": "Fiat 2300", "object": "Fiat", "taxonomy": ["Mercury", "Yamaha", "Triumph", "Microsoft", "Toyota"]}
+{"subject": "Honda Civic Type R", "object": "Honda", "taxonomy": ["Suzuki", "Yamaha", "Sony", "Intel", "Samsung"]}
+{"subject": "angel", "object": "God", "taxonomy": ["Intel", "Mercury", "Fairchild", "Nokia", "BMW"]}
+{"subject": "Nokia Lumia 710", "object": "Nokia", "taxonomy": ["Airbus", "IBM", "Atari", "Honda", "Triumph"]}
+{"subject": "Nokia Lumia 1520", "object": "Nokia", "taxonomy": ["Jeep", "Pontiac", "Audi", "Nissan", "Nintendo"]}
+{"subject": "Honda City", "object": "Honda", "taxonomy": ["Dodge", "Audi", "Hercules", "Triumph", "Yamaha"]}
+{"subject": "Chevrolet Corvette C2", "object": "Chevrolet", "taxonomy": ["Sony", "Mercury", "Jeep", "Hercules", "Audi"]}
+{"subject": "Renault 5", "object": "Renault", "taxonomy": ["Nokia", "Sears", "Chrysler", "Packard", "Audi"]}
+{"subject": "Super Nintendo Entertainment System", "object": "Nintendo", "taxonomy": ["Spain", "Volvo", "Airbus", "Sears", "Jeep"]}
+{"subject": "IBM 729", "object": "IBM", "taxonomy": ["Vickers", "Zeppelin", "Amazon", "Sony", "Airbus"]}
+{"subject": "ICE TD", "object": "Siemens", "taxonomy": ["Fiat", "Triumph", "Honda", "Nissan", "Porsche"]}
+{"subject": "Sony Alpha 900", "object": "Sony", "taxonomy": ["Triumph", "Spain", "Nokia", "Ferrari", "Amazon"]}
+{"subject": "Renault Clio", "object": "Renault", "taxonomy": ["liver", "Chevrolet", "BMW", "Volvo", "Porsche"]}
+{"subject": "Chevrolet Camaro (first generation)", "object": "Chevrolet", "taxonomy": ["Mitsubishi", "Jeep", "Toyota", "liver", "God"]}
+{"subject": "Boeing KC-46", "object": "Boeing", "taxonomy": ["Honda", "IBM", "Fairchild", "Zeppelin", "Toyota"]}
+{"subject": "Porsche 993", "object": "Porsche", "taxonomy": ["Mitsubishi", "Packard", "Airbus", "BMW", "Zeppelin"]}
+{"subject": "Ferrari F355", "object": "Ferrari", "taxonomy": ["Siemens", "Nintendo", "Triumph", "Cadillac", "Chrysler"]}
+{"subject": "Dodge Coronet", "object": "Dodge", "taxonomy": ["Nokia", "Intel", "Microsoft", "Hercules", "Siemens"]}
+{"subject": "Mac Pro", "object": "Apple", "taxonomy": ["Boeing", "Atari", "Vickers", "Mercury", "Bentley"]}
+{"subject": "Peugeot 107", "object": "Toyota", "taxonomy": ["Dodge", "Apple", "Ferrari", "Chrysler", "Intel"]}
+{"subject": "Ferrari 288 GTO", "object": "Ferrari", "taxonomy": ["liver", "Sega", "Audi", "Honda", "Cadillac"]}
+{"subject": "Nokia N70", "object": "Nokia", "taxonomy": ["Renault", "Atari", "Jeep", "Adobe", "Mitsubishi"]}
+{"subject": "Toyota Aurion", "object": "Toyota", "taxonomy": ["Triumph", "Sony", "Renault", "Cadillac", "Packard"]}
+{"subject": "BMW E23", "object": "BMW", "taxonomy": ["Bentley", "Nintendo", "Douglas", "Triumph", "God"]}
+{"subject": "Nissan R'nessa", "object": "Nissan", "taxonomy": ["Honda", "Intel", "Ferrari", "Douglas", "Iran"]}
+{"subject": "Toyota Innova", "object": "Toyota", "taxonomy": ["Renault", "Mitsubishi", "Microsoft", "Apple", "Spain"]}
+{"subject": "Ferrari California", "object": "Ferrari", "taxonomy": ["Suzuki", "Zeppelin", "Porsche", "BMW", "Yamaha"]}
+{"subject": "Fiat Tempra", "object": "Fiat", "taxonomy": ["Volvo", "Iran", "Ferrari", "IBM", "Nokia"]}
+{"subject": "Renault Sport Spider", "object": "Renault", "taxonomy": ["Dodge", "Atari", "Jeep", "Vickers", "Packard"]}
+{"subject": "Honda HR-V", "object": "Honda", "taxonomy": ["Dodge", "Sega", "Chevrolet", "Fiat", "Iran"]}
+{"subject": "Renault Fluence", "object": "Renault", "taxonomy": ["Audi", "Nintendo", "Triumph", "Adobe", "Intel"]}
+{"subject": "Vickers Medium Mark I", "object": "Vickers", "taxonomy": ["Triumph", "Amazon", "Fairchild", "Renault", "Chrysler"]}
+{"subject": "Suzuki MR Wagon", "object": "Suzuki", "taxonomy": ["Philips", "Bentley", "Nintendo", "Volvo", "Chrysler"]}
+{"subject": "Bentley Speed Six", "object": "Bentley", "taxonomy": ["Microsoft", "Apple", "Volvo", "Nissan", "Yamaha"]}
+{"subject": "Intel MCS-48", "object": "Intel", "taxonomy": ["Adobe", "Chevrolet", "Nintendo", "Airbus", "Renault"]}
+{"subject": "Chevrolet Uplander", "object": "Chevrolet", "taxonomy": ["Sega", "Samsung", "BMW", "Iran", "Nokia"]}
+{"subject": "Volvo 480", "object": "Volvo", "taxonomy": ["Fiat", "Airbus", "Yamaha", "Samsung", "Zeppelin"]}
+{"subject": "Renault 5 Turbo", "object": "Renault", "taxonomy": ["Chevrolet", "Volvo", "Chrysler", "Yamaha", "Ferrari"]}
+{"subject": "Toyota Carina", "object": "Toyota", "taxonomy": ["Airbus", "Chevrolet", "Jeep", "Bentley", "liver"]}
+{"subject": "Porsche 962", "object": "Porsche", "taxonomy": ["Intel", "Philips", "Packard", "Sega", "Triumph"]}
+{"subject": "BMW Z4 (E89)", "object": "BMW", "taxonomy": ["Sears", "McLaren", "Sony", "Renault", "Porsche"]}
+{"subject": "Cadillac Series 60", "object": "Cadillac", "taxonomy": ["Yamaha", "BMW", "Apple", "Iran", "Siemens"]}
+{"subject": "BMW X Models", "object": "BMW", "taxonomy": ["Apple", "Airbus", "Jeep", "Ferrari", "Philips"]}
+{"subject": "Color TV-Game", "object": "Nintendo", "taxonomy": ["Volvo", "Porsche", "sugar", "Nokia", "Philips"]}
+{"subject": "Infiniti JX", "object": "Nissan", "taxonomy": ["Atari", "Microsoft", "Jeep", "Volvo", "Sears"]}
+{"subject": "Suzuki Cervo", "object": "Suzuki", "taxonomy": ["liver", "Pontiac", "Nissan", "Triumph", "Amazon"]}
+{"subject": "Nissan R89C", "object": "Nissan", "taxonomy": ["Yamaha", "Atari", "Triumph", "IBM", "BMW"]}
+{"subject": "Ferrari 246 F1", "object": "Ferrari", "taxonomy": ["Jeep", "Fairchild", "Sega", "Spain", "Douglas"]}
+{"subject": "Nissan Pao", "object": "Nissan", "taxonomy": ["Ferrari", "Philips", "Spain", "IBM", "Pontiac"]}
+{"subject": "Fiat Palio", "object": "Fiat", "taxonomy": ["Fairchild", "liver", "Nissan", "Zeppelin", "Microsoft"]}
+{"subject": "Cadillac ATS", "object": "Cadillac", "taxonomy": ["Chevrolet", "Audi", "sugar", "Siemens", "Microsoft"]}
+{"subject": "Honda Ascot", "object": "Honda", "taxonomy": ["Nintendo", "Pontiac", "Porsche", "Suzuki", "Renault"]}
+{"subject": "BMW 326", "object": "BMW", "taxonomy": ["Siemens", "Honda", "Airbus", "sugar", "Zeppelin"]}
+{"subject": "Volvo XC90", "object": "Volvo", "taxonomy": ["Triumph", "IBM", "Iran", "Honda", "Jeep"]}
+{"subject": "Suzuki Alto", "object": "Suzuki", "taxonomy": ["Mitsubishi", "God", "Dodge", "Spain", "Jeep"]}
+{"subject": "Fiat 501", "object": "Fiat", "taxonomy": ["Dodge", "Sega", "Google", "Renault", "Nintendo"]}
+{"subject": "Toyota Kijang", "object": "Toyota", "taxonomy": ["Microsoft", "Airbus", "Honda", "Amazon", "Fiat"]}
+{"subject": "Dodge 500", "object": "Dodge", "taxonomy": ["God", "Mercury", "Spain", "Iran", "Bentley"]}
+{"subject": "SNES-CD", "object": "Nintendo", "taxonomy": ["Google", "Iran", "Honda", "Adobe", "Apple"]}
+{"subject": "Nissan Serena", "object": "Nissan", "taxonomy": ["Intel", "Atari", "Toyota", "McLaren", "Honda"]}
+{"subject": "Cadillac CTS", "object": "Cadillac", "taxonomy": ["Yamaha", "Ferrari", "Pontiac", "Sears", "Samsung"]}
+{"subject": "Renault Espace", "object": "Renault", "taxonomy": ["Nokia", "McLaren", "Hercules", "Apple", "Zeppelin"]}
+{"subject": "Honda NS500", "object": "Honda", "taxonomy": ["Atari", "IBM", "Jeep", "Nokia", "Chrysler"]}
+{"subject": "Airbus A350", "object": "Airbus", "taxonomy": ["BMW", "Yamaha", "Jeep", "Suzuki", "God"]}
+{"subject": "BMW Hydrogen 7", "object": "BMW", "taxonomy": ["Chrysler", "Honda", "sugar", "Toyota", "Triumph"]}
+{"subject": "Nissan Crew", "object": "Nissan", "taxonomy": ["McLaren", "Sears", "Honda", "Pontiac", "Renault"]}
+{"subject": "Chevrolet Chevette", "object": "Chevrolet", "taxonomy": ["Dodge", "Nintendo", "Sega", "Spain", "Google"]}
+{"subject": "VTEC", "object": "Honda", "taxonomy": ["Mercury", "McLaren", "Google", "Triumph", "Fiat"]}
+{"subject": "Audi A4", "object": "Audi", "taxonomy": ["Iran", "Douglas", "Fiat", "Dodge", "Philips"]}
+{"subject": "B-47 Stratojet", "object": "Boeing", "taxonomy": ["Nintendo", "Airbus", "Ferrari", "Hercules", "Cadillac"]}
+{"subject": "Ferrari 250 GTO", "object": "Ferrari", "taxonomy": ["Nintendo", "Bentley", "God", "Audi", "Amazon"]}
+{"subject": "BMW M62", "object": "BMW", "taxonomy": ["Nokia", "Porsche", "Sears", "Airbus", "Intel"]}
+{"subject": "Airbus Beluga", "object": "Airbus", "taxonomy": ["Iran", "Cadillac", "Volvo", "Sears", "Triumph"]}
+{"subject": "Alfa Romeo 6C", "object": "Fiat", "taxonomy": ["Jeep", "Nokia", "Airbus", "Pontiac", "Spain"]}
+{"subject": "Suzuki GSX-R1000", "object": "Suzuki", "taxonomy": ["Adobe", "Boeing", "Nintendo", "Dodge", "BMW"]}
+{"subject": "Lexus LF", "object": "Toyota", "taxonomy": ["Chrysler", "Sega", "Audi", "Intel", "Mercury"]}
+{"subject": "Volvo C70", "object": "Volvo", "taxonomy": ["Packard", "Philips", "Hercules", "Fiat", "Mercury"]}
+{"subject": "Porsche Boxster", "object": "Porsche", "taxonomy": ["Google", "Nintendo", "Cadillac", "Toyota", "Dodge"]}
+{"subject": "Toyota Fortuner", "object": "Toyota", "taxonomy": ["Atari", "Nintendo", "Chevrolet", "Fairchild", "Ferrari"]}
+{"subject": "Cadillac Series 70", "object": "Cadillac", "taxonomy": ["Mercury", "sugar", "Renault", "Apple", "Samsung"]}
+{"subject": "IBM 8100", "object": "IBM", "taxonomy": ["Atari", "Dodge", "Airbus", "Zeppelin", "liver"]}
+{"subject": "Airbus A310", "object": "Airbus", "taxonomy": ["Yamaha", "Google", "McLaren", "Mercury", "Spain"]}
+{"subject": "Honda RC51", "object": "Honda", "taxonomy": ["Apple", "Google", "Boeing", "Suzuki", "liver"]}
+{"subject": "Honda Valkyrie", "object": "Honda", "taxonomy": ["Suzuki", "Ferrari", "God", "sugar", "Douglas"]}
+{"subject": "Suzuki APV", "object": "Suzuki", "taxonomy": ["Samsung", "Adobe", "God", "Philips", "Sears"]}
+{"subject": "LZ 130 Graf Zeppelin II", "object": "Zeppelin", "taxonomy": ["Hercules", "Pontiac", "Fiat", "Chrysler", "McLaren"]}
+{"subject": "Cadillac Series 355", "object": "Cadillac", "taxonomy": ["Spain", "Siemens", "Nintendo", "Chrysler", "Google"]}
+{"subject": "Toyota 2000GT", "object": "Toyota", "taxonomy": ["Sears", "Audi", "Packard", "Samsung", "Porsche"]}
+{"subject": "ICE 3", "object": "Siemens", "taxonomy": ["Pontiac", "Spain", "sugar", "Volvo", "Google"]}
+{"subject": "Suzuki GSX-R series", "object": "Suzuki", "taxonomy": ["Bentley", "Pontiac", "Zeppelin", "Sears", "Douglas"]}
+{"subject": "Renault Kangoo", "object": "Renault", "taxonomy": ["Hercules", "Fiat", "Douglas", "Siemens", "Pontiac"]}
+{"subject": "LGM-30 Minuteman", "object": "Boeing", "taxonomy": ["Jeep", "Suzuki", "Yamaha", "Mercury", "Siemens"]}
+{"subject": "Eagle Medallion", "object": "Renault", "taxonomy": ["Audi", "Vickers", "Triumph", "IBM", "sugar"]}
+{"subject": "TorqueFlite", "object": "Chrysler", "taxonomy": ["Triumph", "Zeppelin", "Honda", "Yamaha", "Spain"]}
+{"subject": "Honda HSV-010 GT", "object": "Honda", "taxonomy": ["Sega", "Boeing", "Packard", "Yamaha", "Intel"]}
+{"subject": "BMW 801", "object": "BMW", "taxonomy": ["Sega", "Vickers", "McLaren", "IBM", "Fiat"]}
+{"subject": "Nissan Pathfinder", "object": "Nissan", "taxonomy": ["Yamaha", "Amazon", "Philips", "Sega", "Douglas"]}
+{"subject": "Airbus A340", "object": "Airbus", "taxonomy": ["Triumph", "Sony", "Sega", "McLaren", "liver"]}
+{"subject": "Nintendo 2DS", "object": "Nintendo", "taxonomy": ["Chrysler", "Mercury", "Google", "Adobe", "Fairchild"]}
+{"subject": "Dodge Charger", "object": "Dodge", "taxonomy": ["Triumph", "God", "IBM", "Boeing", "Adobe"]}
+{"subject": "iPod Touch", "object": "Apple", "taxonomy": ["Ferrari", "Atari", "Chevrolet", "Jeep", "Iran"]}
+{"subject": "Nissan Primera", "object": "Nissan", "taxonomy": ["Triumph", "BMW", "sugar", "Philips", "Porsche"]}
+{"subject": "Honda CR-X del Sol", "object": "Honda", "taxonomy": ["Pontiac", "Triumph", "Atari", "Adobe", "Chevrolet"]}
+{"subject": "Toyota Avensis", "object": "Toyota", "taxonomy": ["Nissan", "Intel", "Sears", "Apple", "Siemens"]}
+{"subject": "Suzuki Cappuccino", "object": "Suzuki", "taxonomy": ["Spain", "Renault", "Iran", "Dodge", "Douglas"]}
+{"subject": "Toyota Corolla Verso", "object": "Toyota", "taxonomy": ["Spain", "Hercules", "IBM", "Suzuki", "Pontiac"]}
+{"subject": "Acura MDX", "object": "Honda", "taxonomy": ["Nissan", "Dodge", "Sega", "Apple", "Zeppelin"]}
+{"subject": "China Railways CRH3", "object": "Siemens", "taxonomy": ["Yamaha", "Amazon", "Philips", "Bentley", "Iran"]}
+{"subject": "BMW Dixi", "object": "BMW", "taxonomy": ["Volvo", "IBM", "Yamaha", "Zeppelin", "Airbus"]}
+{"subject": "Honda CB550", "object": "Honda", "taxonomy": ["Intel", "Bentley", "God", "Hercules", "Porsche"]}
+{"subject": "BMW X6", "object": "BMW", "taxonomy": ["Philips", "sugar", "Ferrari", "God", "Honda"]}
+{"subject": "Chevrolet Bel Air", "object": "Chevrolet", "taxonomy": ["Microsoft", "Cadillac", "Adobe", "Boeing", "Dodge"]}
+{"subject": "Porsche 914", "object": "Porsche", "taxonomy": ["Sony", "God", "sugar", "Philips", "Nintendo"]}
+{"subject": "Intel 8085", "object": "Intel", "taxonomy": ["Mitsubishi", "Audi", "Cadillac", "Dodge", "Sega"]}
+{"subject": "BMW 700", "object": "BMW", "taxonomy": ["Airbus", "Dodge", "Cadillac", "Sega", "Yamaha"]}
+{"subject": "Jeep Patriot", "object": "Jeep", "taxonomy": ["Adobe", "Airbus", "Philips", "Pontiac", "Amazon"]}
+{"subject": "Honda Civic (ninth generation)", "object": "Honda", "taxonomy": ["Cadillac", "Triumph", "Intel", "Ferrari", "Chrysler"]}
+{"subject": "N-Gage QD", "object": "Nokia", "taxonomy": ["Jeep", "Apple", "liver", "Pontiac", "Philips"]}
+{"subject": "Nissan R391", "object": "Nissan", "taxonomy": ["Vickers", "Cadillac", "Jeep", "sugar", "Chrysler"]}
+{"subject": "Renault Trafic", "object": "Renault", "taxonomy": ["Honda", "Spain", "Hercules", "Suzuki", "Fiat"]}
+{"subject": "Honda Pilot", "object": "Honda", "taxonomy": ["Sony", "Zeppelin", "Mitsubishi", "Ferrari", "Yamaha"]}
+{"subject": "BMW 5 Series", "object": "BMW", "taxonomy": ["Cadillac", "sugar", "Hercules", "Apple", "Fairchild"]}
+{"subject": "Ferrari 158", "object": "Ferrari", "taxonomy": ["Apple", "Bentley", "Douglas", "Jeep", "Philips"]}
+{"subject": "IBM 6150 RT", "object": "IBM", "taxonomy": ["Hercules", "Amazon", "Sony", "Philips", "Chrysler"]}
+{"subject": "Renault Estafette", "object": "Renault", "taxonomy": ["Nintendo", "Fairchild", "Zeppelin", "Mitsubishi", "BMW"]}
+{"subject": "Honda CBR250R", "object": "Honda", "taxonomy": ["Chevrolet", "Microsoft", "BMW", "Toyota", "Douglas"]}
+{"subject": "Honda VFR400", "object": "Honda", "taxonomy": ["Nissan", "Adobe", "Sears", "Renault", "Intel"]}
+{"subject": "Chevrolet Tahoe", "object": "Chevrolet", "taxonomy": ["sugar", "Amazon", "Bentley", "Triumph", "Cadillac"]}
+{"subject": "Renault Alliance", "object": "Renault", "taxonomy": ["Siemens", "Apple", "Adobe", "Microsoft", "Pontiac"]}
+{"subject": "Chevrolet S-10", "object": "Chevrolet", "taxonomy": ["Mercury", "Jeep", "Packard", "liver", "Pontiac"]}
+{"subject": "Audi A7", "object": "Audi", "taxonomy": ["Nokia", "Atari", "Google", "Honda", "Spain"]}
+{"subject": "Renault Fuego", "object": "Renault", "taxonomy": ["Jeep", "Fairchild", "Iran", "Hercules", "Dodge"]}
+{"subject": "Honda RS125R", "object": "Honda", "taxonomy": ["Zeppelin", "Chrysler", "Sony", "Packard", "Adobe"]}
+{"subject": "Chevrolet Celebrity", "object": "Chevrolet", "taxonomy": ["Airbus", "Dodge", "Honda", "Iran", "Vickers"]}
+{"subject": "Lexus LFA", "object": "Toyota", "taxonomy": ["Nissan", "Siemens", "Samsung", "Chrysler", "BMW"]}
+{"subject": "IBM 5120", "object": "IBM", "taxonomy": ["Apple", "Vickers", "God", "sugar", "Packard"]}
+{"subject": "GAM-87 Skybolt", "object": "Douglas", "taxonomy": ["Chevrolet", "Yamaha", "Bentley", "Samsung", "Nokia"]}
+{"subject": "Fiat Uno", "object": "Fiat", "taxonomy": ["Mitsubishi", "Packard", "Sony", "Spain", "Bentley"]}
+{"subject": "muscle car", "object": "Pontiac", "taxonomy": ["Cadillac", "Vickers", "McLaren", "Atari", "Siemens"]}
+{"subject": "Nissan Terrano II", "object": "Nissan", "taxonomy": ["Mitsubishi", "Fiat", "Nokia", "liver", "sugar"]}
+{"subject": "Dodge Avenger", "object": "Dodge", "taxonomy": ["Vickers", "Samsung", "Boeing", "Sears", "Sony"]}
+{"subject": "Honda Odyssey", "object": "Honda", "taxonomy": ["Spain", "Sega", "Boeing", "Toyota", "Amazon"]}
+{"subject": "BMW N52", "object": "BMW", "taxonomy": ["Mercury", "Sears", "Spain", "Airbus", "Porsche"]}
+{"subject": "Honda Airwave", "object": "Honda", "taxonomy": ["Sears", "Boeing", "Iran", "Hercules", "Bentley"]}
+{"subject": "Nissan Cherry", "object": "Nissan", "taxonomy": ["Sears", "Triumph", "Mitsubishi", "Amazon", "Philips"]}
+{"subject": "Ferrari 348", "object": "Ferrari", "taxonomy": ["liver", "God", "Philips", "Intel", "Nintendo"]}
+{"subject": "Nokia Internet tablet", "object": "Nokia", "taxonomy": ["Toyota", "Fiat", "Mitsubishi", "God", "Fairchild"]}
+{"subject": "BMW 7 Series", "object": "BMW", "taxonomy": ["Microsoft", "Yamaha", "Apple", "Mitsubishi", "Bentley"]}
+{"subject": "IKA-Renault Torino", "object": "Renault", "taxonomy": ["Chevrolet", "Pontiac", "God", "Sears", "Audi"]}
+{"subject": "DC-3", "object": "Douglas", "taxonomy": ["Honda", "Nokia", "Atari", "Porsche", "Cadillac"]}
+{"subject": "Renault R26", "object": "Renault", "taxonomy": ["Hercules", "Zeppelin", "Yamaha", "Packard", "Ferrari"]}
+{"subject": "Acura CL", "object": "Honda", "taxonomy": ["Suzuki", "Mercury", "Fairchild", "Audi", "Philips"]}
+{"subject": "Alfa Romeo MiTo", "object": "Fiat", "taxonomy": ["Douglas", "Ferrari", "Airbus", "Packard", "Boeing"]}
+{"subject": "Nissan Prince Royal", "object": "Nissan", "taxonomy": ["Intel", "Honda", "Fairchild", "Boeing", "Mercury"]}
+{"subject": "BMW New Six", "object": "BMW", "taxonomy": ["Adobe", "Samsung", "Nokia", "Ferrari", "Apple"]}
+{"subject": ".303 Vickers", "object": "Vickers", "taxonomy": ["Siemens", "sugar", "Google", "Iran", "Toyota"]}
+{"subject": "Nissan Caball", "object": "Nissan", "taxonomy": ["Mitsubishi", "Honda", "McLaren", "Volvo", "liver"]}
+{"subject": "Dodge WC series", "object": "Dodge", "taxonomy": ["Boeing", "Chevrolet", "Samsung", "BMW", "Intel"]}
+{"subject": "BMW M40", "object": "BMW", "taxonomy": ["Suzuki", "Pontiac", "God", "Hercules", "Boeing"]}
+{"subject": "Honda S2000", "object": "Honda", "taxonomy": ["Amazon", "Nokia", "Audi", "Airbus", "Ferrari"]}
+{"subject": "Ferrari F430", "object": "Ferrari", "taxonomy": ["Audi", "Sega", "Amazon", "Google", "IBM"]}
+{"subject": "Chevrolet Greenbrier", "object": "Chevrolet", "taxonomy": ["McLaren", "Fairchild", "Sears", "Sony", "Samsung"]}
+{"subject": "Honda CBR1100XX", "object": "Honda", "taxonomy": ["Triumph", "Porsche", "Bentley", "Airbus", "Hercules"]}
+{"subject": "Cadillac XTS", "object": "Cadillac", "taxonomy": ["Dodge", "Spain", "Intel", "BMW", "Toyota"]}
+{"subject": "Lumia series", "object": "Microsoft", "taxonomy": ["Dodge", "Douglas", "Triumph", "Nissan", "Yamaha"]}
+{"subject": "Xeon", "object": "Intel", "taxonomy": ["Zeppelin", "Nissan", "Dodge", "Suzuki", "Chevrolet"]}
+{"subject": "Toyota Land Cruiser 40 series", "object": "Toyota", "taxonomy": ["Sony", "Google", "McLaren", "Yamaha", "Sears"]}
+{"subject": "Dodge Polara", "object": "Dodge", "taxonomy": ["McLaren", "Cadillac", "Samsung", "Nissan", "Triumph"]}
+{"subject": "Wii U", "object": "Nintendo", "taxonomy": ["Toyota", "Mercury", "Jeep", "Dodge", "God"]}
+{"subject": "Kenmore Appliances", "object": "Sears", "taxonomy": ["Volvo", "Fairchild", "Packard", "Mitsubishi", "Atari"]}
+{"subject": "Lancia Flavia", "object": "Fiat", "taxonomy": ["BMW", "Sony", "Packard", "Sears", "Microsoft"]}
+{"subject": "A-10 Thunderbolt II", "object": "Fairchild", "taxonomy": ["Samsung", "Microsoft", "Spain", "Douglas", "BMW"]}
+{"subject": "Mini Hatch", "object": "BMW", "taxonomy": ["Pontiac", "Siemens", "Fiat", "sugar", "Chevrolet"]}
+{"subject": "Audi F103", "object": "Audi", "taxonomy": ["Chevrolet", "Bentley", "Atari", "IBM", "Fairchild"]}
+{"subject": "Chevrolet Silverado", "object": "Chevrolet", "taxonomy": ["God", "Ferrari", "Hercules", "Mitsubishi", "Siemens"]}
+{"subject": "BMW 501", "object": "BMW", "taxonomy": ["Chrysler", "Amazon", "Apple", "Dodge", "Google"]}
+{"subject": "Honda CR-V", "object": "Honda", "taxonomy": ["Renault", "IBM", "Sears", "Amazon", "sugar"]}
+{"subject": "Ordnance QF 3 pounder Vickers", "object": "Vickers", "taxonomy": ["Microsoft", "liver", "Dodge", "Amazon", "Atari"]}
+{"subject": "Ferrari 156 F1", "object": "Ferrari", "taxonomy": ["Fiat", "Adobe", "Volvo", "Toyota", "Intel"]}
+{"subject": "Chevrolet Nomad", "object": "Chevrolet", "taxonomy": ["Microsoft", "Volvo", "McLaren", "Sears", "Porsche"]}
+{"subject": "Windows Phone 8.1", "object": "Microsoft", "taxonomy": ["Sears", "Google", "liver", "Chrysler", "Sega"]}
+{"subject": "Fiat 147", "object": "Fiat", "taxonomy": ["Triumph", "Vickers", "Bentley", "IBM", "sugar"]}
+{"subject": "Renault Talisman", "object": "Renault", "taxonomy": ["Spain", "Apple", "Dodge", "Suzuki", "Atari"]}
+{"subject": "Cadillac XLR", "object": "Cadillac", "taxonomy": ["Chrysler", "Porsche", "Mercury", "Jeep", "Siemens"]}
+{"subject": "BMW S65", "object": "BMW", "taxonomy": ["Mercury", "Nintendo", "Porsche", "Spain", "Boeing"]}
+{"subject": "Chevrolet Montana", "object": "Chevrolet", "taxonomy": ["Nissan", "Amazon", "Mercury", "Bentley", "Microsoft"]}
+{"subject": "Porsche Carrera GT", "object": "Porsche", "taxonomy": ["Bentley", "Atari", "Hercules", "Sears", "Siemens"]}
+{"subject": "Infiniti Q45", "object": "Nissan", "taxonomy": ["Chevrolet", "Amazon", "Volvo", "Dodge", "Atari"]}
+{"subject": "Toyota Camry XV40", "object": "Toyota", "taxonomy": ["Renault", "Intel", "McLaren", "sugar", "Sears"]}
+{"subject": "Nokia Lumia 520", "object": "Nokia", "taxonomy": ["Ferrari", "Volvo", "Iran", "Philips", "Google"]}
+{"subject": "Airbus A320neo family", "object": "Airbus", "taxonomy": ["Renault", "Honda", "BMW", "sugar", "Nokia"]}
+{"subject": "Model M keyboard", "object": "IBM", "taxonomy": ["Triumph", "Fiat", "Douglas", "Mitsubishi", "Suzuki"]}
+{"subject": "Chevrolet Impala", "object": "Chevrolet", "taxonomy": ["Audi", "Iran", "Nokia", "Mitsubishi", "IBM"]}
+{"subject": "Fateh-110", "object": "Iran", "taxonomy": ["Douglas", "Vickers", "Mercury", "Chevrolet", "Microsoft"]}
+{"subject": "Suzuki Wagon R", "object": "Suzuki", "taxonomy": ["Nintendo", "Amazon", "Jeep", "Audi", "God"]}
+{"subject": "Fiat 4 HP", "object": "Fiat", "taxonomy": ["McLaren", "Chevrolet", "BMW", "Hercules", "Atari"]}
+{"subject": "Fiat Albea", "object": "Fiat", "taxonomy": ["Sony", "Atari", "Jeep", "Honda", "God"]}
+{"subject": "BMW M Coupe", "object": "BMW", "taxonomy": ["Zeppelin", "Vickers", "Sega", "Chrysler", "Volvo"]}
+{"subject": "Honda Fit", "object": "Honda", "taxonomy": ["Vickers", "Airbus", "Porsche", "Chrysler", "Zeppelin"]}
+{"subject": "Lexus NX", "object": "Toyota", "taxonomy": ["Renault", "Douglas", "Adobe", "Nokia", "Porsche"]}
+{"subject": "Toyota G1", "object": "Toyota", "taxonomy": ["Iran", "Cadillac", "Adobe", "Fiat", "God"]}
+{"subject": "Toyota Carina ED", "object": "Toyota", "taxonomy": ["Apple", "Siemens", "Microsoft", "Renault", "Audi"]}
+{"subject": "Chevrolet SSR", "object": "Chevrolet", "taxonomy": ["Fairchild", "Intel", "Yamaha", "Philips", "Honda"]}
+{"subject": "Dodge Viper", "object": "Dodge", "taxonomy": ["Suzuki", "Ferrari", "Yamaha", "Vickers", "BMW"]}
+{"subject": "Toyota Land Cruiser Prado", "object": "Toyota", "taxonomy": ["Philips", "Suzuki", "Honda", "sugar", "Nissan"]}
+{"subject": "Fiat Strada", "object": "Fiat", "taxonomy": ["Mitsubishi", "Nokia", "Chrysler", "Yamaha", "Jeep"]}
+{"subject": "AMC 35", "object": "Renault", "taxonomy": ["BMW", "Philips", "Boeing", "Amazon", "Honda"]}
+{"subject": "Samsung NX series", "object": "Samsung", "taxonomy": ["Boeing", "IBM", "Triumph", "Fiat", "Atari"]}
+{"subject": "Sega Master System", "object": "Sega", "taxonomy": ["BMW", "Airbus", "Suzuki", "Chrysler", "Honda"]}
+{"subject": "Douglas X-3 Stiletto", "object": "Douglas", "taxonomy": ["Sega", "Atari", "Vickers", "Dodge", "Jeep"]}
+{"subject": "Honda Integra", "object": "Honda", "taxonomy": ["Triumph", "Toyota", "Bentley", "Vickers", "Porsche"]}
+{"subject": "Dodge A100", "object": "Dodge", "taxonomy": ["Pontiac", "Spain", "Microsoft", "IBM", "Yamaha"]}
+{"subject": "Dodge Caliber", "object": "Dodge", "taxonomy": ["Yamaha", "Vickers", "Siemens", "Sony", "Suzuki"]}
+{"subject": "Nokia Lumia 820", "object": "Nokia", "taxonomy": ["Sega", "Volvo", "Microsoft", "Samsung", "McLaren"]}
+{"subject": "Renault Laguna", "object": "Renault", "taxonomy": ["liver", "Spain", "Sega", "Audi", "Zeppelin"]}
+{"subject": "Suzuki Escudo", "object": "Suzuki", "taxonomy": ["sugar", "Honda", "Philips", "Vickers", "IBM"]}
+{"subject": "Audi RS 6", "object": "Audi", "taxonomy": ["Nintendo", "God", "Microsoft", "Iran", "Fairchild"]}
+{"subject": "Mini Countryman", "object": "BMW", "taxonomy": ["Porsche", "Iran", "Sony", "Samsung", "McLaren"]}
+{"subject": "Cadillac STS Wheels", "object": "Cadillac", "taxonomy": ["Sears", "sugar", "Hercules", "Spain", "God"]}
+{"subject": "Squad 51", "object": "Dodge", "taxonomy": ["Audi", "Spain", "Sony", "Adobe", "Vickers"]}
+{"subject": "Triumph 1300", "object": "Triumph", "taxonomy": ["Nissan", "Zeppelin", "Microsoft", "Toyota", "BMW"]}
+{"subject": "Airbus A318", "object": "Airbus", "taxonomy": ["Iran", "Suzuki", "Yamaha", "Atari", "Chevrolet"]}
+{"subject": "Toyota Mark II", "object": "Toyota", "taxonomy": ["Mitsubishi", "Airbus", "IBM", "Samsung", "Bentley"]}
+{"subject": "Dodge Magnum", "object": "Dodge", "taxonomy": ["Packard", "Chevrolet", "Honda", "Google", "Hercules"]}
+{"subject": "Chevrolet Corvette C6", "object": "Chevrolet", "taxonomy": ["Dodge", "Douglas", "Amazon", "Packard", "Zeppelin"]}
+{"subject": "Fiat Grande Punto", "object": "Fiat", "taxonomy": ["Triumph", "Zeppelin", "Mercury", "sugar", "Cadillac"]}
+{"subject": "Audi R8", "object": "Audi", "taxonomy": ["Jeep", "IBM", "Porsche", "Pontiac", "Intel"]}

@@ -1,0 +1,697 @@
+{"relations": ["What is [X]'s area of expertise?", "Which industry does [X] work in?", "What is the field of specialization for [X]?", "What is the industry that [X] is involved in?", "In what line of work is [X] employed?", "What is [X]'s area of expertise?", "What is the occupational field of [X]?"]}
+{"subject": "Alan Turing", "object": "logic", "taxonomy": ["musical", "car", "ecology", "photography", "Balkans"]}
+{"subject": "John Vincent Atanasoff", "object": "mathematics", "taxonomy": ["abortion", "theology", "hunting", "archaeology", "geology"]}
+{"subject": "Edward Burnett Tylor", "object": "anthropology", "taxonomy": ["manga", "animation", "lattice", "science", "geology"]}
+{"subject": "Anaxagoras", "object": "philosophy", "taxonomy": ["apartheid", "comet", "architecture", "Talmud", "terrorism"]}
+{"subject": "Robert Bunsen", "object": "chemistry", "taxonomy": ["anatomy", "ecology", "philosophy", "sociology", "genetics"]}
+{"subject": "Adam Carolla", "object": "comedian", "taxonomy": ["architecture", "economics", "mathematics", "history", "groundwater"]}
+{"subject": "Al Capp", "object": "cartoonist", "taxonomy": ["opera", "economist", "anthropology", "mathematics", "jazz"]}
+{"subject": "Benjamin Lee Whorf", "object": "linguistics", "taxonomy": ["comedian", "mechanics", "stomach", "history", "cave"]}
+{"subject": "Edward Sapir", "object": "linguistics", "taxonomy": ["icon", "film", "programmer", "priest", "genetics"]}
+{"subject": "Bruce Perens", "object": "programmer", "taxonomy": ["smell", "habitat", "medicine", "ecology", "cave"]}
+{"subject": "Luitzen Egbertus Jan Brouwer", "object": "topology", "taxonomy": ["Sanskrit", "linguistics", "manga", "comet", "Judaism"]}
+{"subject": "Charles Kay Ogden", "object": "linguistics", "taxonomy": ["goaltender", "jazz", "medicine", "ecology", "anatomy"]}
+{"subject": "speleology", "object": "cave", "taxonomy": ["novelist", "LGBT", "ethics", "Balkans", "linguistics"]}
+{"subject": "Bill Watterson", "object": "cartoonist", "taxonomy": ["Tamil", "Wikipedia", "poetry", "geometry", "cave"]}
+{"subject": "John Calvin", "object": "theology", "taxonomy": ["opera", "biology", "jazz", "manga", "musical"]}
+{"subject": "Charles Proteus Steinmetz", "object": "mathematician", "taxonomy": ["website", "hunting", "programmer", "cartoonist", "terrorism"]}
+{"subject": "physical system", "object": "physics", "taxonomy": ["terrorism", "surgery", "biology", "geology", "lattice"]}
+{"subject": "Carl Rogers", "object": "psychology", "taxonomy": ["philosophy", "Tamil", "diplomat", "Buddhism", "genetics"]}
+{"subject": "Charles F. Hockett", "object": "linguistics", "taxonomy": ["poetry", "espionage", "evolution", "Afghanistan", "musician"]}
+{"subject": "Garry Trudeau", "object": "cartoonist", "taxonomy": ["surgery", "pharmacy", "IBM", "Internet", "aviation"]}
+{"subject": "David Hilbert", "object": "geometry", "taxonomy": ["drawing", "anatomy", "Tamil", "linguistics", "physician"]}
+{"subject": "Richard Wagner", "object": "opera", "taxonomy": ["geography", "novelist", "car", "evolution", "nightclub"]}
+{"subject": "Euclid", "object": "geometry", "taxonomy": ["miniature", "hunting", "Wikipedia", "sociology", "philosopher"]}
+{"subject": "Max Weber", "object": "sociology", "taxonomy": ["astronomer", "novelist", "English", "hunting", "feminism"]}
+{"subject": "Hans Eysenck", "object": "psychology", "taxonomy": ["biology", "goaltender", "mathematician", "history", "IBM"]}
+{"subject": "Eugene Wigner", "object": "physics", "taxonomy": ["linguistics", "singing", "chemistry", "Unix", "film"]}
+{"subject": "Felix Hausdorff", "object": "topology", "taxonomy": ["astronomer", "Talmud", "economics", "Finnish", "drawing"]}
+{"subject": "Fred Hoyle", "object": "astronomy", "taxonomy": ["linguistics", "virus", "geometry", "Greek", "philosopher"]}
+{"subject": "Galen", "object": "anatomy", "taxonomy": ["astronomy", "hunting", "jazz", "evolution", "sociology"]}
+{"subject": "William Harvey", "object": "physiology", "taxonomy": ["astronomer", "film", "programmer", "pharmacy", "physician"]}
+{"subject": "Joseph Campbell", "object": "mythology", "taxonomy": ["diplomat", "geology", "Greek", "surgery", "musical"]}
+{"subject": "LGBT social movements", "object": "LGBT", "taxonomy": ["anatomy", "virus", "Balkans", "pharmacy", "car"]}
+{"subject": "Howard Carter", "object": "archaeology", "taxonomy": ["evolution", "asteroid", "Hebrew", "pharmacy", "abortion"]}
+{"subject": "Heinrich Schliemann", "object": "archaeology", "taxonomy": ["cave", "Judaism", "smell", "hunting", "diplomat"]}
+{"subject": "Claude Bernard", "object": "physiology", "taxonomy": ["IBM", "playwright", "architecture", "statistics", "cave"]}
+{"subject": "Walter Bradford Cannon", "object": "physiology", "taxonomy": ["apartheid", "geology", "Talmud", "mechanics", "ecology"]}
+{"subject": "Isaac Newton", "object": "mathematics", "taxonomy": ["Sanskrit", "mathematician", "lattice", "programmer", "jazz"]}
+{"subject": "Justus von Liebig", "object": "chemistry", "taxonomy": ["geography", "French", "sociology", "car", "Unix"]}
+{"subject": "John James Rickard Macleod", "object": "physiology", "taxonomy": ["animation", "Sanskrit", "aviation", "habitat", "Internet"]}
+{"subject": "Frederick Banting", "object": "physiology", "taxonomy": ["science", "geometry", "jazz", "icon", "architecture"]}
+{"subject": "Karl Marx", "object": "sociology", "taxonomy": ["cave", "asteroid", "virus", "geology", "evolution"]}
+{"subject": "Kathleen Kenyon", "object": "archaeology", "taxonomy": ["mechanics", "Judaism", "chemistry", "economics", "sociology"]}
+{"subject": "intelligence agency", "object": "espionage", "taxonomy": ["philosopher", "drawing", "Afghanistan", "comet", "animation"]}
+{"subject": "Hans Bethe", "object": "physics", "taxonomy": ["manga", "pharmacy", "history", "chemistry", "miniature"]}
+{"subject": "Jack Ruby", "object": "nightclub", "taxonomy": ["drawing", "car", "archaeology", "hunting", "mathematician"]}
+{"subject": "Arthur Evans", "object": "archaeology", "taxonomy": ["publishing", "classics", "Buddhism", "economics", "ethics"]}
+{"subject": "Leonard Bloomfield", "object": "linguistics", "taxonomy": ["asteroid", "mathematics", "opera", "website", "espionage"]}
+{"subject": "International Committee on Taxonomy of Viruses", "object": "virus", "taxonomy": ["classics", "mathematician", "Afghanistan", "Finnish", "comedian"]}
+{"subject": "Percy Williams Bridgman", "object": "physics", "taxonomy": ["hotel", "French", "statistics", "photography", "geology"]}
+{"subject": "Gerolamo Cardano", "object": "mathematics", "taxonomy": ["IBM", "Tamil", "aviation", "opera", "logic"]}
+{"subject": "Max Weber", "object": "economics", "taxonomy": ["playwright", "logic", "evolution", "comet", "architecture"]}
+{"subject": "John Chadwick", "object": "linguistics", "taxonomy": ["lattice", "philosopher", "car", "playwright", "ecology"]}
+{"subject": "Michael Faraday", "object": "chemistry", "taxonomy": ["playwright", "physiology", "terrorism", "mechanics", "astronomer"]}
+{"subject": "ornithology", "object": "bird", "taxonomy": ["manga", "Balkans", "musician", "physics", "playwright"]}
+{"subject": "Eric Harold Neville", "object": "mathematics", "taxonomy": ["algebra", "Internet", "sociology", "astronomer", "groundwater"]}
+{"subject": "Bonaventura Cavalieri", "object": "mathematics", "taxonomy": ["manga", "LGBT", "cave", "lattice", "feminism"]}
+{"subject": "Galileo Galilei", "object": "mathematics", "taxonomy": ["habitat", "LGBT", "hunting", "priest", "Judaism"]}
+{"subject": "Hypatia", "object": "mathematics", "taxonomy": ["Balkans", "diplomat", "physiology", "logic", "publishing"]}
+{"subject": "Erving Goffman", "object": "sociology", "taxonomy": ["physiology", "pharmacy", "forestry", "physician", "smell"]}
+{"subject": "Amos Tversky", "object": "psychology", "taxonomy": ["IBM", "groundwater", "economist", "theology", "comedian"]}
+{"subject": "Michael Servetus", "object": "theology", "taxonomy": ["accounting", "ecology", "jazz", "statistics", "Greek"]}
+{"subject": "Sergei Diaghilev", "object": "ballet", "taxonomy": ["LGBT", "Unix", "geology", "stock", "programmer"]}
+{"subject": "James Mellaart", "object": "archaeology", "taxonomy": ["stock", "geology", "cartoonist", "psychology", "statistics"]}
+{"subject": "Reinhold Niebuhr", "object": "theology", "taxonomy": ["novelist", "ballet", "Hebrew", "Balkans", "history"]}
+{"subject": "Laurentius Roberg", "object": "medicine", "taxonomy": ["biology", "physician", "architecture", "cartoonist", "economist"]}
+{"subject": "Johan Vilhelm Snellman", "object": "Finnish", "taxonomy": ["comedian", "animation", "Greek", "Buddhism", "Hebrew"]}
+{"subject": "Edwin Hubble", "object": "astronomy", "taxonomy": ["Judaism", "opera", "Unix", "logic", "art"]}
+{"subject": "Otto Struve", "object": "astronomy", "taxonomy": ["abortion", "geography", "linguistics", "photography", "feminism"]}
+{"subject": "Leonard Peikoff", "object": "philosophy", "taxonomy": ["psychology", "Unix", "archaeology", "surgery", "jazz"]}
+{"subject": "John Lubbock, 1st Baron Avebury", "object": "archaeology", "taxonomy": ["science", "Unix", "animation", "geology", "psychology"]}
+{"subject": "Paul Vixie", "object": "Unix", "taxonomy": ["physiology", "smell", "Internet", "LGBT", "theology"]}
+{"subject": "Isaac Newton", "object": "physics", "taxonomy": ["Afghanistan", "aviation", "stomach", "IBM", "poetry"]}
+{"subject": "Ilya Prigogine", "object": "physics", "taxonomy": ["history", "poetry", "Tamil", "espionage", "terrorism"]}
+{"subject": "Norman Hackerman", "object": "chemistry", "taxonomy": ["opera", "physician", "website", "icon", "mathematician"]}
+{"subject": "Franz Boas", "object": "anthropology", "taxonomy": ["astronomer", "diplomat", "algebra", "classics", "manga"]}
+{"subject": "Roman Jakobson", "object": "linguistics", "taxonomy": ["espionage", "habitat", "folklore", "mathematics", "economics"]}
+{"subject": "Sapir-Whorf hypothesis", "object": "linguistics", "taxonomy": ["economist", "accounting", "anthropology", "Sanskrit", "priest"]}
+{"subject": "scientific method", "object": "science", "taxonomy": ["Unix", "Wikipedia", "musician", "film", "virus"]}
+{"subject": "William Crookes", "object": "chemistry", "taxonomy": ["theology", "apartheid", "economist", "Finnish", "Buddhism"]}
+{"subject": "Stephen Jay Gould", "object": "evolution", "taxonomy": ["LGBT", "abortion", "forestry", "architecture", "algebra"]}
+{"subject": "Steve Biko", "object": "apartheid", "taxonomy": ["logic", "priest", "linguistics", "playwright", "groundwater"]}
+{"subject": "Solomon Schechter", "object": "Hebrew", "taxonomy": ["French", "publishing", "Sanskrit", "anthropology", "sociology"]}
+{"subject": "Matt Groening", "object": "cartoonist", "taxonomy": ["physician", "bird", "playwright", "lattice", "Wikipedia"]}
+{"subject": "Johann Benedict Listing", "object": "topology", "taxonomy": ["manga", "geometry", "aviation", "apartheid", "feminism"]}
+{"subject": "Charles Darwin", "object": "biology", "taxonomy": ["drawing", "musical", "virus", "physicist", "evolution"]}
+{"subject": "Tycho Brahe", "object": "astronomy", "taxonomy": ["topology", "Hebrew", "comedian", "film", "asteroid"]}
+{"subject": "John Stuart Mill", "object": "philosophy", "taxonomy": ["Finnish", "opera", "goaltender", "Afghanistan", "Internet"]}
+{"subject": "Alan Turing", "object": "mathematics", "taxonomy": ["publishing", "classics", "topology", "stock", "mechanics"]}
+{"subject": "Vilfredo Pareto", "object": "sociology", "taxonomy": ["theology", "history", "hunting", "medicine", "surgery"]}
+{"subject": "William Somerset Maugham", "object": "playwright", "taxonomy": ["comedian", "opera", "ballet", "physicist", "goaltender"]}
+{"subject": "William Somerset Maugham", "object": "novelist", "taxonomy": ["photography", "espionage", "abortion", "chemistry", "stock"]}
+{"subject": "Alexandre Darracq", "object": "car", "taxonomy": ["IBM", "stomach", "biology", "Unix", "diplomat"]}
+{"subject": "Enrico Fermi", "object": "physics", "taxonomy": ["anatomy", "English", "Buddhism", "medicine", "singing"]}
+{"subject": "gross profit", "object": "accounting", "taxonomy": ["Greek", "sociology", "musical", "mathematician", "geography"]}
+{"subject": "Giovanni Domenico Cassini", "object": "astronomy", "taxonomy": ["mechanics", "groundwater", "physicist", "poetry", "architecture"]}
+{"subject": "Roger Penrose", "object": "physics", "taxonomy": ["singing", "ecology", "mathematics", "Buddhism", "linguistics"]}
+{"subject": "Karol Borsuk", "object": "topology", "taxonomy": ["Judaism", "genetics", "statistics", "sociology", "physician"]}
+{"subject": "Raymond Smullyan", "object": "logic", "taxonomy": ["theology", "mathematics", "ethics", "French", "topology"]}
+{"subject": "Deane Montgomery", "object": "topology", "taxonomy": ["history", "anatomy", "lattice", "genetics", "habitat"]}
+{"subject": "Wilhelm Krause", "object": "anatomy", "taxonomy": ["ethics", "IBM", "cartoonist", "singing", "French"]}
+{"subject": "Patrick Moore", "object": "astronomy", "taxonomy": ["anthropology", "evolution", "Talmud", "smell", "Unix"]}
+{"subject": "British School at Athens", "object": "archaeology", "taxonomy": ["medicine", "miniature", "jazz", "linguistics", "statistics"]}
+{"subject": "Norman McLaren", "object": "animation", "taxonomy": ["physics", "smell", "chemistry", "economics", "mechanics"]}
+{"subject": "Mark Mazower", "object": "Balkans", "taxonomy": ["Afghanistan", "publishing", "Talmud", "philosopher", "Internet"]}
+{"subject": "Joseph Barcroft", "object": "physiology", "taxonomy": ["Hebrew", "stock", "groundwater", "mathematics", "Judaism"]}
+{"subject": "Paul Radin", "object": "anthropology", "taxonomy": ["habitat", "Tamil", "cartoonist", "sociology", "website"]}
+{"subject": "Johann Wolfgang von Goethe", "object": "anatomy", "taxonomy": ["opera", "habitat", "terrorism", "Buddhism", "drawing"]}
+{"subject": "Paracelsus", "object": "medicine", "taxonomy": ["mathematics", "chemistry", "nightclub", "ethics", "architecture"]}
+{"subject": "Georg Ernst Stahl", "object": "chemistry", "taxonomy": ["Internet", "stomach", "groundwater", "algebra", "classics"]}
+{"subject": "John Coltrane", "object": "jazz", "taxonomy": ["lattice", "history", "Buddhism", "comedian", "opera"]}
+{"subject": "Willem Piso", "object": "physician", "taxonomy": ["playwright", "art", "sociology", "Talmud", "history"]}
+{"subject": "Karl Bogislaus Reichert", "object": "anatomy", "taxonomy": ["priest", "Sanskrit", "opera", "programmer", "physician"]}
+{"subject": "Hermann von Helmholtz", "object": "physics", "taxonomy": ["photography", "opera", "habitat", "diplomat", "terrorism"]}
+{"subject": "air traffic control", "object": "aviation", "taxonomy": ["feminism", "theology", "hunting", "art", "statistics"]}
+{"subject": "grammatical category", "object": "linguistics", "taxonomy": ["science", "logic", "economist", "physicist", "pharmacy"]}
+{"subject": "Galen", "object": "medicine", "taxonomy": ["chemistry", "apartheid", "icon", "programmer", "philosophy"]}
+{"subject": "Akira Toriyama", "object": "manga", "taxonomy": ["animation", "opera", "ballet", "comedian", "history"]}
+{"subject": "Robert Koldewey", "object": "archaeology", "taxonomy": ["photography", "Tamil", "biology", "physician", "folklore"]}
+{"subject": "bariatric surgery", "object": "stomach", "taxonomy": ["lattice", "geology", "photography", "hotel", "Internet"]}
+{"subject": "Abraham Maslow", "object": "psychology", "taxonomy": ["icon", "drawing", "ethics", "sociology", "manga"]}
+{"subject": "Ephraim George Squier", "object": "archaeology", "taxonomy": ["Talmud", "physician", "asteroid", "physics", "virus"]}
+{"subject": "Henri Victor Regnault", "object": "chemistry", "taxonomy": ["LGBT", "IBM", "astronomer", "astronomy", "lattice"]}
+{"subject": "Edward Frankland", "object": "chemistry", "taxonomy": ["animation", "icon", "programmer", "algebra", "psychology"]}
+{"subject": "Louis Pasteur", "object": "chemistry", "taxonomy": ["pharmacy", "abortion", "miniature", "comet", "Finnish"]}
+{"subject": "Max Joseph von Pettenkofer", "object": "chemistry", "taxonomy": ["topology", "opera", "economist", "singing", "animation"]}
+{"subject": "Henry Cavendish", "object": "physics", "taxonomy": ["website", "Greek", "novelist", "logic", "physicist"]}
+{"subject": "Laurent Schwartz", "object": "mathematics", "taxonomy": ["Buddhism", "Finnish", "IBM", "cave", "classics"]}
+{"subject": "Edward Thorndike", "object": "psychology", "taxonomy": ["ballet", "geography", "sociology", "Judaism", "groundwater"]}
+{"subject": "art school", "object": "art", "taxonomy": ["mechanics", "medicine", "classics", "mathematics", "astronomer"]}
+{"subject": "Peter von Uslar", "object": "linguistics", "taxonomy": ["physics", "psychology", "economist", "astronomer", "architecture"]}
+{"subject": "Michel Kervaire", "object": "topology", "taxonomy": ["Finnish", "ethics", "English", "Greek", "architecture"]}
+{"subject": "John Milnor", "object": "topology", "taxonomy": ["anatomy", "Unix", "Finnish", "genetics", "Buddhism"]}
+{"subject": "Karl Marx", "object": "economics", "taxonomy": ["smell", "terrorism", "sociology", "physician", "film"]}
+{"subject": "Robert Neelly Bellah", "object": "sociology", "taxonomy": ["economics", "mythology", "programmer", "Talmud", "abortion"]}
+{"subject": "Ulf von Euler", "object": "physiology", "taxonomy": ["accounting", "sociology", "film", "Talmud", "bird"]}
+{"subject": "Carl Menger", "object": "economics", "taxonomy": ["English", "Afghanistan", "playwright", "aviation", "mathematics"]}
+{"subject": "Alexander Cunningham", "object": "archaeology", "taxonomy": ["history", "icon", "aviation", "physicist", "photography"]}
+{"subject": "Galileo Galilei", "object": "astronomy", "taxonomy": ["economics", "economist", "playwright", "musical", "publishing"]}
+{"subject": "Granius Licinianus", "object": "history", "taxonomy": ["car", "economist", "sociology", "film", "novelist"]}
+{"subject": "Pomponius Mela", "object": "geography", "taxonomy": ["Sanskrit", "psychology", "architecture", "IBM", "geology"]}
+{"subject": "Nikolai Ivanovich Lobachevsky", "object": "geometry", "taxonomy": ["cartoonist", "accounting", "Buddhism", "Judaism", "Unix"]}
+{"subject": "Leopold Vietoris", "object": "topology", "taxonomy": ["science", "terrorism", "smell", "playwright", "photography"]}
+{"subject": "Christiaan Huygens", "object": "mathematics", "taxonomy": ["mechanics", "physiology", "classics", "psychology", "terrorism"]}
+{"subject": "Johannes de Groot", "object": "topology", "taxonomy": ["English", "feminism", "geometry", "pharmacy", "cave"]}
+{"subject": "Abram Ioffe", "object": "physics", "taxonomy": ["asteroid", "logic", "Unix", "classics", "astronomy"]}
+{"subject": "United States Fish and Wildlife Service", "object": "habitat", "taxonomy": ["theology", "physician", "stock", "diplomat", "priest"]}
+{"subject": "web application", "object": "website", "taxonomy": ["astronomy", "psychology", "logic", "theology", "musical"]}
+{"subject": "Nagarjuna", "object": "Buddhism", "taxonomy": ["classics", "physics", "smell", "logic", "nightclub"]}
+{"subject": "Sergey Chaplygin", "object": "physics", "taxonomy": ["Wikipedia", "forestry", "musician", "cave", "singing"]}
+{"subject": "Ludwig von Mises", "object": "economics", "taxonomy": ["photography", "physicist", "astronomy", "Finnish", "Internet"]}
+{"subject": "Henry Thomas Colebrooke", "object": "Sanskrit", "taxonomy": ["smell", "jazz", "playwright", "stock", "astronomer"]}
+{"subject": "William Sharpey", "object": "anatomy", "taxonomy": ["Wikipedia", "economist", "stock", "espionage", "cave"]}
+{"subject": "Ivan Sechenov", "object": "physiology", "taxonomy": ["opera", "Tamil", "novelist", "biology", "Judaism"]}
+{"subject": "William Rowan Hamilton", "object": "mathematics", "taxonomy": ["car", "ecology", "economist", "apartheid", "Buddhism"]}
+{"subject": "Yefim Karskiy", "object": "linguistics", "taxonomy": ["habitat", "history", "Sanskrit", "abortion", "cartoonist"]}
+{"subject": "John Newport Langley", "object": "physiology", "taxonomy": ["film", "economist", "Balkans", "medicine", "opera"]}
+{"subject": "Ernest Rutherford", "object": "physics", "taxonomy": ["musical", "classics", "geology", "French", "archaeology"]}
+{"subject": "William Herschel", "object": "astronomy", "taxonomy": ["French", "icon", "ethics", "nightclub", "geography"]}
+{"subject": "Courant Institute of Mathematical Sciences", "object": "mathematics", "taxonomy": ["hunting", "forestry", "opera", "logic", "film"]}
+{"subject": "Nikolai Bogolyubov", "object": "mathematics", "taxonomy": ["economist", "drawing", "physiology", "manga", "French"]}
+{"subject": "The Astronomical Journal", "object": "astronomy", "taxonomy": ["forestry", "comet", "miniature", "espionage", "philosophy"]}
+{"subject": "Ivan Pavlov", "object": "physiology", "taxonomy": ["anatomy", "asteroid", "sociology", "geology", "nightclub"]}
+{"subject": "Zahi Hawass", "object": "archaeology", "taxonomy": ["ballet", "psychology", "Wikipedia", "Talmud", "Sanskrit"]}
+{"subject": "Ernest Jones", "object": "psychology", "taxonomy": ["geology", "science", "ecology", "feminism", "mechanics"]}
+{"subject": "Halford Mackinder", "object": "geography", "taxonomy": ["economist", "classics", "feminism", "habitat", "goaltender"]}
+{"subject": "Chen Shou", "object": "history", "taxonomy": ["terrorism", "ethics", "website", "goaltender", "singing"]}
+{"subject": "Hermann Minkowski", "object": "geometry", "taxonomy": ["astronomy", "genetics", "history", "archaeology", "photography"]}
+{"subject": "Johann Weyer", "object": "physician", "taxonomy": ["musical", "comet", "statistics", "stock", "Talmud"]}
+{"subject": "Galileo Galilei", "object": "physics", "taxonomy": ["musician", "nightclub", "film", "Internet", "Unix"]}
+{"subject": "Jakob Steiner", "object": "geometry", "taxonomy": ["abortion", "Talmud", "stomach", "poetry", "musician"]}
+{"subject": "Julian Schwinger", "object": "physics", "taxonomy": ["chemistry", "abortion", "car", "ballet", "mechanics"]}
+{"subject": "Ulrich Beck", "object": "sociology", "taxonomy": ["terrorism", "groundwater", "comedian", "genetics", "history"]}
+{"subject": "AKhRR", "object": "art", "taxonomy": ["Judaism", "accounting", "English", "singing", "economist"]}
+{"subject": "Oswald Veblen", "object": "geometry", "taxonomy": ["film", "habitat", "accounting", "astronomy", "architecture"]}
+{"subject": "Frederick Ashton", "object": "ballet", "taxonomy": ["car", "economics", "aviation", "sociology", "philosophy"]}
+{"subject": "Adriaan de Groot", "object": "psychology", "taxonomy": ["manga", "Afghanistan", "asteroid", "surgery", "cave"]}
+{"subject": "Liutprand of Cremona", "object": "diplomat", "taxonomy": ["economics", "French", "statistics", "physician", "singing"]}
+{"subject": "Andrew Casson", "object": "topology", "taxonomy": ["website", "publishing", "theology", "espionage", "hunting"]}
+{"subject": "Oswald Veblen", "object": "topology", "taxonomy": ["Balkans", "anatomy", "terrorism", "architecture", "smell"]}
+{"subject": "William Thurston", "object": "topology", "taxonomy": ["novelist", "biology", "bird", "comedian", "medicine"]}
+{"subject": "millennialism", "object": "theology", "taxonomy": ["terrorism", "drawing", "anthropology", "algebra", "chemistry"]}
+{"subject": "Johannes Goropius Becanus", "object": "physician", "taxonomy": ["physicist", "architecture", "geography", "animation", "pharmacy"]}
+{"subject": "woodburytype", "object": "photography", "taxonomy": ["priest", "Unix", "apartheid", "French", "publishing"]}
+{"subject": "pharmacy school", "object": "pharmacy", "taxonomy": ["science", "philosophy", "publishing", "Balkans", "priest"]}
+{"subject": "suicide attack", "object": "terrorism", "taxonomy": ["website", "ethics", "photography", "Judaism", "philosophy"]}
+{"subject": "Abba Arika", "object": "Talmud", "taxonomy": ["physician", "French", "Buddhism", "Wikipedia", "aviation"]}
+{"subject": "Albrecht Kossel", "object": "physiology", "taxonomy": ["geology", "aviation", "manga", "medicine", "miniature"]}
+{"subject": "overdrafting", "object": "groundwater", "taxonomy": ["website", "miniature", "drawing", "car", "biology"]}
+{"subject": "Georg Ludwig Hartig", "object": "forestry", "taxonomy": ["logic", "Internet", "history", "physics", "habitat"]}
+{"subject": "Michael Langone", "object": "psychology", "taxonomy": ["medicine", "English", "biology", "miniature", "groundwater"]}
+{"subject": "Lev Vygotsky", "object": "psychology", "taxonomy": ["asteroid", "comet", "poetry", "astronomy", "musical"]}
+{"subject": "Karl Marx", "object": "philosophy", "taxonomy": ["geography", "physician", "philosopher", "medicine", "topology"]}
+{"subject": "Wilhelm Ackermann", "object": "mathematics", "taxonomy": ["philosophy", "photography", "surgery", "ballet", "espionage"]}
+{"subject": "Friedrich Bessel", "object": "mathematics", "taxonomy": ["car", "terrorism", "groundwater", "anatomy", "theology"]}
+{"subject": "Dennis Sullivan", "object": "topology", "taxonomy": ["terrorism", "sociology", "Sanskrit", "genetics", "English"]}
+{"subject": "G. Stanley Hall", "object": "psychology", "taxonomy": ["biology", "bird", "IBM", "ballet", "English"]}
+{"subject": "Herbert A. Hauptman", "object": "mathematics", "taxonomy": ["physics", "genetics", "history", "folklore", "goaltender"]}
+{"subject": "Bernd Sturmfels", "object": "mathematics", "taxonomy": ["chemistry", "musician", "publishing", "LGBT", "habitat"]}
+{"subject": "Govert Bidloo", "object": "physician", "taxonomy": ["virus", "anthropology", "French", "comedian", "playwright"]}
+{"subject": "Joseph Schumpeter", "object": "economics", "taxonomy": ["economist", "pharmacy", "nightclub", "groundwater", "surgery"]}
+{"subject": "Ernest Burgess", "object": "sociology", "taxonomy": ["accounting", "mathematician", "Finnish", "priest", "miniature"]}
+{"subject": "Abdullah ibn Salam", "object": "Judaism", "taxonomy": ["lattice", "anatomy", "musician", "opera", "biology"]}
+{"subject": "Max Weber", "object": "history", "taxonomy": ["French", "singing", "habitat", "psychology", "comedian"]}
+{"subject": "Edward Gibbon", "object": "history", "taxonomy": ["nightclub", "ballet", "drawing", "IBM", "film"]}
+{"subject": "Wolfgang Haken", "object": "topology", "taxonomy": ["ethics", "feminism", "film", "website", "art"]}
+{"subject": "Alfred Wilhelm Volkmann", "object": "physiology", "taxonomy": ["forestry", "pharmacy", "folklore", "Internet", "habitat"]}
+{"subject": "Joseph Diez Gergonne", "object": "geometry", "taxonomy": ["poetry", "mythology", "musical", "Unix", "folklore"]}
+{"subject": "Hermann Klaatsch", "object": "anatomy", "taxonomy": ["programmer", "forestry", "musician", "Sanskrit", "topology"]}
+{"subject": "Rudolf Wagner", "object": "physiology", "taxonomy": ["philosopher", "English", "geometry", "film", "physician"]}
+{"subject": "Mogens Herman Hansen", "object": "classics", "taxonomy": ["smell", "Afghanistan", "Buddhism", "ethics", "animation"]}
+{"subject": "Derek Lamb", "object": "animation", "taxonomy": ["geology", "cave", "Finnish", "statistics", "stock"]}
+{"subject": "National Film Board of Canada", "object": "animation", "taxonomy": ["hotel", "photography", "film", "stomach", "musician"]}
+{"subject": "Yuna Kagesaki", "object": "manga", "taxonomy": ["comedian", "priest", "archaeology", "cave", "Finnish"]}
+{"subject": "Alexander William Williamson", "object": "chemistry", "taxonomy": ["priest", "physics", "website", "comedian", "archaeology"]}
+{"subject": "Struga Poetry Evenings", "object": "poetry", "taxonomy": ["website", "history", "habitat", "hotel", "novelist"]}
+{"subject": "Johann Georg Gmelin", "object": "chemistry", "taxonomy": ["Greek", "statistics", "evolution", "physician", "geology"]}
+{"subject": "Ernst Herzfeld", "object": "archaeology", "taxonomy": ["philosopher", "Internet", "French", "IBM", "English"]}
+{"subject": "Harold Scott MacDonald Coxeter", "object": "geometry", "taxonomy": ["psychology", "hotel", "surgery", "Afghanistan", "Hebrew"]}
+{"subject": "Giuseppe Farinelli", "object": "opera", "taxonomy": ["novelist", "asteroid", "philosophy", "biology", "Finnish"]}
+{"subject": "John Archibald Wheeler", "object": "physics", "taxonomy": ["Internet", "physician", "Finnish", "ethics", "statistics"]}
+{"subject": "Alfred Weber", "object": "sociology", "taxonomy": ["forestry", "photography", "goaltender", "aviation", "miniature"]}
+{"subject": "Anita Borg", "object": "mathematics", "taxonomy": ["nightclub", "physiology", "hotel", "astronomer", "surgery"]}
+{"subject": "Leonhard Euler", "object": "physics", "taxonomy": ["singing", "philosopher", "art", "surgery", "geography"]}
+{"subject": "Al-Kindi", "object": "mathematics", "taxonomy": ["science", "pharmacy", "manga", "geography", "surgery"]}
+{"subject": "Pierre Gilliard", "object": "French", "taxonomy": ["Internet", "animation", "Finnish", "LGBT", "mechanics"]}
+{"subject": "Joseph von Gerlach", "object": "anatomy", "taxonomy": ["physiology", "astronomy", "LGBT", "surgery", "evolution"]}
+{"subject": "John Henry Poynting", "object": "physics", "taxonomy": ["art", "cave", "nightclub", "IBM", "film"]}
+{"subject": "August Krogh", "object": "physiology", "taxonomy": ["evolution", "musician", "ecology", "programmer", "manga"]}
+{"subject": "Hermann Ebbinghaus", "object": "psychology", "taxonomy": ["English", "Tamil", "astronomer", "ballet", "playwright"]}
+{"subject": "James George Frazer", "object": "folklore", "taxonomy": ["geography", "virus", "English", "physicist", "forestry"]}
+{"subject": "Thomas Bartholin", "object": "medicine", "taxonomy": ["asteroid", "statistics", "film", "musical", "Afghanistan"]}
+{"subject": "Kazimierz Kuratowski", "object": "topology", "taxonomy": ["Finnish", "Talmud", "forestry", "mechanics", "feminism"]}
+{"subject": "Manolis Andronikos", "object": "archaeology", "taxonomy": ["LGBT", "photography", "miniature", "psychology", "mathematics"]}
+{"subject": "Michael D. Coe", "object": "archaeology", "taxonomy": ["apartheid", "aviation", "linguistics", "forestry", "psychology"]}
+{"subject": "Raoul Bott", "object": "geometry", "taxonomy": ["anatomy", "physicist", "Judaism", "lattice", "novelist"]}
+{"subject": "Jon Postel", "object": "Internet", "taxonomy": ["logic", "classics", "drawing", "geography", "publishing"]}
+{"subject": "Samuel Linde", "object": "linguistics", "taxonomy": ["topology", "pharmacy", "stomach", "French", "geometry"]}
+{"subject": "Alfred L. Kroeber", "object": "anthropology", "taxonomy": ["history", "asteroid", "classics", "astronomy", "animation"]}
+{"subject": "Karl Christian Friedrich Krause", "object": "philosophy", "taxonomy": ["Tamil", "history", "habitat", "diplomat", "Hebrew"]}
+{"subject": "Felix Bloch", "object": "physics", "taxonomy": ["geometry", "musical", "topology", "bird", "physician"]}
+{"subject": "Frederic Bartlett", "object": "psychology", "taxonomy": ["feminism", "anatomy", "photography", "hunting", "Balkans"]}
+{"subject": "Theodor Lipps", "object": "philosopher", "taxonomy": ["mythology", "musician", "Judaism", "stomach", "jazz"]}
+{"subject": "Hubert von Luschka", "object": "anatomy", "taxonomy": ["poetry", "playwright", "icon", "astronomer", "Sanskrit"]}
+{"subject": "Hassler Whitney", "object": "topology", "taxonomy": ["aviation", "statistics", "economics", "ethics", "astronomer"]}
+{"subject": "Pierre Janet", "object": "psychology", "taxonomy": ["poetry", "aviation", "priest", "statistics", "comedian"]}
+{"subject": "Ann Dunham", "object": "anthropology", "taxonomy": ["Buddhism", "comedian", "Greek", "hunting", "logic"]}
+{"subject": "Harrie Massey", "object": "physics", "taxonomy": ["lattice", "film", "forestry", "website", "algebra"]}
+{"subject": "Akaki Shanidze", "object": "linguistics", "taxonomy": ["forestry", "physics", "anatomy", "Buddhism", "musical"]}
+{"subject": "Pictures of the Year International", "object": "photography", "taxonomy": ["psychology", "archaeology", "geometry", "folklore", "Tamil"]}
+{"subject": "Volcher Coiter", "object": "anatomy", "taxonomy": ["asteroid", "icon", "Internet", "drawing", "chemistry"]}
+{"subject": "Frederica de Laguna", "object": "anthropology", "taxonomy": ["ballet", "manga", "comet", "mythology", "stomach"]}
+{"subject": "R. H. Bing", "object": "topology", "taxonomy": ["genetics", "priest", "accounting", "anatomy", "groundwater"]}
+{"subject": "Robert P. Dilworth", "object": "lattice", "taxonomy": ["geology", "novelist", "philosophy", "logic", "anatomy"]}
+{"subject": "James Waddell Alexander II", "object": "topology", "taxonomy": ["groundwater", "cartoonist", "Balkans", "car", "ethics"]}
+{"subject": "Jean-Pierre Vernant", "object": "anthropology", "taxonomy": ["algebra", "Internet", "car", "icon", "abortion"]}
+{"subject": "Anders Celsius", "object": "astronomy", "taxonomy": ["photography", "icon", "astronomer", "Talmud", "Internet"]}
+{"subject": "John Polkinghorne", "object": "theology", "taxonomy": ["French", "Unix", "mythology", "ecology", "drawing"]}
+{"subject": "David Crystal", "object": "English", "taxonomy": ["archaeology", "cave", "chemistry", "Balkans", "apartheid"]}
+{"subject": "Viktor Zhirmunsky", "object": "linguistics", "taxonomy": ["bird", "comet", "opera", "programmer", "drawing"]}
+{"subject": "Bert Sakmann", "object": "physiology", "taxonomy": ["Finnish", "physicist", "novelist", "comedian", "Unix"]}
+{"subject": "Nello Santi", "object": "opera", "taxonomy": ["goaltender", "stock", "forestry", "comedian", "geology"]}
+{"subject": "Marston Morse", "object": "topology", "taxonomy": ["economist", "stock", "philosophy", "English", "singing"]}
+{"subject": "Michio Kaku", "object": "physics", "taxonomy": ["musician", "mythology", "evolution", "hunting", "ecology"]}
+{"subject": "Willem Einthoven", "object": "physiology", "taxonomy": ["drawing", "asteroid", "mythology", "musical", "Internet"]}
+{"subject": "Joseph von Fraunhofer", "object": "physics", "taxonomy": ["Wikipedia", "programmer", "abortion", "geography", "photography"]}
+{"subject": "Sin-Itiro Tomonaga", "object": "physics", "taxonomy": ["Judaism", "genetics", "physician", "jazz", "anthropology"]}
+{"subject": "Jan Baudouin de Courtenay", "object": "linguistics", "taxonomy": ["physician", "manga", "priest", "medicine", "animation"]}
+{"subject": "Horace Lamb", "object": "mathematics", "taxonomy": ["espionage", "asteroid", "logic", "English", "art"]}
+{"subject": "Aeronautical Information Service", "object": "aviation", "taxonomy": ["mechanics", "film", "ecology", "biology", "philosopher"]}
+{"subject": "Jean-Martin Charcot", "object": "medicine", "taxonomy": ["photography", "habitat", "Wikipedia", "aviation", "classics"]}
+{"subject": "Sydney Brenner", "object": "biology", "taxonomy": ["forestry", "physicist", "Tamil", "sociology", "asteroid"]}
+{"subject": "Hermann Schwarz", "object": "mathematics", "taxonomy": ["French", "theology", "virus", "Balkans", "medicine"]}
+{"subject": "Karl Wilhelm von Kupffer", "object": "anatomy", "taxonomy": ["habitat", "Balkans", "musical", "Judaism", "anthropology"]}
+{"subject": "Johannes de Sacrobosco", "object": "mathematics", "taxonomy": ["hunting", "espionage", "algebra", "French", "diplomat"]}
+{"subject": "Erasmus Darwin", "object": "medicine", "taxonomy": ["goaltender", "comedian", "Wikipedia", "ethics", "Hebrew"]}
+{"subject": "Jean Le Rond d'Alembert", "object": "mathematics", "taxonomy": ["bird", "miniature", "physics", "accounting", "astronomer"]}
+{"subject": "Mick Aston", "object": "archaeology", "taxonomy": ["biology", "philosophy", "sociology", "philosopher", "folklore"]}
+{"subject": "Franciscus Sylvius", "object": "medicine", "taxonomy": ["biology", "Judaism", "lattice", "chemistry", "philosopher"]}
+{"subject": "Friedrich Tiedemann", "object": "physiology", "taxonomy": ["mechanics", "theology", "terrorism", "folklore", "pharmacy"]}
+{"subject": "Luca Pacioli", "object": "mathematics", "taxonomy": ["Wikipedia", "biology", "surgery", "chemistry", "ethics"]}
+{"subject": "straight photography", "object": "photography", "taxonomy": ["geology", "espionage", "film", "hotel", "physician"]}
+{"subject": "Stephen Hales", "object": "physiology", "taxonomy": ["anthropology", "philosopher", "folklore", "pharmacy", "manga"]}
+{"subject": "Vitaly Ginzburg", "object": "physics", "taxonomy": ["Hebrew", "Sanskrit", "groundwater", "physiology", "biology"]}
+{"subject": "Arthur Leonard Schawlow", "object": "physicist", "taxonomy": ["folklore", "groundwater", "physics", "sociology", "aviation"]}
+{"subject": "Carey Price", "object": "goaltender", "taxonomy": ["Buddhism", "philosophy", "musician", "drawing", "musical"]}
+{"subject": "Sima Qian", "object": "history", "taxonomy": ["novelist", "comet", "economics", "geography", "statistics"]}
+{"subject": "hunting dog", "object": "hunting", "taxonomy": ["musical", "feminism", "terrorism", "asteroid", "LGBT"]}
+{"subject": "Campegius Vitringa", "object": "theology", "taxonomy": ["opera", "psychology", "cave", "chemistry", "logic"]}
+{"subject": "Arnold Hermann Ludwig Heeren", "object": "history", "taxonomy": ["accounting", "economics", "pharmacy", "philosophy", "photography"]}
+{"subject": "Paul Ariste", "object": "linguistics", "taxonomy": ["musical", "mythology", "ethics", "comet", "aviation"]}
+{"subject": "Paul Broca", "object": "anatomy", "taxonomy": ["bird", "lattice", "terrorism", "asteroid", "cartoonist"]}
+{"subject": "Ulisse Dini", "object": "mathematics", "taxonomy": ["archaeology", "forestry", "manga", "topology", "history"]}
+{"subject": "Marcel Mauss", "object": "sociology", "taxonomy": ["art", "theology", "aviation", "surgery", "hotel"]}
+{"subject": "Kiiti Morita", "object": "topology", "taxonomy": ["economist", "publishing", "history", "statistics", "surgery"]}
+{"subject": "Christoph Wilhelm Hufeland", "object": "medicine", "taxonomy": ["topology", "archaeology", "economics", "virus", "philosophy"]}
+{"subject": "Ptolemy", "object": "mathematician", "taxonomy": ["mathematics", "economist", "topology", "priest", "terrorism"]}
+{"subject": "Anselme Payen", "object": "chemistry", "taxonomy": ["groundwater", "forestry", "IBM", "icon", "opera"]}
+{"subject": "Isaac Barrow", "object": "mathematics", "taxonomy": ["mechanics", "physics", "chemistry", "surgery", "priest"]}
+{"subject": "Sean M. Carroll", "object": "physics", "taxonomy": ["animation", "miniature", "archaeology", "biology", "logic"]}
+{"subject": "Jean Piaget", "object": "psychology", "taxonomy": ["French", "cave", "Tamil", "IBM", "publishing"]}
+{"subject": "Jacques de Morgan", "object": "archaeology", "taxonomy": ["Sanskrit", "hotel", "goaltender", "ethics", "habitat"]}
+{"subject": "Charles Bell", "object": "physiology", "taxonomy": ["Unix", "cartoonist", "astronomer", "Balkans", "aviation"]}
+{"subject": "Shinobu Kaitani", "object": "manga", "taxonomy": ["smell", "theology", "habitat", "photography", "geography"]}
+{"subject": "European Physical Society", "object": "physics", "taxonomy": ["novelist", "aviation", "mythology", "geometry", "mathematics"]}
+{"subject": "Stefan Banach", "object": "mathematics", "taxonomy": ["Judaism", "cave", "opera", "lattice", "forestry"]}
+{"subject": "Marshall Harvey Stone", "object": "mathematics", "taxonomy": ["linguistics", "biology", "ethics", "science", "musical"]}
+{"subject": "Henry Corbin", "object": "philosophy", "taxonomy": ["programmer", "linguistics", "astronomer", "anthropology", "Internet"]}
+{"subject": "Jernej Kopitar", "object": "linguistics", "taxonomy": ["folklore", "forestry", "musician", "genetics", "novelist"]}
+{"subject": "Thomas J. Watson", "object": "IBM", "taxonomy": ["science", "asteroid", "film", "animation", "archaeology"]}
+{"subject": "George Murdock", "object": "anthropology", "taxonomy": ["musician", "ecology", "Judaism", "IBM", "English"]}
+{"subject": "Grammy Award for Best Female Country Vocal Performance", "object": "singing", "taxonomy": ["astronomy", "astronomer", "anthropology", "goaltender", "comet"]}
+{"subject": "medical association", "object": "medicine", "taxonomy": ["art", "icon", "cave", "geometry", "anthropology"]}
+{"subject": "Joseph Priestley", "object": "philosophy", "taxonomy": ["icon", "publishing", "philosopher", "English", "virus"]}
+{"subject": "Nikolaus Joseph von Jacquin", "object": "chemistry", "taxonomy": ["ecology", "LGBT", "asteroid", "economics", "accounting"]}
+{"subject": "Julius Lothar Meyer", "object": "chemistry", "taxonomy": ["science", "Buddhism", "virus", "Internet", "Greek"]}
+{"subject": "Kurt Lewin", "object": "psychology", "taxonomy": ["comet", "publishing", "terrorism", "Afghanistan", "opera"]}
+{"subject": "Arnold Chikobava", "object": "linguistics", "taxonomy": ["philosopher", "mechanics", "sociology", "website", "Talmud"]}
+{"subject": "Jane Ellen Harrison", "object": "classics", "taxonomy": ["chemistry", "economist", "bird", "ecology", "accounting"]}
+{"subject": "Mathias Lerch", "object": "mathematics", "taxonomy": ["algebra", "genetics", "Talmud", "sociology", "surgery"]}
+{"subject": "James Clerk Maxwell", "object": "physics", "taxonomy": ["abortion", "philosophy", "Finnish", "cave", "priest"]}
+{"subject": "Giorgi Melikishvili", "object": "history", "taxonomy": ["Internet", "lattice", "cartoonist", "mathematician", "novelist"]}
+{"subject": "Herman Boerhaave", "object": "medicine", "taxonomy": ["geography", "Sanskrit", "poetry", "theology", "geometry"]}
+{"subject": "Jean-Nicolas Corvisart", "object": "medicine", "taxonomy": ["hunting", "Wikipedia", "novelist", "Afghanistan", "chemistry"]}
+{"subject": "ICTP Ramanujan Prize", "object": "mathematics", "taxonomy": ["feminism", "musician", "ecology", "psychology", "astronomy"]}
+{"subject": "Akimi Yoshida", "object": "manga", "taxonomy": ["cave", "Tamil", "nightclub", "accounting", "Wikipedia"]}
+{"subject": "Elias James Corey", "object": "chemistry", "taxonomy": ["history", "jazz", "genetics", "animation", "accounting"]}
+{"subject": "Ernest Starling", "object": "physiology", "taxonomy": ["archaeology", "stomach", "evolution", "topology", "folklore"]}
+{"subject": "Alfred Marshall", "object": "economics", "taxonomy": ["feminism", "virus", "goaltender", "terrorism", "physiology"]}
+{"subject": "Brian Bowditch", "object": "topology", "taxonomy": ["goaltender", "sociology", "mathematician", "nightclub", "evolution"]}
+{"subject": "Nathaniel Bowditch", "object": "mathematics", "taxonomy": ["opera", "biology", "musical", "mechanics", "evolution"]}
+{"subject": "Nicolaus Copernicus", "object": "astronomy", "taxonomy": ["virus", "habitat", "logic", "art", "philosophy"]}
+{"subject": "Eric Maskin", "object": "economist", "taxonomy": ["groundwater", "statistics", "poetry", "theology", "comet"]}
+{"subject": "Mikio Sato", "object": "mathematics", "taxonomy": ["physician", "programmer", "Buddhism", "Greek", "diplomat"]}
+{"subject": "Helen E. Fisher", "object": "anthropology", "taxonomy": ["stomach", "physician", "programmer", "Wikipedia", "photography"]}
+{"subject": "Jared Diamond", "object": "ecology", "taxonomy": ["Talmud", "animation", "novelist", "feminism", "stock"]}
+{"subject": "Karl Menger", "object": "mathematics", "taxonomy": ["Greek", "philosophy", "archaeology", "cartoonist", "Balkans"]}
+{"subject": "Jeremiah Horrocks", "object": "astronomy", "taxonomy": ["history", "art", "Unix", "hunting", "Buddhism"]}
+{"subject": "William Crabtree", "object": "astronomy", "taxonomy": ["philosophy", "evolution", "topology", "manga", "sociology"]}
+{"subject": "Heymann Steinthal", "object": "linguistics", "taxonomy": ["physics", "Buddhism", "pharmacy", "surgery", "astronomy"]}
+{"subject": "Andrey Kolmogorov", "object": "geometry", "taxonomy": ["mathematics", "playwright", "film", "Wikipedia", "history"]}
+{"subject": "Claude Louis Berthollet", "object": "chemistry", "taxonomy": ["lattice", "philosophy", "geography", "physicist", "archaeology"]}
+{"subject": "Joseph Louis Gay-Lussac", "object": "chemistry", "taxonomy": ["animation", "mythology", "anatomy", "musician", "biology"]}
+{"subject": "Vilhelm Bjerknes", "object": "physics", "taxonomy": ["espionage", "folklore", "film", "Finnish", "physician"]}
+{"subject": "Heinrich Roth", "object": "Sanskrit", "taxonomy": ["cartoonist", "physicist", "poetry", "geometry", "Unix"]}
+{"subject": "Walther Meissner", "object": "physics", "taxonomy": ["musician", "art", "stock", "Hebrew", "hunting"]}
+{"subject": "octane", "object": "chemistry", "taxonomy": ["anthropology", "animation", "geology", "smell", "sociology"]}
+{"subject": "Spacewatch", "object": "asteroid", "taxonomy": ["topology", "diplomat", "Tamil", "opera", "psychology"]}
+{"subject": "Henri Brocard", "object": "geometry", "taxonomy": ["geology", "bird", "virus", "miniature", "Wikipedia"]}
+{"subject": "Vorderasiatisches Museum Berlin", "object": "archaeology", "taxonomy": ["icon", "jazz", "folklore", "mythology", "abortion"]}
+{"subject": "Daniel Bernoulli", "object": "physics", "taxonomy": ["icon", "Judaism", "programmer", "habitat", "aviation"]}
+{"subject": "Clark Kimberling", "object": "geometry", "taxonomy": ["Greek", "film", "medicine", "diplomat", "philosophy"]}
+{"subject": "Uspekhi Fizicheskikh Nauk", "object": "physics", "taxonomy": ["poetry", "evolution", "nightclub", "hunting", "medicine"]}
+{"subject": "Ewald Hering", "object": "physiology", "taxonomy": ["algebra", "genetics", "ecology", "comedian", "anatomy"]}
+{"subject": "Samuel Cooper", "object": "miniature", "taxonomy": ["pharmacy", "publishing", "chemistry", "philosophy", "aviation"]}
+{"subject": "Julian Huxley", "object": "biology", "taxonomy": ["mathematician", "theology", "cartoonist", "opera", "geometry"]}
+{"subject": "Edward B. Titchener", "object": "psychology", "taxonomy": ["biology", "anatomy", "jazz", "mythology", "musician"]}
+{"subject": "Johann Georg Gmelin", "object": "medicine", "taxonomy": ["chemistry", "classics", "ecology", "poetry", "comet"]}
+{"subject": "Michael Faraday", "object": "physics", "taxonomy": ["hunting", "LGBT", "anthropology", "terrorism", "algebra"]}
+{"subject": "Werner Sombart", "object": "sociology", "taxonomy": ["hunting", "physiology", "Wikipedia", "aviation", "theology"]}
+{"subject": "Johannes Fabricius", "object": "astronomy", "taxonomy": ["feminism", "Greek", "physicist", "habitat", "mathematician"]}
+{"subject": "Otto Neurath", "object": "sociology", "taxonomy": ["jazz", "drawing", "stomach", "photography", "Judaism"]}
+{"subject": "Matthias Jakob Schleiden", "object": "biology", "taxonomy": ["Tamil", "groundwater", "opera", "hotel", "classics"]}
+{"subject": "integument", "object": "biology", "taxonomy": ["geography", "genetics", "nightclub", "archaeology", "cartoonist"]}
+{"subject": "Stephen Wolfram", "object": "mathematics", "taxonomy": ["smell", "drawing", "hotel", "economics", "philosophy"]}
+{"subject": "Johann Christian Reil", "object": "medicine", "taxonomy": ["bird", "geology", "opera", "comet", "Talmud"]}
+{"subject": "William Thierry Preyer", "object": "physiology", "taxonomy": ["car", "economics", "asteroid", "classics", "economist"]}
+{"subject": "Irving Langmuir Award", "object": "physics", "taxonomy": ["ecology", "mechanics", "medicine", "Internet", "poetry"]}
+{"subject": "Humphry Davy", "object": "chemistry", "taxonomy": ["English", "manga", "novelist", "apartheid", "mechanics"]}
+{"subject": "Doro Levi", "object": "archaeology", "taxonomy": ["virus", "philosophy", "Unix", "theology", "Greek"]}
+{"subject": "Al-Masudi", "object": "history", "taxonomy": ["Afghanistan", "classics", "topology", "bird", "musician"]}
+{"subject": "Henri Moissan", "object": "chemistry", "taxonomy": ["forestry", "Sanskrit", "physician", "poetry", "Judaism"]}
+{"subject": "Heinz Hopf", "object": "topology", "taxonomy": ["Finnish", "website", "musician", "opera", "goaltender"]}
+{"subject": "Heinz Hopf", "object": "geometry", "taxonomy": ["car", "mythology", "cave", "algebra", "espionage"]}
+{"subject": "Pierre Curie", "object": "physics", "taxonomy": ["ethics", "Unix", "philosopher", "Sanskrit", "playwright"]}
+{"subject": "Log Cabin Republicans", "object": "LGBT", "taxonomy": ["aviation", "abortion", "pharmacy", "mathematician", "Afghanistan"]}
+{"subject": "Isaac Barrow", "object": "theology", "taxonomy": ["Tamil", "IBM", "miniature", "archaeology", "mathematics"]}
+{"subject": "Martin Haspelmath", "object": "linguistics", "taxonomy": ["musical", "IBM", "playwright", "medicine", "Balkans"]}
+{"subject": "Geometry Festival", "object": "mathematics", "taxonomy": ["film", "Wikipedia", "Tamil", "geography", "Buddhism"]}
+{"subject": "Gustav Kirchhoff", "object": "physics", "taxonomy": ["evolution", "economist", "anthropology", "pharmacy", "Talmud"]}
+{"subject": "Jean Pierre Flourens", "object": "physiology", "taxonomy": ["hunting", "abortion", "philosophy", "programmer", "mathematician"]}
+{"subject": "The Physiological Society", "object": "physiology", "taxonomy": ["terrorism", "icon", "ecology", "asteroid", "physician"]}
+{"subject": "Norbert Wiener", "object": "mathematics", "taxonomy": ["architecture", "nightclub", "French", "chemistry", "jazz"]}
+{"subject": "Steven Weinberg", "object": "physics", "taxonomy": ["mechanics", "science", "ballet", "car", "hotel"]}
+{"subject": "Hrachia Adjarian", "object": "linguistics", "taxonomy": ["programmer", "biology", "architecture", "miniature", "Internet"]}
+{"subject": "Petrus Camper", "object": "anatomy", "taxonomy": ["poetry", "hotel", "singing", "theology", "bird"]}
+{"subject": "Carl Ritter", "object": "geography", "taxonomy": ["cave", "asteroid", "publishing", "mythology", "Internet"]}
+{"subject": "Urbain Le Verrier", "object": "astronomy", "taxonomy": ["miniature", "singing", "architecture", "photography", "programmer"]}
+{"subject": "Frank Morley", "object": "geometry", "taxonomy": ["diplomat", "ballet", "stomach", "apartheid", "pharmacy"]}
+{"subject": "Ian Hodder", "object": "archaeology", "taxonomy": ["aviation", "anatomy", "diplomat", "art", "drawing"]}
+{"subject": "Johan Huizinga", "object": "history", "taxonomy": ["physics", "astronomer", "geology", "logic", "psychology"]}
+{"subject": "Johannes Eugenius Bülow Warming", "object": "biology", "taxonomy": ["physicist", "asteroid", "aviation", "lattice", "evolution"]}
+{"subject": "Alexey Okladnikov", "object": "archaeology", "taxonomy": ["anthropology", "website", "Finnish", "astronomy", "algebra"]}
+{"subject": "Flemish Primitives", "object": "drawing", "taxonomy": ["geology", "poetry", "Wikipedia", "physics", "pharmacy"]}
+{"subject": "Marcos Moshinsky", "object": "physics", "taxonomy": ["mechanics", "drawing", "lattice", "statistics", "playwright"]}
+{"subject": "Calyampudi Radhakrishna Rao", "object": "mathematics", "taxonomy": ["miniature", "geology", "animation", "aviation", "biology"]}
+{"subject": "Jens Andreas Friis", "object": "linguistics", "taxonomy": ["smell", "Buddhism", "film", "physicist", "physics"]}
+{"subject": "Science", "object": "science", "taxonomy": ["Afghanistan", "accounting", "diplomat", "forestry", "physiology"]}
+{"subject": "anatomical location", "object": "anatomy", "taxonomy": ["ethics", "Balkans", "ballet", "poetry", "physiology"]}
+{"subject": "Christoph Gerber", "object": "physics", "taxonomy": ["photography", "algebra", "playwright", "classics", "espionage"]}
+{"subject": "Leo Wiener", "object": "linguistics", "taxonomy": ["mathematics", "cave", "accounting", "anatomy", "French"]}
+{"subject": "Natalia Shvedova", "object": "linguistics", "taxonomy": ["anthropology", "IBM", "publishing", "hunting", "sociology"]}
+{"subject": "Nicholas Metropolis", "object": "physics", "taxonomy": ["algebra", "comet", "Tamil", "Afghanistan", "IBM"]}
+{"subject": "Edward Teller", "object": "physics", "taxonomy": ["Unix", "accounting", "physicist", "musical", "mythology"]}
+{"subject": "Armand Trousseau", "object": "medicine", "taxonomy": ["anatomy", "biology", "cave", "Afghanistan", "Finnish"]}
+{"subject": "Led Zeppelin", "object": "musician", "taxonomy": ["classics", "abortion", "priest", "singing", "Buddhism"]}
+{"subject": "Asclepiades of Bithynia", "object": "medicine", "taxonomy": ["programmer", "art", "icon", "mechanics", "asteroid"]}
+{"subject": "John Davies Evans", "object": "archaeology", "taxonomy": ["French", "English", "icon", "musical", "history"]}
+{"subject": "Andrey Tikhonov", "object": "topology", "taxonomy": ["mathematician", "asteroid", "musician", "playwright", "icon"]}
+{"subject": "Abraham bar Hiyya", "object": "astronomy", "taxonomy": ["classics", "Hebrew", "geometry", "Finnish", "biology"]}
+{"subject": "Stefan Mazurkiewicz", "object": "topology", "taxonomy": ["ecology", "Judaism", "accounting", "Unix", "physiology"]}
+{"subject": "Raymond Smith Dugan", "object": "astronomy", "taxonomy": ["ecology", "physics", "IBM", "aviation", "goaltender"]}
+{"subject": "Yana Toboso", "object": "manga", "taxonomy": ["biology", "photography", "ethics", "opera", "sociology"]}
+{"subject": "Dyfed Archaeological Trust", "object": "archaeology", "taxonomy": ["ethics", "drawing", "accounting", "mechanics", "folklore"]}
+{"subject": "Christian Wilhelm Blomstrand", "object": "chemistry", "taxonomy": ["car", "topology", "aviation", "abortion", "psychology"]}
+{"subject": "Nikolai Bernstein", "object": "physiology", "taxonomy": ["geometry", "philosopher", "asteroid", "diplomat", "novelist"]}
+{"subject": "Thomas Gilovich", "object": "psychology", "taxonomy": ["diplomat", "Tamil", "feminism", "physics", "Finnish"]}
+{"subject": "Urania", "object": "astronomy", "taxonomy": ["chemistry", "stomach", "physics", "physiology", "habitat"]}
+{"subject": "James George Frazer", "object": "anthropology", "taxonomy": ["virus", "mechanics", "mythology", "singing", "Balkans"]}
+{"subject": "Anatoly Fomenko", "object": "topology", "taxonomy": ["economics", "Hebrew", "mythology", "logic", "Afghanistan"]}
+{"subject": "William Cheselden", "object": "medicine", "taxonomy": ["hotel", "physics", "genetics", "Wikipedia", "Internet"]}
+{"subject": "Immanuel Wallerstein", "object": "sociology", "taxonomy": ["physiology", "terrorism", "physicist", "publishing", "folklore"]}
+{"subject": "Regiomontanus", "object": "mathematics", "taxonomy": ["forestry", "statistics", "ethics", "car", "philosopher"]}
+{"subject": "Eugene Odum", "object": "ecology", "taxonomy": ["ballet", "photography", "diplomat", "history", "animation"]}
+{"subject": "Lisbon Geographic Society", "object": "geography", "taxonomy": ["Buddhism", "animation", "priest", "habitat", "physicist"]}
+{"subject": "Ernest Lawrence", "object": "physics", "taxonomy": ["programmer", "history", "Afghanistan", "musical", "science"]}
+{"subject": "Marie Curie", "object": "chemistry", "taxonomy": ["Finnish", "playwright", "feminism", "physiology", "bird"]}
+{"subject": "August Heinrich Petermann", "object": "geography", "taxonomy": ["physicist", "forestry", "physiology", "Tamil", "cartoonist"]}
+{"subject": "John Anthony Walker", "object": "espionage", "taxonomy": ["sociology", "mechanics", "bird", "physicist", "forestry"]}
+{"subject": "John Napier", "object": "mathematics", "taxonomy": ["IBM", "stomach", "history", "film", "evolution"]}
+{"subject": "Augustus Pitt Rivers", "object": "anthropology", "taxonomy": ["abortion", "icon", "groundwater", "topology", "animation"]}
+{"subject": "Mark S. Granovetter", "object": "sociology", "taxonomy": ["poetry", "film", "ethics", "Tamil", "aviation"]}
+{"subject": "Enrico Betti", "object": "topology", "taxonomy": ["science", "astronomer", "film", "stomach", "icon"]}
+{"subject": "Isaac Newton", "object": "astronomy", "taxonomy": ["film", "manga", "goaltender", "architecture", "philosopher"]}
+{"subject": "Francesco Maurolico", "object": "mathematics", "taxonomy": ["icon", "film", "architecture", "physics", "miniature"]}
+{"subject": "Willebrord Snellius", "object": "mathematics", "taxonomy": ["musician", "miniature", "medicine", "comet", "mythology"]}
+{"subject": "Herbert Robbins", "object": "mathematics", "taxonomy": ["jazz", "aviation", "stomach", "Afghanistan", "icon"]}
+{"subject": "Olin J. Eggen", "object": "astronomy", "taxonomy": ["Talmud", "biology", "anthropology", "groundwater", "poetry"]}
+{"subject": "Allan Sandage", "object": "astronomy", "taxonomy": ["evolution", "science", "manga", "IBM", "physiology"]}
+{"subject": "Johann Peter Frank", "object": "medicine", "taxonomy": ["hotel", "philosophy", "biology", "espionage", "history"]}
+{"subject": "European Physical Journal", "object": "physics", "taxonomy": ["philosophy", "Internet", "LGBT", "animation", "surgery"]}
+{"subject": "Lille University of Health and Law", "object": "pharmacy", "taxonomy": ["IBM", "nightclub", "Unix", "cave", "history"]}
+{"subject": "John Garstang", "object": "archaeology", "taxonomy": ["mathematics", "accounting", "physiology", "statistics", "photography"]}
+{"subject": "William Oughtred", "object": "mathematics", "taxonomy": ["Tamil", "novelist", "evolution", "art", "physics"]}
+{"subject": "George Metallinos", "object": "theology", "taxonomy": ["Sanskrit", "habitat", "Wikipedia", "drawing", "feminism"]}
+{"subject": "Larry Sanger", "object": "philosophy", "taxonomy": ["archaeology", "theology", "poetry", "medicine", "abortion"]}
+{"subject": "Philipp Lenard", "object": "physics", "taxonomy": ["theology", "cartoonist", "astronomer", "ecology", "Unix"]}
+{"subject": "Hermann von Helmholtz", "object": "physiology", "taxonomy": ["philosophy", "English", "astronomy", "economist", "groundwater"]}
+{"subject": "Robert Bigelow", "object": "hotel", "taxonomy": ["psychology", "singing", "Greek", "musician", "jazz"]}
+{"subject": "Friedrich Bessel", "object": "astronomy", "taxonomy": ["Greek", "surgery", "evolution", "physics", "French"]}
+{"subject": "George Kingsley Zipf", "object": "linguistics", "taxonomy": ["musical", "Unix", "surgery", "priest", "economics"]}
+{"subject": "Nikolaj Frederik Severin Grundtvig", "object": "philosophy", "taxonomy": ["priest", "Hebrew", "Finnish", "aviation", "physiology"]}
+{"subject": "Otto E. Neugebauer", "object": "mathematics", "taxonomy": ["musician", "Greek", "Judaism", "Tamil", "stomach"]}
+{"subject": "Fritjof Capra", "object": "physics", "taxonomy": ["Tamil", "medicine", "terrorism", "publishing", "chemistry"]}
+{"subject": "PhilPapers", "object": "philosophy", "taxonomy": ["archaeology", "sociology", "jazz", "abortion", "astronomer"]}
+{"subject": "Mikhail Mikhaylovich Gerasimov", "object": "anthropology", "taxonomy": ["smell", "playwright", "drawing", "psychology", "Greek"]}
+{"subject": "Saskia Sassen", "object": "sociology", "taxonomy": ["Sanskrit", "priest", "mathematician", "abortion", "Balkans"]}
+{"subject": "Frederik Kaiser", "object": "astronomy", "taxonomy": ["Buddhism", "genetics", "poetry", "LGBT", "icon"]}
+{"subject": "Leslie Birgit Vosshall", "object": "smell", "taxonomy": ["psychology", "physics", "diplomat", "linguistics", "film"]}
+{"subject": "Zhou Youguang", "object": "linguistics", "taxonomy": ["forestry", "Buddhism", "musical", "mathematics", "philosopher"]}
+{"subject": "Alfred Kinsey", "object": "biology", "taxonomy": ["evolution", "bird", "diplomat", "publishing", "hotel"]}
+{"subject": "Mesrop Mashtots", "object": "linguistics", "taxonomy": ["cave", "IBM", "habitat", "animation", "Talmud"]}
+{"subject": "Kazimierz Ajdukiewicz", "object": "logic", "taxonomy": ["espionage", "habitat", "genetics", "publishing", "mechanics"]}
+{"subject": "James Franck", "object": "physics", "taxonomy": ["economist", "icon", "Sanskrit", "mythology", "ecology"]}
+{"subject": "Walter Isard", "object": "geography", "taxonomy": ["stomach", "Talmud", "mathematics", "French", "physicist"]}
+{"subject": "David Harvey", "object": "geography", "taxonomy": ["topology", "miniature", "Hebrew", "comet", "asteroid"]}
+{"subject": "Adolphe Quetelet", "object": "mathematics", "taxonomy": ["comet", "poetry", "psychology", "manga", "archaeology"]}
+{"subject": "Hantaro Nagaoka", "object": "physics", "taxonomy": ["accounting", "psychology", "evolution", "anthropology", "geometry"]}
+{"subject": "Johann Christian Polycarp Erxleben", "object": "physics", "taxonomy": ["priest", "IBM", "pharmacy", "ecology", "programmer"]}
+{"subject": "Giacomo F. Maraldi", "object": "mathematics", "taxonomy": ["stomach", "groundwater", "goaltender", "economics", "LGBT"]}
+{"subject": "Christopher Zeeman", "object": "topology", "taxonomy": ["philosopher", "Talmud", "musical", "aviation", "physics"]}
+{"subject": "Barry Commoner", "object": "biology", "taxonomy": ["musician", "classics", "publishing", "car", "Judaism"]}
+{"subject": "SASTRA Ramanujan Prize", "object": "mathematics", "taxonomy": ["hunting", "philosophy", "topology", "groundwater", "poetry"]}
+{"subject": "Ernest Archdeacon", "object": "aviation", "taxonomy": ["anatomy", "stock", "Afghanistan", "musical", "theology"]}
+{"subject": "Elinor Ostrom", "object": "economics", "taxonomy": ["psychology", "aviation", "smell", "Judaism", "Talmud"]}
+{"subject": "SPECTRE", "object": "terrorism", "taxonomy": ["miniature", "smell", "comet", "opera", "LGBT"]}
+{"subject": "Arthur Moritz Schoenflies", "object": "mathematics", "taxonomy": ["groundwater", "comet", "Unix", "stomach", "sociology"]}
+{"subject": "Torbern Bergman", "object": "chemistry", "taxonomy": ["classics", "physicist", "French", "diplomat", "history"]}
+{"subject": "Australian Mathematical Society", "object": "mathematics", "taxonomy": ["anatomy", "feminism", "history", "Buddhism", "smell"]}
+{"subject": "Josias Simmler", "object": "theology", "taxonomy": ["Buddhism", "car", "mathematician", "psychology", "asteroid"]}
+{"subject": "Finnish Literature Society", "object": "Finnish", "taxonomy": ["comedian", "physicist", "astronomer", "ethics", "playwright"]}
+{"subject": "Wallace Carothers", "object": "chemistry", "taxonomy": ["medicine", "philosophy", "French", "science", "Tamil"]}
+{"subject": "Edward Victor Appleton", "object": "physics", "taxonomy": ["classics", "comet", "folklore", "philosopher", "architecture"]}
+{"subject": "Anton Zeilinger", "object": "physics", "taxonomy": ["logic", "website", "feminism", "comedian", "biology"]}
+{"subject": "Macedonio Melloni", "object": "physics", "taxonomy": ["geometry", "mechanics", "animation", "physician", "photography"]}
+{"subject": "William Camden", "object": "archaeology", "taxonomy": ["singing", "physics", "medicine", "habitat", "musician"]}
+{"subject": "Anne Caldwell", "object": "musical", "taxonomy": ["Balkans", "IBM", "goaltender", "opera", "Tamil"]}
+{"subject": "John Dalton", "object": "chemistry", "taxonomy": ["comedian", "comet", "programmer", "diplomat", "ecology"]}
+{"subject": "John Dalton", "object": "physics", "taxonomy": ["genetics", "Judaism", "novelist", "pharmacy", "accounting"]}
+{"subject": "Nicolaus Steno", "object": "anatomy", "taxonomy": ["mathematics", "archaeology", "aviation", "English", "playwright"]}
+{"subject": "Archibald Hill", "object": "physiology", "taxonomy": ["medicine", "diplomat", "abortion", "hunting", "espionage"]}
+{"subject": "Actaeon", "object": "hunting", "taxonomy": ["geology", "Internet", "Balkans", "philosophy", "Tamil"]}
+{"subject": "Alfred Tarski", "object": "logic", "taxonomy": ["algebra", "car", "mathematician", "French", "philosophy"]}
+{"subject": "Lev Shcherba", "object": "linguistics", "taxonomy": ["hunting", "IBM", "Tamil", "goaltender", "Internet"]}
+{"subject": "Georges Reeb", "object": "mathematics", "taxonomy": ["biology", "archaeology", "drawing", "economist", "miniature"]}
+{"subject": "Georgios Babiniotis", "object": "linguistics", "taxonomy": ["goaltender", "anatomy", "aviation", "novelist", "priest"]}
+{"subject": "Georgios Babiniotis", "object": "Greek", "taxonomy": ["ecology", "Buddhism", "linguistics", "musician", "accounting"]}
+{"subject": "Dimitri Mendeleyev", "object": "chemistry", "taxonomy": ["sociology", "architecture", "biology", "ethics", "geology"]}
+{"subject": "Dimitri Mendeleyev", "object": "physics", "taxonomy": ["mathematics", "philosophy", "aviation", "programmer", "genetics"]}
+{"subject": "Herman Auerbach", "object": "mathematics", "taxonomy": ["biology", "archaeology", "Hebrew", "hotel", "singing"]}
+{"subject": "Nur ad-Din al-Bitruji", "object": "astronomy", "taxonomy": ["archaeology", "bird", "poetry", "ecology", "website"]}
+{"subject": "Charles Sutherland Elton", "object": "ecology", "taxonomy": ["apartheid", "drawing", "ethics", "astronomy", "publishing"]}
+{"subject": "Bernard Comrie", "object": "linguistics", "taxonomy": ["cave", "opera", "anthropology", "smell", "hotel"]}
+{"subject": "Giovanni Battista Amici", "object": "astronomy", "taxonomy": ["film", "economics", "IBM", "physician", "topology"]}
+{"subject": "Robert Caldwell", "object": "linguistics", "taxonomy": ["film", "ethics", "novelist", "archaeology", "Buddhism"]}
+{"subject": "George Volkoff", "object": "physics", "taxonomy": ["topology", "French", "classics", "drawing", "apartheid"]}
+{"subject": "Paul McCartney", "object": "musician", "taxonomy": ["theology", "English", "playwright", "Sanskrit", "genetics"]}
+{"subject": "Jonathan Haidt", "object": "psychology", "taxonomy": ["philosopher", "apartheid", "science", "mechanics", "folklore"]}
+{"subject": "James Morris Blaut", "object": "geography", "taxonomy": ["musical", "physics", "architecture", "abortion", "website"]}
+{"subject": "Charles Babbage", "object": "mathematics", "taxonomy": ["economist", "photography", "physicist", "mechanics", "publishing"]}
+{"subject": "Vladimir Voevodsky", "object": "topology", "taxonomy": ["algebra", "surgery", "anatomy", "goaltender", "history"]}
+{"subject": "Women on Waves", "object": "abortion", "taxonomy": ["animation", "diplomat", "asteroid", "archaeology", "jazz"]}
+{"subject": "James Ivory", "object": "mathematics", "taxonomy": ["physicist", "hunting", "anthropology", "linguistics", "mathematician"]}
+{"subject": "Nicolaus Copernicus", "object": "mathematics", "taxonomy": ["Wikipedia", "musician", "archaeology", "pharmacy", "classics"]}
+{"subject": "Marian Rejewski", "object": "mathematics", "taxonomy": ["theology", "philosopher", "singing", "cartoonist", "comedian"]}
+{"subject": "Aryabhata", "object": "astronomy", "taxonomy": ["smell", "priest", "Unix", "ecology", "espionage"]}
+{"subject": "Paul Broca", "object": "anthropology", "taxonomy": ["mythology", "Wikipedia", "film", "philosophy", "IBM"]}
+{"subject": "Khaled Hosseini", "object": "Afghanistan", "taxonomy": ["surgery", "pharmacy", "French", "statistics", "asteroid"]}
+{"subject": "Clyde Tombaugh", "object": "astronomer", "taxonomy": ["jazz", "ballet", "Judaism", "biology", "smell"]}
+{"subject": "Boris Rybakov", "object": "archaeology", "taxonomy": ["manga", "medicine", "physics", "asteroid", "mythology"]}
+{"subject": "Willis Lamb", "object": "physics", "taxonomy": ["science", "Judaism", "jazz", "playwright", "economics"]}
+{"subject": "John Wallis", "object": "mathematics", "taxonomy": ["mathematician", "physicist", "chemistry", "hotel", "website"]}
+{"subject": "Arcisse de Caumont", "object": "archaeology", "taxonomy": ["French", "surgery", "Hebrew", "economist", "groundwater"]}
+{"subject": "Archimedes", "object": "geometry", "taxonomy": ["Balkans", "musician", "terrorism", "stock", "mathematician"]}
+{"subject": "Lipman Bers", "object": "mathematics", "taxonomy": ["IBM", "Judaism", "medicine", "playwright", "mythology"]}
+{"subject": "Anaxagoras", "object": "astronomy", "taxonomy": ["anthropology", "physicist", "anatomy", "icon", "archaeology"]}
+{"subject": "Ibn Hisham", "object": "history", "taxonomy": ["musician", "programmer", "asteroid", "virus", "aviation"]}
+{"subject": "Georgi Kitov", "object": "archaeology", "taxonomy": ["physicist", "Afghanistan", "Tamil", "philosophy", "Finnish"]}
+{"subject": "Christiaan Huygens", "object": "physics", "taxonomy": ["priest", "Sanskrit", "ecology", "medicine", "chemistry"]}
+{"subject": "Julius Pokorny", "object": "linguistics", "taxonomy": ["accounting", "priest", "economics", "programmer", "ethics"]}
+{"subject": "Leo Klejn", "object": "archaeology", "taxonomy": ["geography", "goaltender", "lattice", "geometry", "bird"]}
+{"subject": "Antoine Augustin Cournot", "object": "mathematics", "taxonomy": ["philosopher", "statistics", "novelist", "art", "economist"]}
+{"subject": "Clarence Zener", "object": "physics", "taxonomy": ["art", "LGBT", "nightclub", "linguistics", "Judaism"]}
+{"subject": "Mikhail Leonidovich Gromov", "object": "geometry", "taxonomy": ["comedian", "mechanics", "pharmacy", "Tamil", "novelist"]}
+{"subject": "Gilbert Blane", "object": "medicine", "taxonomy": ["Judaism", "science", "anatomy", "pharmacy", "hotel"]}
+{"subject": "Julian Steward", "object": "anthropology", "taxonomy": ["Buddhism", "aviation", "terrorism", "singing", "Hebrew"]}
+{"subject": "Q Center", "object": "LGBT", "taxonomy": ["aviation", "classics", "folklore", "biology", "playwright"]}
+{"subject": "Franz Reuleaux", "object": "mechanics", "taxonomy": ["mathematics", "philosopher", "mythology", "terrorism", "comedian"]}
+{"subject": "Ian Agol", "object": "topology", "taxonomy": ["classics", "Sanskrit", "philosopher", "algebra", "geometry"]}
+{"subject": "Jan Baptist Van Helmont", "object": "chemistry", "taxonomy": ["statistics", "espionage", "forestry", "virus", "evolution"]}
+{"subject": "Theodor Billroth", "object": "surgery", "taxonomy": ["Balkans", "Hebrew", "musical", "ethics", "history"]}
+{"subject": "Michael Jackson", "object": "musician", "taxonomy": ["lattice", "topology", "biology", "abortion", "hotel"]}
+{"subject": "Laurent Lafforgue", "object": "mathematics", "taxonomy": ["virus", "Afghanistan", "Wikipedia", "mechanics", "Buddhism"]}
+{"subject": "David Bohm", "object": "physics", "taxonomy": ["website", "drawing", "nightclub", "Talmud", "programmer"]}
+{"subject": "Hertha Ayrton", "object": "mathematics", "taxonomy": ["photography", "anatomy", "geography", "goaltender", "medicine"]}
+{"subject": "Homi Jehangir Bhabha", "object": "physics", "taxonomy": ["anthropology", "singing", "medicine", "Wikipedia", "smell"]}
+{"subject": "David G. Bromley", "object": "sociology", "taxonomy": ["photography", "film", "Hebrew", "publishing", "ethics"]}
+{"subject": "Palestine Exploration Fund", "object": "archaeology", "taxonomy": ["philosophy", "French", "feminism", "ethics", "apartheid"]}
+{"subject": "Friedrich Hirzebruch", "object": "mathematics", "taxonomy": ["aviation", "car", "film", "drawing", "cave"]}
+{"subject": "Arnaud Denjoy", "object": "mathematics", "taxonomy": ["film", "genetics", "comet", "mechanics", "icon"]}
+{"subject": "Friedrich Spanheim", "object": "theology", "taxonomy": ["physicist", "physiology", "history", "biology", "anthropology"]}
+{"subject": "Karl Schwarzschild", "object": "astronomy", "taxonomy": ["Sanskrit", "mythology", "ballet", "stock", "nightclub"]}
+{"subject": "Adam Smith", "object": "economics", "taxonomy": ["logic", "algebra", "IBM", "Internet", "architecture"]}
+{"subject": "Wilhelm Roux", "object": "anatomy", "taxonomy": ["geology", "anthropology", "sociology", "surgery", "astronomy"]}
+{"subject": "Adonis", "object": "hunting", "taxonomy": ["surgery", "programmer", "ethics", "Finnish", "Greek"]}
+{"subject": "Robert A. Millikan", "object": "physics", "taxonomy": ["astronomer", "ecology", "goaltender", "hotel", "classics"]}
+{"subject": "Anatomical terminology", "object": "anatomy", "taxonomy": ["mechanics", "French", "art", "classics", "ecology"]}
+{"subject": "Mildred Dresselhaus", "object": "physics", "taxonomy": ["archaeology", "opera", "theology", "terrorism", "miniature"]}
+{"subject": "George Bernard Dantzig", "object": "mathematics", "taxonomy": ["history", "geology", "priest", "mathematician", "astronomy"]}
+{"subject": "Max Dehn", "object": "topology", "taxonomy": ["Buddhism", "English", "French", "espionage", "comedian"]}
+{"subject": "Gerardus Mercator", "object": "geography", "taxonomy": ["genetics", "sociology", "accounting", "surgery", "statistics"]}
+{"subject": "Jean-Baptiste Boussingault", "object": "chemistry", "taxonomy": ["physiology", "economist", "nightclub", "physics", "surgery"]}
+{"subject": "Carl Linnaeus", "object": "medicine", "taxonomy": ["statistics", "priest", "abortion", "manga", "mathematics"]}
+{"subject": "Boris Delaunay", "object": "geometry", "taxonomy": ["animation", "miniature", "cave", "Sanskrit", "habitat"]}
+{"subject": "Ernst Heinrich Weber", "object": "physiology", "taxonomy": ["archaeology", "history", "groundwater", "topology", "hunting"]}
+{"subject": "Francisco Varela", "object": "biology", "taxonomy": ["statistics", "chemistry", "ecology", "hotel", "lattice"]}
+{"subject": "Karl Polanyi", "object": "sociology", "taxonomy": ["surgery", "manga", "car", "novelist", "English"]}
+{"subject": "Charles Darwin", "object": "geology", "taxonomy": ["Sanskrit", "algebra", "Tamil", "Unix", "astronomy"]}
+{"subject": "Tim Ingold", "object": "anthropology", "taxonomy": ["astronomy", "genetics", "chemistry", "Talmud", "architecture"]}
+{"subject": "Frank Wilczek", "object": "physics", "taxonomy": ["Hebrew", "car", "abortion", "comet", "Buddhism"]}
+{"subject": "Guo Moruo", "object": "history", "taxonomy": ["logic", "topology", "bird", "stock", "geography"]}
+{"subject": "Herbert Seifert", "object": "topology", "taxonomy": ["opera", "diplomat", "smell", "LGBT", "evolution"]}
+{"subject": "Jan Mikulicz-Radecki", "object": "surgery", "taxonomy": ["ballet", "terrorism", "singing", "sociology", "habitat"]}
+{"subject": "Kamil Zvelebil", "object": "Tamil", "taxonomy": ["sociology", "smell", "apartheid", "physiology", "logic"]}
+{"subject": "Jonas Jablonskis", "object": "linguistics", "taxonomy": ["Internet", "Judaism", "philosophy", "theology", "archaeology"]}
+{"subject": "Karl Georg Christian von Staudt", "object": "geometry", "taxonomy": ["sociology", "programmer", "drawing", "architecture", "physician"]}
+{"subject": "Germaine Greer", "object": "feminism", "taxonomy": ["Internet", "geometry", "jazz", "lattice", "Buddhism"]}
+{"subject": "Hellmuth Kneser", "object": "topology", "taxonomy": ["philosophy", "Sanskrit", "espionage", "anthropology", "mechanics"]}
+{"subject": "Andrey Kolmogorov", "object": "topology", "taxonomy": ["IBM", "goaltender", "statistics", "icon", "Sanskrit"]}
+{"subject": "Johann Heinrich Lambert", "object": "physics", "taxonomy": ["car", "bird", "lattice", "aviation", "abortion"]}
+{"subject": "William Camden", "object": "history", "taxonomy": ["astronomer", "philosopher", "icon", "poetry", "mythology"]}
+{"subject": "Nicole-Reine Lepaute", "object": "astronomy", "taxonomy": ["philosophy", "algebra", "ballet", "Unix", "apartheid"]}
+{"subject": "Kees Versteegh", "object": "linguistics", "taxonomy": ["mechanics", "IBM", "comet", "geology", "diplomat"]}
+{"subject": "Alexander Bogdanov", "object": "medicine", "taxonomy": ["physician", "psychology", "Finnish", "pharmacy", "hunting"]}
+{"subject": "Brahmagupta", "object": "mathematics", "taxonomy": ["Finnish", "habitat", "mathematician", "astronomer", "astronomy"]}
+{"subject": "Nicolas Chuquet", "object": "mathematics", "taxonomy": ["website", "economist", "physics", "apartheid", "medicine"]}
+{"subject": "Spacewatch", "object": "comet", "taxonomy": ["miniature", "lattice", "Judaism", "English", "website"]}
+{"subject": "Ludwig Klages", "object": "psychology", "taxonomy": ["Greek", "architecture", "economist", "comet", "nightclub"]}
+{"subject": "Wilhelm Wien", "object": "physics", "taxonomy": ["groundwater", "surgery", "philosopher", "algebra", "website"]}
+{"subject": "August Kundt", "object": "physics", "taxonomy": ["feminism", "cave", "nightclub", "economics", "economist"]}
+{"subject": "Tanya Reinhart", "object": "linguistics", "taxonomy": ["sociology", "economist", "smell", "Afghanistan", "forestry"]}
+{"subject": "Regnier de Graaf", "object": "physician", "taxonomy": ["car", "economist", "animation", "IBM", "photography"]}
+{"subject": "Louis Cappel", "object": "Hebrew", "taxonomy": ["stomach", "forestry", "linguistics", "Tamil", "genetics"]}
+{"subject": "Ali-Akbar Dehkhoda", "object": "linguistics", "taxonomy": ["Unix", "Wikipedia", "cave", "apartheid", "stock"]}
+{"subject": "Edinburgh Mathematical Society", "object": "mathematics", "taxonomy": ["philosophy", "economist", "Talmud", "classics", "geography"]}
+{"subject": "Religious Tract Society", "object": "publishing", "taxonomy": ["Talmud", "Wikipedia", "LGBT", "ballet", "mathematician"]}
+{"subject": "Hermann von Helmholtz", "object": "psychology", "taxonomy": ["Tamil", "chemistry", "bird", "hotel", "anthropology"]}
+{"subject": "Hjalmar Mellin", "object": "mathematics", "taxonomy": ["history", "physics", "habitat", "folklore", "Tamil"]}
+{"subject": "Leonhard Euler", "object": "astronomy", "taxonomy": ["habitat", "evolution", "comet", "physiology", "pharmacy"]}
+{"subject": "Cesare Emiliani", "object": "geology", "taxonomy": ["Wikipedia", "astronomer", "economics", "physician", "novelist"]}
+{"subject": "NOTAM", "object": "aviation", "taxonomy": ["Sanskrit", "bird", "philosophy", "Buddhism", "economist"]}
+{"subject": "Paul Cameron", "object": "psychology", "taxonomy": ["manga", "asteroid", "groundwater", "chemistry", "cartoonist"]}
+{"subject": "Theodor von Oppolzer", "object": "astronomy", "taxonomy": ["geography", "Wikipedia", "website", "genetics", "classics"]}
+{"subject": "Adrianne Wadewitz", "object": "Wikipedia", "taxonomy": ["genetics", "Internet", "photography", "physician", "ballet"]}
+{"subject": "Nan Hoover", "object": "photography", "taxonomy": ["Hebrew", "abortion", "mathematician", "physics", "philosophy"]}
+{"subject": "Galileo Galilei", "object": "philosophy", "taxonomy": ["espionage", "opera", "Tamil", "science", "economist"]}
+{"subject": "Joke Smit", "object": "feminism", "taxonomy": ["Afghanistan", "economist", "abortion", "musical", "ethics"]}
+{"subject": "Georg Mohr", "object": "mathematics", "taxonomy": ["biology", "geometry", "IBM", "drawing", "singing"]}
+{"subject": "chemical test", "object": "chemistry", "taxonomy": ["publishing", "nightclub", "cartoonist", "biology", "smell"]}
+{"subject": "Gregor Mendel", "object": "genetics", "taxonomy": ["opera", "apartheid", "mathematician", "abortion", "film"]}
+{"subject": "Ahmad Kasravi", "object": "linguistics", "taxonomy": ["Hebrew", "website", "biology", "genetics", "singing"]}
+{"subject": "Bruce Springsteen", "object": "musician", "taxonomy": ["icon", "groundwater", "aviation", "Hebrew", "mythology"]}
+{"subject": "William Lipscomb", "object": "chemistry", "taxonomy": ["bird", "psychology", "diplomat", "website", "geography"]}
+{"subject": "Sofia Kovalevskaya", "object": "mathematics", "taxonomy": ["priest", "science", "nightclub", "hotel", "apartheid"]}
+{"subject": "Felix Plater", "object": "medicine", "taxonomy": ["mechanics", "accounting", "ecology", "opera", "stock"]}
+{"subject": "Italian Chemical Society", "object": "chemistry", "taxonomy": ["Finnish", "Tamil", "car", "feminism", "comedian"]}
+{"subject": "Leon Orbeli", "object": "physiology", "taxonomy": ["priest", "cartoonist", "Wikipedia", "Talmud", "ballet"]}
+{"subject": "Giordano Bruno", "object": "philosophy", "taxonomy": ["philosopher", "evolution", "IBM", "geology", "sociology"]}
+{"subject": "Stanislav Grof", "object": "psychology", "taxonomy": ["hotel", "genetics", "lattice", "geometry", "ethics"]}
+{"subject": "Polymath project", "object": "mathematics", "taxonomy": ["economist", "comet", "asteroid", "medicine", "opera"]}
+{"subject": "George Huntington", "object": "medicine", "taxonomy": ["bird", "forestry", "biology", "animation", "Greek"]}
+{"subject": "Callippus", "object": "astronomy", "taxonomy": ["terrorism", "physicist", "geometry", "topology", "poetry"]}
+{"subject": "Napoleon Chagnon", "object": "anthropology", "taxonomy": ["physician", "smell", "opera", "nightclub", "cartoonist"]}
+{"subject": "Vilhelm Thomsen", "object": "linguistics", "taxonomy": ["archaeology", "hotel", "Balkans", "diplomat", "Unix"]}
+{"subject": "Edward Condon", "object": "physics", "taxonomy": ["mathematics", "biology", "psychology", "archaeology", "pharmacy"]}
+{"subject": "Robert Hanbury Brown", "object": "astronomy", "taxonomy": ["photography", "singing", "film", "physiology", "apartheid"]}
+{"subject": "Carl Ludwig", "object": "physiology", "taxonomy": ["website", "Hebrew", "philosophy", "habitat", "Tamil"]}
+{"subject": "Menaechmus", "object": "geometry", "taxonomy": ["publishing", "psychology", "forestry", "Talmud", "espionage"]}
+{"subject": "Henri Becquerel", "object": "physics", "taxonomy": ["goaltender", "geometry", "IBM", "surgery", "English"]}
+{"subject": "Onufri", "object": "icon", "taxonomy": ["priest", "groundwater", "biology", "ecology", "cave"]}
+{"subject": "A Thousand Plateaus", "object": "philosophy", "taxonomy": ["website", "physiology", "Finnish", "Greek", "terrorism"]}
+{"subject": "Johanna Nichols", "object": "linguistics", "taxonomy": ["physics", "hotel", "publishing", "drawing", "goaltender"]}
+{"subject": "William Isaac Thomas", "object": "sociology", "taxonomy": ["pharmacy", "comet", "economist", "algebra", "Tamil"]}
+{"subject": "Kurt Baier", "object": "ethics", "taxonomy": ["sociology", "animation", "playwright", "poetry", "Judaism"]}
+{"subject": "Francis Bitter", "object": "physics", "taxonomy": ["stock", "lattice", "comedian", "musician", "ecology"]}
+{"subject": "John Pendlebury", "object": "archaeology", "taxonomy": ["genetics", "physicist", "biology", "manga", "drawing"]}
+{"subject": "Piotr Sztompka", "object": "sociology", "taxonomy": ["psychology", "surgery", "theology", "linguistics", "astronomy"]}
+{"subject": "Andreas Floer", "object": "topology", "taxonomy": ["folklore", "mathematician", "virus", "goaltender", "musical"]}
+{"subject": "G. Evelyn Hutchinson", "object": "ecology", "taxonomy": ["philosopher", "musical", "stock", "habitat", "virus"]}
+{"subject": "Lazarus Geiger", "object": "linguistics", "taxonomy": ["geometry", "feminism", "Internet", "espionage", "icon"]}
+{"subject": "Robert Moberly", "object": "theology", "taxonomy": ["physicist", "linguistics", "abortion", "topology", "novelist"]}
+{"subject": "Yi-Fu Tuan", "object": "geography", "taxonomy": ["hunting", "LGBT", "musical", "physiology", "Tamil"]}
+{"subject": "statistical model", "object": "statistics", "taxonomy": ["abortion", "programmer", "economist", "economics", "priest"]}
+{"subject": "Nilakantha Somayaji", "object": "astronomy", "taxonomy": ["geometry", "playwright", "physician", "hunting", "physicist"]}
+{"subject": "Mario Pieri", "object": "geometry", "taxonomy": ["genetics", "surgery", "French", "Greek", "cave"]}
+{"subject": "Jean Baptiste Julien d'Omalius d'Halloy", "object": "geology", "taxonomy": ["genetics", "LGBT", "espionage", "IBM", "comet"]}
+{"subject": "Kip S. Thorne", "object": "physics", "taxonomy": ["ethics", "comedian", "economist", "musician", "anatomy"]}
+{"subject": "John Preskill", "object": "physics", "taxonomy": ["psychology", "singing", "mechanics", "cartoonist", "philosophy"]}
+{"subject": "Aleksey Krylov", "object": "mathematics", "taxonomy": ["car", "genetics", "stomach", "topology", "apartheid"]}
+{"subject": "Alexis Bouvard", "object": "astronomy", "taxonomy": ["musical", "lattice", "history", "ecology", "topology"]}
+{"subject": "Franciscus Sylvius", "object": "anatomy", "taxonomy": ["espionage", "mathematics", "apartheid", "musician", "Balkans"]}
+{"subject": "Petrus Camper", "object": "physiology", "taxonomy": ["surgery", "aviation", "Sanskrit", "pharmacy", "astronomy"]}
+{"subject": "Carl Djerassi", "object": "chemistry", "taxonomy": ["accounting", "comedian", "poetry", "habitat", "film"]}
+{"subject": "stock trader", "object": "stock", "taxonomy": ["virus", "film", "psychology", "hotel", "evolution"]}
+{"subject": "Antonio Vallisneri", "object": "medicine", "taxonomy": ["topology", "stock", "folklore", "classics", "astronomer"]}
+{"subject": "Anatoly Maltsev", "object": "algebra", "taxonomy": ["cartoonist", "miniature", "art", "Hebrew", "habitat"]}
+{"subject": "Lee Alvin DuBridge", "object": "physics", "taxonomy": ["goaltender", "comet", "Talmud", "genetics", "ethics"]}
+{"subject": "Stuart Parkin", "object": "physics", "taxonomy": ["smell", "physiology", "abortion", "stomach", "physician"]}
+{"subject": "Carl Hovland", "object": "psychology", "taxonomy": ["hotel", "groundwater", "car", "mythology", "English"]}
+{"subject": "Anti-Oedipus", "object": "philosophy", "taxonomy": ["IBM", "economist", "sociology", "mathematician", "biology"]}
+{"subject": "Ibn Abi Usaibia", "object": "medicine", "taxonomy": ["feminism", "smell", "physician", "website", "terrorism"]}
+{"subject": "Michel Chasles", "object": "geometry", "taxonomy": ["Unix", "opera", "feminism", "car", "geology"]}
+{"subject": "Mstislav Keldysh", "object": "mathematics", "taxonomy": ["anatomy", "website", "logic", "ballet", "publishing"]}
+{"subject": "Edoardo Amaldi", "object": "physics", "taxonomy": ["algebra", "musical", "abortion", "Talmud", "physiology"]}
+{"subject": "history journal", "object": "history", "taxonomy": ["Tamil", "surgery", "Buddhism", "asteroid", "Balkans"]}
+{"subject": "August Weismann", "object": "biology", "taxonomy": ["publishing", "Finnish", "cartoonist", "astronomer", "goaltender"]}
+{"subject": "Cora Diamond", "object": "ethics", "taxonomy": ["archaeology", "history", "Judaism", "car", "medicine"]}
+{"subject": "Ranuccio Bianchi Bandinelli", "object": "archaeology", "taxonomy": ["Balkans", "chemistry", "ethics", "diplomat", "history"]}
+{"subject": "Massimo Pallottino", "object": "archaeology", "taxonomy": ["car", "novelist", "physiology", "physicist", "medicine"]}
+{"subject": "Giovanni Battista Riccioli", "object": "astronomy", "taxonomy": ["Sanskrit", "Tamil", "hotel", "bird", "chemistry"]}
+{"subject": "Robert Lee Moore", "object": "topology", "taxonomy": ["icon", "jazz", "Sanskrit", "stock", "anatomy"]}
+{"subject": "Alexander Zinoviev", "object": "sociology", "taxonomy": ["astronomer", "bird", "archaeology", "medicine", "Internet"]}
+{"subject": "James Hillman", "object": "psychology", "taxonomy": ["Greek", "Buddhism", "stock", "stomach", "surgery"]}
+{"subject": "Paul Langevin", "object": "physics", "taxonomy": ["stomach", "jazz", "playwright", "genetics", "manga"]}
+{"subject": "Ekrem Akurgal", "object": "archaeology", "taxonomy": ["animation", "publishing", "aviation", "theology", "linguistics"]}
+{"subject": "Robert John Braidwood", "object": "archaeology", "taxonomy": ["accounting", "musical", "history", "mathematician", "physiology"]}
+{"subject": "Shmuel Eisenstadt", "object": "sociology", "taxonomy": ["Hebrew", "logic", "astronomer", "apartheid", "abortion"]}
+{"subject": "Henricus Regius", "object": "physician", "taxonomy": ["smell", "genetics", "physiology", "French", "science"]}
+{"subject": "Johannes Hevelius", "object": "astronomy", "taxonomy": ["topology", "singing", "espionage", "novelist", "mechanics"]}
+{"subject": "Raymond Louis Wilder", "object": "topology", "taxonomy": ["smell", "statistics", "mechanics", "animation", "physics"]}
+{"subject": "Mathematical folklore", "object": "mathematics", "taxonomy": ["Greek", "groundwater", "virus", "science", "manga"]}
+{"subject": "John Cockcroft", "object": "physics", "taxonomy": ["website", "statistics", "mythology", "ecology", "programmer"]}
+{"subject": "Brian De Palma", "object": "film", "taxonomy": ["website", "science", "Greek", "astronomy", "playwright"]}
+{"subject": "Moritz Pasch", "object": "geometry", "taxonomy": ["IBM", "evolution", "ecology", "car", "genetics"]}
+{"subject": "Hugo Kronecker", "object": "physiology", "taxonomy": ["philosophy", "surgery", "jazz", "website", "English"]}
+{"subject": "Otto Brunfels", "object": "theology", "taxonomy": ["abortion", "lattice", "linguistics", "cave", "philosophy"]}
+{"subject": "Antoine Augustin Cournot", "object": "economics", "taxonomy": ["feminism", "economist", "playwright", "IBM", "astronomer"]}
+{"subject": "Domingo de Soto", "object": "theology", "taxonomy": ["forestry", "French", "abortion", "priest", "Greek"]}
+{"subject": "Tamaz Gamkrelidze", "object": "linguistics", "taxonomy": ["cave", "chemistry", "topology", "logic", "Tamil"]}
+{"subject": "Louis Lucien Bonaparte", "object": "linguistics", "taxonomy": ["physics", "psychology", "topology", "anatomy", "Sanskrit"]}
+{"subject": "Pyotr Lebedev", "object": "physics", "taxonomy": ["hotel", "anatomy", "lattice", "terrorism", "economist"]}
+{"subject": "Svante August Arrhenius", "object": "chemistry", "taxonomy": ["anthropology", "IBM", "geometry", "playwright", "icon"]}
+{"subject": "rococo", "object": "architecture", "taxonomy": ["stock", "publishing", "asteroid", "Greek", "jazz"]}
+{"subject": "Werner Fenchel", "object": "geometry", "taxonomy": ["nightclub", "linguistics", "animation", "logic", "apartheid"]}
+{"subject": "Macarius of Corinth", "object": "priest", "taxonomy": ["astronomer", "statistics", "philosopher", "bird", "playwright"]}
+{"subject": "Eberhard Hopf", "object": "topology", "taxonomy": ["architecture", "IBM", "sociology", "genetics", "film"]}
+{"subject": "Aleksei N. Leontiev", "object": "psychology", "taxonomy": ["novelist", "English", "jazz", "abortion", "terrorism"]}

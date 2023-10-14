@@ -1,0 +1,857 @@
+{"relations": ["What is the native language of [X]?", "What is the primary language of [X]?", "What is the original tongue of [X]?", "Which language was [X] first recorded in?", "In which language was [X] originally spoken?", "Which language does [X] speak natively?", "What is the first language of [X]?"]}
+{"subject": "The Scarlet Flower", "object": "Russian", "taxonomy": ["Sanskrit", "Hungarian", "Catalan", "Italian", "Portuguese"]}
+{"subject": "England, Their England", "object": "English", "taxonomy": ["Icelandic", "Greek", "Montenegrin", "Sanskrit", "Persian"]}
+{"subject": "The Hunchback of Notre Dame", "object": "French", "taxonomy": ["Latin", "Georgian", "Italian", "Kannada", "Hebrew"]}
+{"subject": "Gowtam SSC", "object": "Telugu", "taxonomy": ["Punjabi", "Norwegian", "Bulgarian", "Russian", "Ukrainian"]}
+{"subject": "Black Narcissus", "object": "English", "taxonomy": ["Tamil", "Swedish", "Breton", "Czech", "Marathi"]}
+{"subject": "The God Delusion", "object": "English", "taxonomy": ["Tamil", "Russian", "Hebrew", "Greek", "French"]}
+{"subject": "The Glass Agency", "object": "Persian", "taxonomy": ["Bulgarian", "Chinese", "Kannada", "Punjabi", "Croatian"]}
+{"subject": "Swagatam", "object": "Telugu", "taxonomy": ["Greek", "Breton", "Filipino", "Catalan", "Dutch"]}
+{"subject": "Vecinos", "object": "Spanish", "taxonomy": ["Catalan", "Serbian", "Montenegrin", "Indonesian", "Hebrew"]}
+{"subject": "Over Sea, Under Stone", "object": "English", "taxonomy": ["Welsh", "Bulgarian", "Catalan", "Marathi", "Finnish"]}
+{"subject": "Life is a Dream", "object": "Spanish", "taxonomy": ["Tamil", "Greek", "Welsh", "Latin", "Indonesian"]}
+{"subject": "Glas Slavonije", "object": "Croatian", "taxonomy": ["Icelandic", "Korean", "Norwegian", "Estonian", "Telugu"]}
+{"subject": "Tow Truck Pluck", "object": "Dutch", "taxonomy": ["Irish", "Hebrew", "Marathi", "Filipino", "Korean"]}
+{"subject": "Face Dances", "object": "English", "taxonomy": ["Kannada", "Turkish", "Thai", "Indonesian", "Slovene"]}
+{"subject": "Zero Motivation", "object": "Hebrew", "taxonomy": ["Montenegrin", "Punjabi", "Ukrainian", "Greek", "Bengali"]}
+{"subject": "Southcliffe", "object": "English", "taxonomy": ["Icelandic", "Breton", "Croatian", "Hebrew", "Swedish"]}
+{"subject": "Daddio", "object": "English", "taxonomy": ["Estonian", "Italian", "Finnish", "Persian", "Portuguese"]}
+{"subject": "An Actor Prepares", "object": "English", "taxonomy": ["Tamil", "Egyptian", "Bulgarian", "Georgian", "Dutch"]}
+{"subject": "Around the Moon", "object": "French", "taxonomy": ["Thai", "Filipino", "Indonesian", "Slovene", "Bengali"]}
+{"subject": "Le chalet", "object": "French", "taxonomy": ["Norwegian", "Hindi", "Swedish", "Tamil", "Latin"]}
+{"subject": "Maya Darpan", "object": "Hindi", "taxonomy": ["Polish", "Romanian", "Punjabi", "Ukrainian", "French"]}
+{"subject": "Arahan", "object": "Korean", "taxonomy": ["Serbian", "Hebrew", "Urdu", "Kannada", "Turkish"]}
+{"subject": "The Truce", "object": "Italian", "taxonomy": ["Czech", "Punjabi", "Breton", "Irish", "Catalan"]}
+{"subject": "The Lion King", "object": "English", "taxonomy": ["Hindi", "Egyptian", "Spanish", "Indonesian", "Irish"]}
+{"subject": "Janji Joni", "object": "Indonesian", "taxonomy": ["Danish", "Breton", "Irish", "Romanian", "Korean"]}
+{"subject": "Planet of the Apes", "object": "French", "taxonomy": ["Czech", "Latin", "Slovene", "Irish", "Catalan"]}
+{"subject": "Eenadu", "object": "Telugu", "taxonomy": ["Kannada", "Filipino", "Serbian", "Hungarian", "Ukrainian"]}
+{"subject": "Baaz", "object": "Hindi", "taxonomy": ["Estonian", "Egyptian", "Turkish", "Marathi", "French"]}
+{"subject": "Radio Times", "object": "English", "taxonomy": ["Slovene", "Scots", "Estonian", "Marathi", "Catalan"]}
+{"subject": "Strange Brew", "object": "English", "taxonomy": ["Russian", "Sanskrit", "Indonesian", "Urdu", "Irish"]}
+{"subject": "Voodoo Lounge", "object": "English", "taxonomy": ["Hindi", "Hungarian", "Malayalam", "Thai", "Montenegrin"]}
+{"subject": "Barzaz Breiz", "object": "Breton", "taxonomy": ["Hebrew", "Bulgarian", "Bengali", "Welsh", "Sanskrit"]}
+{"subject": "Zampa", "object": "French", "taxonomy": ["Danish", "Tamil", "Hungarian", "Thai", "Persian"]}
+{"subject": "Odd Man Out", "object": "English", "taxonomy": ["Thai", "Polish", "Dutch", "Tamil", "Estonian"]}
+{"subject": "Maometto II", "object": "Italian", "taxonomy": ["Korean", "Urdu", "Estonian", "Bengali", "Catalan"]}
+{"subject": "Anandha Jodhi", "object": "Tamil", "taxonomy": ["Russian", "Latin", "Persian", "Italian", "Greek"]}
+{"subject": "Alludu Sreenu", "object": "Telugu", "taxonomy": ["Slovene", "Icelandic", "Norwegian", "Korean", "Chinese"]}
+{"subject": "Human Touch", "object": "English", "taxonomy": ["Tamil", "Portuguese", "Bengali", "Norwegian", "Greek"]}
+{"subject": "Vishwanatha Nayakudu", "object": "Telugu", "taxonomy": ["Welsh", "Russian", "Serbian", "Estonian", "Bulgarian"]}
+{"subject": "Peppermint Candy", "object": "Korean", "taxonomy": ["Portuguese", "Kannada", "Catalan", "Latin", "English"]}
+{"subject": "Maya Kannadi", "object": "Tamil", "taxonomy": ["Georgian", "Scots", "Hungarian", "Swedish", "Norwegian"]}
+{"subject": "Tank Knights Fortress", "object": "Korean", "taxonomy": ["Estonian", "Slovene", "Croatian", "German", "French"]}
+{"subject": "The Vagrant", "object": "Chinese", "taxonomy": ["English", "Bulgarian", "Korean", "Danish", "Greek"]}
+{"subject": "Die Tageszeitung", "object": "German", "taxonomy": ["Norwegian", "Hindi", "Scots", "Bulgarian", "Italian"]}
+{"subject": "The Perfect Kiss", "object": "English", "taxonomy": ["Romanian", "Bengali", "Italian", "Montenegrin", "Tamil"]}
+{"subject": "Flying Rhino Junior High", "object": "English", "taxonomy": ["Hebrew", "Croatian", "Scots", "Welsh", "Italian"]}
+{"subject": "The Day Today", "object": "English", "taxonomy": ["Finnish", "Telugu", "Scots", "Marathi", "Spanish"]}
+{"subject": "Yonggary", "object": "Korean", "taxonomy": ["Dutch", "Estonian", "Punjabi", "Bulgarian", "Chinese"]}
+{"subject": "Hamlet Goes Business", "object": "Finnish", "taxonomy": ["Egyptian", "Kannada", "Indonesian", "Tamil", "Bengali"]}
+{"subject": "The Big Swindle", "object": "Korean", "taxonomy": ["Hindi", "Chinese", "Dutch", "Russian", "Greek"]}
+{"subject": "Un Samayal Arayil", "object": "Tamil", "taxonomy": ["Hebrew", "Indonesian", "Serbian", "Egyptian", "Russian"]}
+{"subject": "Kyaa Dil Ne Kahaa", "object": "Hindi", "taxonomy": ["Montenegrin", "German", "Telugu", "Bulgarian", "Croatian"]}
+{"subject": "The Intouchables", "object": "French", "taxonomy": ["Russian", "Sanskrit", "Czech", "Portuguese", "Punjabi"]}
+{"subject": "Tolomeo", "object": "Italian", "taxonomy": ["Swedish", "Marathi", "Bulgarian", "Romanian", "Thai"]}
+{"subject": "X-Faktor", "object": "Hungarian", "taxonomy": ["Tamil", "Kannada", "Latin", "Finnish", "Urdu"]}
+{"subject": "Little Soldiers", "object": "Telugu", "taxonomy": ["Hungarian", "Serbian", "Portuguese", "Slovene", "Icelandic"]}
+{"subject": "The Young Victoria", "object": "English", "taxonomy": ["Turkish", "Italian", "Bulgarian", "Punjabi", "Greek"]}
+{"subject": "La Fontaine's Fables", "object": "French", "taxonomy": ["Estonian", "Thai", "Czech", "Latin", "Slovene"]}
+{"subject": "The Harvest Month", "object": "Finnish", "taxonomy": ["Scots", "Norwegian", "Breton", "Tamil", "Bulgarian"]}
+{"subject": "Der kleine Vampir", "object": "German", "taxonomy": ["English", "Sanskrit", "Estonian", "Kannada", "Italian"]}
+{"subject": "A Frozen Flower", "object": "Korean", "taxonomy": ["Egyptian", "Sanskrit", "Bengali", "Thai", "Tamil"]}
+{"subject": "The Fatal Eggs", "object": "Russian", "taxonomy": ["Latin", "Chinese", "Korean", "Kannada", "French"]}
+{"subject": "Hindustan Ki Kasam", "object": "Hindi", "taxonomy": ["English", "Tamil", "Persian", "Catalan", "Malayalam"]}
+{"subject": "Play It Again", "object": "English", "taxonomy": ["Scots", "Finnish", "Turkish", "Estonian", "Malayalam"]}
+{"subject": "Nanneri", "object": "Tamil", "taxonomy": ["Sanskrit", "Latin", "Urdu", "Italian", "Welsh"]}
+{"subject": "Two English Girls", "object": "English", "taxonomy": ["Czech", "Swedish", "Georgian", "Chinese", "Malayalam"]}
+{"subject": "Mithya", "object": "Hindi", "taxonomy": ["Polish", "Telugu", "Czech", "Portuguese", "Greek"]}
+{"subject": "The Marriage of Figaro", "object": "French", "taxonomy": ["Welsh", "Sanskrit", "Swedish", "Russian", "Italian"]}
+{"subject": "The Irish Times", "object": "English", "taxonomy": ["Hebrew", "Indonesian", "Polish", "Korean", "Tamil"]}
+{"subject": "The Names of Love", "object": "French", "taxonomy": ["Serbian", "English", "Bulgarian", "Indonesian", "Chinese"]}
+{"subject": "Brava Gente", "object": "Portuguese", "taxonomy": ["Ukrainian", "Greek", "Swedish", "Welsh", "Irish"]}
+{"subject": "The Purple Taxi", "object": "French", "taxonomy": ["Malayalam", "Persian", "Breton", "German", "Polish"]}
+{"subject": "Infinite Challenge", "object": "Korean", "taxonomy": ["Danish", "Turkish", "Ukrainian", "Punjabi", "Filipino"]}
+{"subject": "I Need Romance", "object": "Korean", "taxonomy": ["Thai", "Icelandic", "Slovene", "Urdu", "Italian"]}
+{"subject": "Wild Birds", "object": "Swedish", "taxonomy": ["Welsh", "Turkish", "Filipino", "Hebrew", "Slovene"]}
+{"subject": "Thillu Mullu", "object": "Tamil", "taxonomy": ["Marathi", "Hindi", "Persian", "Estonian", "Hungarian"]}
+{"subject": "Rasigan", "object": "Tamil", "taxonomy": ["Spanish", "Turkish", "Estonian", "Greek", "Sanskrit"]}
+{"subject": "Vathiyar", "object": "Tamil", "taxonomy": ["Greek", "Polish", "Italian", "Finnish", "Slovene"]}
+{"subject": "Attarintiki Daredi", "object": "Telugu", "taxonomy": ["Spanish", "Hebrew", "Hindi", "Chinese", "Filipino"]}
+{"subject": "Love Actually", "object": "English", "taxonomy": ["Hindi", "Korean", "Danish", "Estonian", "Tamil"]}
+{"subject": "Seducing Doctor Lewis", "object": "French", "taxonomy": ["Sanskrit", "Norwegian", "Danish", "Russian", "Turkish"]}
+{"subject": "That Girl", "object": "English", "taxonomy": ["Welsh", "German", "Telugu", "Slovene", "Greek"]}
+{"subject": "My Bloody Valentine 3D", "object": "English", "taxonomy": ["Ukrainian", "Icelandic", "Hindi", "Chinese", "Hebrew"]}
+{"subject": "Hallmark Hall of Fame", "object": "English", "taxonomy": ["Czech", "Urdu", "Dutch", "Malayalam", "Punjabi"]}
+{"subject": "Manmadha Leelai", "object": "Tamil", "taxonomy": ["Georgian", "Kannada", "Montenegrin", "Czech", "Slovene"]}
+{"subject": "Adventure Time", "object": "English", "taxonomy": ["Czech", "Portuguese", "Thai", "Persian", "Estonian"]}
+{"subject": "The Miser", "object": "French", "taxonomy": ["Croatian", "Norwegian", "Romanian", "Hungarian", "Georgian"]}
+{"subject": "Punnagai Desam", "object": "Tamil", "taxonomy": ["Welsh", "Croatian", "Norwegian", "Malayalam", "Portuguese"]}
+{"subject": "Desadanam", "object": "Malayalam", "taxonomy": ["German", "Filipino", "Sanskrit", "Bulgarian", "Slovene"]}
+{"subject": "La colombe", "object": "French", "taxonomy": ["Bengali", "Welsh", "Norwegian", "Dutch", "Portuguese"]}
+{"subject": "Quelli dell'intervallo", "object": "Italian", "taxonomy": ["Persian", "Kannada", "Swedish", "French", "Scots"]}
+{"subject": "Kaminey", "object": "Hindi", "taxonomy": ["Welsh", "Swedish", "Romanian", "Polish", "Serbian"]}
+{"subject": "The Golden Ass", "object": "Latin", "taxonomy": ["Filipino", "Ukrainian", "Persian", "Romanian", "Thai"]}
+{"subject": "Tusculanae Disputationes", "object": "Latin", "taxonomy": ["Slovene", "Breton", "Norwegian", "Irish", "Telugu"]}
+{"subject": "Football Weekly", "object": "English", "taxonomy": ["Catalan", "Marathi", "Latin", "Dutch", "Montenegrin"]}
+{"subject": "I Love Lucy", "object": "English", "taxonomy": ["Persian", "Irish", "Chinese", "Polish", "Breton"]}
+{"subject": "Dom Juan", "object": "French", "taxonomy": ["Slovene", "Korean", "Czech", "Swedish", "Dutch"]}
+{"subject": "Redfern Now", "object": "English", "taxonomy": ["Urdu", "Czech", "Egyptian", "Irish", "Danish"]}
+{"subject": "Nirdoshi", "object": "Telugu", "taxonomy": ["Urdu", "Croatian", "Breton", "English", "Turkish"]}
+{"subject": "Athalie", "object": "French", "taxonomy": ["Malayalam", "Russian", "Serbian", "Hindi", "Bulgarian"]}
+{"subject": "Galpa Holeo Satyi", "object": "Bengali", "taxonomy": ["Russian", "Ukrainian", "Kannada", "Serbian", "Croatian"]}
+{"subject": "Three Men of the River", "object": "Spanish", "taxonomy": ["German", "Romanian", "Tamil", "Icelandic", "Chinese"]}
+{"subject": "Plus belle la vie", "object": "French", "taxonomy": ["Thai", "Urdu", "Polish", "Sanskrit", "Italian"]}
+{"subject": "Natural City", "object": "Korean", "taxonomy": ["Latin", "Turkish", "Dutch", "Portuguese", "Indonesian"]}
+{"subject": "8 Women", "object": "French", "taxonomy": ["Irish", "Montenegrin", "Norwegian", "Tamil", "Breton"]}
+{"subject": "Khaleja", "object": "Telugu", "taxonomy": ["Estonian", "Hungarian", "Serbian", "Chinese", "Montenegrin"]}
+{"subject": "The Divergent Series", "object": "English", "taxonomy": ["Montenegrin", "Croatian", "Egyptian", "Latin", "Polish"]}
+{"subject": "Cheers", "object": "English", "taxonomy": ["Scots", "Bengali", "Tamil", "Czech", "Sanskrit"]}
+{"subject": "Monster Buster Club", "object": "French", "taxonomy": ["Irish", "Tamil", "Welsh", "Finnish", "Latin"]}
+{"subject": "Heart", "object": "Italian", "taxonomy": ["Korean", "Georgian", "Russian", "Czech", "Bulgarian"]}
+{"subject": "Invisible Cities", "object": "Italian", "taxonomy": ["Serbian", "English", "Norwegian", "Korean", "Hebrew"]}
+{"subject": "Antastulu", "object": "Telugu", "taxonomy": ["Hungarian", "Urdu", "Sanskrit", "Thai", "Danish"]}
+{"subject": "The National Lottery Draws", "object": "English", "taxonomy": ["Welsh", "Croatian", "Hungarian", "French", "Thai"]}
+{"subject": "Commentarii de Bello Gallico", "object": "Latin", "taxonomy": ["Persian", "Punjabi", "Welsh", "Icelandic", "Swedish"]}
+{"subject": "Dawn", "object": "English", "taxonomy": ["Marathi", "Egyptian", "Filipino", "Telugu", "Punjabi"]}
+{"subject": "I've Loved You So Long", "object": "French", "taxonomy": ["Polish", "Hindi", "English", "Georgian", "Dutch"]}
+{"subject": "Invitation to the Castle", "object": "French", "taxonomy": ["Malayalam", "Slovene", "Croatian", "Danish", "Montenegrin"]}
+{"subject": "The Round Up", "object": "French", "taxonomy": ["Serbian", "Montenegrin", "Slovene", "Irish", "Scots"]}
+{"subject": "Barbarian Queen", "object": "Spanish", "taxonomy": ["Italian", "Thai", "Icelandic", "Czech", "Irish"]}
+{"subject": "Orr Eravuu", "object": "Tamil", "taxonomy": ["Czech", "Irish", "Telugu", "Slovene", "Greek"]}
+{"subject": "Engaeyum Eppothum", "object": "Tamil", "taxonomy": ["Urdu", "Sanskrit", "Persian", "Russian", "Hindi"]}
+{"subject": "Sous le ciel de Paris", "object": "French", "taxonomy": ["Egyptian", "Ukrainian", "Bengali", "Kannada", "Sanskrit"]}
+{"subject": "Adaptation", "object": "English", "taxonomy": ["Swedish", "Danish", "German", "Filipino", "Polish"]}
+{"subject": "Githan", "object": "Tamil", "taxonomy": ["Swedish", "Chinese", "Serbian", "Norwegian", "Urdu"]}
+{"subject": "Ong-Bak: Muay Thai Warrior", "object": "Thai", "taxonomy": ["Romanian", "Egyptian", "Indonesian", "Breton", "Czech"]}
+{"subject": "Burnt by the Sun", "object": "Russian", "taxonomy": ["Indonesian", "Norwegian", "Montenegrin", "Spanish", "Hungarian"]}
+{"subject": "Nageswari", "object": "Tamil", "taxonomy": ["Marathi", "Dutch", "Polish", "Portuguese", "Latin"]}
+{"subject": "Night-Thoughts", "object": "English", "taxonomy": ["Malayalam", "Romanian", "Marathi", "Hungarian", "Italian"]}
+{"subject": "La clemenza di Tito", "object": "Italian", "taxonomy": ["Thai", "Punjabi", "Egyptian", "Latin", "Georgian"]}
+{"subject": "Toto the Hero", "object": "French", "taxonomy": ["Bulgarian", "Italian", "Filipino", "Hebrew", "Egyptian"]}
+{"subject": "Gai pied", "object": "French", "taxonomy": ["Korean", "Czech", "Indonesian", "Montenegrin", "Portuguese"]}
+{"subject": "A Very Private Affair", "object": "French", "taxonomy": ["Portuguese", "Czech", "Estonian", "Kannada", "Spanish"]}
+{"subject": "Bryter Layter", "object": "English", "taxonomy": ["Georgian", "Croatian", "Irish", "Hindi", "Breton"]}
+{"subject": "La Dispute", "object": "French", "taxonomy": ["Scots", "Catalan", "Finnish", "Swedish", "Greek"]}
+{"subject": "Do Aankhen Barah Haath", "object": "Hindi", "taxonomy": ["Dutch", "Telugu", "Czech", "German", "Danish"]}
+{"subject": "Commediasexi", "object": "Italian", "taxonomy": ["Hindi", "Romanian", "Thai", "Croatian", "Bengali"]}
+{"subject": "Hong Kong Cinemagic", "object": "English", "taxonomy": ["Welsh", "Estonian", "Swedish", "Egyptian", "Chinese"]}
+{"subject": "Passer à l'acte", "object": "French", "taxonomy": ["Malayalam", "Breton", "Sanskrit", "Georgian", "Tamil"]}
+{"subject": "The Pianist", "object": "English", "taxonomy": ["Korean", "Greek", "Spanish", "Italian", "Estonian"]}
+{"subject": "Children of Paradise", "object": "French", "taxonomy": ["Marathi", "Chinese", "Korean", "Turkish", "Urdu"]}
+{"subject": "Shirli-Myrli", "object": "Russian", "taxonomy": ["Breton", "Icelandic", "Ukrainian", "Spanish", "Turkish"]}
+{"subject": "The Book of the Courtier", "object": "Italian", "taxonomy": ["Egyptian", "Montenegrin", "Russian", "Croatian", "Danish"]}
+{"subject": "Funny Dirty Little War", "object": "Spanish", "taxonomy": ["Sanskrit", "Slovene", "Egyptian", "Hungarian", "Welsh"]}
+{"subject": "Bottle Rocket", "object": "Spanish", "taxonomy": ["Bulgarian", "Montenegrin", "Punjabi", "Latin", "Korean"]}
+{"subject": "Kaviratna Kalidasa", "object": "Kannada", "taxonomy": ["Marathi", "German", "Filipino", "Portuguese", "Hindi"]}
+{"subject": "Beautiful Boxer", "object": "Thai", "taxonomy": ["Persian", "Sanskrit", "Norwegian", "Malayalam", "Telugu"]}
+{"subject": "Allegro Non Troppo", "object": "Italian", "taxonomy": ["Czech", "Persian", "Sanskrit", "Turkish", "Thai"]}
+{"subject": "Water Drops on Burning Rocks", "object": "French", "taxonomy": ["Telugu", "Croatian", "Turkish", "Sanskrit", "Slovene"]}
+{"subject": "Mango Yellow", "object": "Portuguese", "taxonomy": ["Kannada", "German", "Chinese", "English", "Italian"]}
+{"subject": "The French Woman", "object": "French", "taxonomy": ["German", "Indonesian", "Ukrainian", "Dutch", "Italian"]}
+{"subject": "El Mariachi", "object": "Spanish", "taxonomy": ["Punjabi", "Chinese", "Telugu", "Norwegian", "Egyptian"]}
+{"subject": "Code Unknown", "object": "Romanian", "taxonomy": ["Punjabi", "Norwegian", "Greek", "Egyptian", "Czech"]}
+{"subject": "The Time Machine", "object": "English", "taxonomy": ["Egyptian", "Sanskrit", "Dutch", "Bulgarian", "Thai"]}
+{"subject": "The Great Citizen", "object": "Russian", "taxonomy": ["Persian", "Portuguese", "Breton", "Dutch", "Telugu"]}
+{"subject": "Chirodini Tumi Je Amar", "object": "Bengali", "taxonomy": ["Marathi", "English", "Thai", "Korean", "Italian"]}
+{"subject": "The Jeffersons", "object": "English", "taxonomy": ["Croatian", "Swedish", "Dutch", "Bulgarian", "Telugu"]}
+{"subject": "Around the World in 80 Days", "object": "English", "taxonomy": ["Catalan", "Thai", "Swedish", "Icelandic", "Hebrew"]}
+{"subject": "Sesamstraat", "object": "Dutch", "taxonomy": ["German", "Scots", "Montenegrin", "Georgian", "Welsh"]}
+{"subject": "Wild Reeds", "object": "French", "taxonomy": ["Sanskrit", "Scots", "Finnish", "Korean", "Norwegian"]}
+{"subject": "Abhilasha", "object": "Telugu", "taxonomy": ["Bengali", "Romanian", "Portuguese", "Italian", "Scots"]}
+{"subject": "Hrvatska revija", "object": "Croatian", "taxonomy": ["Montenegrin", "Irish", "Greek", "Danish", "Breton"]}
+{"subject": "Bombay March 12", "object": "Malayalam", "taxonomy": ["English", "Thai", "Catalan", "Korean", "Romanian"]}
+{"subject": "The Voice Israel", "object": "Hebrew", "taxonomy": ["Bengali", "Thai", "Icelandic", "Hindi", "Greek"]}
+{"subject": "Lais of Marie de France", "object": "French", "taxonomy": ["Welsh", "Norwegian", "Latin", "Malayalam", "Hungarian"]}
+{"subject": "The Second Sex", "object": "French", "taxonomy": ["English", "Icelandic", "Punjabi", "Dutch", "Telugu"]}
+{"subject": "Thotta", "object": "Tamil", "taxonomy": ["Estonian", "Indonesian", "Montenegrin", "Danish", "Croatian"]}
+{"subject": "The Missionary", "object": "English", "taxonomy": ["Latin", "Dutch", "Hindi", "Croatian", "Slovene"]}
+{"subject": "In Cold Blood", "object": "English", "taxonomy": ["Urdu", "Serbian", "Dutch", "Polish", "Icelandic"]}
+{"subject": "Zero Kelvin", "object": "Norwegian", "taxonomy": ["Persian", "Urdu", "Swedish", "Punjabi", "Breton"]}
+{"subject": "Le Voyage en douce", "object": "French", "taxonomy": ["Romanian", "Korean", "Welsh", "Chinese", "Finnish"]}
+{"subject": "Disquisitiones Arithmeticae", "object": "Latin", "taxonomy": ["Hebrew", "Urdu", "Breton", "Dutch", "Italian"]}
+{"subject": "Caresses", "object": "Catalan", "taxonomy": ["Latin", "Kannada", "Ukrainian", "Romanian", "Montenegrin"]}
+{"subject": "The Young Guard", "object": "Russian", "taxonomy": ["English", "Thai", "Irish", "Indonesian", "Welsh"]}
+{"subject": "Little Games", "object": "English", "taxonomy": ["Norwegian", "Serbian", "Telugu", "Hungarian", "Danish"]}
+{"subject": "Aparajita Tumi", "object": "Bengali", "taxonomy": ["Norwegian", "Breton", "Danish", "Hindi", "Egyptian"]}
+{"subject": "Nirdoshi", "object": "Tamil", "taxonomy": ["Kannada", "Slovene", "Greek", "Persian", "Chinese"]}
+{"subject": "Thaamirabharani", "object": "Tamil", "taxonomy": ["Montenegrin", "Czech", "Danish", "Korean", "Greek"]}
+{"subject": "Bhalo Theko", "object": "Bengali", "taxonomy": ["Czech", "Romanian", "German", "Tamil", "Filipino"]}
+{"subject": "Trollhunter", "object": "Norwegian", "taxonomy": ["Korean", "Polish", "Italian", "Slovene", "Czech"]}
+{"subject": "The News Quiz", "object": "English", "taxonomy": ["Montenegrin", "Danish", "Breton", "Chinese", "Punjabi"]}
+{"subject": "Kumara Sambhavam", "object": "Malayalam", "taxonomy": ["Catalan", "Spanish", "Polish", "Breton", "French"]}
+{"subject": "Canone Inverso", "object": "Italian", "taxonomy": ["Bengali", "Montenegrin", "Welsh", "Hungarian", "Croatian"]}
+{"subject": "Spanish Serenade", "object": "Spanish", "taxonomy": ["Scots", "Romanian", "Russian", "Thai", "Bulgarian"]}
+{"subject": "Faithless", "object": "Swedish", "taxonomy": ["Breton", "Bulgarian", "Russian", "Ukrainian", "Hungarian"]}
+{"subject": "Beyond Hatred", "object": "French", "taxonomy": ["Hungarian", "Filipino", "Sanskrit", "Swedish", "Irish"]}
+{"subject": "Brief Encounter", "object": "English", "taxonomy": ["Egyptian", "Italian", "Breton", "Croatian", "Georgian"]}
+{"subject": "The White Guard", "object": "Russian", "taxonomy": ["Persian", "Greek", "German", "Malayalam", "Swedish"]}
+{"subject": "District 13", "object": "French", "taxonomy": ["Spanish", "Thai", "Hindi", "German", "Tamil"]}
+{"subject": "Run, Man, Run!", "object": "Italian", "taxonomy": ["Egyptian", "Dutch", "Punjabi", "Korean", "Irish"]}
+{"subject": "Songs from the Second Floor", "object": "Swedish", "taxonomy": ["Punjabi", "Portuguese", "Norwegian", "Italian", "Hindi"]}
+{"subject": "Cosmic Voyage", "object": "English", "taxonomy": ["Spanish", "Indonesian", "Catalan", "Turkish", "Kannada"]}
+{"subject": "Definitely Maybe", "object": "English", "taxonomy": ["Marathi", "Slovene", "Sanskrit", "Ukrainian", "Latin"]}
+{"subject": "Les Nanas", "object": "French", "taxonomy": ["Polish", "Finnish", "Romanian", "Persian", "Thai"]}
+{"subject": "Fully Booked", "object": "English", "taxonomy": ["Malayalam", "Latin", "Catalan", "Sanskrit", "Bulgarian"]}
+{"subject": "Agantuk", "object": "Bengali", "taxonomy": ["Czech", "Malayalam", "Tamil", "Hebrew", "Irish"]}
+{"subject": "Spiral", "object": "French", "taxonomy": ["Scots", "Turkish", "Norwegian", "Bengali", "Breton"]}
+{"subject": "Don Francisco Presenta", "object": "Spanish", "taxonomy": ["Latin", "Dutch", "Ukrainian", "Thai", "Georgian"]}
+{"subject": "Antardwand", "object": "Hindi", "taxonomy": ["Punjabi", "Catalan", "Indonesian", "German", "English"]}
+{"subject": "Vijesti", "object": "Montenegrin", "taxonomy": ["Thai", "German", "Estonian", "Sanskrit", "Indonesian"]}
+{"subject": "Velocifero", "object": "English", "taxonomy": ["Catalan", "Breton", "Persian", "Romanian", "Spanish"]}
+{"subject": "Thunderbirds Are Go", "object": "English", "taxonomy": ["Hungarian", "Croatian", "Spanish", "Ukrainian", "Hindi"]}
+{"subject": "Hip Hop Is Dead", "object": "English", "taxonomy": ["Marathi", "Hebrew", "Icelandic", "Ukrainian", "Urdu"]}
+{"subject": "The Return of Casanova", "object": "French", "taxonomy": ["Hindi", "Filipino", "Urdu", "English", "Indonesian"]}
+{"subject": "Anand Math", "object": "Hindi", "taxonomy": ["Ukrainian", "Georgian", "Hungarian", "Catalan", "Latin"]}
+{"subject": "Ramachaari", "object": "Kannada", "taxonomy": ["Latin", "French", "Egyptian", "Romanian", "Serbian"]}
+{"subject": "Komal Gandhar", "object": "Bengali", "taxonomy": ["Thai", "Dutch", "Romanian", "Czech", "Norwegian"]}
+{"subject": "Adi Parva", "object": "Sanskrit", "taxonomy": ["Estonian", "Danish", "Norwegian", "Georgian", "Spanish"]}
+{"subject": "By the Light of a Star", "object": "Spanish", "taxonomy": ["Punjabi", "Turkish", "Norwegian", "Italian", "Chinese"]}
+{"subject": "Oram Po", "object": "Tamil", "taxonomy": ["Hebrew", "English", "Bulgarian", "Portuguese", "Slovene"]}
+{"subject": "The Assault", "object": "French", "taxonomy": ["Filipino", "Indonesian", "Breton", "Swedish", "Ukrainian"]}
+{"subject": "Largo Winch II", "object": "French", "taxonomy": ["Chinese", "Telugu", "Punjabi", "Icelandic", "Estonian"]}
+{"subject": "Captain Khorshid", "object": "Persian", "taxonomy": ["Greek", "Georgian", "Hindi", "Icelandic", "Montenegrin"]}
+{"subject": "Liquid Sky", "object": "English", "taxonomy": ["Tamil", "Breton", "Hebrew", "Persian", "Portuguese"]}
+{"subject": "The Naked Sun", "object": "English", "taxonomy": ["Italian", "Chinese", "Czech", "Marathi", "Punjabi"]}
+{"subject": "Mahapurush", "object": "Bengali", "taxonomy": ["Welsh", "Ukrainian", "Malayalam", "Slovene", "Kannada"]}
+{"subject": "36 China Town", "object": "Hindi", "taxonomy": ["Marathi", "Breton", "Hebrew", "Croatian", "Swedish"]}
+{"subject": "Virginia Quarterly Review", "object": "English", "taxonomy": ["Icelandic", "Korean", "Hindi", "Kannada", "Turkish"]}
+{"subject": "The Marchers", "object": "French", "taxonomy": ["Czech", "Persian", "Breton", "Irish", "Greek"]}
+{"subject": "Short Time", "object": "English", "taxonomy": ["Polish", "Hebrew", "Sanskrit", "Urdu", "Danish"]}
+{"subject": "A Latin Dictionary", "object": "Latin", "taxonomy": ["Slovene", "Thai", "Welsh", "Dutch", "Telugu"]}
+{"subject": "William Tell", "object": "French", "taxonomy": ["Filipino", "Finnish", "Croatian", "Danish", "German"]}
+{"subject": "LiveJournal", "object": "English", "taxonomy": ["Persian", "Danish", "Estonian", "Georgian", "Spanish"]}
+{"subject": "Ciboulette", "object": "French", "taxonomy": ["English", "Bengali", "Finnish", "Greek", "Georgian"]}
+{"subject": "Happiness Is in the Field", "object": "French", "taxonomy": ["Hebrew", "Italian", "Latin", "Chinese", "Urdu"]}
+{"subject": "Ye Meri Life Hai", "object": "Hindi", "taxonomy": ["Irish", "Hungarian", "German", "Ukrainian", "Scots"]}
+{"subject": "Khottabych", "object": "Russian", "taxonomy": ["Slovene", "Spanish", "Irish", "Romanian", "Norwegian"]}
+{"subject": "Thuppakki", "object": "Tamil", "taxonomy": ["Persian", "Kannada", "Estonian", "Greek", "Slovene"]}
+{"subject": "Under the Sun of Satan", "object": "French", "taxonomy": ["Georgian", "Dutch", "Montenegrin", "Italian", "Greek"]}
+{"subject": "Olsen Gang", "object": "Danish", "taxonomy": ["German", "Russian", "Kannada", "Persian", "Romanian"]}
+{"subject": "Thoranai", "object": "Tamil", "taxonomy": ["Czech", "Spanish", "Estonian", "English", "Malayalam"]}
+{"subject": "La Jornada", "object": "Spanish", "taxonomy": ["Turkish", "Greek", "Marathi", "Persian", "Korean"]}
+{"subject": "Agahi", "object": "Urdu", "taxonomy": ["Tamil", "Danish", "Estonian", "Irish", "Turkish"]}
+{"subject": "Yemen Observer", "object": "English", "taxonomy": ["Ukrainian", "Serbian", "Romanian", "Hindi", "Czech"]}
+{"subject": "Minnale", "object": "Tamil", "taxonomy": ["Norwegian", "Kannada", "Persian", "Irish", "Dutch"]}
+{"subject": "Paigham", "object": "Hindi", "taxonomy": ["Italian", "Norwegian", "French", "Russian", "German"]}
+{"subject": "Sippai", "object": "Tamil", "taxonomy": ["Ukrainian", "Bulgarian", "Hebrew", "Hindi", "Indonesian"]}
+{"subject": "Il Posto", "object": "Italian", "taxonomy": ["Ukrainian", "German", "Telugu", "Slovene", "Indonesian"]}
+{"subject": "Office Romance", "object": "Russian", "taxonomy": ["Chinese", "Serbian", "Turkish", "Filipino", "Bulgarian"]}
+{"subject": "White Ladder", "object": "English", "taxonomy": ["Portuguese", "Persian", "Italian", "Scots", "Serbian"]}
+{"subject": "Zaporozhets za Dunayem", "object": "Ukrainian", "taxonomy": ["Danish", "Russian", "Hindi", "Bulgarian", "Montenegrin"]}
+{"subject": "Maria egiziaca", "object": "Italian", "taxonomy": ["Spanish", "Hindi", "Romanian", "Bengali", "Hungarian"]}
+{"subject": "The Thieves", "object": "English", "taxonomy": ["Greek", "Malayalam", "Italian", "Hindi", "Scots"]}
+{"subject": "Souryam", "object": "Telugu", "taxonomy": ["Estonian", "Czech", "Ukrainian", "Sanskrit", "Serbian"]}
+{"subject": "La Haine", "object": "French", "taxonomy": ["English", "Russian", "Breton", "Serbian", "Estonian"]}
+{"subject": "Chander Pahar", "object": "Bengali", "taxonomy": ["Telugu", "Thai", "Marathi", "Montenegrin", "Dutch"]}
+{"subject": "Khatarnak", "object": "Telugu", "taxonomy": ["Filipino", "Egyptian", "German", "Kannada", "Marathi"]}
+{"subject": "Las 13 rosas", "object": "Spanish", "taxonomy": ["Sanskrit", "Korean", "Hindi", "Montenegrin", "Swedish"]}
+{"subject": "Return to Me", "object": "English", "taxonomy": ["Catalan", "Russian", "Hungarian", "Welsh", "Portuguese"]}
+{"subject": "Brave New World", "object": "English", "taxonomy": ["Portuguese", "Egyptian", "Breton", "Latin", "Polish"]}
+{"subject": "Demon Seed", "object": "English", "taxonomy": ["Slovene", "Norwegian", "Malayalam", "Sanskrit", "Hindi"]}
+{"subject": "The Day I Became a Woman", "object": "Persian", "taxonomy": ["Czech", "Punjabi", "Serbian", "Marathi", "Estonian"]}
+{"subject": "Lurkmore.to", "object": "Russian", "taxonomy": ["Punjabi", "Georgian", "Slovene", "Finnish", "Romanian"]}
+{"subject": "The Umbrella Coup", "object": "French", "taxonomy": ["Bengali", "Hindi", "English", "German", "Turkish"]}
+{"subject": "Thenavattu", "object": "Tamil", "taxonomy": ["Greek", "Hindi", "Spanish", "Chinese", "Swedish"]}
+{"subject": "Ginevra di Scozia", "object": "Italian", "taxonomy": ["Kannada", "Chinese", "Breton", "Hebrew", "Danish"]}
+{"subject": "La Chica de Ayer", "object": "Spanish", "taxonomy": ["Telugu", "Georgian", "Romanian", "Egyptian", "Breton"]}
+{"subject": "La Chienne", "object": "French", "taxonomy": ["Bulgarian", "Italian", "Marathi", "Chinese", "Filipino"]}
+{"subject": "36 Vayadhinile", "object": "Tamil", "taxonomy": ["Irish", "Telugu", "Slovene", "Egyptian", "Dutch"]}
+{"subject": "The White Stone", "object": "Swedish", "taxonomy": ["Persian", "Breton", "Greek", "Scots", "Hebrew"]}
+{"subject": "Mississippi Masala", "object": "English", "taxonomy": ["Czech", "Greek", "Chinese", "Norwegian", "Welsh"]}
+{"subject": "Calamari Union", "object": "Finnish", "taxonomy": ["Welsh", "Thai", "Montenegrin", "Indonesian", "Serbian"]}
+{"subject": "Risale-i Nur", "object": "Turkish", "taxonomy": ["Finnish", "Sanskrit", "Slovene", "Chinese", "Spanish"]}
+{"subject": "Fire in the Steppe", "object": "Polish", "taxonomy": ["Croatian", "Marathi", "Romanian", "Ukrainian", "Spanish"]}
+{"subject": "This Is England", "object": "English", "taxonomy": ["Turkish", "Italian", "Georgian", "Malayalam", "Hindi"]}
+{"subject": "Madame Figaro", "object": "French", "taxonomy": ["Malayalam", "Filipino", "Thai", "Russian", "Chinese"]}
+{"subject": "Ramavataram", "object": "Tamil", "taxonomy": ["Turkish", "Indonesian", "Slovene", "Latin", "Finnish"]}
+{"subject": "The Count of Monte Cristo", "object": "French", "taxonomy": ["Icelandic", "Tamil", "Norwegian", "Polish", "Russian"]}
+{"subject": "Brice de Nice", "object": "French", "taxonomy": ["English", "Irish", "Czech", "Estonian", "Hindi"]}
+{"subject": "Aranyer Din Ratri", "object": "Bengali", "taxonomy": ["Hungarian", "Italian", "Ukrainian", "German", "Swedish"]}
+{"subject": "Well, Just You Wait!", "object": "Russian", "taxonomy": ["Tamil", "Norwegian", "Ukrainian", "Bulgarian", "Chinese"]}
+{"subject": "Paradise Ranch", "object": "Korean", "taxonomy": ["Urdu", "Sanskrit", "Indonesian", "Marathi", "Spanish"]}
+{"subject": "A Short Film About Killing", "object": "Polish", "taxonomy": ["Filipino", "Bulgarian", "Breton", "Persian", "Icelandic"]}
+{"subject": "The Shooting Star", "object": "French", "taxonomy": ["Thai", "Irish", "Hebrew", "Punjabi", "English"]}
+{"subject": "Neel Akasher Neechey", "object": "Bengali", "taxonomy": ["Croatian", "Hindi", "Latin", "Norwegian", "Telugu"]}
+{"subject": "Ungli", "object": "Hindi", "taxonomy": ["German", "Malayalam", "English", "Greek", "Thai"]}
+{"subject": "Yamudiki Mogudu", "object": "Telugu", "taxonomy": ["Norwegian", "Kannada", "Spanish", "Turkish", "Marathi"]}
+{"subject": "Vipra Narayana", "object": "Tamil", "taxonomy": ["Swedish", "Estonian", "English", "Bengali", "Spanish"]}
+{"subject": "Kanoon", "object": "Hindi", "taxonomy": ["Irish", "Icelandic", "Telugu", "Scots", "Sanskrit"]}
+{"subject": "Anarchist Studies", "object": "English", "taxonomy": ["Russian", "Irish", "Turkish", "Welsh", "Montenegrin"]}
+{"subject": "Inspector Gadget", "object": "French", "taxonomy": ["Croatian", "Filipino", "Bengali", "Breton", "Portuguese"]}
+{"subject": "April Captains", "object": "Portuguese", "taxonomy": ["Egyptian", "English", "Norwegian", "Tamil", "Greek"]}
+{"subject": "Aalwar", "object": "Tamil", "taxonomy": ["Marathi", "Latin", "Urdu", "Slovene", "Turkish"]}
+{"subject": "Times Higher Education", "object": "English", "taxonomy": ["Urdu", "Welsh", "Estonian", "Chinese", "German"]}
+{"subject": "The Real Housewives of Beverly Hills", "object": "English", "taxonomy": ["Icelandic", "French", "Hungarian", "Spanish", "Sanskrit"]}
+{"subject": "Turner & Hooch", "object": "English", "taxonomy": ["Catalan", "Russian", "Punjabi", "Sanskrit", "Persian"]}
+{"subject": "Sorga Ka Toedjoe", "object": "Indonesian", "taxonomy": ["English", "Bulgarian", "Korean", "Polish", "Hindi"]}
+{"subject": "Crossing Jordan", "object": "English", "taxonomy": ["Polish", "Telugu", "Chinese", "Estonian", "Finnish"]}
+{"subject": "Slumdog Millionaire", "object": "English", "taxonomy": ["Greek", "Bengali", "Norwegian", "Bulgarian", "French"]}
+{"subject": "An Englishman Abroad", "object": "English", "taxonomy": ["Italian", "Spanish", "Scots", "Serbian", "Filipino"]}
+{"subject": "Uspekhi Fizicheskikh Nauk", "object": "Russian", "taxonomy": ["Ukrainian", "Bengali", "Icelandic", "Norwegian", "English"]}
+{"subject": "Usha Parinayam", "object": "Telugu", "taxonomy": ["Spanish", "Korean", "Serbian", "Hebrew", "Hindi"]}
+{"subject": "Kadhalil Sodhappuvadhu Yeppadi", "object": "Tamil", "taxonomy": ["Urdu", "Turkish", "Georgian", "Kannada", "French"]}
+{"subject": "Boss Engira Bhaskaran", "object": "Tamil", "taxonomy": ["French", "Chinese", "Urdu", "Hungarian", "Welsh"]}
+{"subject": "A Secret", "object": "French", "taxonomy": ["Ukrainian", "Catalan", "Russian", "Indonesian", "Hebrew"]}
+{"subject": "Bye Bye Brasil", "object": "Portuguese", "taxonomy": ["Tamil", "Norwegian", "Icelandic", "Slovene", "Czech"]}
+{"subject": "Ossessione", "object": "Italian", "taxonomy": ["Danish", "Portuguese", "Kannada", "Catalan", "Filipino"]}
+{"subject": "Vjesnik", "object": "Croatian", "taxonomy": ["Korean", "Bulgarian", "Hebrew", "Bengali", "Egyptian"]}
+{"subject": "Memoirs of Hadrian", "object": "French", "taxonomy": ["Russian", "Spanish", "Greek", "Filipino", "Romanian"]}
+{"subject": "Rhoda", "object": "English", "taxonomy": ["Dutch", "Korean", "Catalan", "Marathi", "Chinese"]}
+{"subject": "The Vicomte of Bragelonne: Ten Years Later", "object": "French", "taxonomy": ["Georgian", "Czech", "Romanian", "Greek", "Ukrainian"]}
+{"subject": "Polish Biographical Dictionary", "object": "Polish", "taxonomy": ["Tamil", "Dutch", "Serbian", "Slovene", "Bengali"]}
+{"subject": "Ukrayina maye talant", "object": "Ukrainian", "taxonomy": ["Welsh", "Hebrew", "Bengali", "Danish", "Georgian"]}
+{"subject": "Akademi Fantasi Indosiar", "object": "Indonesian", "taxonomy": ["Thai", "Welsh", "Filipino", "Polish", "Greek"]}
+{"subject": "Komban", "object": "Tamil", "taxonomy": ["Italian", "Welsh", "French", "Indonesian", "Ukrainian"]}
+{"subject": "Under the North Star", "object": "Finnish", "taxonomy": ["Indonesian", "Marathi", "Russian", "Georgian", "Romanian"]}
+{"subject": "Le Devoir", "object": "French", "taxonomy": ["Punjabi", "English", "Serbian", "Italian", "Sanskrit"]}
+{"subject": "Bojhena Shey Bojhena", "object": "Bengali", "taxonomy": ["Croatian", "Malayalam", "Dutch", "Montenegrin", "Serbian"]}
+{"subject": "The Magic Flute", "object": "Swedish", "taxonomy": ["Telugu", "German", "Hebrew", "Turkish", "Marathi"]}
+{"subject": "Delusions of Grandeur", "object": "French", "taxonomy": ["Croatian", "Icelandic", "Montenegrin", "Punjabi", "Urdu"]}
+{"subject": "Young Foolish Happy", "object": "English", "taxonomy": ["Georgian", "Norwegian", "Czech", "Hebrew", "Slovene"]}
+{"subject": "Server Sundaram", "object": "Tamil", "taxonomy": ["Ukrainian", "Telugu", "Bulgarian", "German", "Indonesian"]}
+{"subject": "Kanooru Heggadithi", "object": "Kannada", "taxonomy": ["Egyptian", "Scots", "Spanish", "Portuguese", "Urdu"]}
+{"subject": "Amrithadhare", "object": "Kannada", "taxonomy": ["Punjabi", "Italian", "Croatian", "Tamil", "Czech"]}
+{"subject": "Michael Madana Kama Rajan", "object": "Tamil", "taxonomy": ["Serbian", "Romanian", "Ukrainian", "Estonian", "Latin"]}
+{"subject": "Flashdance", "object": "English", "taxonomy": ["Marathi", "Sanskrit", "Czech", "Turkish", "Irish"]}
+{"subject": "The Suspended Vocation", "object": "French", "taxonomy": ["Sanskrit", "Marathi", "Bulgarian", "Greek", "Malayalam"]}
+{"subject": "Khokababu", "object": "Bengali", "taxonomy": ["Marathi", "Bulgarian", "Croatian", "Finnish", "Persian"]}
+{"subject": "Nine Months", "object": "English", "taxonomy": ["Korean", "Scots", "Norwegian", "Dutch", "Hindi"]}
+{"subject": "The Exterminating Angel", "object": "Spanish", "taxonomy": ["Irish", "German", "English", "Italian", "Thai"]}
+{"subject": "Die Zeit", "object": "German", "taxonomy": ["Croatian", "Scots", "Marathi", "Estonian", "Portuguese"]}
+{"subject": "The Easy Life", "object": "Italian", "taxonomy": ["Swedish", "Russian", "Malayalam", "Spanish", "Sanskrit"]}
+{"subject": "Charm School with Ricki Lake", "object": "English", "taxonomy": ["Urdu", "French", "Korean", "German", "Croatian"]}
+{"subject": "Vijetha", "object": "Telugu", "taxonomy": ["Bulgarian", "Sanskrit", "Bengali", "Ukrainian", "Italian"]}
+{"subject": "Il conformista", "object": "Italian", "taxonomy": ["Chinese", "Ukrainian", "German", "Estonian", "Bengali"]}
+{"subject": "Jab Pyaar Kisise Hota Hai", "object": "Hindi", "taxonomy": ["Ukrainian", "Georgian", "Persian", "Filipino", "Bengali"]}
+{"subject": "Gia", "object": "English", "taxonomy": ["Persian", "Hungarian", "Latin", "Tamil", "Polish"]}
+{"subject": "The Lancet", "object": "English", "taxonomy": ["Persian", "Slovene", "Czech", "Marathi", "Indonesian"]}
+{"subject": "Anhey Ghorhey Da Daan", "object": "Punjabi", "taxonomy": ["Greek", "Malayalam", "Indonesian", "Serbian", "Egyptian"]}
+{"subject": "Vishwaroopam", "object": "Hindi", "taxonomy": ["English", "Chinese", "Indonesian", "Filipino", "Montenegrin"]}
+{"subject": "Nature", "object": "English", "taxonomy": ["Portuguese", "Marathi", "Polish", "Turkish", "Czech"]}
+{"subject": "Full House", "object": "English", "taxonomy": ["Filipino", "German", "Georgian", "Irish", "Chinese"]}
+{"subject": "Book of Haggai", "object": "Hebrew", "taxonomy": ["Greek", "Spanish", "Welsh", "Danish", "Turkish"]}
+{"subject": "Aval Oru Thodar Kathai", "object": "Tamil", "taxonomy": ["Swedish", "Romanian", "Estonian", "Hebrew", "Slovene"]}
+{"subject": "La Stampa", "object": "Italian", "taxonomy": ["Romanian", "Chinese", "Icelandic", "Tamil", "Portuguese"]}
+{"subject": "Journey Beyond Three Seas", "object": "Hindi", "taxonomy": ["Montenegrin", "German", "Egyptian", "Turkish", "Icelandic"]}
+{"subject": "The Mistress of the Inn", "object": "Italian", "taxonomy": ["Portuguese", "Malayalam", "Breton", "Russian", "Chinese"]}
+{"subject": "The Red Sea Sharks", "object": "French", "taxonomy": ["Welsh", "Estonian", "Breton", "Telugu", "Indonesian"]}
+{"subject": "A Chinese Ghost Story", "object": "Chinese", "taxonomy": ["Telugu", "Greek", "Romanian", "Breton", "Indonesian"]}
+{"subject": "Aamra", "object": "Bengali", "taxonomy": ["Icelandic", "Sanskrit", "German", "Filipino", "Persian"]}
+{"subject": "Camino de Perfección", "object": "Spanish", "taxonomy": ["Swedish", "Kannada", "Bengali", "Hungarian", "Czech"]}
+{"subject": "Sati Sulochana", "object": "Kannada", "taxonomy": ["French", "Czech", "Sanskrit", "Egyptian", "Tamil"]}
+{"subject": "Peddarikam", "object": "Telugu", "taxonomy": ["Malayalam", "Swedish", "Irish", "Serbian", "Kannada"]}
+{"subject": "El Debate", "object": "Spanish", "taxonomy": ["Dutch", "Filipino", "Russian", "Sanskrit", "Finnish"]}
+{"subject": "Flodder", "object": "Dutch", "taxonomy": ["Indonesian", "Korean", "Danish", "Kannada", "Marathi"]}
+{"subject": "Daruchini Dip", "object": "Bengali", "taxonomy": ["Latin", "Portuguese", "Korean", "Croatian", "Icelandic"]}
+{"subject": "Vasantham", "object": "Telugu", "taxonomy": ["Indonesian", "Czech", "Malayalam", "Punjabi", "Marathi"]}
+{"subject": "Phi-Phi", "object": "French", "taxonomy": ["Hebrew", "Urdu", "Finnish", "Turkish", "Indonesian"]}
+{"subject": "Chupke Chupke", "object": "Hindi", "taxonomy": ["Greek", "Chinese", "Italian", "Bengali", "Marathi"]}
+{"subject": "Krishnarjuna", "object": "Telugu", "taxonomy": ["Bulgarian", "German", "Turkish", "Serbian", "Finnish"]}
+{"subject": "The Bald Soprano", "object": "French", "taxonomy": ["Egyptian", "Norwegian", "Russian", "Polish", "Greek"]}
+{"subject": "Ambush", "object": "Finnish", "taxonomy": ["Thai", "Romanian", "Hindi", "Irish", "Sanskrit"]}
+{"subject": "The Knock", "object": "English", "taxonomy": ["Montenegrin", "Persian", "Telugu", "Hebrew", "Marathi"]}
+{"subject": "Mine Own Executioner", "object": "English", "taxonomy": ["Portuguese", "Catalan", "German", "Korean", "Tamil"]}
+{"subject": "Il prigioniero", "object": "Italian", "taxonomy": ["English", "Czech", "Bengali", "Chinese", "Malayalam"]}
+{"subject": "Van der Valk", "object": "English", "taxonomy": ["Marathi", "Italian", "Bengali", "Hindi", "Finnish"]}
+{"subject": "The Guarani", "object": "Portuguese", "taxonomy": ["Marathi", "Hebrew", "Irish", "Persian", "Hungarian"]}
+{"subject": "Haemoo", "object": "Korean", "taxonomy": ["Kannada", "Swedish", "Finnish", "Scots", "Hindi"]}
+{"subject": "RocknRolla", "object": "English", "taxonomy": ["Marathi", "Tamil", "Persian", "Serbian", "Hindi"]}
+{"subject": "Rakshak", "object": "Hindi", "taxonomy": ["Urdu", "Norwegian", "Montenegrin", "Italian", "Scots"]}
+{"subject": "Mouna Ragam", "object": "Tamil", "taxonomy": ["Estonian", "Spanish", "Kannada", "Catalan", "Georgian"]}
+{"subject": "La dama boba", "object": "Spanish", "taxonomy": ["Montenegrin", "French", "Danish", "Filipino", "Georgian"]}
+{"subject": "Le Petit Nicolas", "object": "French", "taxonomy": ["Estonian", "Slovene", "Croatian", "Georgian", "Scots"]}
+{"subject": "Kirkus Reviews", "object": "English", "taxonomy": ["German", "Irish", "Urdu", "Welsh", "Marathi"]}
+{"subject": "Jonny Vang", "object": "Norwegian", "taxonomy": ["Urdu", "Korean", "Catalan", "Welsh", "Egyptian"]}
+{"subject": "Sanjha", "object": "Urdu", "taxonomy": ["Swedish", "Norwegian", "Hungarian", "Thai", "Bulgarian"]}
+{"subject": "Chaarulatha", "object": "Tamil", "taxonomy": ["Thai", "French", "Egyptian", "Latin", "Serbian"]}
+{"subject": "Ullam Ketkumae", "object": "Tamil", "taxonomy": ["Portuguese", "Korean", "Hungarian", "Telugu", "Chinese"]}
+{"subject": "A Cinderella Story", "object": "English", "taxonomy": ["Catalan", "Persian", "Welsh", "Ukrainian", "Telugu"]}
+{"subject": "WCW Monday Nitro", "object": "English", "taxonomy": ["Polish", "Hebrew", "Italian", "Ukrainian", "Korean"]}
+{"subject": "Your Highness", "object": "English", "taxonomy": ["Italian", "Turkish", "Polish", "Hebrew", "Irish"]}
+{"subject": "Chicago Reader", "object": "English", "taxonomy": ["Hebrew", "Malayalam", "Catalan", "Welsh", "Indonesian"]}
+{"subject": "Juliet Bravo", "object": "English", "taxonomy": ["Ukrainian", "Scots", "Latin", "Polish", "Portuguese"]}
+{"subject": "Duniya Na Mane", "object": "Hindi", "taxonomy": ["Welsh", "Russian", "Scots", "Korean", "Breton"]}
+{"subject": "The Forsyte Saga", "object": "English", "taxonomy": ["French", "Serbian", "Hebrew", "Kannada", "Spanish"]}
+{"subject": "Early Doors", "object": "English", "taxonomy": ["Italian", "Finnish", "Filipino", "Scots", "Hungarian"]}
+{"subject": "Heima", "object": "Icelandic", "taxonomy": ["Montenegrin", "Dutch", "Persian", "Slovene", "German"]}
+{"subject": "De pictura", "object": "Italian", "taxonomy": ["Filipino", "Icelandic", "Georgian", "Latin", "Chinese"]}
+{"subject": "Tum Jo Miley", "object": "Urdu", "taxonomy": ["Indonesian", "Kannada", "Croatian", "Estonian", "Bulgarian"]}
+{"subject": "Low-Life", "object": "English", "taxonomy": ["Croatian", "Italian", "Urdu", "Norwegian", "Serbian"]}
+{"subject": "Madeline", "object": "English", "taxonomy": ["German", "Serbian", "Spanish", "Swedish", "Slovene"]}
+{"subject": "Dhool", "object": "Tamil", "taxonomy": ["Swedish", "Urdu", "Hindi", "Thai", "Telugu"]}
+{"subject": "The Godfather", "object": "English", "taxonomy": ["Portuguese", "Indonesian", "German", "Thai", "Punjabi"]}
+{"subject": "A Certain Smile", "object": "French", "taxonomy": ["Danish", "Marathi", "Sanskrit", "Telugu", "Polish"]}
+{"subject": "The Sucker", "object": "French", "taxonomy": ["Hungarian", "Indonesian", "Estonian", "Dutch", "Italian"]}
+{"subject": "International Political Sociology", "object": "English", "taxonomy": ["Marathi", "Portuguese", "Irish", "Finnish", "Bengali"]}
+{"subject": "Isabel", "object": "Spanish", "taxonomy": ["Bengali", "Marathi", "Hebrew", "Croatian", "Romanian"]}
+{"subject": "Maro Charithra", "object": "Telugu", "taxonomy": ["Turkish", "Ukrainian", "Romanian", "Malayalam", "Catalan"]}
+{"subject": "The Secret in Their Eyes", "object": "Spanish", "taxonomy": ["Marathi", "Chinese", "Breton", "Norwegian", "Irish"]}
+{"subject": "Tata Birla Madhyalo Laila", "object": "Telugu", "taxonomy": ["Sanskrit", "Hindi", "Thai", "Scots", "Croatian"]}
+{"subject": "La Commune", "object": "French", "taxonomy": ["Welsh", "Malayalam", "Romanian", "Italian", "Marathi"]}
+{"subject": "Emotional Rescue", "object": "English", "taxonomy": ["Finnish", "Catalan", "Norwegian", "Latin", "Sanskrit"]}
+{"subject": "The Dune Encyclopedia", "object": "English", "taxonomy": ["Chinese", "Swedish", "Tamil", "Danish", "Egyptian"]}
+{"subject": "Organic Articles", "object": "French", "taxonomy": ["Thai", "Ukrainian", "Portuguese", "Montenegrin", "Welsh"]}
+{"subject": "28 Weeks Later", "object": "English", "taxonomy": ["Welsh", "Punjabi", "Slovene", "German", "Persian"]}
+{"subject": "The Flying Dutchman", "object": "German", "taxonomy": ["Norwegian", "English", "Montenegrin", "Slovene", "Greek"]}
+{"subject": "Kotikatu", "object": "Finnish", "taxonomy": ["Persian", "Italian", "Portuguese", "Romanian", "French"]}
+{"subject": "Bizarre, Bizarre", "object": "French", "taxonomy": ["Malayalam", "Thai", "Korean", "Telugu", "Icelandic"]}
+{"subject": "At Swim-Two-Birds", "object": "English", "taxonomy": ["Croatian", "Hungarian", "Korean", "Romanian", "Urdu"]}
+{"subject": "My New Partner", "object": "French", "taxonomy": ["Filipino", "Russian", "Telugu", "Croatian", "Hindi"]}
+{"subject": "R.U.R.", "object": "Czech", "taxonomy": ["Slovene", "Dutch", "Bengali", "Swedish", "Romanian"]}
+{"subject": "Bella Notte", "object": "Italian", "taxonomy": ["Swedish", "English", "Turkish", "Persian", "Greek"]}
+{"subject": "Likkutei Sichos", "object": "Hebrew", "taxonomy": ["Korean", "Hungarian", "Scots", "Chinese", "Slovene"]}
+{"subject": "True Romance", "object": "English", "taxonomy": ["Romanian", "German", "Icelandic", "Egyptian", "Finnish"]}
+{"subject": "Nu ska vi sjunga", "object": "Swedish", "taxonomy": ["Catalan", "Hungarian", "Breton", "Spanish", "Dutch"]}
+{"subject": "The Register", "object": "English", "taxonomy": ["Italian", "Georgian", "Czech", "Thai", "French"]}
+{"subject": "Mad TV", "object": "English", "taxonomy": ["Urdu", "Telugu", "Persian", "Korean", "Sanskrit"]}
+{"subject": "Iru Kodugal", "object": "Tamil", "taxonomy": ["Georgian", "Kannada", "Marathi", "Icelandic", "Polish"]}
+{"subject": "Conjunctions", "object": "English", "taxonomy": ["Serbian", "Norwegian", "Telugu", "Estonian", "Greek"]}
+{"subject": "Somersault in a Coffin", "object": "Turkish", "taxonomy": ["Kannada", "Ukrainian", "Portuguese", "Tamil", "German"]}
+{"subject": "Khamosh", "object": "Hindi", "taxonomy": ["Greek", "English", "Persian", "Polish", "Thai"]}
+{"subject": "Murder Call", "object": "English", "taxonomy": ["Danish", "Punjabi", "Spanish", "Korean", "Russian"]}
+{"subject": "Bad Boys II", "object": "English", "taxonomy": ["Malayalam", "Scots", "Indonesian", "Marathi", "Croatian"]}
+{"subject": "Solamente Vos", "object": "Spanish", "taxonomy": ["Scots", "Montenegrin", "Czech", "Hindi", "Danish"]}
+{"subject": "Mishnah Berurah", "object": "Hebrew", "taxonomy": ["Persian", "Slovene", "Bengali", "Egyptian", "Marathi"]}
+{"subject": "Devi Chaudhurani", "object": "Bengali", "taxonomy": ["Urdu", "Filipino", "Estonian", "Serbian", "Persian"]}
+{"subject": "Monsieur Gangster", "object": "French", "taxonomy": ["Czech", "Thai", "Catalan", "Tamil", "Turkish"]}
+{"subject": "The Bitch", "object": "English", "taxonomy": ["Bulgarian", "Czech", "Egyptian", "Chinese", "Turkish"]}
+{"subject": "Ghostbusters", "object": "English", "taxonomy": ["Czech", "Latin", "Montenegrin", "Telugu", "Malayalam"]}
+{"subject": "The Hour-Glass Sanatorium", "object": "Polish", "taxonomy": ["Indonesian", "Portuguese", "Serbian", "Hungarian", "Irish"]}
+{"subject": "The Beatles", "object": "English", "taxonomy": ["Estonian", "Bengali", "Greek", "Portuguese", "Hindi"]}
+{"subject": "Padaharella Vayasu", "object": "Telugu", "taxonomy": ["Bulgarian", "Hindi", "Serbian", "Chinese", "Croatian"]}
+{"subject": "De finibus bonorum et malorum", "object": "Latin", "taxonomy": ["Russian", "Welsh", "Thai", "Slovene", "Portuguese"]}
+{"subject": "Socha Na Tha", "object": "Hindi", "taxonomy": ["Georgian", "Scots", "Italian", "Portuguese", "Korean"]}
+{"subject": "Schilder-boeck", "object": "Dutch", "taxonomy": ["Indonesian", "Kannada", "Breton", "Egyptian", "Thai"]}
+{"subject": "Tokyo Pop", "object": "English", "taxonomy": ["Italian", "Romanian", "Malayalam", "Korean", "Spanish"]}
+{"subject": "Vettai", "object": "Tamil", "taxonomy": ["Serbian", "Thai", "German", "Italian", "Catalan"]}
+{"subject": "The Thief of Paris", "object": "French", "taxonomy": ["Spanish", "Breton", "Thai", "Sanskrit", "Swedish"]}
+{"subject": "Les diamants de la couronne", "object": "French", "taxonomy": ["Hebrew", "Tamil", "Bengali", "Kannada", "Icelandic"]}
+{"subject": "Alaipayuthey", "object": "Tamil", "taxonomy": ["Filipino", "Finnish", "Greek", "Portuguese", "Polish"]}
+{"subject": "The Stolen Children", "object": "Italian", "taxonomy": ["Montenegrin", "Malayalam", "Norwegian", "Danish", "Chinese"]}
+{"subject": "The Three Musketeers", "object": "French", "taxonomy": ["Polish", "Chinese", "Norwegian", "Icelandic", "Bengali"]}
+{"subject": "Krapp's Last Tape", "object": "English", "taxonomy": ["French", "Ukrainian", "Persian", "Romanian", "Bulgarian"]}
+{"subject": "Nuremberg Chronicle", "object": "Latin", "taxonomy": ["Marathi", "Icelandic", "Urdu", "Romanian", "Welsh"]}
+{"subject": "Amarcord", "object": "Italian", "taxonomy": ["Norwegian", "German", "Russian", "Greek", "Estonian"]}
+{"subject": "Thulladha Manamum Thullum", "object": "Tamil", "taxonomy": ["Croatian", "Polish", "Romanian", "Breton", "Egyptian"]}
+{"subject": "Cat City", "object": "Hungarian", "taxonomy": ["Breton", "Georgian", "Ukrainian", "Urdu", "Thai"]}
+{"subject": "The Greatest Gift", "object": "English", "taxonomy": ["Thai", "Chinese", "Greek", "Telugu", "Bengali"]}
+{"subject": "Kadhal Sadugudu", "object": "Tamil", "taxonomy": ["Marathi", "Kannada", "Norwegian", "Filipino", "Greek"]}
+{"subject": "Ciske de Rat trilogy", "object": "Dutch", "taxonomy": ["Egyptian", "Irish", "Estonian", "Chinese", "Swedish"]}
+{"subject": "Ready to Die", "object": "English", "taxonomy": ["Swedish", "Korean", "Icelandic", "Bengali", "French"]}
+{"subject": "The White Reindeer", "object": "Finnish", "taxonomy": ["Portuguese", "Welsh", "Irish", "Indonesian", "Danish"]}
+{"subject": "Solva Saal", "object": "Hindi", "taxonomy": ["Bengali", "Catalan", "Persian", "French", "Urdu"]}
+{"subject": "A Man of Straw", "object": "Italian", "taxonomy": ["Persian", "Russian", "Estonian", "Romanian", "Kannada"]}
+{"subject": "I Am Number Four", "object": "English", "taxonomy": ["Croatian", "Turkish", "Spanish", "Sanskrit", "Icelandic"]}
+{"subject": "The Kathmandu Post", "object": "English", "taxonomy": ["Slovene", "Dutch", "Serbian", "Czech", "Indonesian"]}
+{"subject": "Okkadu", "object": "Telugu", "taxonomy": ["Latin", "Norwegian", "Malayalam", "Hebrew", "Russian"]}
+{"subject": "Alik Sukh", "object": "Bengali", "taxonomy": ["Russian", "Portuguese", "Danish", "Indonesian", "Persian"]}
+{"subject": "Womanlight", "object": "French", "taxonomy": ["Ukrainian", "Sanskrit", "Russian", "Breton", "Latin"]}
+{"subject": "Thiruppugazh", "object": "Tamil", "taxonomy": ["Bengali", "Punjabi", "Slovene", "Estonian", "Portuguese"]}
+{"subject": "Do Not Disturb", "object": "English", "taxonomy": ["Breton", "Punjabi", "Egyptian", "Georgian", "Marathi"]}
+{"subject": "An Iceland Fisherman", "object": "French", "taxonomy": ["Chinese", "Hindi", "Russian", "Latin", "Kannada"]}
+{"subject": "Kavkaz Center", "object": "Russian", "taxonomy": ["Egyptian", "Swedish", "Danish", "English", "Tamil"]}
+{"subject": "La Crise", "object": "French", "taxonomy": ["Slovene", "Egyptian", "Kannada", "Turkish", "Catalan"]}
+{"subject": "Angadi Theru", "object": "Tamil", "taxonomy": ["Urdu", "Catalan", "Bulgarian", "Korean", "Dutch"]}
+{"subject": "Wah-Wah", "object": "English", "taxonomy": ["Spanish", "Punjabi", "Thai", "Polish", "Persian"]}
+{"subject": "Brookside", "object": "English", "taxonomy": ["French", "Slovene", "Turkish", "Montenegrin", "Portuguese"]}
+{"subject": "The Main Chance", "object": "English", "taxonomy": ["Malayalam", "Bulgarian", "Chinese", "Russian", "Turkish"]}
+{"subject": "Tiruvacakam", "object": "Tamil", "taxonomy": ["Sanskrit", "Latin", "Filipino", "Scots", "Spanish"]}
+{"subject": "Introducing Joss Stone", "object": "English", "taxonomy": ["Spanish", "Scots", "Persian", "Catalan", "Czech"]}
+{"subject": "Die Nibelungen", "object": "German", "taxonomy": ["Latin", "Serbian", "Bengali", "Scots", "Hungarian"]}
+{"subject": "The Shining Star", "object": "Chinese", "taxonomy": ["Egyptian", "French", "Italian", "Spanish", "Marathi"]}
+{"subject": "Dutch Wikipedia", "object": "Dutch", "taxonomy": ["Turkish", "Tamil", "Norwegian", "Portuguese", "Marathi"]}
+{"subject": "Hollyoaks", "object": "English", "taxonomy": ["Greek", "Russian", "Czech", "Tamil", "Korean"]}
+{"subject": "MasterChef", "object": "English", "taxonomy": ["Urdu", "Chinese", "Russian", "Slovene", "Indonesian"]}
+{"subject": "Respiro", "object": "Italian", "taxonomy": ["Tamil", "Estonian", "Indonesian", "Polish", "Kannada"]}
+{"subject": "Being Julia", "object": "English", "taxonomy": ["Hindi", "Catalan", "Chinese", "Russian", "French"]}
+{"subject": "Quickie Express", "object": "Indonesian", "taxonomy": ["Egyptian", "Finnish", "Breton", "Czech", "Bengali"]}
+{"subject": "Flower Island", "object": "Korean", "taxonomy": ["Irish", "Portuguese", "Tamil", "Bulgarian", "Finnish"]}
+{"subject": "Le Globe", "object": "French", "taxonomy": ["Danish", "Welsh", "Hungarian", "Spanish", "Egyptian"]}
+{"subject": "Lapland Odyssey", "object": "Finnish", "taxonomy": ["Norwegian", "English", "Croatian", "Egyptian", "Welsh"]}
+{"subject": "Charlie Hebdo", "object": "French", "taxonomy": ["Greek", "Chinese", "Latin", "Georgian", "Montenegrin"]}
+{"subject": "Avishkaar", "object": "Hindi", "taxonomy": ["Indonesian", "Tamil", "German", "Czech", "Latin"]}
+{"subject": "Casa de Mi Padre", "object": "Spanish", "taxonomy": ["German", "Montenegrin", "Scots", "Hindi", "Czech"]}
+{"subject": "Independent People", "object": "Icelandic", "taxonomy": ["Italian", "Malayalam", "Egyptian", "Persian", "Montenegrin"]}
+{"subject": "Maravil Thirivu Sookshikkuka", "object": "Malayalam", "taxonomy": ["Georgian", "Breton", "English", "Italian", "Croatian"]}
+{"subject": "Pulp Fiction", "object": "English", "taxonomy": ["Greek", "Hindi", "Hungarian", "Urdu", "Punjabi"]}
+{"subject": "A Different World", "object": "English", "taxonomy": ["German", "Breton", "Czech", "Danish", "Filipino"]}
+{"subject": "L'Age d'Or", "object": "French", "taxonomy": ["Bengali", "Catalan", "Norwegian", "Welsh", "Ukrainian"]}
+{"subject": "Y Gododdin", "object": "Welsh", "taxonomy": ["Finnish", "Slovene", "Scots", "Breton", "Danish"]}
+{"subject": "Modati Cinema", "object": "Telugu", "taxonomy": ["Spanish", "Persian", "Punjabi", "German", "Portuguese"]}
+{"subject": "Gagak Item", "object": "Indonesian", "taxonomy": ["Catalan", "Irish", "Sanskrit", "Korean", "Chinese"]}
+{"subject": "Unnai Thedi", "object": "Tamil", "taxonomy": ["Urdu", "Thai", "Turkish", "Serbian", "Romanian"]}
+{"subject": "Placenames Database of Ireland", "object": "Irish", "taxonomy": ["Turkish", "Malayalam", "Dutch", "Croatian", "Danish"]}
+{"subject": "Amar en tiempos revueltos", "object": "Spanish", "taxonomy": ["Filipino", "Hungarian", "Italian", "Portuguese", "Chinese"]}
+{"subject": "The Horseman on the Roof", "object": "French", "taxonomy": ["Finnish", "Estonian", "Georgian", "Italian", "Russian"]}
+{"subject": "Jodi Number One", "object": "Tamil", "taxonomy": ["Russian", "Breton", "Latin", "Bengali", "Hebrew"]}
+{"subject": "Life Is a Miracle", "object": "Serbian", "taxonomy": ["Russian", "Punjabi", "Croatian", "Tamil", "Norwegian"]}
+{"subject": "Mujrim", "object": "Hindi", "taxonomy": ["Thai", "Hungarian", "Estonian", "Filipino", "Polish"]}
+{"subject": "Maria Chapdelaine", "object": "French", "taxonomy": ["Hindi", "Latin", "Slovene", "Italian", "Hungarian"]}
+{"subject": "The Keys to the House", "object": "Italian", "taxonomy": ["Montenegrin", "Chinese", "Dutch", "Scots", "Ukrainian"]}
+{"subject": "Rosa Diamante", "object": "Spanish", "taxonomy": ["Urdu", "Italian", "Scots", "Hindi", "Romanian"]}
+{"subject": "Waarish", "object": "Bengali", "taxonomy": ["Ukrainian", "German", "Croatian", "Filipino", "Danish"]}
+{"subject": "Enthiran", "object": "Tamil", "taxonomy": ["English", "Scots", "Portuguese", "Estonian", "Breton"]}
+{"subject": "Shahenshah", "object": "Hindi", "taxonomy": ["Croatian", "Egyptian", "Hebrew", "Romanian", "Korean"]}
+{"subject": "Ek Chalis Ki Last Local", "object": "Hindi", "taxonomy": ["Korean", "Bulgarian", "Swedish", "Greek", "Czech"]}
+{"subject": "Cold Feet", "object": "English", "taxonomy": ["Danish", "Romanian", "Ukrainian", "Egyptian", "Chinese"]}
+{"subject": "Front Page Challenge", "object": "English", "taxonomy": ["Indonesian", "Kannada", "Serbian", "Czech", "Irish"]}
+{"subject": "Vattaram", "object": "Tamil", "taxonomy": ["Scots", "Dutch", "Estonian", "Korean", "Thai"]}
+{"subject": "Pitchfork", "object": "English", "taxonomy": ["Swedish", "Portuguese", "Scots", "Bengali", "Latin"]}
+{"subject": "Intimate Stories", "object": "Spanish", "taxonomy": ["Serbian", "Romanian", "German", "Persian", "Swedish"]}
+{"subject": "The Land Girls", "object": "English", "taxonomy": ["Thai", "Spanish", "Swedish", "Kannada", "Russian"]}
+{"subject": "The Icelandic Dream", "object": "Icelandic", "taxonomy": ["Georgian", "Bulgarian", "German", "Breton", "Thai"]}
+{"subject": "Nationalencyklopedin", "object": "Swedish", "taxonomy": ["Hebrew", "Ukrainian", "Malayalam", "Egyptian", "Slovene"]}
+{"subject": "Magalir Mattum", "object": "Tamil", "taxonomy": ["Urdu", "Bulgarian", "Catalan", "Chinese", "Georgian"]}
+{"subject": "Mana Voori Pandavulu", "object": "Telugu", "taxonomy": ["Turkish", "English", "Punjabi", "Greek", "German"]}
+{"subject": "El Correo", "object": "Spanish", "taxonomy": ["Malayalam", "Portuguese", "Sanskrit", "Tamil", "Croatian"]}
+{"subject": "Uutisvuoto", "object": "Finnish", "taxonomy": ["Spanish", "Urdu", "Chinese", "Bulgarian", "Catalan"]}
+{"subject": "Un Paso Adelante", "object": "Spanish", "taxonomy": ["Indonesian", "Montenegrin", "English", "Bulgarian", "Icelandic"]}
+{"subject": "The Good, the Bad and the Ugly", "object": "Italian", "taxonomy": ["Danish", "Portuguese", "Latin", "Polish", "Filipino"]}
+{"subject": "Diplomacy", "object": "French", "taxonomy": ["Irish", "Malayalam", "English", "Persian", "Filipino"]}
+{"subject": "Hail Mary", "object": "French", "taxonomy": ["Greek", "Thai", "Catalan", "Danish", "Welsh"]}
+{"subject": "The Crime of Father Amaro", "object": "Spanish", "taxonomy": ["Bengali", "Indonesian", "Filipino", "Malayalam", "Serbian"]}
+{"subject": "Sator Square", "object": "Latin", "taxonomy": ["Malayalam", "Sanskrit", "Chinese", "Telugu", "Hebrew"]}
+{"subject": "The Fast and the Furious", "object": "English", "taxonomy": ["Malayalam", "Bengali", "Portuguese", "Estonian", "Romanian"]}
+{"subject": "Le Juste Prix", "object": "French", "taxonomy": ["Bulgarian", "Latin", "Russian", "German", "Korean"]}
+{"subject": "The Immoralist", "object": "French", "taxonomy": ["Egyptian", "Filipino", "Croatian", "Catalan", "Welsh"]}
+{"subject": "The Broken Ear", "object": "French", "taxonomy": ["Breton", "Chinese", "Estonian", "Korean", "Norwegian"]}
+{"subject": "Jack Holborn", "object": "English", "taxonomy": ["Polish", "Georgian", "Scots", "Hungarian", "Hebrew"]}
+{"subject": "La favorite", "object": "French", "taxonomy": ["Italian", "Catalan", "Malayalam", "Serbian", "Tamil"]}
+{"subject": "The Tenant", "object": "French", "taxonomy": ["Egyptian", "Hindi", "Danish", "Catalan", "Russian"]}
+{"subject": "How I Ended This Summer", "object": "Russian", "taxonomy": ["Tamil", "Polish", "Irish", "Punjabi", "Urdu"]}
+{"subject": "Parattai Engira Azhagu Sundaram", "object": "Tamil", "taxonomy": ["Slovene", "Malayalam", "Finnish", "Korean", "Sanskrit"]}
+{"subject": "Exercises in Style", "object": "French", "taxonomy": ["Swedish", "Kannada", "Urdu", "Scots", "Italian"]}
+{"subject": "A Cage of Nightingales", "object": "French", "taxonomy": ["Spanish", "Chinese", "Irish", "Latin", "Marathi"]}
+{"subject": "Jar City", "object": "Icelandic", "taxonomy": ["Swedish", "Bengali", "Thai", "Urdu", "Bulgarian"]}
+{"subject": "Akashadoothu", "object": "Malayalam", "taxonomy": ["Tamil", "Egyptian", "Slovene", "Ukrainian", "Welsh"]}
+{"subject": "I Am My Own Wife", "object": "English", "taxonomy": ["Catalan", "Serbian", "Indonesian", "Montenegrin", "Italian"]}
+{"subject": "De Officiis", "object": "Latin", "taxonomy": ["Polish", "Slovene", "Hindi", "Telugu", "Filipino"]}
+{"subject": "Jagga Daku", "object": "Punjabi", "taxonomy": ["Greek", "Montenegrin", "Serbian", "Filipino", "Ukrainian"]}
+{"subject": "Doida Por Ti", "object": "Portuguese", "taxonomy": ["Telugu", "Croatian", "Norwegian", "Irish", "Bengali"]}
+{"subject": "The Magic Flute", "object": "German", "taxonomy": ["Norwegian", "Egyptian", "Finnish", "Portuguese", "Slovene"]}
+{"subject": "Il Boss", "object": "Italian", "taxonomy": ["Swedish", "Hebrew", "Welsh", "German", "Bulgarian"]}
+{"subject": "iCarly", "object": "English", "taxonomy": ["Thai", "Chinese", "Bengali", "Latin", "Russian"]}
+{"subject": "Benkiyalli Aralida Hoovu", "object": "Kannada", "taxonomy": ["Russian", "Icelandic", "Hindi", "Scots", "Latin"]}
+{"subject": "Martin Morning", "object": "French", "taxonomy": ["Danish", "Latin", "Punjabi", "Korean", "Swedish"]}
+{"subject": "Fashionable Nonsense", "object": "French", "taxonomy": ["Hungarian", "Persian", "Malayalam", "Georgian", "Tamil"]}
+{"subject": "The Care Bears' Big Wish Movie", "object": "English", "taxonomy": ["Polish", "Scots", "Slovene", "Croatian", "French"]}
+{"subject": "Jack Frost", "object": "Russian", "taxonomy": ["Sanskrit", "Scots", "Hebrew", "Hungarian", "Czech"]}
+{"subject": "Naturwissenschaften", "object": "English", "taxonomy": ["Breton", "Filipino", "Telugu", "German", "Norwegian"]}
+{"subject": "The Tall Blond Man with One Black Shoe", "object": "French", "taxonomy": ["Irish", "Egyptian", "Polish", "Greek", "Latin"]}
+{"subject": "Instructions Not Included", "object": "English", "taxonomy": ["Croatian", "Hungarian", "Tamil", "Slovene", "Thai"]}
+{"subject": "Charulata", "object": "Bengali", "taxonomy": ["Greek", "Chinese", "Urdu", "Marathi", "Dutch"]}
+{"subject": "Ljubav je svuda", "object": "Serbian", "taxonomy": ["Filipino", "Turkish", "English", "Norwegian", "Croatian"]}
+{"subject": "The Caretaker", "object": "English", "taxonomy": ["Montenegrin", "Italian", "Swedish", "Danish", "Welsh"]}
+{"subject": "Voyage to Cythera", "object": "Greek", "taxonomy": ["Hebrew", "Catalan", "Slovene", "Croatian", "Persian"]}
+{"subject": "Rajnigandha", "object": "Hindi", "taxonomy": ["Urdu", "Punjabi", "Sanskrit", "Ukrainian", "Czech"]}
+{"subject": "The Amber Spyglass", "object": "English", "taxonomy": ["Punjabi", "Bengali", "Montenegrin", "Romanian", "Ukrainian"]}
+{"subject": "Melodifestivalen 1996", "object": "Swedish", "taxonomy": ["Serbian", "Chinese", "Marathi", "Hebrew", "Greek"]}
+{"subject": "The Sleeping Car Murders", "object": "French", "taxonomy": ["Spanish", "Georgian", "Dutch", "Thai", "Swedish"]}
+{"subject": "inoSMI", "object": "Russian", "taxonomy": ["Estonian", "Bulgarian", "Egyptian", "Icelandic", "Catalan"]}
+{"subject": "Porki", "object": "Kannada", "taxonomy": ["Filipino", "Spanish", "Korean", "Danish", "Romanian"]}
+{"subject": "Vinnaithaandi Varuvaayaa", "object": "Tamil", "taxonomy": ["German", "English", "Swedish", "Indonesian", "Catalan"]}
+{"subject": "Weird Tales", "object": "English", "taxonomy": ["Slovene", "Estonian", "Romanian", "Scots", "Egyptian"]}
+{"subject": "Good Morning America", "object": "English", "taxonomy": ["Norwegian", "Sanskrit", "Dutch", "Indonesian", "Bengali"]}
+{"subject": "Alta Vendita", "object": "Italian", "taxonomy": ["Thai", "Catalan", "Polish", "Indonesian", "Irish"]}
+{"subject": "Il giuramento", "object": "Italian", "taxonomy": ["Sanskrit", "Polish", "Hungarian", "Portuguese", "Indonesian"]}
+{"subject": "I Love Another", "object": "Danish", "taxonomy": ["Turkish", "French", "Bengali", "Irish", "Punjabi"]}
+{"subject": "The Last Wish", "object": "Polish", "taxonomy": ["Marathi", "Filipino", "Italian", "Finnish", "Hebrew"]}
+{"subject": "Kakambal ni Eliana", "object": "Filipino", "taxonomy": ["Greek", "Italian", "Estonian", "Danish", "Turkish"]}
+{"subject": "Revue de Paris", "object": "French", "taxonomy": ["Italian", "Latin", "Bengali", "Russian", "Icelandic"]}
+{"subject": "English Vinglish", "object": "Tamil", "taxonomy": ["Danish", "German", "Ukrainian", "Catalan", "Egyptian"]}
+{"subject": "Moscow Strikes Back", "object": "Russian", "taxonomy": ["Ukrainian", "Malayalam", "Welsh", "Filipino", "Thai"]}
+{"subject": "Caro diario", "object": "Italian", "taxonomy": ["Marathi", "Hungarian", "Ukrainian", "Irish", "Kannada"]}
+{"subject": "The Charterhouse of Parma", "object": "French", "taxonomy": ["Punjabi", "Breton", "Thai", "Marathi", "Polish"]}
+{"subject": "Emmanuelle 4", "object": "French", "taxonomy": ["Scots", "Estonian", "Croatian", "Latin", "Portuguese"]}
+{"subject": "Everybody Has Secrets", "object": "Korean", "taxonomy": ["Italian", "Filipino", "Greek", "Bengali", "Irish"]}
+{"subject": "The Good Father", "object": "English", "taxonomy": ["Tamil", "Swedish", "Malayalam", "Norwegian", "Persian"]}
+{"subject": "Jesus", "object": "English", "taxonomy": ["Hebrew", "Montenegrin", "Danish", "Korean", "Breton"]}
+{"subject": "Polisse", "object": "French", "taxonomy": ["Breton", "Thai", "Telugu", "Swedish", "Egyptian"]}
+{"subject": "Il Postino: The Postman", "object": "Italian", "taxonomy": ["Urdu", "German", "Romanian", "Czech", "Russian"]}
+{"subject": "Tehran Times", "object": "English", "taxonomy": ["Ukrainian", "Punjabi", "Irish", "Slovene", "Scots"]}
+{"subject": "Hatya", "object": "Hindi", "taxonomy": ["Estonian", "Urdu", "Egyptian", "Slovene", "Catalan"]}
+{"subject": "Ma vie en rose", "object": "French", "taxonomy": ["Filipino", "Hungarian", "Breton", "Chinese", "Korean"]}
+{"subject": "The Woodlanders", "object": "English", "taxonomy": ["Tamil", "Icelandic", "Czech", "Danish", "Turkish"]}
+{"subject": "Star Trek: Generations", "object": "English", "taxonomy": ["Czech", "Spanish", "Egyptian", "Chinese", "Bulgarian"]}
+{"subject": "Secretly, Greatly", "object": "Korean", "taxonomy": ["Slovene", "Breton", "Dutch", "Estonian", "Finnish"]}
+{"subject": "The New Science", "object": "Italian", "taxonomy": ["Dutch", "Hebrew", "Turkish", "Indonesian", "Montenegrin"]}
+{"subject": "Erotas", "object": "Greek", "taxonomy": ["Portuguese", "Hindi", "Estonian", "Georgian", "Welsh"]}
+{"subject": "I ragazzi di via Panisperna", "object": "Italian", "taxonomy": ["Turkish", "Bengali", "English", "Finnish", "Marathi"]}
+{"subject": "The Match Factory Girl", "object": "Finnish", "taxonomy": ["Welsh", "Hungarian", "Chinese", "Marathi", "Czech"]}
+{"subject": "Hussar Ballad", "object": "Russian", "taxonomy": ["Scots", "Catalan", "Sanskrit", "Marathi", "Hindi"]}
+{"subject": "Il trionfo di Clelia", "object": "Italian", "taxonomy": ["Latin", "Dutch", "Tamil", "Hebrew", "Polish"]}
+{"subject": "Faceless Killers", "object": "Swedish", "taxonomy": ["Czech", "Estonian", "Russian", "Ukrainian", "Filipino"]}
+{"subject": "Vishwaroopam II", "object": "Tamil", "taxonomy": ["Danish", "Montenegrin", "Finnish", "Turkish", "Icelandic"]}
+{"subject": "Oru Kal Oru Kannadi", "object": "Tamil", "taxonomy": ["Danish", "Telugu", "Greek", "Egyptian", "Serbian"]}
+{"subject": "Westworld", "object": "English", "taxonomy": ["Punjabi", "Tamil", "Hungarian", "Korean", "Indonesian"]}
+{"subject": "Yatchan", "object": "Tamil", "taxonomy": ["Dutch", "Urdu", "French", "Persian", "Punjabi"]}
+{"subject": "The Hitman", "object": "English", "taxonomy": ["Egyptian", "Ukrainian", "Estonian", "Korean", "Swedish"]}
+{"subject": "Naan Potta Savaal", "object": "Tamil", "taxonomy": ["Danish", "Russian", "Thai", "Persian", "Czech"]}
+{"subject": "Spectacular!", "object": "English", "taxonomy": ["Kannada", "Hungarian", "Montenegrin", "Finnish", "Icelandic"]}
+{"subject": "Vidas robadas", "object": "Spanish", "taxonomy": ["Estonian", "Irish", "Slovene", "Breton", "Tamil"]}
+{"subject": "Simon Boccanegra", "object": "Italian", "taxonomy": ["Croatian", "Swedish", "Bengali", "Latin", "Catalan"]}
+{"subject": "The Telegraph", "object": "English", "taxonomy": ["Catalan", "Thai", "Persian", "Sanskrit", "Ukrainian"]}
+{"subject": "Jagadguru Adi Shankara", "object": "Telugu", "taxonomy": ["Filipino", "Swedish", "Irish", "Czech", "Montenegrin"]}
+{"subject": "Great Soviet Encyclopedia", "object": "Russian", "taxonomy": ["Serbian", "Norwegian", "Bulgarian", "Bengali", "German"]}
+{"subject": "boundary 2", "object": "English", "taxonomy": ["Sanskrit", "Filipino", "Latin", "Turkish", "French"]}
+{"subject": "Kaamchor", "object": "Hindi", "taxonomy": ["Estonian", "Croatian", "Telugu", "Irish", "Sanskrit"]}
+{"subject": "Mediterraneo", "object": "Italian", "taxonomy": ["French", "Hindi", "Icelandic", "Georgian", "Bengali"]}
+{"subject": "De Wereld Draait Door", "object": "Dutch", "taxonomy": ["Chinese", "Persian", "Croatian", "French", "Romanian"]}
+{"subject": "Mind Your Language", "object": "English", "taxonomy": ["Turkish", "Tamil", "Malayalam", "Icelandic", "Portuguese"]}
+{"subject": "Europa riconosciuta", "object": "Italian", "taxonomy": ["Latin", "Romanian", "Bulgarian", "German", "Finnish"]}
+{"subject": "Puss in Boots", "object": "Italian", "taxonomy": ["Russian", "Kannada", "Dutch", "Persian", "Welsh"]}
+{"subject": "Les bavards", "object": "French", "taxonomy": ["Punjabi", "Bulgarian", "Bengali", "Montenegrin", "Hebrew"]}
+{"subject": "Ek Hi Bhool", "object": "Hindi", "taxonomy": ["Marathi", "Swedish", "Breton", "Norwegian", "German"]}
+{"subject": "Sainikudu", "object": "Telugu", "taxonomy": ["Hebrew", "Czech", "Romanian", "Montenegrin", "Korean"]}
+{"subject": "A Hunting Accident", "object": "Russian", "taxonomy": ["Icelandic", "Latin", "Polish", "English", "Turkish"]}
+{"subject": "Bhavani IPS", "object": "Telugu", "taxonomy": ["Latin", "Hebrew", "Scots", "Czech", "Egyptian"]}
+{"subject": "Books of Chronicles", "object": "Hebrew", "taxonomy": ["Filipino", "Danish", "Russian", "English", "Dutch"]}
+{"subject": "If Wishes Were Horses", "object": "English", "taxonomy": ["Latin", "Breton", "Egyptian", "Hungarian", "Tamil"]}
+{"subject": "Africa Addio", "object": "Italian", "taxonomy": ["Estonian", "Greek", "Bulgarian", "Bengali", "Dutch"]}
+{"subject": "Allari Mogudu", "object": "Telugu", "taxonomy": ["Marathi", "Chinese", "Danish", "Hindi", "Greek"]}
+{"subject": "Swati Kiranam", "object": "Telugu", "taxonomy": ["Irish", "Sanskrit", "Serbian", "Welsh", "Portuguese"]}
+{"subject": "Gato Fedorento", "object": "Portuguese", "taxonomy": ["Russian", "Indonesian", "Scots", "Icelandic", "Czech"]}
+{"subject": "Coming Up Roses", "object": "Welsh", "taxonomy": ["Romanian", "Bulgarian", "Indonesian", "Swedish", "Scots"]}
+{"subject": "Nayagan", "object": "Tamil", "taxonomy": ["Egyptian", "English", "Croatian", "Indonesian", "Turkish"]}
+{"subject": "The Broons", "object": "Scots", "taxonomy": ["Romanian", "Danish", "Dutch", "Sanskrit", "Malayalam"]}
+{"subject": "Their Satanic Majesties Request", "object": "English", "taxonomy": ["Turkish", "Tamil", "Finnish", "Hindi", "Estonian"]}
+{"subject": "Royal Bengal Rohosso", "object": "Bengali", "taxonomy": ["Portuguese", "Latin", "Telugu", "Norwegian", "Thai"]}
+{"subject": "Arasangam", "object": "Tamil", "taxonomy": ["Bengali", "Finnish", "Indonesian", "Ukrainian", "Russian"]}
+{"subject": "Khadgam", "object": "Telugu", "taxonomy": ["Spanish", "Hebrew", "Icelandic", "Estonian", "Dutch"]}
+{"subject": "The Green Man", "object": "English", "taxonomy": ["Dutch", "Indonesian", "Swedish", "Spanish", "Latin"]}
+{"subject": "Chennai 600028", "object": "Tamil", "taxonomy": ["Marathi", "Telugu", "Thai", "Danish", "Bengali"]}
+{"subject": "The Shield", "object": "English", "taxonomy": ["Egyptian", "Italian", "Estonian", "Danish", "Korean"]}
+{"subject": "New Literary History", "object": "English", "taxonomy": ["French", "Icelandic", "Latin", "Italian", "Punjabi"]}
+{"subject": "From the Earth to the Moon", "object": "French", "taxonomy": ["Hebrew", "Dutch", "Korean", "Slovene", "Chinese"]}
+{"subject": "Punjabi House", "object": "Malayalam", "taxonomy": ["English", "Catalan", "Finnish", "Georgian", "Marathi"]}
+{"subject": "L'Univers", "object": "French", "taxonomy": ["Chinese", "Sanskrit", "Hungarian", "Icelandic", "Latin"]}
+{"subject": "Le Rire", "object": "French", "taxonomy": ["Tamil", "Bengali", "Thai", "Persian", "Turkish"]}
+{"subject": "Kampf um Rom I", "object": "English", "taxonomy": ["Irish", "Russian", "Thai", "Persian", "Tamil"]}
+{"subject": "Aucassin and Nicolette", "object": "French", "taxonomy": ["Portuguese", "Hindi", "Urdu", "Egyptian", "Bulgarian"]}
+{"subject": "Asterix the Gaul", "object": "French", "taxonomy": ["Slovene", "Irish", "Norwegian", "Icelandic", "Danish"]}
+{"subject": "On Our Own Land", "object": "Slovene", "taxonomy": ["Bengali", "Italian", "Montenegrin", "Hungarian", "Turkish"]}
+{"subject": "The Lunchbox", "object": "English", "taxonomy": ["Croatian", "Spanish", "Montenegrin", "Sanskrit", "Urdu"]}
+{"subject": "Gulebakavali Katha", "object": "Telugu", "taxonomy": ["Serbian", "Georgian", "Swedish", "Czech", "French"]}
+{"subject": "The Next Day", "object": "English", "taxonomy": ["Chinese", "Hebrew", "Slovene", "Croatian", "Hindi"]}
+{"subject": "Thavamai Thavamirundhu", "object": "Tamil", "taxonomy": ["Filipino", "French", "Turkish", "Hungarian", "Hebrew"]}
+{"subject": "Politically Incorrect", "object": "English", "taxonomy": ["Czech", "Indonesian", "Hindi", "Danish", "Norwegian"]}
+{"subject": "Born in 68", "object": "French", "taxonomy": ["Welsh", "Croatian", "Telugu", "Czech", "Sanskrit"]}
+{"subject": "Fort Apache Napoli", "object": "Italian", "taxonomy": ["Kannada", "Welsh", "Spanish", "Finnish", "Punjabi"]}
+{"subject": "L'Arianna", "object": "Italian", "taxonomy": ["Polish", "Urdu", "Breton", "Romanian", "Thai"]}
+{"subject": "Film International", "object": "English", "taxonomy": ["French", "Croatian", "Icelandic", "Italian", "Turkish"]}
+{"subject": "Evangelium Vitae", "object": "Latin", "taxonomy": ["Danish", "Romanian", "Czech", "Kannada", "Breton"]}
+{"subject": "Finnish Wikipedia", "object": "Finnish", "taxonomy": ["Scots", "Marathi", "Dutch", "Chinese", "Hebrew"]}
+{"subject": "The Star Diaries", "object": "English", "taxonomy": ["Irish", "Latin", "Portuguese", "Russian", "Bengali"]}
+{"subject": "Roman de Gare", "object": "French", "taxonomy": ["Italian", "Latin", "Thai", "Punjabi", "Swedish"]}
+{"subject": "The Feast of the Goat", "object": "Spanish", "taxonomy": ["Welsh", "Russian", "Tamil", "French", "Marathi"]}
+{"subject": "Youku", "object": "Chinese", "taxonomy": ["Finnish", "German", "Czech", "Estonian", "Portuguese"]}
+{"subject": "Toothless", "object": "English", "taxonomy": ["Estonian", "Kannada", "German", "Portuguese", "Croatian"]}
+{"subject": "Evrydiki BA 2O37", "object": "Greek", "taxonomy": ["Spanish", "Korean", "Bengali", "Punjabi", "Russian"]}
+{"subject": "Modalasala", "object": "Kannada", "taxonomy": ["Ukrainian", "Latin", "Swedish", "Hindi", "English"]}
+{"subject": "GQ", "object": "English", "taxonomy": ["Ukrainian", "Norwegian", "Swedish", "Malayalam", "Polish"]}
+{"subject": "A Short Film About Love", "object": "Polish", "taxonomy": ["Serbian", "Ukrainian", "English", "Filipino", "Catalan"]}
+{"subject": "Meghe Dhaka Tara", "object": "Bengali", "taxonomy": ["Tamil", "Telugu", "Hungarian", "Egyptian", "Sanskrit"]}
+{"subject": "The Iron Ladies", "object": "Thai", "taxonomy": ["Breton", "Bengali", "Korean", "Turkish", "Tamil"]}
+{"subject": "Sri Manjunatha", "object": "Kannada", "taxonomy": ["Ukrainian", "Catalan", "Icelandic", "Turkish", "Scots"]}
+{"subject": "Voir", "object": "French", "taxonomy": ["Greek", "Montenegrin", "Latin", "Breton", "Portuguese"]}
+{"subject": "Thiruvambadi Thamban", "object": "Malayalam", "taxonomy": ["Dutch", "Spanish", "Icelandic", "Estonian", "Turkish"]}
+{"subject": "La dame blanche", "object": "French", "taxonomy": ["Icelandic", "English", "Montenegrin", "Danish", "Polish"]}
+{"subject": "Second Hand Husband", "object": "Punjabi", "taxonomy": ["Korean", "Irish", "Bengali", "Hebrew", "Italian"]}
+{"subject": "PLoS ONE", "object": "English", "taxonomy": ["Catalan", "Greek", "Estonian", "Czech", "Telugu"]}
+{"subject": "True Identity", "object": "English", "taxonomy": ["Urdu", "German", "Punjabi", "Telugu", "Hebrew"]}
+{"subject": "Mounam Pesiyadhe", "object": "Tamil", "taxonomy": ["Dutch", "Scots", "Telugu", "Romanian", "Montenegrin"]}
+{"subject": "Saravannan Meenatchi", "object": "Tamil", "taxonomy": ["Spanish", "Russian", "Egyptian", "Bengali", "Indonesian"]}
+{"subject": "Metro 2033", "object": "Russian", "taxonomy": ["Marathi", "Swedish", "Punjabi", "Romanian", "Malayalam"]}
+{"subject": "Une chambre en ville", "object": "French", "taxonomy": ["Finnish", "Spanish", "Polish", "Punjabi", "Urdu"]}
+{"subject": "Tom and Jerry", "object": "English", "taxonomy": ["Filipino", "Slovene", "Italian", "Catalan", "Dutch"]}
+{"subject": "Monthly Review", "object": "English", "taxonomy": ["Turkish", "Egyptian", "Bengali", "Thai", "Catalan"]}
+{"subject": "Abhiyum Naanum", "object": "Tamil", "taxonomy": ["Portuguese", "Croatian", "Russian", "French", "German"]}
+{"subject": "Rojulu Marayi", "object": "Telugu", "taxonomy": ["Croatian", "Montenegrin", "Portuguese", "Sanskrit", "Swedish"]}
+{"subject": "Sadratnamala", "object": "Sanskrit", "taxonomy": ["Ukrainian", "French", "Tamil", "Finnish", "Spanish"]}
+{"subject": "The Cube", "object": "English", "taxonomy": ["Irish", "Hebrew", "Filipino", "Welsh", "Persian"]}
+{"subject": "Heathen Chemistry", "object": "English", "taxonomy": ["Breton", "Portuguese", "Indonesian", "Sanskrit", "Turkish"]}
+{"subject": "Mangalya Balam", "object": "Telugu", "taxonomy": ["Icelandic", "Serbian", "Portuguese", "Thai", "Urdu"]}
+{"subject": "The Tango Lesson", "object": "Spanish", "taxonomy": ["Indonesian", "Finnish", "Marathi", "Georgian", "Chinese"]}
+{"subject": "Construction Time Again", "object": "English", "taxonomy": ["Breton", "Ukrainian", "Italian", "Icelandic", "Montenegrin"]}
+{"subject": "Sostiene Pereira", "object": "Italian", "taxonomy": ["Scots", "German", "Catalan", "Croatian", "Spanish"]}
+{"subject": "Teorema", "object": "Italian", "taxonomy": ["Georgian", "Finnish", "Kannada", "Serbian", "Hindi"]}
+{"subject": "The Whistler", "object": "English", "taxonomy": ["Telugu", "Czech", "Catalan", "Sanskrit", "Bulgarian"]}
+{"subject": "Rendu", "object": "Tamil", "taxonomy": ["Catalan", "Dutch", "Ukrainian", "Czech", "Serbian"]}
+{"subject": "Melodifestivalen 2005", "object": "Swedish", "taxonomy": ["Indonesian", "Breton", "Turkish", "Marathi", "Norwegian"]}
+{"subject": "Bill Bergson", "object": "Swedish", "taxonomy": ["Serbian", "Italian", "Portuguese", "Montenegrin", "Russian"]}
+{"subject": "Kalevala", "object": "Finnish", "taxonomy": ["Thai", "Korean", "Welsh", "Turkish", "Hindi"]}
+{"subject": "The Elusive Avengers", "object": "Russian", "taxonomy": ["Norwegian", "Hindi", "Swedish", "Egyptian", "Punjabi"]}
+{"subject": "Chai Lai", "object": "Thai", "taxonomy": ["Czech", "Filipino", "Bengali", "Scots", "Kannada"]}
+{"subject": "Terrorist Threats", "object": "English", "taxonomy": ["Montenegrin", "Danish", "Thai", "Chinese", "Irish"]}
+{"subject": "The Lunchbox", "object": "Hindi", "taxonomy": ["Georgian", "Telugu", "Italian", "Polish", "Catalan"]}
+{"subject": "Young Soul Rebels", "object": "English", "taxonomy": ["Breton", "Russian", "Bulgarian", "Finnish", "French"]}
+{"subject": "Strange Stories from a Chinese Studio", "object": "Chinese", "taxonomy": ["Telugu", "Hebrew", "Swedish", "Greek", "Bengali"]}
+{"subject": "Sharman", "object": "English", "taxonomy": ["Hindi", "Hebrew", "Persian", "Punjabi", "Swedish"]}
+{"subject": "Mariana Pineda", "object": "Spanish", "taxonomy": ["Hebrew", "Serbian", "Hungarian", "Marathi", "Portuguese"]}
+{"subject": "My Rosy Life", "object": "Korean", "taxonomy": ["Irish", "Italian", "English", "Indonesian", "Marathi"]}
+{"subject": "Jalsa", "object": "Telugu", "taxonomy": ["Egyptian", "Slovene", "Latin", "Georgian", "Chinese"]}
+{"subject": "Pablo Honey", "object": "English", "taxonomy": ["Finnish", "German", "Spanish", "Marathi", "Russian"]}
+{"subject": "The Plouffe Family", "object": "French", "taxonomy": ["Icelandic", "Punjabi", "Kannada", "Greek", "Catalan"]}
+{"subject": "Un Samayal Arayil", "object": "Kannada", "taxonomy": ["Chinese", "Egyptian", "Portuguese", "Norwegian", "Georgian"]}
+{"subject": "Playa del Sol", "object": "Swedish", "taxonomy": ["Egyptian", "Portuguese", "Breton", "Czech", "Spanish"]}
+{"subject": "Tu Tu Main Main", "object": "Hindi", "taxonomy": ["Persian", "Indonesian", "Dutch", "Polish", "Hungarian"]}
+{"subject": "Bhale Ramudu", "object": "Telugu", "taxonomy": ["Irish", "Croatian", "Indonesian", "Tamil", "Spanish"]}
+{"subject": "Thiruda Thirudi", "object": "Tamil", "taxonomy": ["Turkish", "Marathi", "Irish", "Bengali", "Hungarian"]}
+{"subject": "The Aeronauts", "object": "French", "taxonomy": ["English", "Egyptian", "Urdu", "Georgian", "Irish"]}
+{"subject": "Varudu", "object": "Telugu", "taxonomy": ["Breton", "Filipino", "Bulgarian", "Dutch", "Kannada"]}
+{"subject": "Moondru Per Moondru Kaadhal", "object": "Tamil", "taxonomy": ["Scots", "Hindi", "Catalan", "German", "Korean"]}
+{"subject": "El Cuerpo del Deseo", "object": "Spanish", "taxonomy": ["Finnish", "Egyptian", "Bengali", "Danish", "Scots"]}
+{"subject": "Dookudu", "object": "Telugu", "taxonomy": ["Ukrainian", "Catalan", "Greek", "Montenegrin", "Turkish"]}
+{"subject": "NOS Journaal", "object": "Dutch", "taxonomy": ["Croatian", "French", "Swedish", "English", "Egyptian"]}
+{"subject": "Stylus Magazine", "object": "English", "taxonomy": ["Georgian", "Latin", "Romanian", "Czech", "Kannada"]}
+{"subject": "Il camorrista", "object": "Italian", "taxonomy": ["Romanian", "Welsh", "Estonian", "Punjabi", "Ukrainian"]}
+{"subject": "Atomised", "object": "French", "taxonomy": ["Kannada", "Slovene", "Polish", "Italian", "Chinese"]}
+{"subject": "Santa Diabla", "object": "Spanish", "taxonomy": ["Telugu", "Norwegian", "Bengali", "Dutch", "Czech"]}
+{"subject": "Beethoven Virus", "object": "Korean", "taxonomy": ["Sanskrit", "Telugu", "English", "Russian", "Bengali"]}
+{"subject": "Kanda Naal Mudhal", "object": "Tamil", "taxonomy": ["Polish", "Punjabi", "Korean", "Finnish", "English"]}
+{"subject": "Dictionary of National Biography", "object": "English", "taxonomy": ["German", "Welsh", "Sanskrit", "Polish", "Kannada"]}
+{"subject": "Kumkum Bhagya", "object": "Hindi", "taxonomy": ["Thai", "Italian", "German", "Scots", "Chinese"]}
+{"subject": "Khokababu", "object": "Hindi", "taxonomy": ["Marathi", "Hebrew", "Spanish", "Hungarian", "Czech"]}
+{"subject": "Fifty Shades of Grey", "object": "English", "taxonomy": ["Italian", "Russian", "Scots", "Malayalam", "Chinese"]}
+{"subject": "Nenjinile", "object": "Tamil", "taxonomy": ["Polish", "Icelandic", "Latin", "Filipino", "Norwegian"]}
+{"subject": "Mouna Guru", "object": "Tamil", "taxonomy": ["Portuguese", "Slovene", "Icelandic", "Filipino", "Bengali"]}
+{"subject": "Les brigands", "object": "French", "taxonomy": ["Dutch", "Indonesian", "Korean", "Egyptian", "Montenegrin"]}
+{"subject": "Aandhi", "object": "Hindi", "taxonomy": ["Tamil", "Georgian", "Norwegian", "Greek", "Montenegrin"]}
+{"subject": "Hedda Gabler", "object": "Norwegian", "taxonomy": ["Breton", "Finnish", "Polish", "Korean", "Punjabi"]}
+{"subject": "Lured", "object": "English", "taxonomy": ["Serbian", "Georgian", "Danish", "Korean", "Portuguese"]}
+{"subject": "HuffPost", "object": "English", "taxonomy": ["Marathi", "German", "Turkish", "Persian", "Scots"]}
+{"subject": "The Man Who Counted", "object": "Portuguese", "taxonomy": ["Hungarian", "Catalan", "Danish", "Telugu", "Welsh"]}
+{"subject": "Alright, Still", "object": "English", "taxonomy": ["Finnish", "Chinese", "Welsh", "Malayalam", "Greek"]}
+{"subject": "Pyramid Texts", "object": "Egyptian", "taxonomy": ["Persian", "Icelandic", "Dutch", "Polish", "Urdu"]}
+{"subject": "The Natural", "object": "English", "taxonomy": ["Norwegian", "Serbian", "French", "Spanish", "Scots"]}
+{"subject": "Yossi & Jagger", "object": "Hebrew", "taxonomy": ["Dutch", "German", "French", "Turkish", "Georgian"]}
+{"subject": "For Eternal Hearts", "object": "Korean", "taxonomy": ["Italian", "Chinese", "Spanish", "Kannada", "Danish"]}
+{"subject": "English Hymnal", "object": "English", "taxonomy": ["Danish", "Italian", "Estonian", "Montenegrin", "Polish"]}
+{"subject": "Q & Q", "object": "Dutch", "taxonomy": ["Swedish", "Russian", "Egyptian", "English", "Persian"]}
+{"subject": "The Girlie Show World Tour", "object": "English", "taxonomy": ["Slovene", "Finnish", "French", "Georgian", "Latin"]}
+{"subject": "The Possible", "object": "Thai", "taxonomy": ["Icelandic", "Portuguese", "Hindi", "Latin", "Spanish"]}
+{"subject": "De re metallica", "object": "Latin", "taxonomy": ["Greek", "Hebrew", "Montenegrin", "Breton", "Marathi"]}
+{"subject": "McVicar", "object": "English", "taxonomy": ["French", "Greek", "Hebrew", "Russian", "Latin"]}
+{"subject": "Postimees", "object": "Estonian", "taxonomy": ["Dutch", "Turkish", "Croatian", "Romanian", "Norwegian"]}
+{"subject": "Pasamalar", "object": "Tamil", "taxonomy": ["Punjabi", "Danish", "Sanskrit", "Turkish", "German"]}
+{"subject": "Get Behind Me Satan", "object": "English", "taxonomy": ["Serbian", "Ukrainian", "Irish", "Marathi", "Telugu"]}
+{"subject": "The Mountain of the Cannibal God", "object": "English", "taxonomy": ["Polish", "German", "Scots", "Turkish", "Persian"]}
+{"subject": "Nicholas Nickleby", "object": "English", "taxonomy": ["Spanish", "Slovene", "Tamil", "Danish", "Icelandic"]}
+{"subject": "Soir 3", "object": "French", "taxonomy": ["Tamil", "Estonian", "Breton", "Swedish", "Italian"]}
+{"subject": "Je suis Charlie", "object": "French", "taxonomy": ["Marathi", "Serbian", "Telugu", "Welsh", "Swedish"]}
+{"subject": "Terribly Happy", "object": "Danish", "taxonomy": ["Spanish", "Bulgarian", "Catalan", "Italian", "Estonian"]}
+{"subject": "Goodbye to Language", "object": "French", "taxonomy": ["English", "Sanskrit", "Montenegrin", "German", "Irish"]}
+{"subject": "The Crime of Sylvestre Bonnard", "object": "French", "taxonomy": ["Spanish", "Egyptian", "English", "Polish", "Telugu"]}
+{"subject": "Bahumati", "object": "Telugu", "taxonomy": ["Czech", "Hebrew", "Croatian", "Bulgarian", "English"]}
+{"subject": "The Decameron", "object": "Italian", "taxonomy": ["Hebrew", "Punjabi", "Scots", "Chinese", "Marathi"]}
+{"subject": "Dinorah", "object": "French", "taxonomy": ["Irish", "Thai", "Bengali", "Hindi", "Marathi"]}
+{"subject": "Neethaane En Ponvasantham", "object": "Tamil", "taxonomy": ["Hebrew", "Montenegrin", "Egyptian", "Kannada", "Russian"]}
+{"subject": "The Awful Dr. Orloff", "object": "Spanish", "taxonomy": ["Hungarian", "Persian", "Breton", "Urdu", "Romanian"]}
+{"subject": "Menaechmi", "object": "Latin", "taxonomy": ["Turkish", "Irish", "Danish", "Portuguese", "Marathi"]}
+{"subject": "The Butcher", "object": "French", "taxonomy": ["Swedish", "Romanian", "Hebrew", "Italian", "Scots"]}
+{"subject": "Do Phool", "object": "Hindi", "taxonomy": ["English", "Bengali", "Hungarian", "Filipino", "Malayalam"]}
+{"subject": "A Fish Called Wanda", "object": "English", "taxonomy": ["Hebrew", "Finnish", "Russian", "Korean", "Malayalam"]}
+{"subject": "The Tied Up Balloon", "object": "Bulgarian", "taxonomy": ["Spanish", "Bengali", "Malayalam", "Czech", "Greek"]}
+{"subject": "The Jungle Book", "object": "English", "taxonomy": ["Egyptian", "Turkish", "Spanish", "Thai", "Kannada"]}
+{"subject": "Spitting Image", "object": "English", "taxonomy": ["Hungarian", "Czech", "Latin", "Telugu", "Chinese"]}
+{"subject": "Espreso TV", "object": "Ukrainian", "taxonomy": ["Hindi", "Hebrew", "German", "Serbian", "Welsh"]}
+{"subject": "L'Histoire", "object": "French", "taxonomy": ["Turkish", "Polish", "Czech", "Thai", "Estonian"]}
+{"subject": "Pia de' Tolomei", "object": "Italian", "taxonomy": ["Danish", "Portuguese", "Ukrainian", "Tamil", "Persian"]}
+{"subject": "Law of Desire", "object": "Spanish", "taxonomy": ["Norwegian", "Georgian", "Marathi", "Portuguese", "Hindi"]}
+{"subject": "Prairie Schooner", "object": "English", "taxonomy": ["Ukrainian", "Hebrew", "Korean", "Croatian", "Irish"]}
+{"subject": "Amar Akbar Anthony", "object": "Hindi", "taxonomy": ["Hebrew", "Portuguese", "Punjabi", "English", "Georgian"]}
+{"subject": "Singham", "object": "Hindi", "taxonomy": ["Kannada", "Greek", "Croatian", "Persian", "Ukrainian"]}
+{"subject": "Aa Naluguru", "object": "Telugu", "taxonomy": ["Marathi", "Persian", "Dutch", "Sanskrit", "Hungarian"]}
+{"subject": "Adriana Lecouvreur", "object": "Italian", "taxonomy": ["Icelandic", "Portuguese", "Filipino", "Swedish", "Czech"]}
+{"subject": "The Man Who Shot Liberty Valance", "object": "English", "taxonomy": ["Urdu", "Russian", "Filipino", "Chinese", "Sanskrit"]}
+{"subject": "Coup de Torchon", "object": "French", "taxonomy": ["Latin", "Tamil", "English", "Kannada", "Punjabi"]}
+{"subject": "Brut y Tywysogion", "object": "Latin", "taxonomy": ["Norwegian", "Chinese", "Finnish", "Greek", "Malayalam"]}
+{"subject": "Vishwa Thulasi", "object": "Tamil", "taxonomy": ["Kannada", "Czech", "Welsh", "Latin", "Telugu"]}
+{"subject": "The Price Is Right", "object": "Portuguese", "taxonomy": ["Sanskrit", "Korean", "Hindi", "Bengali", "Spanish"]}
+{"subject": "The Departure", "object": "French", "taxonomy": ["Dutch", "Russian", "Urdu", "Montenegrin", "Tamil"]}
+{"subject": "Black God, White Devil", "object": "Portuguese", "taxonomy": ["Breton", "Korean", "Filipino", "Chinese", "Greek"]}
+{"subject": "Big Brother Australia", "object": "English", "taxonomy": ["Ukrainian", "Swedish", "Icelandic", "Tamil", "Bengali"]}
+{"subject": "Thodarum", "object": "Tamil", "taxonomy": ["Punjabi", "French", "German", "Portuguese", "Kannada"]}
+{"subject": "A Serbian Film", "object": "Serbian", "taxonomy": ["Hindi", "Scots", "Norwegian", "Kannada", "Indonesian"]}
+{"subject": "The Adventure Game", "object": "English", "taxonomy": ["Persian", "Catalan", "Hindi", "Serbian", "Thai"]}
+{"subject": "The Reckoning of Time", "object": "Latin", "taxonomy": ["Kannada", "Thai", "Polish", "Swedish", "German"]}
+{"subject": "Yaamirukka Bayamey", "object": "Tamil", "taxonomy": ["Finnish", "Greek", "Hebrew", "Bulgarian", "Korean"]}
+{"subject": "Sagalakala Vallavan", "object": "Tamil", "taxonomy": ["Bulgarian", "Hungarian", "Greek", "Czech", "Swedish"]}
+{"subject": "Winter Holiday", "object": "English", "taxonomy": ["Norwegian", "Korean", "Welsh", "Portuguese", "Ukrainian"]}
+{"subject": "Twist and Shout", "object": "Danish", "taxonomy": ["Bengali", "Irish", "Latin", "Persian", "Hindi"]}
+{"subject": "La verbena de la Paloma", "object": "Spanish", "taxonomy": ["Russian", "Irish", "Croatian", "Indonesian", "Danish"]}
+{"subject": "Ammoru", "object": "Telugu", "taxonomy": ["Polish", "Spanish", "Kannada", "Dutch", "Korean"]}
+{"subject": "The Other Sport", "object": "Swedish", "taxonomy": ["Kannada", "Norwegian", "Latin", "Welsh", "French"]}
+{"subject": "Celebrated Cases of Judge Dee", "object": "Chinese", "taxonomy": ["Sanskrit", "Thai", "Welsh", "Kannada", "Filipino"]}
+{"subject": "Campeones de la vida", "object": "Spanish", "taxonomy": ["Hungarian", "Catalan", "Swedish", "Irish", "English"]}
+{"subject": "The Ages of Lulu", "object": "Spanish", "taxonomy": ["French", "Polish", "Ukrainian", "Italian", "Welsh"]}
+{"subject": "Flo", "object": "English", "taxonomy": ["Icelandic", "Tamil", "Breton", "Hungarian", "Catalan"]}
+{"subject": "Nouvelle Star", "object": "French", "taxonomy": ["Telugu", "Latin", "Czech", "Catalan", "Norwegian"]}
+{"subject": "Waltzing Regitze", "object": "Danish", "taxonomy": ["Indonesian", "Thai", "Portuguese", "Hebrew", "Kannada"]}
+{"subject": "Tata Manavadu", "object": "Telugu", "taxonomy": ["Kannada", "Polish", "Bengali", "Latin", "Georgian"]}
+{"subject": "December Heat", "object": "Estonian", "taxonomy": ["Dutch", "Italian", "Thai", "Hindi", "Telugu"]}
+{"subject": "Paglu", "object": "Bengali", "taxonomy": ["Georgian", "Korean", "Persian", "Estonian", "Dutch"]}
+{"subject": "Ponniyin Selvan", "object": "Tamil", "taxonomy": ["Dutch", "Finnish", "German", "Scots", "Kannada"]}
+{"subject": "Tetro", "object": "Spanish", "taxonomy": ["Korean", "Sanskrit", "Hungarian", "Breton", "Danish"]}
+{"subject": "Adhurs", "object": "Telugu", "taxonomy": ["Italian", "Filipino", "Portuguese", "Estonian", "Hungarian"]}
+{"subject": "Greek Wikipedia", "object": "Greek", "taxonomy": ["Bengali", "Kannada", "Hebrew", "Portuguese", "Malayalam"]}
+{"subject": "Les Francs-juges", "object": "French", "taxonomy": ["Portuguese", "Hungarian", "Swedish", "Dutch", "Breton"]}
+{"subject": "Unishe April", "object": "Bengali", "taxonomy": ["Hebrew", "Estonian", "Urdu", "Breton", "Chinese"]}
+{"subject": "Yalkut Yosef", "object": "Hebrew", "taxonomy": ["Swedish", "Turkish", "Russian", "Serbian", "Chinese"]}
+{"subject": "Le Magnifique", "object": "French", "taxonomy": ["Serbian", "Russian", "Indonesian", "Filipino", "Bengali"]}
+{"subject": "NOW Lebanon", "object": "English", "taxonomy": ["Polish", "Greek", "Indonesian", "Latin", "Thai"]}
+{"subject": "Vishwaroopam", "object": "Tamil", "taxonomy": ["Georgian", "Urdu", "Hebrew", "Montenegrin", "Bulgarian"]}
+{"subject": "Zift", "object": "Bulgarian", "taxonomy": ["Dutch", "Telugu", "Hindi", "Slovene", "German"]}
+{"subject": "Maan Karate", "object": "Tamil", "taxonomy": ["Greek", "Thai", "Catalan", "Icelandic", "Persian"]}
+{"subject": "Sharafnama", "object": "Persian", "taxonomy": ["Marathi", "Spanish", "Greek", "Telugu", "Georgian"]}
+{"subject": "Irish Examiner", "object": "English", "taxonomy": ["Kannada", "Polish", "Slovene", "Turkish", "Portuguese"]}
+{"subject": "Pratighatana", "object": "Telugu", "taxonomy": ["Marathi", "Slovene", "Thai", "Tamil", "Sanskrit"]}
+{"subject": "The Glembays", "object": "Croatian", "taxonomy": ["Egyptian", "Norwegian", "Georgian", "Telugu", "Kannada"]}
+{"subject": "Mishor Rohoshyo", "object": "Bengali", "taxonomy": ["Danish", "Sanskrit", "Georgian", "Irish", "Korean"]}
+{"subject": "Le clan des siciliens", "object": "Italian", "taxonomy": ["Urdu", "Ukrainian", "Catalan", "Dutch", "German"]}
+{"subject": "The Cheat", "object": "English", "taxonomy": ["Spanish", "Georgian", "Romanian", "Urdu", "Slovene"]}
+{"subject": "Chitram", "object": "Telugu", "taxonomy": ["Tamil", "Scots", "Egyptian", "Czech", "Filipino"]}
+{"subject": "Pakeezah", "object": "Hindi", "taxonomy": ["Turkish", "Ukrainian", "Kannada", "Malayalam", "Latin"]}
+{"subject": "Nico and Dani", "object": "Spanish", "taxonomy": ["Romanian", "Montenegrin", "Tamil", "Estonian", "Chinese"]}
+{"subject": "The Voysey Inheritance", "object": "English", "taxonomy": ["Scots", "Bulgarian", "Estonian", "Swedish", "Urdu"]}
+{"subject": "The Wardstone Chronicles", "object": "English", "taxonomy": ["Ukrainian", "Greek", "Korean", "Indonesian", "Bengali"]}
+{"subject": "Tell Me Something", "object": "Korean", "taxonomy": ["Persian", "Thai", "Egyptian", "Hebrew", "Slovene"]}
+{"subject": "1 Maccabees", "object": "Hebrew", "taxonomy": ["Portuguese", "Telugu", "Chinese", "Montenegrin", "Russian"]}
+{"subject": "Taobao", "object": "Chinese", "taxonomy": ["Marathi", "Telugu", "Montenegrin", "Norwegian", "Icelandic"]}
+{"subject": "Bhootayyana Maga Ayyu", "object": "Kannada", "taxonomy": ["Slovene", "Dutch", "Spanish", "English", "Urdu"]}
+{"subject": "Novye Izvestia", "object": "Russian", "taxonomy": ["Sanskrit", "Czech", "Croatian", "Bengali", "Thai"]}
+{"subject": "June R", "object": "Tamil", "taxonomy": ["Indonesian", "Persian", "Punjabi", "Slovene", "Urdu"]}
+{"subject": "Manuale d'amore", "object": "Italian", "taxonomy": ["Czech", "Swedish", "French", "Hindi", "Catalan"]}
+{"subject": "Ill Manors", "object": "English", "taxonomy": ["German", "Welsh", "Montenegrin", "Catalan", "Sanskrit"]}
+{"subject": "Comedy of Power", "object": "French", "taxonomy": ["Malayalam", "English", "Icelandic", "Chinese", "Sanskrit"]}
+{"subject": "Vettaiyaadu Vilaiyaadu", "object": "Tamil", "taxonomy": ["Malayalam", "Hebrew", "Dutch", "Serbian", "Irish"]}
+{"subject": "Odayil Ninnu", "object": "Malayalam", "taxonomy": ["Slovene", "Turkish", "Danish", "Russian", "Hebrew"]}
+{"subject": "The Crimson Rivers", "object": "French", "taxonomy": ["Romanian", "Finnish", "Sanskrit", "Welsh", "Slovene"]}
+{"subject": "Eighteen, Twenty-Nine", "object": "Korean", "taxonomy": ["Chinese", "Breton", "Sanskrit", "Tamil", "English"]}
+{"subject": "Celia en el colegio", "object": "Spanish", "taxonomy": ["Greek", "Chinese", "Hebrew", "Telugu", "Russian"]}
+{"subject": "Rustavi 2", "object": "Georgian", "taxonomy": ["Hindi", "Romanian", "Finnish", "Bulgarian", "Korean"]}
+{"subject": "Count Duckula", "object": "English", "taxonomy": ["Spanish", "Breton", "Croatian", "Norwegian", "Egyptian"]}
+{"subject": "Lucien Leuwen", "object": "French", "taxonomy": ["Romanian", "Marathi", "Danish", "Polish", "Sanskrit"]}
+{"subject": "Manfred", "object": "English", "taxonomy": ["Serbian", "Norwegian", "Romanian", "Scots", "Russian"]}
+{"subject": "Balak-Palak", "object": "Marathi", "taxonomy": ["Norwegian", "Croatian", "Tamil", "Latin", "Serbian"]}
+{"subject": "The Mother of Tears", "object": "Italian", "taxonomy": ["Chinese", "Marathi", "Urdu", "Indonesian", "Egyptian"]}
+{"subject": "Seventeen", "object": "English", "taxonomy": ["Persian", "Scots", "Welsh", "French", "Ukrainian"]}
+{"subject": "Kondura", "object": "Hindi", "taxonomy": ["Thai", "Romanian", "French", "English", "Czech"]}
+{"subject": "The Lesson", "object": "French", "taxonomy": ["Breton", "Icelandic", "Kannada", "Dutch", "German"]}
+{"subject": "The Sarah Jane Adventures", "object": "English", "taxonomy": ["Kannada", "Romanian", "Scots", "Indonesian", "Hindi"]}
+{"subject": "Forbidden Games", "object": "French", "taxonomy": ["English", "Irish", "Punjabi", "Serbian", "Kannada"]}
+{"subject": "Stacked", "object": "English", "taxonomy": ["Punjabi", "Hungarian", "Latin", "Bulgarian", "Slovene"]}
+{"subject": "Rabhasa", "object": "Telugu", "taxonomy": ["Bulgarian", "Russian", "Montenegrin", "Welsh", "Catalan"]}
+{"subject": "Ram Rajya", "object": "Hindi", "taxonomy": ["Tamil", "Montenegrin", "Thai", "Marathi", "Spanish"]}
+{"subject": "Air Mata Iboe", "object": "Indonesian", "taxonomy": ["Urdu", "Catalan", "Danish", "Spanish", "Swedish"]}
+{"subject": "Easy Rider", "object": "English", "taxonomy": ["German", "Scots", "Persian", "Kannada", "Romanian"]}
+{"subject": "The Archers", "object": "English", "taxonomy": ["Icelandic", "Chinese", "Turkish", "Malayalam", "Finnish"]}
+{"subject": "Rakhi Ka Swayamwar", "object": "Hindi", "taxonomy": ["Filipino", "Hebrew", "Latin", "Welsh", "Greek"]}
+{"subject": "The Blue Planet", "object": "English", "taxonomy": ["Breton", "Danish", "Catalan", "Punjabi", "Slovene"]}
+{"subject": "An Innocent Man", "object": "English", "taxonomy": ["Romanian", "Polish", "Dutch", "Serbian", "Icelandic"]}
+{"subject": "The Northerners", "object": "Dutch", "taxonomy": ["Finnish", "Marathi", "Russian", "Indonesian", "Latin"]}
+{"subject": "Paul Clifford", "object": "English", "taxonomy": ["Latin", "Thai", "German", "Turkish", "Persian"]}
+{"subject": "Tropical Malady", "object": "Thai", "taxonomy": ["Urdu", "Bulgarian", "Punjabi", "Scots", "Tamil"]}
+{"subject": "A Fazenda", "object": "Portuguese", "taxonomy": ["Turkish", "Danish", "Kannada", "Hungarian", "Icelandic"]}
+{"subject": "NU.nl", "object": "Dutch", "taxonomy": ["Sanskrit", "Czech", "Estonian", "Malayalam", "Icelandic"]}

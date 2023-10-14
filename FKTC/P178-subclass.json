@@ -1,0 +1,593 @@
+{"relations": ["Which company is the creator of [X]?", "Which organization is behind the development of [X]?", "Which organization produced [X]?", "What is the company that developed [X]?", "Which company is responsible for creating [X]?", "What entity is responsible for the creation of [X]?", "What is the name of the company that created [X]?"]}
+{"subject": "MessagePad", "object": "Apple", "taxonomy": ["Nokia", "Douglas", "Microsoft", "Access", "Gibson"]}
+{"subject": "macOS", "object": "Apple", "taxonomy": ["Fairchild", "Samsung", "Access", "NATO", "Square"]}
+{"subject": "iOS", "object": "Apple", "taxonomy": ["Nintendo", "Yahoo", "IBM", "Boeing", "NATO"]}
+{"subject": "Safari", "object": "Apple", "taxonomy": ["Intel", "Douglas", "Microsoft", "Mitsubishi", "Fairchild"]}
+{"subject": "iLife", "object": "Apple", "taxonomy": ["Douglas", "Atari", "Nokia", "Airbus", "IBM"]}
+{"subject": "iWork", "object": "Apple", "taxonomy": ["Boeing", "Nintendo", "Douglas", "NATO", "BBC"]}
+{"subject": "PostScript", "object": "Adobe", "taxonomy": ["Samsung", "Nintendo", "Atari", "Square", "Amazon"]}
+{"subject": "IBM AIX", "object": "IBM", "taxonomy": ["Fairchild", "NATO", "Adobe", "Boeing", "Samsung"]}
+{"subject": "AppleTalk", "object": "Apple", "taxonomy": ["Google", "Amazon", "IBM", "Honda", "Boeing"]}
+{"subject": "Applesoft BASIC", "object": "Microsoft", "taxonomy": ["Boeing", "Adobe", "Square", "Gibson", "Atari"]}
+{"subject": "Active Directory", "object": "Microsoft", "taxonomy": ["Sega", "Yahoo", "Adobe", "Honda", "NATO"]}
+{"subject": "Windows Vista", "object": "Microsoft", "taxonomy": ["Atari", "IBM", "Square", "Amazon", "Fairchild"]}
+{"subject": "Internet Explorer", "object": "Microsoft", "taxonomy": ["Gibson", "Nintendo", "Apple", "Boeing", "Adobe"]}
+{"subject": "Outlook Express", "object": "Microsoft", "taxonomy": ["Samsung", "Intel", "Google", "Apple", "Airbus"]}
+{"subject": "Microsoft Outlook", "object": "Microsoft", "taxonomy": ["Sony", "Airbus", "IBM", "Sega", "Nokia"]}
+{"subject": "B-17 Flying Fortress", "object": "Boeing", "taxonomy": ["Apple", "Fairchild", "Airbus", "Square", "Atari"]}
+{"subject": "DirectX", "object": "Microsoft", "taxonomy": ["Mitsubishi", "Atari", "Intel", "Yahoo", "Adobe"]}
+{"subject": "Microsoft Windows", "object": "Microsoft", "taxonomy": ["Intel", "Sega", "Amazon", "Google", "Douglas"]}
+{"subject": "Xbox 360", "object": "Microsoft", "taxonomy": ["BBC", "Honda", "Mitsubishi", "Atari", "Douglas"]}
+{"subject": "Xbox One", "object": "Microsoft", "taxonomy": ["Nintendo", "Apple", "IBM", "Mitsubishi", "Sega"]}
+{"subject": "Microsoft Internet Explorer 4", "object": "Microsoft", "taxonomy": ["Douglas", "Mitsubishi", "Nokia", "Amazon", "Adobe"]}
+{"subject": "Itanium", "object": "Intel", "taxonomy": ["Fairchild", "Boeing", "Nokia", "Microsoft", "NATO"]}
+{"subject": "MS-DOS", "object": "Microsoft", "taxonomy": ["Nokia", "Amazon", "BBC", "Atari", "Gibson"]}
+{"subject": "Fortran", "object": "IBM", "taxonomy": ["Boeing", "Mitsubishi", "Samsung", "Adobe", "Google"]}
+{"subject": "GW-BASIC", "object": "Microsoft", "taxonomy": ["Boeing", "Atari", "Square", "Douglas", "Honda"]}
+{"subject": "Windows 1.0", "object": "Microsoft", "taxonomy": ["Sony", "Adobe", "IBM", "Atari", "Apple"]}
+{"subject": "ASIMO", "object": "Honda", "taxonomy": ["Airbus", "Square", "Intel", "Amazon", "BBC"]}
+{"subject": "Nintendo 2DS", "object": "Nintendo", "taxonomy": ["Honda", "NATO", "Access", "Microsoft", "Sony"]}
+{"subject": "Nintendo 3DS", "object": "Nintendo", "taxonomy": ["Access", "Yahoo", "IBM", "BBC", "Sega"]}
+{"subject": "Intel Threading Building Blocks", "object": "Intel", "taxonomy": ["Atari", "Sony", "NATO", "IBM", "Adobe"]}
+{"subject": "IA-32", "object": "Intel", "taxonomy": ["Atari", "Access", "Google", "Boeing", "Samsung"]}
+{"subject": "Intel 8086", "object": "Intel", "taxonomy": ["Gibson", "IBM", "Honda", "BBC", "Fairchild"]}
+{"subject": "Intel 80386", "object": "Intel", "taxonomy": ["Amazon", "Airbus", "Fairchild", "Nintendo", "Sony"]}
+{"subject": "Intel 80486SX", "object": "Intel", "taxonomy": ["Samsung", "Gibson", "Amazon", "Adobe", "NATO"]}
+{"subject": "Intel 80486", "object": "Intel", "taxonomy": ["Google", "Sega", "Amazon", "Airbus", "Yahoo"]}
+{"subject": "Windows 10", "object": "Microsoft", "taxonomy": ["Boeing", "Adobe", "Samsung", "Honda", "Yahoo"]}
+{"subject": "IA-64", "object": "Intel", "taxonomy": ["Gibson", "Fairchild", "IBM", "Sony", "Airbus"]}
+{"subject": "Pentium II", "object": "Intel", "taxonomy": ["Samsung", "Gibson", "Atari", "Mitsubishi", "Microsoft"]}
+{"subject": "Lotus 1-2-3", "object": "IBM", "taxonomy": ["Apple", "Sony", "Samsung", "Microsoft", "Honda"]}
+{"subject": "Microsoft Excel", "object": "Microsoft", "taxonomy": ["Amazon", "Adobe", "Atari", "Access", "Airbus"]}
+{"subject": "Microsoft Office", "object": "Microsoft", "taxonomy": ["Boeing", "Douglas", "Nintendo", "Adobe", "Apple"]}
+{"subject": "Microsoft Surface", "object": "Microsoft", "taxonomy": ["Google", "Intel", "IBM", "Nokia", "Airbus"]}
+{"subject": "MVS", "object": "IBM", "taxonomy": ["NATO", "Mitsubishi", "Nintendo", "Nokia", "Sega"]}
+{"subject": "Xenix", "object": "Microsoft", "taxonomy": ["IBM", "Adobe", "Yahoo", "Access", "Nintendo"]}
+{"subject": "Microsoft Word", "object": "Microsoft", "taxonomy": ["Honda", "Atari", "Adobe", "Sega", "Gibson"]}
+{"subject": "Mac OS", "object": "Apple", "taxonomy": ["Atari", "Gibson", "Google", "Samsung", "Fairchild"]}
+{"subject": "Mac OS 9", "object": "Apple", "taxonomy": ["Nintendo", "Google", "NATO", "Square", "Honda"]}
+{"subject": "macOS Server", "object": "Apple", "taxonomy": ["Airbus", "Sega", "Samsung", "Google", "Mitsubishi"]}
+{"subject": "Final Fantasy V", "object": "Square", "taxonomy": ["Nintendo", "BBC", "Douglas", "Microsoft", "Adobe"]}
+{"subject": "Windows Embedded Automotive", "object": "Microsoft", "taxonomy": ["Google", "Boeing", "Adobe", "IBM", "Nokia"]}
+{"subject": "MSX-DOS", "object": "Microsoft", "taxonomy": ["Sony", "Google", "Airbus", "Square", "Nokia"]}
+{"subject": "Windows 95", "object": "Microsoft", "taxonomy": ["NATO", "Sega", "Sony", "Atari", "Airbus"]}
+{"subject": "MiniDisc", "object": "Sony", "taxonomy": ["Fairchild", "Mitsubishi", "Yahoo", "Atari", "NATO"]}
+{"subject": "Internet Information Services", "object": "Microsoft", "taxonomy": ["Intel", "BBC", "Mitsubishi", "Gibson", "Boeing"]}
+{"subject": "Microsoft Visual Studio", "object": "Microsoft", "taxonomy": ["Adobe", "Mitsubishi", "Yahoo", "Nintendo", "Airbus"]}
+{"subject": "Windows 98", "object": "Microsoft", "taxonomy": ["Google", "Apple", "Intel", "Samsung", "Square"]}
+{"subject": "Windows NT 4.0", "object": "Microsoft", "taxonomy": ["Atari", "Apple", "IBM", "Google", "BBC"]}
+{"subject": "Microsoft FrontPage", "object": "Microsoft", "taxonomy": ["Nokia", "Intel", "Apple", "Sony", "Square"]}
+{"subject": "Mac OS X Panther", "object": "Apple", "taxonomy": ["Atari", "Microsoft", "Adobe", "Sony", "IBM"]}
+{"subject": "Pentium 4", "object": "Intel", "taxonomy": ["Access", "Nintendo", "Amazon", "Sega", "Square"]}
+{"subject": "ISPF", "object": "IBM", "taxonomy": ["Douglas", "Amazon", "Mitsubishi", "Honda", "Atari"]}
+{"subject": "XEDIT", "object": "IBM", "taxonomy": ["Apple", "Sony", "Amazon", "Microsoft", "Nintendo"]}
+{"subject": "Yahoo! Messenger", "object": "Yahoo", "taxonomy": ["Google", "Gibson", "Intel", "Nokia", "Mitsubishi"]}
+{"subject": "Pentium M", "object": "Intel", "taxonomy": ["Sony", "Access", "Boeing", "Nokia", "Mitsubishi"]}
+{"subject": "Microsoft BASIC", "object": "Microsoft", "taxonomy": ["Square", "Mitsubishi", "Boeing", "Fairchild", "Airbus"]}
+{"subject": "Adobe Acrobat", "object": "Adobe", "taxonomy": ["BBC", "Yahoo", "IBM", "Google", "Amazon"]}
+{"subject": "Portable Document Format", "object": "Adobe", "taxonomy": ["Mitsubishi", "Microsoft", "Gibson", "Boeing", "Honda"]}
+{"subject": "Adobe GoLive", "object": "Adobe", "taxonomy": ["Amazon", "Fairchild", "Gibson", "Intel", "Douglas"]}
+{"subject": "Adobe Dreamweaver", "object": "Adobe", "taxonomy": ["Mitsubishi", "BBC", "Sega", "Fairchild", "Sony"]}
+{"subject": "Adobe PageMaker", "object": "Adobe", "taxonomy": ["IBM", "Atari", "Nintendo", "Boeing", "Fairchild"]}
+{"subject": "MobileMe", "object": "Apple", "taxonomy": ["Sega", "Douglas", "BBC", "Google", "NATO"]}
+{"subject": "Zaxxon", "object": "Sega", "taxonomy": ["Fairchild", "Yahoo", "BBC", "Intel", "Square"]}
+{"subject": "Windows NT", "object": "Microsoft", "taxonomy": ["Boeing", "Amazon", "Sega", "BBC", "Adobe"]}
+{"subject": "Visual Basic .NET", "object": "Microsoft", "taxonomy": ["Apple", "Airbus", "BBC", "Fairchild", "Boeing"]}
+{"subject": "NetBurst", "object": "Intel", "taxonomy": ["Nintendo", "NATO", "Apple", "Nokia", "Samsung"]}
+{"subject": "Core 2", "object": "Intel", "taxonomy": ["Samsung", "Airbus", "Mitsubishi", "Boeing", "Honda"]}
+{"subject": "Microsoft Internet Explorer 6", "object": "Microsoft", "taxonomy": ["Fairchild", "Airbus", "IBM", "NATO", "Atari"]}
+{"subject": "Adobe Flash", "object": "Adobe", "taxonomy": ["Samsung", "Sega", "Nokia", "Nintendo", "Boeing"]}
+{"subject": "Adobe Flash Builder", "object": "Adobe", "taxonomy": ["Microsoft", "Yahoo", "BBC", "Nintendo", "Apple"]}
+{"subject": "Symbian", "object": "Nokia", "taxonomy": ["Amazon", "Samsung", "Yahoo", "Gibson", "Adobe"]}
+{"subject": "Windows Phone", "object": "Microsoft", "taxonomy": ["Douglas", "IBM", "Adobe", "Intel", "Samsung"]}
+{"subject": "Mario franchise", "object": "Nintendo", "taxonomy": ["NATO", "Square", "Microsoft", "Douglas", "Sega"]}
+{"subject": "Pentium", "object": "Intel", "taxonomy": ["IBM", "NATO", "Honda", "Microsoft", "BBC"]}
+{"subject": "Adobe Photoshop", "object": "Adobe", "taxonomy": ["Samsung", "NATO", "Gibson", "Atari", "Microsoft"]}
+{"subject": "Adobe Photoshop Elements", "object": "Adobe", "taxonomy": ["Atari", "Sony", "Amazon", "Square", "Microsoft"]}
+{"subject": "Adobe Photoshop Lightroom", "object": "Adobe", "taxonomy": ["Boeing", "Gibson", "Microsoft", "Airbus", "BBC"]}
+{"subject": "MacPaint", "object": "Apple", "taxonomy": ["IBM", "Intel", "Douglas", "Sony", "Mitsubishi"]}
+{"subject": "QuickTime", "object": "Apple", "taxonomy": ["Mitsubishi", "Airbus", "Boeing", "Sega", "Intel"]}
+{"subject": "Rich Text Format", "object": "Microsoft", "taxonomy": ["Yahoo", "Google", "Sega", "Mitsubishi", "Nintendo"]}
+{"subject": "Mac OS X 10.2", "object": "Apple", "taxonomy": ["Mitsubishi", "Sony", "Nintendo", "Square", "IBM"]}
+{"subject": "XScale", "object": "Intel", "taxonomy": ["Microsoft", "Sega", "Adobe", "Airbus", "Amazon"]}
+{"subject": "Wii U", "object": "Nintendo", "taxonomy": ["Square", "Samsung", "Intel", "Apple", "Sega"]}
+{"subject": "Visual Basic Script", "object": "Microsoft", "taxonomy": ["Apple", "Adobe", "Douglas", "Samsung", "Boeing"]}
+{"subject": "Microsoft Visio", "object": "Microsoft", "taxonomy": ["Intel", "Square", "BBC", "Douglas", "Boeing"]}
+{"subject": "Windows XP", "object": "Microsoft", "taxonomy": ["Mitsubishi", "Fairchild", "Apple", "Nokia", "BBC"]}
+{"subject": "Windows 2000", "object": "Microsoft", "taxonomy": ["Sega", "Amazon", "Nintendo", "Atari", "Honda"]}
+{"subject": "Windows Media Audio", "object": "Microsoft", "taxonomy": ["Square", "BBC", "Intel", "Atari", "Douglas"]}
+{"subject": "Intel 80186", "object": "Intel", "taxonomy": ["Gibson", "Nokia", "Sony", "Google", "Airbus"]}
+{"subject": "Intel 80286", "object": "Intel", "taxonomy": ["Amazon", "NATO", "Apple", "Airbus", "Google"]}
+{"subject": "Audio Video Interleave, version 1.0", "object": "Microsoft", "taxonomy": ["Adobe", "Mitsubishi", "Google", "Amazon", "Apple"]}
+{"subject": "NTFS", "object": "Microsoft", "taxonomy": ["Boeing", "Square", "Apple", "Sega", "Douglas"]}
+{"subject": "IBM System i", "object": "IBM", "taxonomy": ["Nokia", "Apple", "Boeing", "Sony", "Atari"]}
+{"subject": "IBM i", "object": "IBM", "taxonomy": ["Gibson", "Airbus", "Nintendo", "Amazon", "Sega"]}
+{"subject": "Alex Kidd", "object": "Sega", "taxonomy": ["Gibson", "Yahoo", "Atari", "Nintendo", "Apple"]}
+{"subject": "Windows 8", "object": "Microsoft", "taxonomy": ["Airbus", "Boeing", "Amazon", "Sony", "Mitsubishi"]}
+{"subject": "ThinkPad", "object": "IBM", "taxonomy": ["Yahoo", "Adobe", "Microsoft", "Boeing", "Douglas"]}
+{"subject": "iPod", "object": "Apple", "taxonomy": ["Access", "Fairchild", "Gibson", "Honda", "Atari"]}
+{"subject": "HyperTalk", "object": "Apple", "taxonomy": ["Gibson", "NATO", "Douglas", "Amazon", "Fairchild"]}
+{"subject": "HyperCard", "object": "Apple", "taxonomy": ["Intel", "Adobe", "BBC", "Airbus", "Honda"]}
+{"subject": "The Legend of Zelda", "object": "Nintendo", "taxonomy": ["Nokia", "Fairchild", "Atari", "Samsung", "Airbus"]}
+{"subject": "Final Cut Pro", "object": "Apple", "taxonomy": ["NATO", "Samsung", "Mitsubishi", "Airbus", "Nintendo"]}
+{"subject": "Apple Remote Desktop", "object": "Apple", "taxonomy": ["Douglas", "NATO", "Square", "Intel", "Access"]}
+{"subject": "Gmail", "object": "Google", "taxonomy": ["Fairchild", "Atari", "Airbus", "Sony", "BBC"]}
+{"subject": "Xcode", "object": "Apple", "taxonomy": ["Nokia", "Honda", "Adobe", "Nintendo", "Fairchild"]}
+{"subject": "Mac OS X Snow Leopard", "object": "Apple", "taxonomy": ["Douglas", "Access", "Yahoo", "IBM", "Atari"]}
+{"subject": "Microsoft Office 2007", "object": "Microsoft", "taxonomy": ["Amazon", "Access", "Mitsubishi", "Apple", "Google"]}
+{"subject": "EA-18G Growler", "object": "Boeing", "taxonomy": ["BBC", "Microsoft", "Adobe", "Sega", "Yahoo"]}
+{"subject": "High Level Shader Language", "object": "Microsoft", "taxonomy": ["Sony", "Yahoo", "Adobe", "Square", "Google"]}
+{"subject": "Microsoft PowerPoint", "object": "Microsoft", "taxonomy": ["Honda", "Yahoo", "Intel", "Amazon", "Google"]}
+{"subject": "Xbox Live", "object": "Microsoft", "taxonomy": ["Google", "Intel", "Sony", "Square", "Apple"]}
+{"subject": "Intel Core", "object": "Intel", "taxonomy": ["Gibson", "Nokia", "Boeing", "Samsung", "Access"]}
+{"subject": "Windows Embedded Compact", "object": "Microsoft", "taxonomy": ["Square", "Amazon", "Intel", "Google", "Samsung"]}
+{"subject": "NTLDR", "object": "Microsoft", "taxonomy": ["Fairchild", "Access", "Yahoo", "Gibson", "Google"]}
+{"subject": "Windows Server 2003", "object": "Microsoft", "taxonomy": ["Gibson", "Boeing", "Amazon", "NATO", "Atari"]}
+{"subject": "Windows Server 2008", "object": "Microsoft", "taxonomy": ["Sony", "Sega", "Fairchild", "Atari", "Airbus"]}
+{"subject": "Google Maps", "object": "Google", "taxonomy": ["Gibson", "Boeing", "BBC", "Adobe", "Square"]}
+{"subject": "G Suite", "object": "Google", "taxonomy": ["BBC", "Intel", "NATO", "Douglas", "Samsung"]}
+{"subject": "Microsoft Picture It!", "object": "Microsoft", "taxonomy": ["Honda", "Sony", "Square", "Fairchild", "Google"]}
+{"subject": "Nintendo DSi", "object": "Nintendo", "taxonomy": ["Access", "Honda", "Yahoo", "Adobe", "Fairchild"]}
+{"subject": "REXX", "object": "IBM", "taxonomy": ["Fairchild", "Intel", "Google", "Yahoo", "Apple"]}
+{"subject": "Newsstand", "object": "Apple", "taxonomy": ["Sega", "Sony", "IBM", "Amazon", "NATO"]}
+{"subject": "Windows Live Messenger", "object": "Microsoft", "taxonomy": ["Square", "Access", "Boeing", "Atari", "Nokia"]}
+{"subject": "CICS", "object": "IBM", "taxonomy": ["Airbus", "BBC", "Adobe", "Boeing", "Microsoft"]}
+{"subject": "Google Street View", "object": "Google", "taxonomy": ["Amazon", "Yahoo", "Airbus", "IBM", "NATO"]}
+{"subject": "Soundtrack Pro", "object": "Apple", "taxonomy": ["Samsung", "Yahoo", "Square", "Nintendo", "Intel"]}
+{"subject": "Super Monaco GP", "object": "Sega", "taxonomy": ["Atari", "Boeing", "Adobe", "Yahoo", "Samsung"]}
+{"subject": "Windows Media Player", "object": "Microsoft", "taxonomy": ["Sega", "BBC", "Samsung", "Sony", "Access"]}
+{"subject": "Google Checkout", "object": "Google", "taxonomy": ["Boeing", "Honda", "Sega", "Intel", "Airbus"]}
+{"subject": "Virtual Console", "object": "Nintendo", "taxonomy": ["Google", "Boeing", "Douglas", "Amazon", "Yahoo"]}
+{"subject": "Google Pay Send", "object": "Google", "taxonomy": ["BBC", "Gibson", "Yahoo", "Adobe", "Samsung"]}
+{"subject": ".NET Framework", "object": "Microsoft", "taxonomy": ["Yahoo", "Nokia", "Access", "Atari", "Sony"]}
+{"subject": "System 7", "object": "Apple", "taxonomy": ["Google", "NATO", "Atari", "Samsung", "Nokia"]}
+{"subject": "Chrono Trigger", "object": "Square", "taxonomy": ["Gibson", "BBC", "Nintendo", "Sega", "Douglas"]}
+{"subject": "Windows Malicious Software Removal Tool", "object": "Microsoft", "taxonomy": ["Samsung", "Access", "Gibson", "Square", "Airbus"]}
+{"subject": "Windows Update", "object": "Microsoft", "taxonomy": ["Nokia", "IBM", "Intel", "BBC", "Sony"]}
+{"subject": "Final Cut Pro X", "object": "Apple", "taxonomy": ["Intel", "Access", "Airbus", "Amazon", "Boeing"]}
+{"subject": "B-52 Stratofortress", "object": "Boeing", "taxonomy": ["IBM", "Yahoo", "Adobe", "Square", "Airbus"]}
+{"subject": "Google Account", "object": "Google", "taxonomy": ["Samsung", "Boeing", "Nintendo", "Sony", "Gibson"]}
+{"subject": "Google Groups", "object": "Google", "taxonomy": ["Amazon", "Airbus", "Access", "Adobe", "Fairchild"]}
+{"subject": "Google File System", "object": "Google", "taxonomy": ["Atari", "Gibson", "Douglas", "BBC", "Sony"]}
+{"subject": "Zune", "object": "Microsoft", "taxonomy": ["Amazon", "Douglas", "Honda", "NATO", "Gibson"]}
+{"subject": "Windows Phone 8", "object": "Microsoft", "taxonomy": ["Sony", "BBC", "Honda", "Fairchild", "Atari"]}
+{"subject": "iTunes", "object": "Apple", "taxonomy": ["Airbus", "Nokia", "NATO", "Intel", "Microsoft"]}
+{"subject": "Windows Genuine Advantage", "object": "Microsoft", "taxonomy": ["Nintendo", "Square", "IBM", "Samsung", "Nokia"]}
+{"subject": "Windows 2.0", "object": "Microsoft", "taxonomy": ["Fairchild", "Intel", "Gibson", "Apple", "BBC"]}
+{"subject": "FairPlay", "object": "Apple", "taxonomy": ["Adobe", "Yahoo", "Fairchild", "Square", "NATO"]}
+{"subject": "iChat", "object": "Apple", "taxonomy": ["Nintendo", "Douglas", "Fairchild", "Square", "Airbus"]}
+{"subject": "Google Talk", "object": "Google", "taxonomy": ["NATO", "Intel", "Samsung", "Microsoft", "Boeing"]}
+{"subject": "Windows Media Video", "object": "Microsoft", "taxonomy": ["Sony", "Amazon", "Sega", "Access", "Adobe"]}
+{"subject": "Windows Embedded", "object": "Microsoft", "taxonomy": ["Boeing", "Atari", "Samsung", "BBC", "Access"]}
+{"subject": "IBM Rational Unified Process", "object": "IBM", "taxonomy": ["Mitsubishi", "Douglas", "Nokia", "Sega", "Sony"]}
+{"subject": "Zero configuration networking", "object": "Apple", "taxonomy": ["Nokia", "Sony", "Microsoft", "Access", "Adobe"]}
+{"subject": "Windows Internet Explorer 7", "object": "Microsoft", "taxonomy": ["Honda", "Atari", "Sega", "Adobe", "Nokia"]}
+{"subject": "Adobe Illustrator", "object": "Adobe", "taxonomy": ["Square", "Mitsubishi", "Intel", "Honda", "Samsung"]}
+{"subject": "Adobe Creative Suite", "object": "Adobe", "taxonomy": ["Douglas", "Yahoo", "Mitsubishi", "Gibson", "Nokia"]}
+{"subject": "Donkey Kong", "object": "Nintendo", "taxonomy": ["Yahoo", "IBM", "Boeing", "Mitsubishi", "NATO"]}
+{"subject": "Google AdSense", "object": "Google", "taxonomy": ["Samsung", "Gibson", "BBC", "Sega", "Nintendo"]}
+{"subject": "Thunder Blade", "object": "Sega", "taxonomy": ["Google", "Boeing", "Square", "Yahoo", "Gibson"]}
+{"subject": "Windows 7", "object": "Microsoft", "taxonomy": ["Mitsubishi", "Apple", "Samsung", "Honda", "BBC"]}
+{"subject": "Windows 8.1", "object": "Microsoft", "taxonomy": ["Boeing", "Fairchild", "Google", "Mitsubishi", "Intel"]}
+{"subject": "Windows Server 2012", "object": "Microsoft", "taxonomy": ["Nokia", "Mitsubishi", "BBC", "IBM", "Samsung"]}
+{"subject": "Dynamic-link library", "object": "Microsoft", "taxonomy": ["Douglas", "Honda", "Square", "Mitsubishi", "Adobe"]}
+{"subject": "B-29 Superfortress", "object": "Boeing", "taxonomy": ["Access", "Airbus", "BBC", "NATO", "Samsung"]}
+{"subject": "Test Drive Le Mans", "object": "Atari", "taxonomy": ["Airbus", "Nintendo", "Gibson", "Access", "Amazon"]}
+{"subject": "Airbus A350", "object": "Airbus", "taxonomy": ["Square", "Intel", "BBC", "IBM", "Honda"]}
+{"subject": "SonicStage", "object": "Sony", "taxonomy": ["Sega", "Adobe", "Apple", "IBM", "Intel"]}
+{"subject": "IBM Type-III Library", "object": "IBM", "taxonomy": ["Fairchild", "Atari", "Access", "Douglas", "Sega"]}
+{"subject": "TSS/360", "object": "IBM", "taxonomy": ["Amazon", "Sony", "Yahoo", "Samsung", "Boeing"]}
+{"subject": "Process Explorer", "object": "Microsoft", "taxonomy": ["Fairchild", "BBC", "Apple", "Sony", "Intel"]}
+{"subject": "Apple DOS", "object": "Apple", "taxonomy": ["Douglas", "Square", "Google", "Boeing", "Access"]}
+{"subject": "Baku Baku Animal", "object": "Sega", "taxonomy": ["Nokia", "Sony", "Honda", "Adobe", "Boeing"]}
+{"subject": "Digital Negative", "object": "Adobe", "taxonomy": ["Atari", "Gibson", "Sony", "Nintendo", "Intel"]}
+{"subject": "Windows Live Writer", "object": "Microsoft", "taxonomy": ["Access", "Amazon", "Nokia", "Mitsubishi", "NATO"]}
+{"subject": "OS X Mountain Lion", "object": "Apple", "taxonomy": ["BBC", "Adobe", "Airbus", "NATO", "Sony"]}
+{"subject": "OneDrive", "object": "Microsoft", "taxonomy": ["Nokia", "Honda", "Mitsubishi", "Nintendo", "IBM"]}
+{"subject": "Golden Axe", "object": "Sega", "taxonomy": ["Yahoo", "Gibson", "Honda", "Atari", "Access"]}
+{"subject": "Altered Beast", "object": "Sega", "taxonomy": ["NATO", "Square", "Honda", "Gibson", "Microsoft"]}
+{"subject": "Yakuza 2", "object": "Sega", "taxonomy": ["Airbus", "Fairchild", "Access", "Square", "Microsoft"]}
+{"subject": "Yakuza", "object": "Sega", "taxonomy": ["Amazon", "Honda", "NATO", "Access", "Sony"]}
+{"subject": "Microsoft Exchange Server", "object": "Microsoft", "taxonomy": ["Sega", "Douglas", "BBC", "NATO", "Nintendo"]}
+{"subject": "Uniform Type Identifier", "object": "Apple", "taxonomy": ["Sega", "IBM", "Intel", "Mitsubishi", "Nintendo"]}
+{"subject": "Time Sharing Option", "object": "IBM", "taxonomy": ["Nokia", "Sony", "Intel", "Yahoo", "Nintendo"]}
+{"subject": "Microsoft Office Mobile", "object": "Microsoft", "taxonomy": ["IBM", "Adobe", "Atari", "Google", "Nintendo"]}
+{"subject": "iGoogle", "object": "Google", "taxonomy": ["BBC", "Apple", "Microsoft", "Atari", "Gibson"]}
+{"subject": "Google Desktop", "object": "Google", "taxonomy": ["Boeing", "Mitsubishi", "Sony", "IBM", "Amazon"]}
+{"subject": "ASCI Red", "object": "Intel", "taxonomy": ["IBM", "Douglas", "BBC", "Google", "Samsung"]}
+{"subject": "Picasa", "object": "Google", "taxonomy": ["Yahoo", "BBC", "Microsoft", "Amazon", "Airbus"]}
+{"subject": "IBM Db2", "object": "IBM", "taxonomy": ["Fairchild", "Boeing", "Square", "BBC", "Airbus"]}
+{"subject": "Google Earth", "object": "Google", "taxonomy": ["BBC", "Atari", "Microsoft", "Square", "Sony"]}
+{"subject": "Windows Live OneCare", "object": "Microsoft", "taxonomy": ["Access", "Adobe", "Gibson", "Douglas", "Fairchild"]}
+{"subject": "Google Ads", "object": "Google", "taxonomy": ["Adobe", "Mitsubishi", "Amazon", "Yahoo", "Atari"]}
+{"subject": "QuickTime VR", "object": "Apple", "taxonomy": ["NATO", "Nintendo", "Atari", "Boeing", "Honda"]}
+{"subject": "Microsoft Silverlight", "object": "Microsoft", "taxonomy": ["Amazon", "Sony", "Yahoo", "Apple", "Honda"]}
+{"subject": "iPod Touch", "object": "Apple", "taxonomy": ["Boeing", "Douglas", "Fairchild", "Square", "Gibson"]}
+{"subject": "Synchronized Accessible Media Interchange", "object": "Microsoft", "taxonomy": ["Intel", "Douglas", "Nokia", "Google", "BBC"]}
+{"subject": "Microsoft Compiled HTML Help", "object": "Microsoft", "taxonomy": ["Apple", "Adobe", "Google", "Boeing", "Nintendo"]}
+{"subject": "OpenAFS", "object": "IBM", "taxonomy": ["Mitsubishi", "Access", "Yahoo", "Adobe", "Boeing"]}
+{"subject": "Andrew File System", "object": "IBM", "taxonomy": ["Nintendo", "Adobe", "Square", "Airbus", "Mitsubishi"]}
+{"subject": "iPod Mini", "object": "Apple", "taxonomy": ["Douglas", "Square", "Google", "Honda", "Airbus"]}
+{"subject": "Sandy Bridge", "object": "Intel", "taxonomy": ["Boeing", "Yahoo", "Douglas", "BBC", "Amazon"]}
+{"subject": "Vector Markup Language", "object": "Microsoft", "taxonomy": ["Airbus", "Access", "Sega", "Intel", "Honda"]}
+{"subject": "Amazon Fire TV", "object": "Amazon", "taxonomy": ["Nokia", "Airbus", "Boeing", "Fairchild", "Mitsubishi"]}
+{"subject": "IBM Tivoli Workload Scheduler", "object": "IBM", "taxonomy": ["Yahoo", "Douglas", "Nintendo", "Boeing", "Sega"]}
+{"subject": "IBM Rational Rose XDE", "object": "IBM", "taxonomy": ["Adobe", "Samsung", "Atari", "Microsoft", "Boeing"]}
+{"subject": "YUI Library", "object": "Yahoo", "taxonomy": ["Square", "IBM", "Google", "Honda", "Nokia"]}
+{"subject": "IBM VisualAge", "object": "IBM", "taxonomy": ["BBC", "Gibson", "Nintendo", "Honda", "Sony"]}
+{"subject": "QuickDraw", "object": "Apple", "taxonomy": ["Sega", "Honda", "Airbus", "IBM", "Intel"]}
+{"subject": "ColorSync", "object": "Apple", "taxonomy": ["Adobe", "Yahoo", "Atari", "Gibson", "Fairchild"]}
+{"subject": "AppleScript", "object": "Apple", "taxonomy": ["Yahoo", "Samsung", "Microsoft", "Douglas", "Google"]}
+{"subject": "OpenDoc", "object": "Apple", "taxonomy": ["Mitsubishi", "Amazon", "Atari", "Fairchild", "Access"]}
+{"subject": "Meta Content Framework", "object": "Apple", "taxonomy": ["Airbus", "Nintendo", "Atari", "Yahoo", "Mitsubishi"]}
+{"subject": "Squeak", "object": "Apple", "taxonomy": ["BBC", "Douglas", "Nintendo", "Honda", "Adobe"]}
+{"subject": "iPod shuffle", "object": "Apple", "taxonomy": ["NATO", "Airbus", "Sega", "Atari", "Sony"]}
+{"subject": "Windows Communication Foundation", "object": "Microsoft", "taxonomy": ["Access", "Fairchild", "Douglas", "Gibson", "Nintendo"]}
+{"subject": "Adobe Soundbooth", "object": "Adobe", "taxonomy": ["Samsung", "Fairchild", "Access", "Nintendo", "Gibson"]}
+{"subject": "Adobe Audition", "object": "Adobe", "taxonomy": ["Fairchild", "Apple", "IBM", "Intel", "Mitsubishi"]}
+{"subject": "Heavyweight Champ", "object": "Sega", "taxonomy": ["Amazon", "Boeing", "Square", "Sony", "Honda"]}
+{"subject": "Virtual Telecommunications Access Method", "object": "IBM", "taxonomy": ["Intel", "Square", "Amazon", "Access", "NATO"]}
+{"subject": "Resource Access Control Facility", "object": "IBM", "taxonomy": ["BBC", "Airbus", "Yahoo", "Atari", "Mitsubishi"]}
+{"subject": "Adobe AIR", "object": "Adobe", "taxonomy": ["Fairchild", "Mitsubishi", "Honda", "Gibson", "Yahoo"]}
+{"subject": "Atari 8-bit family", "object": "Atari", "taxonomy": ["Apple", "Nokia", "Adobe", "NATO", "Mitsubishi"]}
+{"subject": "IBM Network Control Program", "object": "IBM", "taxonomy": ["Square", "Atari", "BBC", "Amazon", "Adobe"]}
+{"subject": "Tamarin", "object": "Adobe", "taxonomy": ["Sony", "Amazon", "Sega", "Square", "Nintendo"]}
+{"subject": "Adobe Flash Player", "object": "Adobe", "taxonomy": ["Honda", "NATO", "Airbus", "IBM", "Microsoft"]}
+{"subject": "Microsoft Plus!", "object": "Microsoft", "taxonomy": ["IBM", "Gibson", "BBC", "Nokia", "Fairchild"]}
+{"subject": "Google Play", "object": "Google", "taxonomy": ["Intel", "Douglas", "Boeing", "Microsoft", "Fairchild"]}
+{"subject": "iDisk", "object": "Apple", "taxonomy": ["Amazon", "Google", "Sega", "Douglas", "Access"]}
+{"subject": "iCloud", "object": "Apple", "taxonomy": ["Sega", "Airbus", "Google", "Sony", "Gibson"]}
+{"subject": "OS X Yosemite", "object": "Apple", "taxonomy": ["Sega", "Nintendo", "Google", "Douglas", "Nokia"]}
+{"subject": "iOS 8", "object": "Apple", "taxonomy": ["BBC", "Intel", "Gibson", "Adobe", "Fairchild"]}
+{"subject": "iMovie", "object": "Apple", "taxonomy": ["Adobe", "Fairchild", "Yahoo", "Sega", "Samsung"]}
+{"subject": "GarageBand", "object": "Apple", "taxonomy": ["Sega", "Nokia", "Adobe", "Boeing", "Square"]}
+{"subject": "Mac OS X Tiger", "object": "Apple", "taxonomy": ["Fairchild", "Honda", "Nokia", "Boeing", "Yahoo"]}
+{"subject": "Advanced Systems Format", "object": "Microsoft", "taxonomy": ["Nintendo", "Gibson", "Yahoo", "Boeing", "Google"]}
+{"subject": "Metroid", "object": "Nintendo", "taxonomy": ["Apple", "Access", "Microsoft", "Sony", "Nokia"]}
+{"subject": "AppleWorks", "object": "Apple", "taxonomy": ["Square", "Nintendo", "Douglas", "Amazon", "Mitsubishi"]}
+{"subject": "Siri", "object": "Apple", "taxonomy": ["Nintendo", "Mitsubishi", "IBM", "Airbus", "Adobe"]}
+{"subject": "Apple Bandai Pippin", "object": "Apple", "taxonomy": ["Microsoft", "BBC", "Sega", "Gibson", "Atari"]}
+{"subject": "Super Audio CD", "object": "Sony", "taxonomy": ["NATO", "Yahoo", "Apple", "Intel", "Boeing"]}
+{"subject": "Microsoft Robotics Developer Studio", "object": "Microsoft", "taxonomy": ["Boeing", "NATO", "Gibson", "Sega", "Yahoo"]}
+{"subject": "B-47 Stratojet", "object": "Boeing", "taxonomy": ["Sega", "Microsoft", "Nintendo", "Access", "Gibson"]}
+{"subject": "Attached Support Processor", "object": "IBM", "taxonomy": ["Airbus", "Amazon", "Nokia", "Mitsubishi", "Apple"]}
+{"subject": "TypeScript", "object": "Microsoft", "taxonomy": ["Apple", "Atari", "Access", "Adobe", "Samsung"]}
+{"subject": "Pentium III", "object": "Intel", "taxonomy": ["Douglas", "NATO", "Adobe", "Apple", "Gibson"]}
+{"subject": "App Store", "object": "Apple", "taxonomy": ["Atari", "IBM", "Microsoft", "Honda", "Square"]}
+{"subject": "Adobe After Effects", "object": "Adobe", "taxonomy": ["Sony", "Amazon", "Nokia", "Intel", "Apple"]}
+{"subject": "Adobe Premiere Pro", "object": "Adobe", "taxonomy": ["Boeing", "Nokia", "BBC", "Atari", "Sega"]}
+{"subject": "iPod Nano", "object": "Apple", "taxonomy": ["Adobe", "Microsoft", "Amazon", "Douglas", "Sega"]}
+{"subject": "Microsoft Access", "object": "Microsoft", "taxonomy": ["NATO", "Boeing", "Intel", "Amazon", "Google"]}
+{"subject": "Google Patents", "object": "Google", "taxonomy": ["Square", "Intel", "Access", "Atari", "Airbus"]}
+{"subject": "Sega Smash Pack", "object": "Sega", "taxonomy": ["Mitsubishi", "Sony", "NATO", "Boeing", "Nintendo"]}
+{"subject": "IBM Generalized Markup Language", "object": "IBM", "taxonomy": ["Sony", "Nintendo", "BBC", "Apple", "NATO"]}
+{"subject": "IBM WebSphere MQ", "object": "IBM", "taxonomy": ["Airbus", "Samsung", "Microsoft", "Nokia", "Sony"]}
+{"subject": "IBM RPG II", "object": "IBM", "taxonomy": ["Adobe", "Google", "Honda", "Samsung", "Access"]}
+{"subject": "iTunes Radio", "object": "Apple", "taxonomy": ["Gibson", "Yahoo", "Microsoft", "Samsung", "Square"]}
+{"subject": "Apple Watch", "object": "Apple", "taxonomy": ["Sony", "Fairchild", "Mitsubishi", "Douglas", "Square"]}
+{"subject": "CUPS", "object": "Apple", "taxonomy": ["Atari", "Sega", "Square", "Microsoft", "Fairchild"]}
+{"subject": "Bing Maps", "object": "Microsoft", "taxonomy": ["Adobe", "Intel", "Samsung", "Fairchild", "Amazon"]}
+{"subject": "iPod Classic", "object": "Apple", "taxonomy": ["Google", "BBC", "Microsoft", "Nokia", "Yahoo"]}
+{"subject": "WinDbg", "object": "Microsoft", "taxonomy": ["Sega", "Fairchild", "Yahoo", "Honda", "Mitsubishi"]}
+{"subject": "Journaled File System", "object": "IBM", "taxonomy": ["Nintendo", "NATO", "Square", "Yahoo", "Gibson"]}
+{"subject": "IBM General Parallel File System", "object": "IBM", "taxonomy": ["Intel", "Samsung", "BBC", "Gibson", "Access"]}
+{"subject": "WebObjects", "object": "Apple", "taxonomy": ["Amazon", "Sega", "NATO", "BBC", "Mitsubishi"]}
+{"subject": "Microsoft Macro Assembler", "object": "Microsoft", "taxonomy": ["Nokia", "Adobe", "Douglas", "Access", "Atari"]}
+{"subject": "Windows Installer", "object": "Microsoft", "taxonomy": ["Google", "Intel", "Mitsubishi", "Apple", "Access"]}
+{"subject": "sRGB", "object": "Microsoft", "taxonomy": ["Apple", "Sony", "Yahoo", "Google", "Amazon"]}
+{"subject": "Final Fantasy", "object": "Square", "taxonomy": ["Atari", "Yahoo", "Intel", "Fairchild", "Sega"]}
+{"subject": "Microsoft SQL Server", "object": "Microsoft", "taxonomy": ["Apple", "Sega", "Douglas", "Amazon", "Fairchild"]}
+{"subject": "Deckadance", "object": "Gibson", "taxonomy": ["Amazon", "Sony", "Mitsubishi", "Airbus", "Honda"]}
+{"subject": "Intel Pentium Dual-Core", "object": "Intel", "taxonomy": ["Mitsubishi", "Microsoft", "Fairchild", "Atari", "Sega"]}
+{"subject": "Books", "object": "Apple", "taxonomy": ["Sega", "Access", "Nintendo", "IBM", "Douglas"]}
+{"subject": "Google Drive", "object": "Google", "taxonomy": ["Sega", "IBM", "Access", "Microsoft", "Gibson"]}
+{"subject": "Google Hangouts", "object": "Google", "taxonomy": ["Access", "Sony", "Microsoft", "Airbus", "Yahoo"]}
+{"subject": "Google Calendar", "object": "Google", "taxonomy": ["Square", "Atari", "Gibson", "Nokia", "IBM"]}
+{"subject": "Skype", "object": "Microsoft", "taxonomy": ["Douglas", "Mitsubishi", "Honda", "Adobe", "Nintendo"]}
+{"subject": "Google Guice", "object": "Google", "taxonomy": ["Microsoft", "Adobe", "Samsung", "Gibson", "NATO"]}
+{"subject": "Mac OS X Leopard", "object": "Apple", "taxonomy": ["Square", "Yahoo", "Honda", "NATO", "IBM"]}
+{"subject": "Eternal Champions", "object": "Sega", "taxonomy": ["Nintendo", "Honda", "Square", "Yahoo", "Fairchild"]}
+{"subject": "Adobe InDesign", "object": "Adobe", "taxonomy": ["IBM", "Sony", "Microsoft", "Samsung", "Google"]}
+{"subject": "Adobe Creative Cloud", "object": "Adobe", "taxonomy": ["Nintendo", "Fairchild", "Sony", "Access", "Square"]}
+{"subject": "IntelliPoint", "object": "Microsoft", "taxonomy": ["Fairchild", "Sega", "Intel", "Sony", "IBM"]}
+{"subject": "Google Health", "object": "Google", "taxonomy": ["Gibson", "Amazon", "Square", "Access", "Adobe"]}
+{"subject": "The Ocean Hunter", "object": "Sega", "taxonomy": ["Fairchild", "NATO", "BBC", "Samsung", "IBM"]}
+{"subject": "Open Packaging Conventions", "object": "Microsoft", "taxonomy": ["Gibson", "NATO", "Apple", "Honda", "Samsung"]}
+{"subject": "Open XML Paper Specification", "object": "Microsoft", "taxonomy": ["Fairchild", "Douglas", "Honda", "Mitsubishi", "Square"]}
+{"subject": "Google Marketing Platform", "object": "Google", "taxonomy": ["Douglas", "Apple", "Square", "Airbus", "NATO"]}
+{"subject": "Final Cut Studio", "object": "Apple", "taxonomy": ["Intel", "Square", "Mitsubishi", "Gibson", "NATO"]}
+{"subject": "XDCAM", "object": "Sony", "taxonomy": ["IBM", "Intel", "Mitsubishi", "Boeing", "BBC"]}
+{"subject": "Adobe Media Player", "object": "Adobe", "taxonomy": ["Airbus", "Douglas", "Nokia", "BBC", "Boeing"]}
+{"subject": "Adobe Digital Editions", "object": "Adobe", "taxonomy": ["BBC", "Samsung", "Airbus", "Intel", "Sega"]}
+{"subject": "Windows Internet Explorer 8", "object": "Microsoft", "taxonomy": ["Fairchild", "Mitsubishi", "Douglas", "BBC", "Apple"]}
+{"subject": "ActiveSync", "object": "Microsoft", "taxonomy": ["Amazon", "Gibson", "Douglas", "Samsung", "Mitsubishi"]}
+{"subject": "Microsoft OneNote", "object": "Microsoft", "taxonomy": ["NATO", "Fairchild", "Sony", "Intel", "Atari"]}
+{"subject": "Final Fantasy III", "object": "Square", "taxonomy": ["Gibson", "BBC", "Samsung", "Honda", "Airbus"]}
+{"subject": "Transaction Processing Facility", "object": "IBM", "taxonomy": ["Nokia", "Nintendo", "Gibson", "Apple", "Airbus"]}
+{"subject": "IBM Connections", "object": "IBM", "taxonomy": ["Nintendo", "Sony", "Adobe", "Douglas", "Yahoo"]}
+{"subject": "Office Open XML", "object": "Microsoft", "taxonomy": ["Fairchild", "Douglas", "Intel", "Nokia", "Adobe"]}
+{"subject": "Google Shopping", "object": "Google", "taxonomy": ["Access", "Mitsubishi", "Yahoo", "Adobe", "Amazon"]}
+{"subject": "Pilotwings 64", "object": "Nintendo", "taxonomy": ["Amazon", "Douglas", "Square", "Sega", "Atari"]}
+{"subject": "Gears", "object": "Google", "taxonomy": ["Samsung", "Boeing", "Airbus", "Sony", "Atari"]}
+{"subject": "Amazon Web Services", "object": "Amazon", "taxonomy": ["Sega", "Nokia", "Apple", "IBM", "Atari"]}
+{"subject": "Quick Look", "object": "Apple", "taxonomy": ["BBC", "Intel", "Nokia", "Amazon", "Fairchild"]}
+{"subject": "Yorkfield", "object": "Intel", "taxonomy": ["Gibson", "Douglas", "Atari", "Nokia", "Honda"]}
+{"subject": "Amazon Simple Queue Service", "object": "Amazon", "taxonomy": ["Adobe", "Atari", "BBC", "Airbus", "Nintendo"]}
+{"subject": "Google Buzz", "object": "Google", "taxonomy": ["Honda", "Intel", "NATO", "Douglas", "Gibson"]}
+{"subject": "Pentium Pro", "object": "Intel", "taxonomy": ["Nokia", "Yahoo", "Mitsubishi", "Samsung", "Airbus"]}
+{"subject": "Adobe Premiere Elements", "object": "Adobe", "taxonomy": ["Apple", "Google", "Douglas", "Yahoo", "Honda"]}
+{"subject": "PostScript Printer Description", "object": "Adobe", "taxonomy": ["Intel", "Boeing", "Square", "Google", "Honda"]}
+{"subject": "Windows RT", "object": "Microsoft", "taxonomy": ["Nintendo", "Samsung", "Square", "Fairchild", "Honda"]}
+{"subject": "Microsoft Office XP", "object": "Microsoft", "taxonomy": ["IBM", "Honda", "Amazon", "Atari", "Samsung"]}
+{"subject": "Windows 2.1x", "object": "Microsoft", "taxonomy": ["Atari", "Samsung", "Intel", "Nintendo", "Yahoo"]}
+{"subject": "X11.app", "object": "Apple", "taxonomy": ["Fairchild", "Access", "Douglas", "Amazon", "Boeing"]}
+{"subject": "Mac OS X Lion", "object": "Apple", "taxonomy": ["Intel", "Douglas", "Sony", "Adobe", "Square"]}
+{"subject": "Logic Pro", "object": "Apple", "taxonomy": ["Square", "NATO", "Gibson", "Douglas", "Microsoft"]}
+{"subject": "A-10 Thunderbolt II", "object": "Fairchild", "taxonomy": ["Google", "Gibson", "Boeing", "Samsung", "BBC"]}
+{"subject": "Microsoft Office 2000", "object": "Microsoft", "taxonomy": ["Gibson", "Nintendo", "Adobe", "Google", "IBM"]}
+{"subject": "MacsBug", "object": "Apple", "taxonomy": ["Microsoft", "Atari", "Google", "Yahoo", "Adobe"]}
+{"subject": "Flicky", "object": "Sega", "taxonomy": ["Atari", "Gibson", "Yahoo", "Adobe", "IBM"]}
+{"subject": "Apple Maps", "object": "Apple", "taxonomy": ["IBM", "Honda", "Atari", "Adobe", "Gibson"]}
+{"subject": "Logic Studio", "object": "Apple", "taxonomy": ["Access", "Sega", "Fairchild", "Amazon", "Adobe"]}
+{"subject": "iOS 5", "object": "Apple", "taxonomy": ["Amazon", "Adobe", "Sega", "Samsung", "Nintendo"]}
+{"subject": "IBM Lotus Symphony", "object": "IBM", "taxonomy": ["Sony", "Honda", "Gibson", "Access", "Douglas"]}
+{"subject": "Windows Phone Store", "object": "Microsoft", "taxonomy": ["NATO", "Square", "Atari", "Airbus", "Nokia"]}
+{"subject": "Adobe Bridge", "object": "Adobe", "taxonomy": ["Sega", "Sony", "Douglas", "Mitsubishi", "Gibson"]}
+{"subject": "Adobe Captivate", "object": "Adobe", "taxonomy": ["Airbus", "Yahoo", "Honda", "Microsoft", "Douglas"]}
+{"subject": "Adobe FrameMaker", "object": "Adobe", "taxonomy": ["Samsung", "Yahoo", "Google", "Nokia", "Gibson"]}
+{"subject": "Microsoft SharePoint", "object": "Microsoft", "taxonomy": ["Nokia", "Gibson", "Atari", "Honda", "Square"]}
+{"subject": "Microsoft HealthVault", "object": "Microsoft", "taxonomy": ["Mitsubishi", "Access", "Google", "Sony", "Nintendo"]}
+{"subject": "IBM DeveloperWorks", "object": "IBM", "taxonomy": ["NATO", "Google", "Atari", "Yahoo", "Boeing"]}
+{"subject": "Golden Axe", "object": "Sega", "taxonomy": ["Mitsubishi", "Atari", "Nintendo", "Gibson", "Google"]}
+{"subject": "Internet Explorer 5", "object": "Microsoft", "taxonomy": ["Atari", "Nokia", "Airbus", "Sony", "Mitsubishi"]}
+{"subject": "Microsoft Store", "object": "Microsoft", "taxonomy": ["Apple", "Nintendo", "BBC", "Sony", "Douglas"]}
+{"subject": "Tizen", "object": "Intel", "taxonomy": ["Airbus", "Access", "Nokia", "Amazon", "BBC"]}
+{"subject": "IBM 4690 OS", "object": "IBM", "taxonomy": ["Amazon", "Access", "Intel", "Mitsubishi", "Google"]}
+{"subject": "BBC iPlayer", "object": "BBC", "taxonomy": ["Douglas", "Mitsubishi", "Atari", "Nokia", "Amazon"]}
+{"subject": "Project Ara", "object": "Google", "taxonomy": ["Fairchild", "Microsoft", "Amazon", "Airbus", "Square"]}
+{"subject": "Eclipse", "object": "IBM", "taxonomy": ["Airbus", "Mitsubishi", "BBC", "Adobe", "Access"]}
+{"subject": "IBM System R", "object": "IBM", "taxonomy": ["Douglas", "Honda", "Fairchild", "Adobe", "Sony"]}
+{"subject": "Intel iAPX 432", "object": "Intel", "taxonomy": ["Mitsubishi", "Adobe", "Nintendo", "Google", "Sega"]}
+{"subject": "Intel i960", "object": "Intel", "taxonomy": ["Google", "Square", "Honda", "Fairchild", "Access"]}
+{"subject": "Microsoft Mail", "object": "Microsoft", "taxonomy": ["Honda", "Apple", "NATO", "BBC", "Adobe"]}
+{"subject": "PowerShell", "object": "Microsoft", "taxonomy": ["Apple", "Fairchild", "NATO", "BBC", "Gibson"]}
+{"subject": "AppleShare", "object": "Apple", "taxonomy": ["Google", "Douglas", "Mitsubishi", "Nintendo", "Airbus"]}
+{"subject": "WebKit", "object": "Apple", "taxonomy": ["Samsung", "Fairchild", "Airbus", "Boeing", "Nokia"]}
+{"subject": "Intel MCS-51", "object": "Intel", "taxonomy": ["Honda", "Amazon", "Mitsubishi", "Microsoft", "Sega"]}
+{"subject": "Mac OS X 10.0", "object": "Apple", "taxonomy": ["Honda", "Fairchild", "Yahoo", "Samsung", "Gibson"]}
+{"subject": "Mac OS X 10.1", "object": "Apple", "taxonomy": ["Square", "Boeing", "Access", "Sega", "Adobe"]}
+{"subject": "Mac OS 8", "object": "Apple", "taxonomy": ["Nintendo", "Boeing", "Atari", "NATO", "Douglas"]}
+{"subject": "IBM Airline Control Program", "object": "IBM", "taxonomy": ["Sega", "Google", "Samsung", "Microsoft", "Douglas"]}
+{"subject": "Programmed Airline Reservations System", "object": "IBM", "taxonomy": ["Sony", "Honda", "Yahoo", "Samsung", "Airbus"]}
+{"subject": "Microsoft Bob", "object": "Microsoft", "taxonomy": ["Douglas", "Amazon", "Honda", "Apple", "Samsung"]}
+{"subject": "Final Fantasy X", "object": "Square", "taxonomy": ["Yahoo", "Nokia", "Nintendo", "Airbus", "Microsoft"]}
+{"subject": "Hierarchical File System", "object": "Apple", "taxonomy": ["BBC", "Nintendo", "Samsung", "Atari", "IBM"]}
+{"subject": "Interface Builder", "object": "Apple", "taxonomy": ["IBM", "Square", "Atari", "Sony", "Sega"]}
+{"subject": "IBM System Object Model", "object": "IBM", "taxonomy": ["Google", "Microsoft", "Airbus", "Mitsubishi", "Gibson"]}
+{"subject": "Blogger", "object": "Google", "taxonomy": ["Gibson", "Honda", "Sega", "Atari", "Microsoft"]}
+{"subject": "IBM Tivoli Storage Manager", "object": "IBM", "taxonomy": ["Sega", "Apple", "Nokia", "Nintendo", "Atari"]}
+{"subject": "Microsoft XNA", "object": "Microsoft", "taxonomy": ["Boeing", "NATO", "Sega", "Intel", "BBC"]}
+{"subject": "Windows Server 2008 R2", "object": "Microsoft", "taxonomy": ["IBM", "Mitsubishi", "Adobe", "BBC", "Honda"]}
+{"subject": "Windows Virtual PC", "object": "Microsoft", "taxonomy": ["Access", "Apple", "Google", "Airbus", "Boeing"]}
+{"subject": "Windows Internet Explorer 9", "object": "Microsoft", "taxonomy": ["Yahoo", "Apple", "Adobe", "Boeing", "Nokia"]}
+{"subject": "Windows Easy Transfer", "object": "Microsoft", "taxonomy": ["Atari", "Honda", "Yahoo", "Nokia", "Airbus"]}
+{"subject": "Douglas X-3 Stiletto", "object": "Douglas", "taxonomy": ["Mitsubishi", "Intel", "Square", "Airbus", "Google"]}
+{"subject": "Chrome OS", "object": "Google", "taxonomy": ["Sega", "Nintendo", "IBM", "Adobe", "NATO"]}
+{"subject": "Google Web Toolkit", "object": "Google", "taxonomy": ["Microsoft", "Atari", "BBC", "Apple", "Boeing"]}
+{"subject": "Microsoft Dynamics", "object": "Microsoft", "taxonomy": ["Samsung", "Google", "Douglas", "Nokia", "Apple"]}
+{"subject": "Xgrid", "object": "Apple", "taxonomy": ["Honda", "Microsoft", "Samsung", "Nokia", "Adobe"]}
+{"subject": "IBM PC DOS", "object": "IBM", "taxonomy": ["Gibson", "BBC", "Atari", "Amazon", "Airbus"]}
+{"subject": "Apple Pippin", "object": "Apple", "taxonomy": ["Intel", "Microsoft", "Samsung", "Gibson", "Mitsubishi"]}
+{"subject": "Mitsubishi G4M", "object": "Mitsubishi", "taxonomy": ["Sony", "Atari", "Honda", "IBM", "Amazon"]}
+{"subject": "Boeing X-37", "object": "Boeing", "taxonomy": ["Honda", "Microsoft", "Square", "Access", "Sony"]}
+{"subject": "UNIX System Services", "object": "IBM", "taxonomy": ["Google", "Sega", "Square", "Sony", "Amazon"]}
+{"subject": "HFS Plus", "object": "Apple", "taxonomy": ["Microsoft", "BBC", "Airbus", "Honda", "Access"]}
+{"subject": "Google Map Maker", "object": "Google", "taxonomy": ["Airbus", "BBC", "Douglas", "Samsung", "Nintendo"]}
+{"subject": "XNU", "object": "Apple", "taxonomy": ["IBM", "Atari", "Airbus", "Yahoo", "Square"]}
+{"subject": "IBM TopView", "object": "IBM", "taxonomy": ["Google", "Apple", "Intel", "Atari", "Amazon"]}
+{"subject": "Mario Bros.", "object": "Nintendo", "taxonomy": ["Airbus", "Atari", "Fairchild", "Sony", "Yahoo"]}
+{"subject": "Report Program Generator", "object": "IBM", "taxonomy": ["Apple", "Atari", "Yahoo", "Amazon", "Douglas"]}
+{"subject": "Google Toolbar", "object": "Google", "taxonomy": ["BBC", "Yahoo", "Intel", "Boeing", "Airbus"]}
+{"subject": "IBM ViaVoice", "object": "IBM", "taxonomy": ["Mitsubishi", "Airbus", "Square", "Sony", "Boeing"]}
+{"subject": "Advanced Function Presentation", "object": "IBM", "taxonomy": ["Google", "Airbus", "Mitsubishi", "Nintendo", "Atari"]}
+{"subject": "Google Chrome", "object": "Google", "taxonomy": ["Yahoo", "Access", "Sony", "Adobe", "Apple"]}
+{"subject": "Chromecast", "object": "Google", "taxonomy": ["Amazon", "BBC", "Access", "IBM", "Douglas"]}
+{"subject": "Microsoft Entourage", "object": "Microsoft", "taxonomy": ["Gibson", "IBM", "BBC", "Apple", "Nintendo"]}
+{"subject": "Active Server Pages", "object": "Microsoft", "taxonomy": ["Sega", "Boeing", "Google", "Nokia", "IBM"]}
+{"subject": "Front Mission 3", "object": "Square", "taxonomy": ["Google", "Access", "Amazon", "Atari", "Intel"]}
+{"subject": "Front Mission", "object": "Square", "taxonomy": ["Access", "Boeing", "IBM", "Yahoo", "Atari"]}
+{"subject": "Clang", "object": "Sony", "taxonomy": ["Airbus", "Atari", "Apple", "Intel", "Fairchild"]}
+{"subject": "Adobe Fireworks", "object": "Adobe", "taxonomy": ["Honda", "Gibson", "Mitsubishi", "Sony", "Nintendo"]}
+{"subject": "Microsoft Publisher", "object": "Microsoft", "taxonomy": ["Boeing", "Atari", "Yahoo", "IBM", "Gibson"]}
+{"subject": "Small Web Format", "object": "Adobe", "taxonomy": ["Apple", "Sega", "BBC", "NATO", "Airbus"]}
+{"subject": "Microsoft Works", "object": "Microsoft", "taxonomy": ["Adobe", "Yahoo", "Nokia", "NATO", "Intel"]}
+{"subject": "Intel Parallel Studio", "object": "Intel", "taxonomy": ["NATO", "Google", "Douglas", "Sony", "Atari"]}
+{"subject": "SPSS Modeler", "object": "IBM", "taxonomy": ["Square", "Microsoft", "Sega", "Google", "Nokia"]}
+{"subject": "Statistical Package for the Social Sciences", "object": "IBM", "taxonomy": ["Google", "Gibson", "Adobe", "Honda", "Sony"]}
+{"subject": "Google Finance", "object": "Google", "taxonomy": ["Sega", "Fairchild", "Yahoo", "IBM", "Douglas"]}
+{"subject": "Fantasy Zone", "object": "Sega", "taxonomy": ["Atari", "Gibson", "Square", "BBC", "NATO"]}
+{"subject": "KC-767", "object": "Boeing", "taxonomy": ["Adobe", "Nokia", "Atari", "Access", "NATO"]}
+{"subject": "Apple Lossless", "object": "Apple", "taxonomy": ["Yahoo", "Atari", "Microsoft", "Boeing", "Gibson"]}
+{"subject": "Google Translate", "object": "Google", "taxonomy": ["IBM", "Gibson", "Boeing", "Honda", "Douglas"]}
+{"subject": "Google Latitude", "object": "Google", "taxonomy": ["Sega", "Access", "Microsoft", "BBC", "Airbus"]}
+{"subject": "Apple Filing Protocol", "object": "Apple", "taxonomy": ["Samsung", "IBM", "Atari", "Microsoft", "Amazon"]}
+{"subject": "Time Machine (macOS)", "object": "Apple", "taxonomy": ["Mitsubishi", "Google", "Honda", "Intel", "Square"]}
+{"subject": "Adobe RGB (1998)", "object": "Adobe", "taxonomy": ["Nokia", "Microsoft", "Airbus", "NATO", "Fairchild"]}
+{"subject": "V8", "object": "Google", "taxonomy": ["Airbus", "Douglas", "Amazon", "Honda", "Atari"]}
+{"subject": "Boeing F-15SE Silent Eagle", "object": "Boeing", "taxonomy": ["Gibson", "Apple", "Airbus", "Intel", "Sega"]}
+{"subject": "Virtual Hard Disk", "object": "Microsoft", "taxonomy": ["BBC", "Yahoo", "Sony", "Amazon", "Samsung"]}
+{"subject": "BBeB", "object": "Sony", "taxonomy": ["Fairchild", "BBC", "Douglas", "Nokia", "Boeing"]}
+{"subject": "Fonz", "object": "Sega", "taxonomy": ["Microsoft", "Adobe", "NATO", "Google", "Intel"]}
+{"subject": "Bing Maps Platform", "object": "Microsoft", "taxonomy": ["Square", "Atari", "Honda", "Google", "Yahoo"]}
+{"subject": "Wii MotionPlus", "object": "Nintendo", "taxonomy": ["Apple", "NATO", "Airbus", "BBC", "IBM"]}
+{"subject": "IBM Systems Application Architecture", "object": "IBM", "taxonomy": ["Gibson", "Boeing", "NATO", "Sony", "Nintendo"]}
+{"subject": "File Explorer", "object": "Microsoft", "taxonomy": ["Boeing", "Adobe", "Amazon", "NATO", "IBM"]}
+{"subject": "Clockwork Knight", "object": "Sega", "taxonomy": ["Google", "Square", "Atari", "Honda", "IBM"]}
+{"subject": "Boeing 747 Large Cargo Freighter", "object": "Boeing", "taxonomy": ["Fairchild", "Access", "IBM", "Nintendo", "BBC"]}
+{"subject": "Adobe FreeHand", "object": "Adobe", "taxonomy": ["Mitsubishi", "Access", "Apple", "Douglas", "Samsung"]}
+{"subject": "Windows NT 3.1", "object": "Microsoft", "taxonomy": ["Honda", "Nokia", "Sony", "IBM", "Adobe"]}
+{"subject": "Rational Team Concert", "object": "IBM", "taxonomy": ["Nintendo", "Intel", "Sony", "Boeing", "Apple"]}
+{"subject": "Airbus A320neo family", "object": "Airbus", "taxonomy": ["IBM", "Microsoft", "Gibson", "Intel", "Douglas"]}
+{"subject": "Clang", "object": "Apple", "taxonomy": ["Sega", "Nokia", "Honda", "Atari", "BBC"]}
+{"subject": "Windows Live Mesh", "object": "Microsoft", "taxonomy": ["Samsung", "Sega", "Boeing", "Nokia", "Access"]}
+{"subject": "Tizen", "object": "Samsung", "taxonomy": ["Sega", "Airbus", "Apple", "Mitsubishi", "Gibson"]}
+{"subject": "SPDY", "object": "Google", "taxonomy": ["Apple", "Nintendo", "Sony", "Microsoft", "Sega"]}
+{"subject": "MXML", "object": "Adobe", "taxonomy": ["NATO", "Intel", "Nokia", "Samsung", "Atari"]}
+{"subject": "IBM Lotus Word Pro", "object": "IBM", "taxonomy": ["Sega", "Access", "Nintendo", "Adobe", "Atari"]}
+{"subject": "Apache Traffic Server", "object": "Yahoo", "taxonomy": ["Square", "Google", "Nokia", "Amazon", "Access"]}
+{"subject": "Google Glass", "object": "Google", "taxonomy": ["Gibson", "Yahoo", "Sony", "Adobe", "Atari"]}
+{"subject": "DVD Studio Pro", "object": "Apple", "taxonomy": ["Atari", "Microsoft", "Airbus", "Honda", "Boeing"]}
+{"subject": "Motion", "object": "Apple", "taxonomy": ["NATO", "Sony", "Fairchild", "Yahoo", "Mitsubishi"]}
+{"subject": "Apple A4", "object": "Apple", "taxonomy": ["Microsoft", "NATO", "Airbus", "Sony", "Yahoo"]}
+{"subject": "Google Reader", "object": "Google", "taxonomy": ["Amazon", "Boeing", "Douglas", "Access", "Mitsubishi"]}
+{"subject": "Microsoft Office 2003", "object": "Microsoft", "taxonomy": ["IBM", "NATO", "Honda", "Apple", "Nintendo"]}
+{"subject": "Microsoft Reader", "object": "Microsoft", "taxonomy": ["Adobe", "Samsung", "Intel", "Amazon", "Douglas"]}
+{"subject": "Macintosh File System", "object": "Apple", "taxonomy": ["Airbus", "BBC", "Samsung", "Gibson", "Sega"]}
+{"subject": "Resource Interchange File Format", "object": "Microsoft", "taxonomy": ["Sony", "Nintendo", "Atari", "Intel", "Honda"]}
+{"subject": "Audio Interchange File Format", "object": "Apple", "taxonomy": ["Nintendo", "Atari", "Nokia", "Yahoo", "Sega"]}
+{"subject": "Windows Mobile", "object": "Microsoft", "taxonomy": ["Apple", "Samsung", "Yahoo", "Boeing", "Nintendo"]}
+{"subject": "OpenSearch", "object": "Amazon", "taxonomy": ["Adobe", "NATO", "Fairchild", "Nokia", "IBM"]}
+{"subject": "Windows Me", "object": "Microsoft", "taxonomy": ["Apple", "Google", "Mitsubishi", "Atari", "Intel"]}
+{"subject": "High Performance File System", "object": "IBM", "taxonomy": ["Apple", "Yahoo", "Microsoft", "NATO", "Nokia"]}
+{"subject": "High Performance File System", "object": "Microsoft", "taxonomy": ["Fairchild", "Sega", "Samsung", "Yahoo", "Nokia"]}
+{"subject": "IBM Business System 12", "object": "IBM", "taxonomy": ["Gibson", "Honda", "Mitsubishi", "Square", "Douglas"]}
+{"subject": "General Transit Feed Specification", "object": "Google", "taxonomy": ["Amazon", "Adobe", "Nokia", "NATO", "Gibson"]}
+{"subject": "Microsoft Dynamics NAV", "object": "Microsoft", "taxonomy": ["Honda", "BBC", "Sega", "Fairchild", "Atari"]}
+{"subject": "Nintendo Video", "object": "Nintendo", "taxonomy": ["Sony", "Amazon", "Adobe", "BBC", "Samsung"]}
+{"subject": "IBM WebSphere Application Server", "object": "IBM", "taxonomy": ["BBC", "Microsoft", "Amazon", "Sony", "Atari"]}
+{"subject": "IBM System Management Facilities", "object": "IBM", "taxonomy": ["Adobe", "Yahoo", "Intel", "Nintendo", "Mitsubishi"]}
+{"subject": "Intel 80486DX2", "object": "Intel", "taxonomy": ["Google", "Microsoft", "Sony", "Airbus", "Mitsubishi"]}
+{"subject": "Windows NT 3.51", "object": "Microsoft", "taxonomy": ["Yahoo", "Nokia", "IBM", "Nintendo", "Adobe"]}
+{"subject": "Windows NT 3.5", "object": "Microsoft", "taxonomy": ["Access", "Apple", "IBM", "Fairchild", "Atari"]}
+{"subject": "MacApp", "object": "Apple", "taxonomy": ["NATO", "Gibson", "Mitsubishi", "Amazon", "Douglas"]}
+{"subject": "IBM 4300", "object": "IBM", "taxonomy": ["Amazon", "Intel", "Access", "Microsoft", "Sega"]}
+{"subject": "Windows Embedded CE 6.0", "object": "Microsoft", "taxonomy": ["Boeing", "Nokia", "Douglas", "Nintendo", "Apple"]}
+{"subject": "Minecraft", "object": "Microsoft", "taxonomy": ["Apple", "Adobe", "BBC", "Fairchild", "Douglas"]}
+{"subject": "App Inventor for Android", "object": "Google", "taxonomy": ["Nintendo", "Square", "Samsung", "Airbus", "Fairchild"]}
+{"subject": "Google Contacts", "object": "Google", "taxonomy": ["Square", "Gibson", "Mitsubishi", "Yahoo", "Nokia"]}
+{"subject": "Clang", "object": "Microsoft", "taxonomy": ["Intel", "Atari", "Apple", "Adobe", "Mitsubishi"]}
+{"subject": "Airbus Beluga", "object": "Airbus", "taxonomy": ["Sega", "Douglas", "Nintendo", "Yahoo", "Square"]}
+{"subject": "Congo Bongo", "object": "Sega", "taxonomy": ["Honda", "Sony", "Atari", "IBM", "Gibson"]}
+{"subject": "Mitsubishi A5M", "object": "Mitsubishi", "taxonomy": ["Intel", "Fairchild", "Square", "Adobe", "Honda"]}
+{"subject": "Microsoft Project", "object": "Microsoft", "taxonomy": ["BBC", "Fairchild", "IBM", "Gibson", "Apple"]}
+{"subject": "WebP Lossless", "object": "Google", "taxonomy": ["Sega", "Nintendo", "Microsoft", "Mitsubishi", "IBM"]}
+{"subject": "WebM", "object": "Google", "taxonomy": ["Nintendo", "Sega", "Access", "Sony", "Gibson"]}
+{"subject": "Samsung Kies", "object": "Samsung", "taxonomy": ["Nintendo", "Gibson", "Intel", "Access", "Square"]}
+{"subject": "Shining Hearts", "object": "Sega", "taxonomy": ["Microsoft", "Samsung", "NATO", "Sony", "Douglas"]}
+{"subject": "Universal Media Disc", "object": "Sony", "taxonomy": ["Yahoo", "Fairchild", "Douglas", "Gibson", "Adobe"]}
+{"subject": "IBM Workplace OS", "object": "IBM", "taxonomy": ["Sony", "Apple", "Gibson", "Square", "Adobe"]}
+{"subject": "Newton OS", "object": "Apple", "taxonomy": ["Gibson", "Sega", "Access", "Intel", "Honda"]}
+{"subject": "Robocopy", "object": "Microsoft", "taxonomy": ["Access", "Square", "Airbus", "Boeing", "BBC"]}
+{"subject": "Apple A5", "object": "Apple", "taxonomy": ["Gibson", "Mitsubishi", "IBM", "Atari", "Yahoo"]}
+{"subject": "iOS 7", "object": "Apple", "taxonomy": ["Sega", "Google", "Access", "Atari", "Square"]}
+{"subject": "CarPlay", "object": "Apple", "taxonomy": ["Fairchild", "Intel", "NATO", "Douglas", "Adobe"]}
+{"subject": "Internet Explorer 10", "object": "Microsoft", "taxonomy": ["Airbus", "BBC", "Square", "Atari", "Fairchild"]}
+{"subject": "Mitsubishi F1M", "object": "Mitsubishi", "taxonomy": ["Google", "Sony", "Access", "Sega", "IBM"]}
+{"subject": "Schema.org", "object": "Google", "taxonomy": ["Amazon", "Access", "Douglas", "Mitsubishi", "Apple"]}
+{"subject": "Schema.org", "object": "Yahoo", "taxonomy": ["Microsoft", "Fairchild", "NATO", "Mitsubishi", "Gibson"]}
+{"subject": "Channel Definition Format", "object": "Microsoft", "taxonomy": ["Yahoo", "Adobe", "Fairchild", "IBM", "Sony"]}
+{"subject": "Windows Aero", "object": "Microsoft", "taxonomy": ["Douglas", "Google", "Fairchild", "Mitsubishi", "NATO"]}
+{"subject": "Apple Thunderbolt Display", "object": "Apple", "taxonomy": ["Gibson", "Mitsubishi", "Atari", "Nintendo", "Amazon"]}
+{"subject": "Amazon Silk", "object": "Amazon", "taxonomy": ["Atari", "Airbus", "NATO", "Sega", "Sony"]}
+{"subject": "Microsoft Expression Blend", "object": "Microsoft", "taxonomy": ["Gibson", "Nintendo", "Adobe", "Sega", "Sony"]}
+{"subject": "Shining Blade", "object": "Sega", "taxonomy": ["Atari", "Microsoft", "Sony", "Honda", "Mitsubishi"]}
+{"subject": "IBM Parallel Sysplex", "object": "IBM", "taxonomy": ["Sony", "BBC", "Mitsubishi", "Google", "Yahoo"]}
+{"subject": "Internet Explorer 11", "object": "Microsoft", "taxonomy": ["Nokia", "Douglas", "Adobe", "Yahoo", "IBM"]}
+{"subject": "Adobe Muse", "object": "Adobe", "taxonomy": ["Samsung", "Sony", "Douglas", "Square", "Nokia"]}
+{"subject": "iBooks Author", "object": "Apple", "taxonomy": ["Google", "Square", "Gibson", "Sega", "BBC"]}
+{"subject": "WriteNow", "object": "Apple", "taxonomy": ["Square", "Adobe", "Microsoft", "Samsung", "Yahoo"]}
+{"subject": "Clang", "object": "Intel", "taxonomy": ["IBM", "Access", "Nintendo", "Yahoo", "Mitsubishi"]}
+{"subject": "Google Now", "object": "Google", "taxonomy": ["Intel", "Access", "Apple", "Adobe", "Amazon"]}
+{"subject": "Apple A6", "object": "Apple", "taxonomy": ["Fairchild", "Google", "Douglas", "Nokia", "Boeing"]}
+{"subject": "iPad 3", "object": "Apple", "taxonomy": ["Mitsubishi", "Samsung", "IBM", "Gibson", "Sega"]}
+{"subject": "Windows Messaging", "object": "Microsoft", "taxonomy": ["Apple", "Mitsubishi", "Fairchild", "Access", "Gibson"]}
+{"subject": "Sonic Drift 2", "object": "Sega", "taxonomy": ["Nintendo", "Yahoo", "Sony", "Boeing", "Mitsubishi"]}
+{"subject": "Sonic Drift", "object": "Sega", "taxonomy": ["Honda", "Gibson", "Atari", "Apple", "Google"]}
+{"subject": "Microsoft InfoPath", "object": "Microsoft", "taxonomy": ["Atari", "Nintendo", "Adobe", "Douglas", "Mitsubishi"]}
+{"subject": "Microsoft Office 97", "object": "Microsoft", "taxonomy": ["Samsung", "NATO", "Nokia", "Apple", "Boeing"]}
+{"subject": "Binary Synchronous Communications", "object": "IBM", "taxonomy": ["Mitsubishi", "Google", "Nokia", "Gibson", "Amazon"]}
+{"subject": "iOS 6", "object": "Apple", "taxonomy": ["Gibson", "Nokia", "Sega", "Atari", "Amazon"]}
+{"subject": "Android Jelly Bean", "object": "Google", "taxonomy": ["Boeing", "Yahoo", "Mitsubishi", "Airbus", "Gibson"]}
+{"subject": "Google Cloud Platform", "object": "Google", "taxonomy": ["Microsoft", "Intel", "Yahoo", "Samsung", "Atari"]}
+{"subject": "Apple A7", "object": "Apple", "taxonomy": ["Adobe", "Intel", "Honda", "Sega", "Mitsubishi"]}
+{"subject": "NetFront", "object": "Access", "taxonomy": ["Nokia", "Intel", "Nintendo", "Yahoo", "Sega"]}
+{"subject": "Cloud Spanner", "object": "Google", "taxonomy": ["Honda", "Nokia", "Boeing", "Mitsubishi", "Fairchild"]}
+{"subject": "Wii U system software", "object": "Nintendo", "taxonomy": ["Boeing", "Apple", "NATO", "Access", "Fairchild"]}
+{"subject": "Windows Phone 8.1", "object": "Microsoft", "taxonomy": ["Douglas", "Amazon", "BBC", "Access", "Apple"]}
+{"subject": "Apple Pay", "object": "Apple", "taxonomy": ["IBM", "Airbus", "Boeing", "Gibson", "Square"]}
+{"subject": "FS-1015", "object": "NATO", "taxonomy": ["Fairchild", "Mitsubishi", "Gibson", "Apple", "Samsung"]}
+{"subject": "The Revenge of Shinobi", "object": "Sega", "taxonomy": ["Samsung", "BBC", "Apple", "Nokia", "Boeing"]}
+{"subject": "Object REXX", "object": "IBM", "taxonomy": ["Google", "Nintendo", "Access", "Gibson", "Yahoo"]}
+{"subject": "Xsan", "object": "Apple", "taxonomy": ["IBM", "Samsung", "NATO", "Mitsubishi", "Douglas"]}
+{"subject": "Microsoft Windows SDK", "object": "Microsoft", "taxonomy": ["Samsung", "IBM", "Sony", "Atari", "Yahoo"]}
+{"subject": "IBM OfficeVision", "object": "IBM", "taxonomy": ["Yahoo", "Nintendo", "Adobe", "Square", "Honda"]}
+{"subject": "VP9", "object": "Google", "taxonomy": ["Mitsubishi", "Gibson", "Apple", "Access", "Yahoo"]}
+{"subject": "Amiibo", "object": "Nintendo", "taxonomy": ["Boeing", "Airbus", "Nokia", "Samsung", "Mitsubishi"]}
+{"subject": "IBM Rational ClearCase", "object": "IBM", "taxonomy": ["Google", "Nokia", "Honda", "Access", "BBC"]}
+{"subject": "Google Keep", "object": "Google", "taxonomy": ["NATO", "IBM", "Douglas", "Mitsubishi", "Square"]}
+{"subject": "Microsoft Digital Video Recording", "object": "Microsoft", "taxonomy": ["Amazon", "Gibson", "Atari", "Mitsubishi", "Google"]}
+{"subject": "Windows XP Media Center Edition", "object": "Microsoft", "taxonomy": ["IBM", "Yahoo", "Fairchild", "Gibson", "Apple"]}
+{"subject": "Windows Movie Maker", "object": "Microsoft", "taxonomy": ["Nintendo", "Fairchild", "Sega", "Gibson", "Amazon"]}
+{"subject": "Microsoft Money", "object": "Microsoft", "taxonomy": ["Yahoo", "Atari", "Access", "Fairchild", "Google"]}
+{"subject": "Silvermont", "object": "Intel", "taxonomy": ["Atari", "Square", "IBM", "Samsung", "Apple"]}
+{"subject": "OS X Mavericks", "object": "Apple", "taxonomy": ["Sony", "Amazon", "Access", "Atari", "Samsung"]}
+{"subject": "Mother 3", "object": "Nintendo", "taxonomy": ["Honda", "BBC", "Apple", "NATO", "Google"]}
+{"subject": "iPad Mini 3", "object": "Apple", "taxonomy": ["Airbus", "Honda", "Sega", "Atari", "Mitsubishi"]}
+{"subject": "Apple A8", "object": "Apple", "taxonomy": ["Access", "Sony", "Boeing", "BBC", "IBM"]}
+{"subject": "Apple A8X", "object": "Apple", "taxonomy": ["Boeing", "Microsoft", "Adobe", "Intel", "Fairchild"]}
+{"subject": "Intel Quark", "object": "Intel", "taxonomy": ["Samsung", "Airbus", "BBC", "IBM", "Nintendo"]}
+{"subject": "iBeacon", "object": "Apple", "taxonomy": ["Microsoft", "Adobe", "Intel", "Nokia", "Douglas"]}
+{"subject": "Google Hummingbird", "object": "Google", "taxonomy": ["Microsoft", "Samsung", "Douglas", "Boeing", "Mitsubishi"]}
+{"subject": "Nokia Lumia 2520", "object": "Nokia", "taxonomy": ["Samsung", "NATO", "Nintendo", "Airbus", "Square"]}
+{"subject": "Windows Mobile 6.5", "object": "Microsoft", "taxonomy": ["Square", "Boeing", "Access", "Atari", "Intel"]}
+{"subject": "Adobe Encore", "object": "Adobe", "taxonomy": ["Sega", "Amazon", "Fairchild", "Google", "Boeing"]}
+{"subject": "Wear OS", "object": "Google", "taxonomy": ["Amazon", "NATO", "Fairchild", "Atari", "Square"]}
+{"subject": "Windows Mixed Reality", "object": "Microsoft", "taxonomy": ["Mitsubishi", "Airbus", "Intel", "Nintendo", "Fairchild"]}
+{"subject": "Event Viewer", "object": "Microsoft", "taxonomy": ["NATO", "Sony", "Nokia", "Douglas", "Airbus"]}
+{"subject": "Android TV", "object": "Google", "taxonomy": ["Apple", "Atari", "Honda", "Yahoo", "Airbus"]}
+{"subject": "Android Runtime", "object": "Google", "taxonomy": ["Gibson", "Intel", "Access", "Square", "Douglas"]}
+{"subject": "Android Auto", "object": "Google", "taxonomy": ["BBC", "Access", "Sega", "Sony", "Square"]}
+{"subject": "New Nintendo 3DS", "object": "Nintendo", "taxonomy": ["Intel", "Boeing", "Amazon", "Access", "BBC"]}
+{"subject": "Gear VR", "object": "Samsung", "taxonomy": ["Google", "Apple", "Honda", "Sony", "Nintendo"]}
+{"subject": "Amazon Echo", "object": "Amazon", "taxonomy": ["Adobe", "IBM", "Douglas", "Yahoo", "Google"]}
+{"subject": "Glyph Bitmap Distribution Format", "object": "Adobe", "taxonomy": ["Honda", "Yahoo", "Amazon", "Apple", "Boeing"]}
+{"subject": "Dynix", "object": "IBM", "taxonomy": ["Sony", "Mitsubishi", "Square", "Adobe", "Nokia"]}
+{"subject": "Yoshi's Universal Gravitation", "object": "Nintendo", "taxonomy": ["Access", "Airbus", "Douglas", "Yahoo", "Atari"]}
+{"subject": "VoiceOver", "object": "Apple", "taxonomy": ["Douglas", "Nintendo", "Airbus", "Adobe", "BBC"]}
+{"subject": "TextEdit", "object": "Apple", "taxonomy": ["BBC", "Airbus", "Amazon", "Google", "NATO"]}
+{"subject": "Microsoft Security Essentials", "object": "Microsoft", "taxonomy": ["Honda", "Airbus", "Gibson", "IBM", "Samsung"]}
+{"subject": "Microsoft Internet Explorer 3", "object": "Microsoft", "taxonomy": ["Amazon", "Sony", "Sega", "Douglas", "Airbus"]}
+{"subject": "application bundle", "object": "Apple", "taxonomy": ["Adobe", "Mitsubishi", "Airbus", "Access", "Atari"]}
+{"subject": "Final Fantasy Legend III", "object": "Square", "taxonomy": ["Yahoo", "Microsoft", "Fairchild", "NATO", "Atari"]}
+{"subject": "Final Fantasy Legend II", "object": "Square", "taxonomy": ["Apple", "Boeing", "Microsoft", "Gibson", "Adobe"]}
+{"subject": "Internet Explorer Mobile", "object": "Microsoft", "taxonomy": ["IBM", "Sony", "Nintendo", "Access", "Google"]}
+{"subject": "Disk Utility", "object": "Apple", "taxonomy": ["Douglas", "Microsoft", "Sega", "Google", "Mitsubishi"]}
+{"subject": "MSX BASIC", "object": "Microsoft", "taxonomy": ["Atari", "IBM", "Intel", "Sega", "Nokia"]}
+{"subject": "Adobe Connect", "object": "Adobe", "taxonomy": ["BBC", "Square", "Douglas", "Honda", "Fairchild"]}
+{"subject": "Microsoft Forefront Threat Management Gateway", "object": "Microsoft", "taxonomy": ["Yahoo", "Fairchild", "Honda", "Access", "Samsung"]}
+{"subject": "Atari DOS", "object": "Atari", "taxonomy": ["Adobe", "Sega", "Intel", "Yahoo", "NATO"]}
+{"subject": "Dashboard", "object": "Apple", "taxonomy": ["Microsoft", "Gibson", "Boeing", "Square", "Amazon"]}
+{"subject": "Astron Belt", "object": "Sega", "taxonomy": ["Douglas", "Amazon", "Adobe", "Nintendo", "Access"]}
+{"subject": "Asteroids Deluxe", "object": "Atari", "taxonomy": ["Nokia", "Sony", "Nintendo", "Intel", "Fairchild"]}
+{"subject": "Windows Setup Information File", "object": "Microsoft", "taxonomy": ["Google", "Access", "Amazon", "Adobe", "Sega"]}
+{"subject": "Photo Booth", "object": "Apple", "taxonomy": ["Sega", "Google", "Douglas", "Adobe", "Atari"]}
+{"subject": "Fatal Labyrinth", "object": "Sega", "taxonomy": ["Adobe", "Samsung", "Intel", "Square", "Nintendo"]}
+{"subject": "Intel i860", "object": "Intel", "taxonomy": ["Yahoo", "Google", "Mitsubishi", "Nintendo", "NATO"]}
+{"subject": "Microsoft Office Live", "object": "Microsoft", "taxonomy": ["Honda", "Amazon", "Samsung", "Mitsubishi", "Apple"]}
+{"subject": "Alien Storm", "object": "Sega", "taxonomy": ["BBC", "Google", "Boeing", "Nintendo", "Atari"]}
+{"subject": "Apple Icon Image format", "object": "Apple", "taxonomy": ["Nokia", "Samsung", "Square", "Sega", "Access"]}
+{"subject": "IBM Rational Application Developer", "object": "IBM", "taxonomy": ["NATO", "Sony", "Yahoo", "Apple", "Access"]}
+{"subject": "IBM Information Management System", "object": "IBM", "taxonomy": ["Amazon", "Google", "Nokia", "Douglas", "Microsoft"]}
+{"subject": "Windows Media Encoder", "object": "Microsoft", "taxonomy": ["Honda", "Amazon", "Yahoo", "Intel", "Sega"]}
+{"subject": "Gran Trak 10", "object": "Atari", "taxonomy": ["Adobe", "Gibson", "Yahoo", "Access", "NATO"]}
+{"subject": "Google Pack", "object": "Google", "taxonomy": ["Adobe", "Boeing", "Samsung", "Fairchild", "Sony"]}
+{"subject": "Windows Driver Frameworks", "object": "Microsoft", "taxonomy": ["Intel", "Sony", "Boeing", "Nintendo", "Nokia"]}
+{"subject": "Tetris DS", "object": "Nintendo", "taxonomy": ["Airbus", "Fairchild", "Square", "Atari", "Microsoft"]}
+{"subject": "IBM Lotus SmartSuite", "object": "IBM", "taxonomy": ["Douglas", "Amazon", "Square", "Adobe", "Google"]}
+{"subject": "Apple Open Directory", "object": "Apple", "taxonomy": ["Intel", "Gibson", "Fairchild", "Samsung", "Honda"]}
+{"subject": "Microsoft Schedule Plus", "object": "Microsoft", "taxonomy": ["Nintendo", "Airbus", "BBC", "Nokia", "IBM"]}
+{"subject": "Shadow Dancer", "object": "Sega", "taxonomy": ["Nintendo", "Douglas", "Atari", "NATO", "IBM"]}
+{"subject": "Microsoft Write", "object": "Microsoft", "taxonomy": ["Atari", "Access", "Square", "Sega", "Boeing"]}
+{"subject": "Cyberdog", "object": "Apple", "taxonomy": ["Samsung", "Microsoft", "Square", "Nintendo", "Honda"]}
+{"subject": "Adobe Illustrator Artwork", "object": "Adobe", "taxonomy": ["Intel", "Douglas", "Mitsubishi", "Boeing", "Gibson"]}
+{"subject": "Gain Ground", "object": "Sega", "taxonomy": ["Apple", "Nintendo", "Honda", "NATO", "Mitsubishi"]}

@@ -1,0 +1,960 @@
+{"relations": ["What is the location of [X]?", "In what place is [X] situated?", "Where is [X] located?", "In which city or country is [X] situated?", "What is the geographic position of [X]?", "What is the site of [X]?"]}
+{"subject": "Eiffel Tower", "object": "Paris", "taxonomy": ["Vienna", "Haifa", "Sofia", "Bristol", "Prague"]}
+{"subject": "Wimbledon Manor House", "object": "Wimbledon", "taxonomy": ["Newfoundland", "Swindon", "Macau", "Kabul", "Sweden"]}
+{"subject": "USA Film Festival", "object": "Dallas", "taxonomy": ["Turin", "Internet", "Rwanda", "Cairo", "Chelsea"]}
+{"subject": "Saint-Domingue expedition", "object": "Haiti", "taxonomy": ["Venice", "Edinburgh", "Lithuania", "Tibet", "Internet"]}
+{"subject": "Grote of Sint-Laurenskerk", "object": "Rotterdam", "taxonomy": ["Wales", "Mumbai", "Montreal", "Maharashtra", "Herzegovina"]}
+{"subject": "BT Tower", "object": "London", "taxonomy": ["Lisbon", "Phoenix", "Rome", "Central", "Liverpool"]}
+{"subject": "21st Ankara International Film Festival", "object": "Ankara", "taxonomy": ["Taiwan", "Gothenburg", "Guatemala", "Aspen", "Qatar"]}
+{"subject": "Netherlands Architecture Institute", "object": "Rotterdam", "taxonomy": ["Rwanda", "Utrecht", "Prescott", "Brittany", "Haiti"]}
+{"subject": "European Theatre of World War II", "object": "Europe", "taxonomy": ["England", "Kiev", "Lawrence", "Aden", "Oceania"]}
+{"subject": "Delhi Technological University", "object": "India", "taxonomy": ["Iran", "Irvine", "Bermuda", "Catalonia", "Munich"]}
+{"subject": "2002 Australian Open", "object": "Melbourne", "taxonomy": ["Rotterdam", "Uzbekistan", "Hungary", "Hollywood", "Bethel"]}
+{"subject": "Helsinki Film Festival", "object": "Helsinki", "taxonomy": ["Honolulu", "Stockholm", "Assam", "Mali", "Riga"]}
+{"subject": "Ernest A. Love Field", "object": "Prescott", "taxonomy": ["Herzegovina", "Bavaria", "Vienna", "Pasadena", "Barnes"]}
+{"subject": "Cologne Cathedral", "object": "Cologne", "taxonomy": ["Iceland", "Oslo", "Essex", "Europe", "Cincinnati"]}
+{"subject": "Battle of Arfderydd", "object": "Cumberland", "taxonomy": ["Indianapolis", "Mainz", "Circle", "Lund", "Bahrain"]}
+{"subject": "2013 German federal election", "object": "Germany", "taxonomy": ["Riga", "Sarajevo", "Swindon", "Swansea", "Mumbai"]}
+{"subject": "Battle of Ad Decimum", "object": "Carthage", "taxonomy": ["Bratislava", "Mainz", "Germany", "Illinois", "Croatia"]}
+{"subject": "Modernisme", "object": "Catalonia", "taxonomy": ["Northampton", "Oslo", "Aden", "Zagreb", "France"]}
+{"subject": "Cantabrian Wars", "object": "Spain", "taxonomy": ["Haifa", "Italy", "Wisconsin", "Gabon", "Glasgow"]}
+{"subject": "Hanover Fairground", "object": "Hanover", "taxonomy": ["Aston", "Marseille", "Cannes", "Leipzig", "Haifa"]}
+{"subject": "Sino-Nepalese War", "object": "Tibet", "taxonomy": ["Bangkok", "Tallinn", "Heidelberg", "Hiroshima", "Hollywood"]}
+{"subject": "White Rajahs", "object": "Sarawak", "taxonomy": ["Kazan", "Edmonton", "Hiroshima", "Heidelberg", "Guam"]}
+{"subject": "21 July 2005 London bombings", "object": "London", "taxonomy": ["Armagh", "parish", "Seville", "Ukraine", "France"]}
+{"subject": "Manila Accord", "object": "Manila", "taxonomy": ["Manhattan", "Greece", "Croatia", "Salisbury", "Edmonton"]}
+{"subject": "Erasmus University Rotterdam", "object": "Rotterdam", "taxonomy": ["Cairo", "Melbourne", "Barnes", "Rome", "Nancy"]}
+{"subject": "Azania", "object": "Africa", "taxonomy": ["Edmond", "Blackpool", "Budapest", "Aspen", "Jordan"]}
+{"subject": "KK Partizan", "object": "Belgrade", "taxonomy": ["Anatolia", "Australia", "Auckland", "Gettysburg", "Bavaria"]}
+{"subject": "Radical War", "object": "Scotland", "taxonomy": ["Canada", "Barcelona", "Cincinnati", "Michigan", "Honolulu"]}
+{"subject": "London Indian Film Festival", "object": "London", "taxonomy": ["Asia", "California", "Baku", "Azerbaijan", "Hagen"]}
+{"subject": "Borneo campaign", "object": "Borneo", "taxonomy": ["Jerusalem", "Taipei", "Cuba", "Kazakhstan", "Levant"]}
+{"subject": "Anadolu Efes S.K.", "object": "Istanbul", "taxonomy": ["Thessaloniki", "Detroit", "Aberdeen", "Beijing", "Lahore"]}
+{"subject": "Cemi", "object": "Caribbean", "taxonomy": ["Columbia", "Minneapolis", "Hyderabad", "Casablanca", "Sardinia"]}
+{"subject": "Eschborn-Frankfurt City Loop", "object": "Frankfurt", "taxonomy": ["Manchester", "Guam", "Nanjing", "Leeds", "Cornish"]}
+{"subject": "Early modern Europe", "object": "Europe", "taxonomy": ["Balkans", "Tehran", "India", "Darwin", "Riga"]}
+{"subject": "Tartu Offensive", "object": "Estonia", "taxonomy": ["Aston", "Pune", "Italy", "Maharashtra", "Moon"]}
+{"subject": "Brighton Centre", "object": "Brighton", "taxonomy": ["Habsburg", "Nottingham", "Bern", "Illinois", "Uruguay"]}
+{"subject": "Grande Arche", "object": "Paris", "taxonomy": ["Michigan", "Mexico", "Lahore", "Moon", "California"]}
+{"subject": "Open 13", "object": "Marseille", "taxonomy": ["Afghanistan", "Vienna", "Colombo", "Ankara", "Sicily"]}
+{"subject": "Abiel Smith School", "object": "Boston", "taxonomy": ["Philippines", "Uzbekistan", "Austria", "Ulster", "Bonn"]}
+{"subject": "2SM", "object": "Sydney", "taxonomy": ["Lithuania", "Tibet", "Halifax", "Kolkata", "Greenwich"]}
+{"subject": "Marquess of Salisbury", "object": "Salisbury", "taxonomy": ["Australia", "Slovakia", "Vietnam", "Turkey", "Montreal"]}
+{"subject": "Invasion of Kuwait", "object": "Kuwait", "taxonomy": ["Dresden", "Gothenburg", "Brisbane", "Nigeria", "Qatar"]}
+{"subject": "Champaner-Pavagadh Archaeological Park", "object": "Gujarat", "taxonomy": ["Johannesburg", "Yokohama", "Newfoundland", "Edmonton", "Azerbaijan"]}
+{"subject": "Vienna Offensive", "object": "Vienna", "taxonomy": ["Santiago", "Mexico", "Glasgow", "Leicester", "Nuremberg"]}
+{"subject": "Antwerp Mannerism", "object": "Antwerp", "taxonomy": ["Netherlands", "supermarket", "Levant", "Oceania", "Philadelphia"]}
+{"subject": "Square Kilometre Array", "object": "Australia", "taxonomy": ["Nanjing", "Uruguay", "Nuremberg", "Albany", "Stockholm"]}
+{"subject": "Woodstock 1999", "object": "Rome", "taxonomy": ["Levant", "Guadalajara", "Kabul", "Yorkshire", "Moldova"]}
+{"subject": "Constitution Avenue", "object": "Northwest", "taxonomy": ["Louisiana", "Zagreb", "Phoenix", "Venice", "Mainz"]}
+{"subject": "Holy Name Cathedral, Chicago", "object": "Chicago", "taxonomy": ["Balkans", "Pearl", "Manchester", "Basel", "Kuwait"]}
+{"subject": "Panathenaic Stadium", "object": "Athens", "taxonomy": ["Adelaide", "Dresden", "Gabon", "Sweden", "Bologna"]}
+{"subject": "2012 Assam violence", "object": "Assam", "taxonomy": ["Northampton", "Baltimore", "Birmingham", "Nuremberg", "Ottawa"]}
+{"subject": "Treaty of Lausanne", "object": "Lausanne", "taxonomy": ["Hamburg", "Vilnius", "Madrid", "Bermuda", "Somerset"]}
+{"subject": "Carnival of Venice", "object": "Venice", "taxonomy": ["Malaysia", "Vienna", "Tehran", "Bern", "Edmonton"]}
+{"subject": "Macau International Movie Festival", "object": "Macau", "taxonomy": ["Shanghai", "Bari", "Budapest", "Madrid", "Aberdeen"]}
+{"subject": "Battle of Arausio", "object": "Orange", "taxonomy": ["Toronto", "Germany", "Guam", "Waterloo", "Parma"]}
+{"subject": "Old Market Square", "object": "Nottingham", "taxonomy": ["Halifax", "Slovakia", "Sofia", "Anatolia", "Uruguay"]}
+{"subject": "Strategic Offensive Reductions Treaty", "object": "Moscow", "taxonomy": ["Bangkok", "Adelaide", "Austria", "Jakarta", "Aspen"]}
+{"subject": "PAX", "object": "Boston", "taxonomy": ["Ghent", "Cardiff", "Ashland", "Greenwich", "Prescott"]}
+{"subject": "University of Edinburgh", "object": "Edinburgh", "taxonomy": ["Miami", "Sarawak", "Bavaria", "Bethel", "Baku"]}
+{"subject": "Silent River Film Festival", "object": "Irvine", "taxonomy": ["Aberdeen", "Jordan", "Kazakhstan", "Ethiopia", "Uzbekistan"]}
+{"subject": "34th Chess Olympiad", "object": "Istanbul", "taxonomy": ["Azerbaijan", "Windsor", "Germany", "Olympia", "Jakarta"]}
+{"subject": "Ensemble InterContemporain", "object": "Paris", "taxonomy": ["Uzbekistan", "Porto", "Baltimore", "Cuba", "Cambridge"]}
+{"subject": "Thames Clippers", "object": "London", "taxonomy": ["Memphis", "Indianapolis", "Victoria", "Benin", "Kabul"]}
+{"subject": "Mole Antonelliana", "object": "Turin", "taxonomy": ["Kuwait", "Moscow", "Zagreb", "Arizona", "Cardiff"]}
+{"subject": "Clan Lindsay", "object": "Scotland", "taxonomy": ["Essex", "Venice", "Northampton", "Memphis", "Catalonia"]}
+{"subject": "2009 Lahore police academy attacks", "object": "Lahore", "taxonomy": ["Madrid", "Colombo", "Scandinavia", "Iraq", "Ontario"]}
+{"subject": "Royal Palace of Amsterdam", "object": "Amsterdam", "taxonomy": ["Montreal", "Utrecht", "Karachi", "Austin", "Alaska"]}
+{"subject": "Cypriot Cup", "object": "Cyprus", "taxonomy": ["Luxembourg", "townland", "Vancouver", "Arizona", "Milan"]}
+{"subject": "68th Venice International Film Festival", "object": "Venice", "taxonomy": ["Estonia", "Orange", "Moon", "Houston", "Jakarta"]}
+{"subject": "Holy Week processions in Guatemala", "object": "Guatemala", "taxonomy": ["Doncaster", "Hollywood", "Aston", "Lviv", "Cardiff"]}
+{"subject": "1986 Goodwill Games", "object": "Moscow", "taxonomy": ["Wales", "Iran", "Northumberland", "Assam", "Yokohama"]}
+{"subject": "2011 Australian Open", "object": "Melbourne", "taxonomy": ["Bavaria", "Alberta", "Worcester", "California", "Lagos"]}
+{"subject": "Dunnes Stores", "object": "Ireland", "taxonomy": ["Ankara", "Doncaster", "Seoul", "Iraq", "Jordan"]}
+{"subject": "Operation Enduring Freedom", "object": "Afghanistan", "taxonomy": ["Brazil", "Jerusalem", "Istanbul", "Antwerp", "Johannesburg"]}
+{"subject": "Russian apartment bombings", "object": "Moscow", "taxonomy": ["Sicily", "Alexandria", "Chelsea", "Brittany", "Lund"]}
+{"subject": "Battle of Leipzig", "object": "Leipzig", "taxonomy": ["Sweden", "Moon", "Calgary", "Armenia", "Toronto"]}
+{"subject": "Ten Years' War", "object": "Cuba", "taxonomy": ["Manhattan", "Vietnam", "Bahrain", "London", "Milan"]}
+{"subject": "Pons Aemilius", "object": "Rome", "taxonomy": ["Edmonton", "Olympia", "Shreveport", "Yemen", "Bavaria"]}
+{"subject": "Partitio terrarum imperii Romaniae", "object": "Constantinople", "taxonomy": ["Yorkshire", "Jordan", "Thessaloniki", "Gujarat", "Antwerp"]}
+{"subject": "Split Agreement", "object": "Split", "taxonomy": ["Japan", "Circle", "Caribbean", "Manchester", "Manila"]}
+{"subject": "Chaos Communication Congress", "object": "Berlin", "taxonomy": ["Haifa", "Baltimore", "Pasadena", "Frankfurt", "Jerusalem"]}
+{"subject": "Operation Storm", "object": "Croatia", "taxonomy": ["Ashland", "Antwerp", "Sicily", "Japan", "Cannes"]}
+{"subject": "Ciompi Revolt", "object": "Florence", "taxonomy": ["Hungary", "Ashland", "Greece", "Maharashtra", "Kiev"]}
+{"subject": "Northern Suburbs Rugby Club", "object": "Sydney", "taxonomy": ["Honolulu", "Auckland", "Portsmouth", "Atlanta", "Cornish"]}
+{"subject": "Bagatelle", "object": "Oslo", "taxonomy": ["Copenhagen", "Nottingham", "townland", "parish", "Michigan"]}
+{"subject": "Nellie massacre", "object": "Assam", "taxonomy": ["Boston", "Queens", "Goa", "Shreveport", "Marseille"]}
+{"subject": "Channel 4's Comedy Gala", "object": "London", "taxonomy": ["Ghent", "Rome", "Basel", "Herzegovina", "Yugoslavia"]}
+{"subject": "PBC CSKA Moscow", "object": "Moscow", "taxonomy": ["Canada", "Karachi", "Johannesburg", "Ottawa", "Nice"]}
+{"subject": "Liberty Bell Classic", "object": "Philadelphia", "taxonomy": ["Bucharest", "Cardiff", "Atlanta", "Dhaka", "Iceland"]}
+{"subject": "Singapore International Film Festival", "object": "Singapore", "taxonomy": ["Auckland", "Hiroshima", "Olympia", "Sarawak", "Mali"]}
+{"subject": "Battle of Crug Mawr", "object": "Wales", "taxonomy": ["Alaska", "Toronto", "Montreal", "Glasgow", "Flanders"]}
+{"subject": "Arcapita", "object": "London", "taxonomy": ["Pittsburgh", "Aberdeen", "Syria", "Victoria", "Borneo"]}
+{"subject": "Ano Liosia Olympic Hall", "object": "Athens", "taxonomy": ["Lisbon", "France", "Canberra", "Wimbledon", "Yugoslavia"]}
+{"subject": "Astronomical Calculation Institute", "object": "Heidelberg", "taxonomy": ["Cumberland", "Nuremberg", "Belgrade", "London", "Brooklyn"]}
+{"subject": "Post-Soviet states", "object": "Russia", "taxonomy": ["Hungary", "Qatar", "Adelaide", "Azerbaijan", "Parma"]}
+{"subject": "Stoom Stichting Nederland", "object": "Rotterdam", "taxonomy": ["Minneapolis", "Barnes", "Mainz", "Yemen", "Chicago"]}
+{"subject": "Louisiana Film Prize", "object": "Shreveport", "taxonomy": ["Liverpool", "Damascus", "Genoa", "Brazil", "Gothenburg"]}
+{"subject": "Ottawa International Animation Festival", "object": "Ottawa", "taxonomy": ["Cambridge", "Lithuania", "Heidelberg", "Seville", "Minnesota"]}
+{"subject": "Western Allied invasion of Germany", "object": "Netherlands", "taxonomy": ["Napier", "Auckland", "Madrid", "Cyprus", "Marseille"]}
+{"subject": "Gran Teatre del Liceu", "object": "Barcelona", "taxonomy": ["Napier", "Vancouver", "Herzegovina", "Prescott", "Santiago"]}
+{"subject": "Post-Soviet states", "object": "Kazakhstan", "taxonomy": ["Amsterdam", "Uzbekistan", "Stockholm", "Estonia", "Auckland"]}
+{"subject": "Family Life Radio", "object": "Michigan", "taxonomy": ["Greece", "Leipzig", "Santiago", "Parma", "Aden"]}
+{"subject": "Pazzi conspiracy", "object": "Florence", "taxonomy": ["Philippines", "Doncaster", "Glasgow", "Dublin", "Olympia"]}
+{"subject": "Sicilian Baroque", "object": "Sicily", "taxonomy": ["Mexico", "Yokohama", "Armagh", "Michigan", "Barnes"]}
+{"subject": "Atlanta International Documentary Film Festival", "object": "Atlanta", "taxonomy": ["Belfast", "Miami", "Strasbourg", "Oslo", "Netherlands"]}
+{"subject": "Nivelle Offensive", "object": "France", "taxonomy": ["Edmonton", "Salisbury", "Orange", "Alexandria", "Kent"]}
+{"subject": "Yerevan International Film Festival", "object": "Yerevan", "taxonomy": ["Europe", "Ireland", "Bari", "Mars", "Antwerp"]}
+{"subject": "Asia Pacific Film Festival", "object": "Asia", "taxonomy": ["Kyoto", "Dorset", "Bahrain", "Philadelphia", "Vienna"]}
+{"subject": "Hungarian Revolution of 1956", "object": "Hungary", "taxonomy": ["Florence", "Oceania", "India", "Miami", "Boston"]}
+{"subject": "Halchidhoma", "object": "California", "taxonomy": ["Turkey", "Sofia", "Anatolia", "Shanghai", "Northwest"]}
+{"subject": "2000 Summer Paralympics", "object": "Sydney", "taxonomy": ["Nice", "Egypt", "Cornish", "Doncaster", "Nairobi"]}
+{"subject": "Sicilian Expedition", "object": "Sicily", "taxonomy": ["Aston", "Montreal", "Europe", "Bangalore", "Sweden"]}
+{"subject": "Armagh Observatory", "object": "Armagh", "taxonomy": ["Ukraine", "Luxembourg", "Iraq", "Iran", "Karachi"]}
+{"subject": "Uruguayan War", "object": "Uruguay", "taxonomy": ["Scandinavia", "Geneva", "Flanders", "Manhattan", "Cambridge"]}
+{"subject": "2011 Norway attacks", "object": "Oslo", "taxonomy": ["Qatar", "India", "Sydney", "Yugoslavia", "Boston"]}
+{"subject": "2011 Libyan Civil War", "object": "Libya", "taxonomy": ["Minsk", "Habsburg", "Shreveport", "Phoenix", "Texas"]}
+{"subject": "Alexandrine grammarians", "object": "Alexandria", "taxonomy": ["Dallas", "Netherlands", "Brighton", "Split", "Edinburgh"]}
+{"subject": "Leicester Comedy Festival", "object": "Leicester", "taxonomy": ["Columbia", "Brest", "Warsaw", "Windsor", "Armenia"]}
+{"subject": "Snooker Shoot-Out", "object": "Blackpool", "taxonomy": ["Mecca", "Cambridge", "Australia", "Ghana", "Estonia"]}
+{"subject": "Istanbul Technical University", "object": "Istanbul", "taxonomy": ["Crete", "Tehran", "Bern", "Gothenburg", "Haifa"]}
+{"subject": "Expo '98", "object": "Lisbon", "taxonomy": ["Sarajevo", "Italy", "Bethel", "California", "Munich"]}
+{"subject": "Zagreb Pride", "object": "Zagreb", "taxonomy": ["Basel", "Phoenix", "Bratislava", "Doncaster", "Iran"]}
+{"subject": "Woodstock Festival", "object": "Bethel", "taxonomy": ["Lausanne", "Bangkok", "Bucharest", "Jordan", "Havana"]}
+{"subject": "Regina Coeli", "object": "Rome", "taxonomy": ["Shanghai", "Caribbean", "Salisbury", "Ashland", "Dublin"]}
+{"subject": "Melbourne International Film Festival", "object": "Melbourne", "taxonomy": ["Phoenix", "Pune", "Wales", "Bahrain", "Toronto"]}
+{"subject": "Scottish National Portrait Gallery", "object": "Edinburgh", "taxonomy": ["Taipei", "Scandinavia", "London", "Indianapolis", "Belgium"]}
+{"subject": "World War II", "object": "Europe", "taxonomy": ["Swindon", "Assam", "Albania", "Ukraine", "Lviv"]}
+{"subject": "Hitachi", "object": "Melbourne", "taxonomy": ["Leeds", "Bonn", "Genoa", "Newport", "Oslo"]}
+{"subject": "The Leys School", "object": "Cambridge", "taxonomy": ["Marseille", "Sarajevo", "Brooklyn", "Aberdeen", "Portsmouth"]}
+{"subject": "Operation Perch", "object": "Normandy", "taxonomy": ["Afghanistan", "Yerevan", "Basel", "Borneo", "Europe"]}
+{"subject": "2007 European Youth Summer Olympic Festival", "object": "Belgrade", "taxonomy": ["Egypt", "Ljubljana", "Italy", "Barnes", "Cincinnati"]}
+{"subject": "Cleveland Classic", "object": "Cleveland", "taxonomy": ["Sicily", "Uzbekistan", "Oceania", "Ashland", "Moscow"]}
+{"subject": "parish church", "object": "parish", "taxonomy": ["Cairo", "Leipzig", "Warsaw", "Italy", "Taipei"]}
+{"subject": "Istanbul riots", "object": "Istanbul", "taxonomy": ["Taipei", "Dublin", "Qatar", "Melbourne", "Russia"]}
+{"subject": "Miami International Film Festival", "object": "Miami", "taxonomy": ["Ghent", "Azerbaijan", "Cleveland", "Taipei", "Dallas"]}
+{"subject": "Iditarod Trail Sled Dog Race", "object": "Alaska", "taxonomy": ["Valencia", "Arizona", "Swindon", "Habsburg", "Toronto"]}
+{"subject": "Chelyabinsk meteor", "object": "Russia", "taxonomy": ["Dhaka", "Aberdeen", "Honolulu", "Flanders", "Nashville"]}
+{"subject": "Beethovenhalle", "object": "Bonn", "taxonomy": ["Naples", "Barcelona", "Leeds", "Gabon", "Bristol"]}
+{"subject": "28th Chess Olympiad", "object": "Thessaloniki", "taxonomy": ["Kolkata", "Nottingham", "Mongolia", "Verona", "Bologna"]}
+{"subject": "Battle of Ullais", "object": "Iraq", "taxonomy": ["Assam", "Birmingham", "Bari", "Northumberland", "Brisbane"]}
+{"subject": "Arnon Street killings", "object": "Belfast", "taxonomy": ["Adelaide", "Crete", "Pearl", "Berkshire", "Moldova"]}
+{"subject": "Galleria Vittorio Emanuele II", "object": "Milan", "taxonomy": ["Tehran", "Havana", "Somerset", "Singapore", "Leicestershire"]}
+{"subject": "Belfast Film Festival", "object": "Belfast", "taxonomy": ["Swindon", "Baku", "Sheffield", "Philippines", "Ljubljana"]}
+{"subject": "South by Southwest", "object": "Austin", "taxonomy": ["Bangalore", "Bethel", "Kent", "Constantinople", "Belarus"]}
+{"subject": "Pogrom of Armenians in Baku", "object": "Baku", "taxonomy": ["Normandy", "Ulster", "Memphis", "Queens", "Louisiana"]}
+{"subject": "2006 IAAF World Indoor Championships", "object": "Moscow", "taxonomy": ["Auckland", "Vancouver", "Delhi", "Manhattan", "Nanjing"]}
+{"subject": "Welsh Guards", "object": "London", "taxonomy": ["Ireland", "Newport", "Brooklyn", "Slovenia", "Frankfurt"]}
+{"subject": "Parish meeting", "object": "England", "taxonomy": ["Slovakia", "Pasadena", "Lviv", "Copenhagen", "Nuremberg"]}
+{"subject": "Chaos Communication Congress", "object": "Hamburg", "taxonomy": ["Oxford", "Dresden", "Somerset", "Malaysia", "Prague"]}
+{"subject": "Domlur", "object": "Bangalore", "taxonomy": ["Jordan", "Bern", "Barcelona", "Hungary", "Victoria"]}
+{"subject": "Milltown Cemetery attack", "object": "Belfast", "taxonomy": ["Basel", "Valencia", "Johannesburg", "Sydney", "Beijing"]}
+{"subject": "Federal Palace of Switzerland", "object": "Bern", "taxonomy": ["Yerevan", "Shanghai", "Cincinnati", "Cuba", "Aston"]}
+{"subject": "Victoria Law Courts", "object": "Birmingham", "taxonomy": ["Lahore", "Dorset", "Philadelphia", "Preston", "Scandinavia"]}
+{"subject": "Melbourne International Comedy Festival", "object": "Melbourne", "taxonomy": ["Catalonia", "Porto", "Nuremberg", "Liverpool", "Damascus"]}
+{"subject": "Santander Cycles", "object": "London", "taxonomy": ["Brisbane", "Yorkshire", "Yerevan", "Carthage", "parish"]}
+{"subject": "Operation Barbarossa", "object": "Belarus", "taxonomy": ["Spain", "Ireland", "Cardiff", "Florence", "Worcester"]}
+{"subject": "Convent of Las Descalzas Reales", "object": "Madrid", "taxonomy": ["Baghdad", "Leicestershire", "Africa", "Manhattan", "Porto"]}
+{"subject": "ice cream cone", "object": "Australia", "taxonomy": ["Porto", "Scandinavia", "Rotterdam", "Sardinia", "Lisbon"]}
+{"subject": "Space Shuttle Columbia disaster", "object": "Louisiana", "taxonomy": ["Germany", "Mumbai", "Berlin", "Wellington", "Tunisia"]}
+{"subject": "Seattle Lesbian & Gay Film Festival", "object": "Seattle", "taxonomy": ["Ponce", "Philadelphia", "Edmonton", "Yemen", "Lagos"]}
+{"subject": "The Pheasantry", "object": "Chelsea", "taxonomy": ["Porto", "Bermuda", "Minsk", "Pune", "Hanover"]}
+{"subject": "Chicago Rockets", "object": "Chicago", "taxonomy": ["Egypt", "England", "Ethiopia", "Normandy", "Scotland"]}
+{"subject": "NatFilm Festival", "object": "Copenhagen", "taxonomy": ["Luxembourg", "Helsinki", "Miami", "Windsor", "Maharashtra"]}
+{"subject": "Russian Civil War", "object": "Iran", "taxonomy": ["Porto", "Aston", "Caucasus", "Honduras", "Chester"]}
+{"subject": "Miss Wales", "object": "Wales", "taxonomy": ["Karachi", "Manila", "Casablanca", "Melbourne", "Parma"]}
+{"subject": "SLUC Nancy Basket", "object": "Nancy", "taxonomy": ["Taiwan", "Hamburg", "Alaska", "Hagen", "France"]}
+{"subject": "Beijing College Student Film Festival", "object": "Beijing", "taxonomy": ["Barcelona", "Preston", "Napier", "Atlanta", "Athens"]}
+{"subject": "Royal Danish Library", "object": "Copenhagen", "taxonomy": ["Leicester", "Maharashtra", "Cuba", "Ottawa", "Manila"]}
+{"subject": "Battle of Poelcappelle", "object": "Flanders", "taxonomy": ["Sheffield", "Frankfurt", "Carthage", "Hanover", "Leicester"]}
+{"subject": "2009 Jakarta bombings", "object": "Jakarta", "taxonomy": ["Australia", "Toronto", "Baghdad", "Internet", "Heidelberg"]}
+{"subject": "2014 IIHF World Championship", "object": "Minsk", "taxonomy": ["Maharashtra", "Aspen", "Montreal", "Northampton", "Tallinn"]}
+{"subject": "Operation Ostra Brama", "object": "Vilnius", "taxonomy": ["Jordan", "supermarket", "Scandinavia", "Beijing", "Europe"]}
+{"subject": "Tunisian Revolution", "object": "Tunisia", "taxonomy": ["Hiroshima", "Pearl", "Paris", "Doncaster", "Wisconsin"]}
+{"subject": "Battle of Crete", "object": "Crete", "taxonomy": ["Melbourne", "Casablanca", "Yugoslavia", "Guatemala", "Alaska"]}
+{"subject": "World Bowl XV", "object": "Frankfurt", "taxonomy": ["Cornish", "Pearl", "Valencia", "Istanbul", "Toronto"]}
+{"subject": "Tripartite Pact", "object": "Berlin", "taxonomy": ["Newport", "Shirley", "Riga", "Circle", "Slovakia"]}
+{"subject": "Stockholm Bloodbath", "object": "Stockholm", "taxonomy": ["Texas", "Halifax", "Naples", "Canada", "Manila"]}
+{"subject": "XS Malarkey", "object": "Manchester", "taxonomy": ["Sheffield", "Baku", "Heidelberg", "Spain", "Sydney"]}
+{"subject": "Nanjing Massacre", "object": "Nanjing", "taxonomy": ["Bavaria", "Edmond", "Bahrain", "Wimbledon", "Levant"]}
+{"subject": "Harlem International Film Festival", "object": "Harlem", "taxonomy": ["Detroit", "Goa", "Seoul", "Northumberland", "Munich"]}
+{"subject": "Velothon Berlin", "object": "Berlin", "taxonomy": ["Cleveland", "Dallas", "Shirley", "Liverpool", "Venice"]}
+{"subject": "Atlantic Film Festival", "object": "Halifax", "taxonomy": ["Calgary", "Sarawak", "Azerbaijan", "Uzbekistan", "Swansea"]}
+{"subject": "Haitian Carnival", "object": "Haiti", "taxonomy": ["Nottingham", "Newport", "Catalonia", "Munich", "Preston"]}
+{"subject": "Kulturen", "object": "Lund", "taxonomy": ["Utrecht", "Java", "Belgrade", "Tibet", "Darwin"]}
+{"subject": "The Helix", "object": "Dublin", "taxonomy": ["Hiroshima", "Newfoundland", "Mecca", "Qatar", "Sofia"]}
+{"subject": "Basilica of Santa Croce", "object": "Florence", "taxonomy": ["Windsor", "Beijing", "Japan", "Sweden", "Yugoslavia"]}
+{"subject": "Hagios Demetrios", "object": "Thessaloniki", "taxonomy": ["supermarket", "Wales", "Shanghai", "Baltimore", "Cairo"]}
+{"subject": "Battle of Shanghai", "object": "Shanghai", "taxonomy": ["Montreal", "Uruguay", "Lund", "Haifa", "Mars"]}
+{"subject": "1990 Goodwill Games", "object": "Seattle", "taxonomy": ["Latvia", "Belfast", "Malaysia", "Berlin", "Arizona"]}
+{"subject": "Wildscreen", "object": "Bristol", "taxonomy": ["Haifa", "Brisbane", "Nanjing", "Nuremberg", "Qatar"]}
+{"subject": "Ostankino Tower", "object": "Moscow", "taxonomy": ["Havana", "Ontario", "Ukraine", "Montgomery", "Frankfurt"]}
+{"subject": "Eurovision Song Contest 2005", "object": "Kiev", "taxonomy": ["Uzbekistan", "Swansea", "Nigeria", "townland", "Leicestershire"]}
+{"subject": "1985 Southeast Asian Games", "object": "Bangkok", "taxonomy": ["Baghdad", "Mongolia", "Ghent", "Armenia", "Finland"]}
+{"subject": "Miss Venezuela 2004", "object": "Caracas", "taxonomy": ["Normandy", "Santiago", "Porto", "Russia", "Ulster"]}
+{"subject": "Cyclone Tracy", "object": "Darwin", "taxonomy": ["Baku", "Mali", "Sarawak", "Habsburg", "Moldova"]}
+{"subject": "Massey University", "object": "Wellington", "taxonomy": ["Kazan", "Flanders", "Arizona", "Oxford", "Israel"]}
+{"subject": "1988 Summer Paralympics", "object": "Seoul", "taxonomy": ["Maharashtra", "Bavaria", "Seville", "England", "Boston"]}
+{"subject": "Sofia International Film Festival", "object": "Sofia", "taxonomy": ["Pittsburgh", "Essex", "Florence", "Bristol", "Guam"]}
+{"subject": "Operation Overlord", "object": "Normandy", "taxonomy": ["parish", "Detroit", "Vietnam", "Bavaria", "Hiroshima"]}
+{"subject": "United Services Recreation Ground", "object": "Portsmouth", "taxonomy": ["Romania", "Milan", "Leipzig", "Phoenix", "Canberra"]}
+{"subject": "National Memorial Cemetery of the Pacific", "object": "Honolulu", "taxonomy": ["Spain", "Marseille", "Tokyo", "Herzegovina", "Bologna"]}
+{"subject": "Kunstnernes Frie Studieskoler", "object": "Copenhagen", "taxonomy": ["Haiti", "Europe", "Goa", "Montgomery", "Barnes"]}
+{"subject": "Tricorn Centre", "object": "Portsmouth", "taxonomy": ["Slovenia", "Valencia", "Tunisia", "Vilnius", "Malaysia"]}
+{"subject": "Storming of the Bastille", "object": "Paris", "taxonomy": ["Slovenia", "Kabul", "Edmonton", "Worcester", "Northwest"]}
+{"subject": "USS Cole bombing", "object": "Aden", "taxonomy": ["Shirley", "Lund", "Yokohama", "Essex", "Wellington"]}
+{"subject": "Berlin Papyrus 6619", "object": "Berlin", "taxonomy": ["Norwich", "Ethiopia", "Finland", "Basel", "Memphis"]}
+{"subject": "ice cream cone", "object": "Malaysia", "taxonomy": ["Split", "Verona", "California", "Sofia", "Casablanca"]}
+{"subject": "Operation Dingson", "object": "Brittany", "taxonomy": ["Miami", "Brighton", "Queens", "Hanover", "Bristol"]}
+{"subject": "Dhurakij Pundit University", "object": "Bangkok", "taxonomy": ["Yugoslavia", "Shirley", "Anatolia", "townland", "Philadelphia"]}
+{"subject": "2000 Summer Olympics", "object": "Sydney", "taxonomy": ["Aden", "Paris", "Vienna", "Melbourne", "Cornish"]}
+{"subject": "Maryland Film Festival", "object": "Baltimore", "taxonomy": ["Kabul", "Johannesburg", "Maharashtra", "Manchester", "Estonia"]}
+{"subject": "South Yemen insurgency", "object": "Yemen", "taxonomy": ["Montgomery", "Nigeria", "Baku", "Wellington", "Oceania"]}
+{"subject": "Cardiff Blitz", "object": "Cardiff", "taxonomy": ["Java", "Kuwait", "Bucharest", "Hagen", "Minnesota"]}
+{"subject": "Capitol Hill massacre", "object": "Seattle", "taxonomy": ["London", "townland", "Naples", "Oslo", "Vietnam"]}
+{"subject": "Northamptonshire Regiment", "object": "Northampton", "taxonomy": ["Tallinn", "Niger", "Ulster", "Waterloo", "Borneo"]}
+{"subject": "Tripura University", "object": "India", "taxonomy": ["Sydney", "Japan", "Wimbledon", "Melbourne", "Yerevan"]}
+{"subject": "Veii", "object": "Italy", "taxonomy": ["Minnesota", "Jordan", "Manila", "Verona", "Ghana"]}
+{"subject": "Barn Elms", "object": "Barnes", "taxonomy": ["Baku", "Haiti", "Annapolis", "Michigan", "Seattle"]}
+{"subject": "2015 WTA Finals", "object": "Singapore", "taxonomy": ["Blackpool", "Auckland", "Berlin", "Ireland", "Uzbekistan"]}
+{"subject": "Case White", "object": "Herzegovina", "taxonomy": ["Kolkata", "Dallas", "Bermuda", "Budapest", "Iran"]}
+{"subject": "2001 Goodwill Games", "object": "Brisbane", "taxonomy": ["Bolivia", "ear", "Constantinople", "Borneo", "Alexandria"]}
+{"subject": "2014 WTA Finals", "object": "Singapore", "taxonomy": ["Newport", "Manhattan", "Guam", "Carthage", "Boston"]}
+{"subject": "CERN", "object": "Geneva", "taxonomy": ["Olympia", "Casablanca", "Lawrence", "Honduras", "England"]}
+{"subject": "Seattle SuperSonics", "object": "Seattle", "taxonomy": ["Macau", "Santiago", "Edinburgh", "Slovenia", "Istanbul"]}
+{"subject": "Three Rivers Film Festival", "object": "Pittsburgh", "taxonomy": ["Darwin", "Normandy", "Wales", "Malaysia", "Seville"]}
+{"subject": "New START", "object": "Prague", "taxonomy": ["townland", "Cairo", "Copenhagen", "Waterloo", "Shirley"]}
+{"subject": "Beylerbeyi Palace", "object": "Istanbul", "taxonomy": ["Chester", "Newport", "Prague", "Tunisia", "Spain"]}
+{"subject": "Berlin International Film Festival", "object": "Berlin", "taxonomy": ["Kiev", "Prescott", "Wisconsin", "Taiwan", "Goa"]}
+{"subject": "congress of Berlin", "object": "Berlin", "taxonomy": ["Dorset", "Munich", "Ghana", "Indianapolis", "Wellington"]}
+{"subject": "2013 Island Games", "object": "Bermuda", "taxonomy": ["Shanghai", "Taipei", "Barcelona", "Sheffield", "Brazil"]}
+{"subject": "Great Plague of London", "object": "London", "taxonomy": ["Prescott", "Cumberland", "Iraq", "Tehran", "Constantinople"]}
+{"subject": "Parsley Massacre", "object": "Haiti", "taxonomy": ["Antwerp", "Latvia", "Barnes", "Porto", "Malaysia"]}
+{"subject": "Giudicato of Logudoro", "object": "Sardinia", "taxonomy": ["Basel", "Rome", "ear", "Northumberland", "Russia"]}
+{"subject": "Family Life Radio", "object": "Wisconsin", "taxonomy": ["Bradford", "Iran", "Cumberland", "Kyoto", "Albany"]}
+{"subject": "Operation Barbarossa", "object": "Ukraine", "taxonomy": ["Alberta", "Libya", "Dhaka", "Venice", "Helsinki"]}
+{"subject": "Sussex House School", "object": "Chelsea", "taxonomy": ["Mexico", "Edmonton", "Armenia", "Guatemala", "Latvia"]}
+{"subject": "Syrian Civil War", "object": "Syria", "taxonomy": ["Casablanca", "Johannesburg", "Rome", "Nanjing", "Ulster"]}
+{"subject": "1998 United States embassy bombings", "object": "Nairobi", "taxonomy": ["Internet", "Scotland", "California", "Greece", "Pasadena"]}
+{"subject": "Ajyad Fortress", "object": "Mecca", "taxonomy": ["Yorkshire", "Belarus", "Constantinople", "Toronto", "Herzegovina"]}
+{"subject": "Albany City Hall", "object": "Albany", "taxonomy": ["Halifax", "Aspen", "Victoria", "Moldova", "Toronto"]}
+{"subject": "La Tropicale Amissa Bongo", "object": "Gabon", "taxonomy": ["Qatar", "Barcelona", "Cardiff", "Jakarta", "Japan"]}
+{"subject": "Hot Docs - Canadian International Documentary Festival", "object": "Toronto", "taxonomy": ["Minnesota", "Kabul", "Ontario", "Moon", "Baghdad"]}
+{"subject": "40 Wall Street", "object": "Manhattan", "taxonomy": ["Singapore", "Cumberland", "Italy", "Lviv", "Shirley"]}
+{"subject": "Guangzhou Uprising", "object": "Guangzhou", "taxonomy": ["Northumberland", "Essex", "Colombo", "Italy", "Prague"]}
+{"subject": "University of Oxford", "object": "Oxford", "taxonomy": ["Caracas", "Australia", "Iraq", "Helsinki", "Caribbean"]}
+{"subject": "Shanghai Tower", "object": "Shanghai", "taxonomy": ["Caucasus", "Kuwait", "Baltimore", "Mars", "Aden"]}
+{"subject": "Warsaw Uprising", "object": "Warsaw", "taxonomy": ["Guadalajara", "Jakarta", "Nanjing", "Iceland", "Amsterdam"]}
+{"subject": "SS Rotterdam", "object": "Rotterdam", "taxonomy": ["Brazil", "Harlem", "Poland", "Bavaria", "Bern"]}
+{"subject": "16th London Turkish Film Festival", "object": "London", "taxonomy": ["Delhi", "Ankara", "Johannesburg", "Haiti", "Honduras"]}
+{"subject": "2012 Summer Olympics", "object": "London", "taxonomy": ["Yemen", "Kazan", "Hagen", "Bethel", "Bratislava"]}
+{"subject": "Viking art", "object": "Scandinavia", "taxonomy": ["Sweden", "Parma", "Tokyo", "Constantinople", "Armenia"]}
+{"subject": "London Book Fair", "object": "London", "taxonomy": ["Taipei", "Leeds", "Zagreb", "Chicago", "Normandy"]}
+{"subject": "Ten-Day War", "object": "Slovenia", "taxonomy": ["Gujarat", "Yemen", "Crete", "Lahore", "Tunisia"]}
+{"subject": "1983 World Snooker Championship", "object": "Sheffield", "taxonomy": ["Leicestershire", "Lithuania", "Chester", "Catalonia", "Alaska"]}
+{"subject": "Polkagris", "object": "Sweden", "taxonomy": ["Guam", "Taiwan", "London", "Bari", "Damascus"]}
+{"subject": "TTT Riga", "object": "Riga", "taxonomy": ["Bucharest", "Greenwich", "Montreal", "Guatemala", "Cambridge"]}
+{"subject": "The Blind Beggar", "object": "London", "taxonomy": ["Calgary", "Malaysia", "California", "Cincinnati", "Leicestershire"]}
+{"subject": "Middle East Technical University", "object": "Ankara", "taxonomy": ["Geneva", "Jerusalem", "Ireland", "Munich", "Hamburg"]}
+{"subject": "Lithuanian Wars of Independence", "object": "Lithuania", "taxonomy": ["Rwanda", "Netherlands", "Lawrence", "Northumberland", "Hanover"]}
+{"subject": "West Somerset Mineral Railway", "object": "Somerset", "taxonomy": ["Vietnam", "Gettysburg", "Darwin", "Copenhagen", "Guam"]}
+{"subject": "OKK Beograd", "object": "Belgrade", "taxonomy": ["Stockholm", "Sarawak", "Bern", "Riga", "Chelsea"]}
+{"subject": "BC Kyiv", "object": "Kiev", "taxonomy": ["Seville", "Sarajevo", "Bali", "Anatolia", "Qatar"]}
+{"subject": "Battle of Jerusalem", "object": "Jerusalem", "taxonomy": ["Alberta", "Ghent", "Rotterdam", "Pittsburgh", "Ulster"]}
+{"subject": "Hagia Sophia", "object": "Istanbul", "taxonomy": ["Warsaw", "Belarus", "Greenwich", "Mexico", "Tibet"]}
+{"subject": "Pallacanestro Virtus Roma", "object": "Rome", "taxonomy": ["Taipei", "Vancouver", "Nuremberg", "Cincinnati", "Houston"]}
+{"subject": "Inner Circle railway line", "object": "Melbourne", "taxonomy": ["Worcester", "Utrecht", "Bali", "Texas", "Macau"]}
+{"subject": "Ajanta Caves", "object": "Maharashtra", "taxonomy": ["Albania", "Kazan", "Tehran", "Belgrade", "Antarctica"]}
+{"subject": "2005 Bali bombings", "object": "Bali", "taxonomy": ["Leipzig", "Gothenburg", "Rwanda", "Arizona", "Istanbul"]}
+{"subject": "2014 ICF Canoe Sprint World Championships", "object": "Moscow", "taxonomy": ["Baltimore", "Bristol", "Nairobi", "Barcelona", "Tallinn"]}
+{"subject": "Romanesque art", "object": "Europe", "taxonomy": ["Brest", "Mongolia", "Ottawa", "France", "Brooklyn"]}
+{"subject": "Mannheim-Heidelberg International Film Festival", "object": "Heidelberg", "taxonomy": ["Mainz", "Orange", "Africa", "Adelaide", "Queens"]}
+{"subject": "Kunsthistorisches Museum", "object": "Vienna", "taxonomy": ["Syria", "Gujarat", "Sheffield", "Nashville", "Phoenix"]}
+{"subject": "Battle of Plassey", "object": "Kolkata", "taxonomy": ["Damascus", "Kent", "Sarawak", "Michigan", "Dorset"]}
+{"subject": "Štark Arena", "object": "Belgrade", "taxonomy": ["Kuwait", "Albany", "Antarctica", "Ulster", "Bangkok"]}
+{"subject": "Santa Maria della Salute", "object": "Venice", "taxonomy": ["Halifax", "Gothenburg", "Lviv", "parish", "Parma"]}
+{"subject": "Convention on preventing and combating violence against women and domestic violence", "object": "Istanbul", "taxonomy": ["Canada", "Nigeria", "Tehran", "Pune", "Vancouver"]}
+{"subject": "Femina Miss India 2013", "object": "Mumbai", "taxonomy": ["Moscow", "Madrid", "Assam", "Moon", "Pune"]}
+{"subject": "Operation Bagration", "object": "Belarus", "taxonomy": ["Casablanca", "Prescott", "Pune", "Mongolia", "Mexico"]}
+{"subject": "Windsor & Eton Central railway station", "object": "Windsor", "taxonomy": ["Habsburg", "Toronto", "Marseille", "Strasbourg", "Adelaide"]}
+{"subject": "Bangalore International Film Festival", "object": "Bangalore", "taxonomy": ["Madrid", "Colombo", "Ponce", "Copenhagen", "Warsaw"]}
+{"subject": "Operation Unified Protector", "object": "Libya", "taxonomy": ["Jakarta", "Benin", "Antarctica", "Calgary", "Nottingham"]}
+{"subject": "Battle for Brest", "object": "Brittany", "taxonomy": ["Waterloo", "Vietnam", "Detroit", "Annapolis", "Circle"]}
+{"subject": "Rome Film Festival", "object": "Rome", "taxonomy": ["Santiago", "Tibet", "Ashland", "Brittany", "Lund"]}
+{"subject": "Jakarta International Java Jazz Festival", "object": "Jakarta", "taxonomy": ["Australia", "London", "Nashville", "Chelsea", "Latvia"]}
+{"subject": "Kolkata Book Fair", "object": "Kolkata", "taxonomy": ["ear", "Somerset", "Lviv", "Guadalajara", "Belgium"]}
+{"subject": "Second Italo-Ethiopian War", "object": "Ethiopia", "taxonomy": ["Brooklyn", "Australia", "Boston", "Finland", "Bucharest"]}
+{"subject": "Hellenic Film Academy Awards", "object": "Athens", "taxonomy": ["Romania", "Windsor", "Iceland", "Qatar", "Detroit"]}
+{"subject": "Independence Republic of Sardinia", "object": "Sardinia", "taxonomy": ["Annapolis", "Miami", "Melbourne", "Newfoundland", "Columbia"]}
+{"subject": "1979 Southeast Asian Games", "object": "Jakarta", "taxonomy": ["Glasgow", "Havana", "Alberta", "Auckland", "Internet"]}
+{"subject": "Corrective Movement", "object": "Syria", "taxonomy": ["Frankfurt", "Verona", "Egypt", "Caucasus", "Toronto"]}
+{"subject": "WDR Symphony Orchestra Cologne", "object": "Cologne", "taxonomy": ["Yugoslavia", "India", "Karachi", "Lausanne", "Yerevan"]}
+{"subject": "Viennale", "object": "Vienna", "taxonomy": ["Malaysia", "Bermuda", "Delhi", "Hungary", "Victoria"]}
+{"subject": "Barcelona May Days", "object": "Barcelona", "taxonomy": ["Queens", "Dresden", "Nancy", "Tallinn", "Assam"]}
+{"subject": "Bombing of Darwin", "object": "Darwin", "taxonomy": ["Kiev", "Pune", "Assam", "France", "Malaysia"]}
+{"subject": "Levallois Metropolitans", "object": "Paris", "taxonomy": ["Greenwich", "Bari", "Bristol", "Bradford", "Strasbourg"]}
+{"subject": "Preston Guild Hall", "object": "Preston", "taxonomy": ["Kuwait", "ear", "Havana", "Newfoundland", "Beijing"]}
+{"subject": "Memorial Day massacre of 1937", "object": "Chicago", "taxonomy": ["Latvia", "Tunisia", "Africa", "Boston", "Minnesota"]}
+{"subject": "Battle of Powick Bridge", "object": "Worcester", "taxonomy": ["Guam", "Poland", "Halifax", "Ponce", "Newport"]}
+{"subject": "Papar", "object": "Iceland", "taxonomy": ["Florence", "Brest", "Ukraine", "Phoenix", "Birmingham"]}
+{"subject": "1992 Summer Paralympics", "object": "Barcelona", "taxonomy": ["Alexandria", "Yerevan", "Qatar", "Gettysburg", "Taipei"]}
+{"subject": "Gazi University", "object": "Ankara", "taxonomy": ["Kent", "Edinburgh", "Macau", "Cyprus", "Minneapolis"]}
+{"subject": "Capitol Records Building", "object": "Hollywood", "taxonomy": ["Warsaw", "Egypt", "Maharashtra", "Brighton", "Geneva"]}
+{"subject": "2015 Indian Open", "object": "Mumbai", "taxonomy": ["Bristol", "Ghana", "Birmingham", "Bucharest", "Africa"]}
+{"subject": "Dowsborough", "object": "Somerset", "taxonomy": ["Bologna", "Armagh", "Sarajevo", "Portsmouth", "Havana"]}
+{"subject": "Images Festival", "object": "Toronto", "taxonomy": ["Hiroshima", "Bonn", "Copenhagen", "Estonia", "Basel"]}
+{"subject": "Stoney Littleton Long Barrow", "object": "Somerset", "taxonomy": ["Northampton", "Illinois", "Lviv", "Manhattan", "Northwest"]}
+{"subject": "2006 Mumbai train bombings", "object": "Mumbai", "taxonomy": ["Miami", "Budapest", "Yokohama", "Moscow", "Queens"]}
+{"subject": "Beidha", "object": "Jordan", "taxonomy": ["Leeds", "Vienna", "Nanjing", "Phoenix", "Queens"]}
+{"subject": "Massachusetts Institute of Technology", "object": "Cambridge", "taxonomy": ["Ponce", "Gothenburg", "Hanover", "Parma", "Mongolia"]}
+{"subject": "Warsaw International Film Festival", "object": "Warsaw", "taxonomy": ["Vancouver", "Belarus", "Marseille", "Java", "Oceania"]}
+{"subject": "Diergaarde Blijdorp", "object": "Rotterdam", "taxonomy": ["Naples", "Alberta", "Latvia", "Cuba", "Estonia"]}
+{"subject": "Kranji War Memorial", "object": "Singapore", "taxonomy": ["Manhattan", "Karachi", "Cambridge", "Belgrade", "Albania"]}
+{"subject": "Christkindlesmarkt", "object": "Nuremberg", "taxonomy": ["Dorset", "Melbourne", "Montgomery", "Poland", "Canada"]}
+{"subject": "Third Floor Gallery", "object": "Cardiff", "taxonomy": ["Nuremberg", "Maharashtra", "Germany", "Hanover", "Lisbon"]}
+{"subject": "ice cream cone", "object": "Ireland", "taxonomy": ["Houston", "Calgary", "Salisbury", "Herzegovina", "Zagreb"]}
+{"subject": "Boston Film Festival", "object": "Boston", "taxonomy": ["Aberdeen", "Canberra", "Thessaloniki", "California", "Windsor"]}
+{"subject": "Movement for the Independence of Sicily", "object": "Sicily", "taxonomy": ["Zagreb", "France", "Sweden", "Cyprus", "Seattle"]}
+{"subject": "Scottish independence referendum, 2014", "object": "Scotland", "taxonomy": ["Moscow", "Mexico", "Cairo", "Milan", "Berlin"]}
+{"subject": "Vancouver International Film Festival", "object": "Vancouver", "taxonomy": ["Habsburg", "Goa", "Sicily", "Strasbourg", "Damascus"]}
+{"subject": "Battle of Waterloo", "object": "Waterloo", "taxonomy": ["Sweden", "Boston", "Internet", "Ghana", "Olympia"]}
+{"subject": "Colorado River Indian Tribes", "object": "Arizona", "taxonomy": ["Pearl", "Dorset", "Dallas", "Yerevan", "Florence"]}
+{"subject": "London International Surrealist Exhibition", "object": "London", "taxonomy": ["Havana", "Queens", "Crete", "Marseille", "Netherlands"]}
+{"subject": "23rd European Film Awards", "object": "Tallinn", "taxonomy": ["Geneva", "Brisbane", "Aberdeen", "Mongolia", "Bucharest"]}
+{"subject": "culture of Asia", "object": "Asia", "taxonomy": ["Shanghai", "Austria", "Yerevan", "Porto", "Constantinople"]}
+{"subject": "1983 Southeast Asian Games", "object": "Singapore", "taxonomy": ["India", "Marseille", "Iran", "Germany", "Africa"]}
+{"subject": "Kunsthal", "object": "Rotterdam", "taxonomy": ["Queens", "Cuba", "Ghana", "Bolivia", "Barcelona"]}
+{"subject": "Immortal Game", "object": "London", "taxonomy": ["Montreal", "Gothenburg", "Baltimore", "Oceania", "Newport"]}
+{"subject": "Bern Minster", "object": "Bern", "taxonomy": ["Caribbean", "Iran", "Cambridge", "Thessaloniki", "Minsk"]}
+{"subject": "Abraj Al Bait", "object": "Mecca", "taxonomy": ["Sheffield", "Louisiana", "Bucharest", "Ulster", "Paris"]}
+{"subject": "KK Cedevita", "object": "Zagreb", "taxonomy": ["Levant", "Indianapolis", "Cyprus", "India", "Santiago"]}
+{"subject": "Japan Open Tennis Championships", "object": "Tokyo", "taxonomy": ["Circle", "Bologna", "Ottawa", "Cornish", "Glasgow"]}
+{"subject": "2003 Casablanca bombing", "object": "Casablanca", "taxonomy": ["Pittsburgh", "Belfast", "Armenia", "Netherlands", "Miami"]}
+{"subject": "1999 European Athletics Junior Championships", "object": "Riga", "taxonomy": ["Preston", "Yugoslavia", "Rotterdam", "Beijing", "Taiwan"]}
+{"subject": "Family Life Radio", "object": "Arizona", "taxonomy": ["Gothenburg", "Texas", "Scotland", "Bethel", "Northwest"]}
+{"subject": "Glasgow Film Festival", "object": "Glasgow", "taxonomy": ["Herzegovina", "Santiago", "Jakarta", "Latvia", "Northampton"]}
+{"subject": "Battle of Kasserine Pass", "object": "Tunisia", "taxonomy": ["Italy", "Iceland", "Windsor", "Barnes", "Balkans"]}
+{"subject": "Canada International Film Festival", "object": "Vancouver", "taxonomy": ["Iceland", "Baku", "Anatolia", "Adelaide", "Nuremberg"]}
+{"subject": "International Cup of Nice", "object": "Nice", "taxonomy": ["Mexico", "Atlanta", "Orange", "Bolivia", "Zagreb"]}
+{"subject": "Battle of Hatfield Chase", "object": "Doncaster", "taxonomy": ["Sarajevo", "England", "Belgium", "Wales", "Seattle"]}
+{"subject": "York University", "object": "Toronto", "taxonomy": ["Aberdeen", "Lahore", "Vietnam", "Nice", "Columbia"]}
+{"subject": "Portobello Film Festival", "object": "London", "taxonomy": ["Cardiff", "Belarus", "Salisbury", "Vietnam", "Asia"]}
+{"subject": "Battle of Chacabuco", "object": "Santiago", "taxonomy": ["Rotterdam", "Austria", "Wales", "Bethel", "Honolulu"]}
+{"subject": "COBRA", "object": "Copenhagen", "taxonomy": ["Northampton", "Crete", "Cornish", "Glasgow", "Kazan"]}
+{"subject": "29 September 2008 western India bombings", "object": "Maharashtra", "taxonomy": ["Worcester", "Gettysburg", "Melbourne", "Bristol", "Texas"]}
+{"subject": "Chicago Golden Gloves", "object": "Chicago", "taxonomy": ["Minneapolis", "ear", "Paris", "Afghanistan", "Bolivia"]}
+{"subject": "Qataban", "object": "Yemen", "taxonomy": ["Lagos", "Ljubljana", "Alberta", "Miami", "France"]}
+{"subject": "Battle of Fort Dearborn", "object": "Chicago", "taxonomy": ["Ulster", "Yokohama", "Heidelberg", "Split", "Cologne"]}
+{"subject": "Rosstown Railway", "object": "Melbourne", "taxonomy": ["Genoa", "Rotterdam", "Cologne", "Lithuania", "Bari"]}
+{"subject": "26/11 Mumbai attacks", "object": "Mumbai", "taxonomy": ["Lithuania", "Malaysia", "Lagos", "Berkshire", "Aden"]}
+{"subject": "Palm wine", "object": "Mexico", "taxonomy": ["Lausanne", "Shreveport", "Sofia", "Gettysburg", "Miami"]}
+{"subject": "1993 Southeast Asian Games", "object": "Singapore", "taxonomy": ["Lithuania", "Minneapolis", "Bern", "Portsmouth", "Tibet"]}
+{"subject": "Battle of Suipacha", "object": "Bolivia", "taxonomy": ["Cannes", "Swindon", "Russia", "Internet", "Mexico"]}
+{"subject": "CNN Center", "object": "Atlanta", "taxonomy": ["Riga", "Levant", "Constantinople", "Seville", "Manchester"]}
+{"subject": "World War I", "object": "Africa", "taxonomy": ["Albany", "Nice", "Scandinavia", "Yerevan", "Essex"]}
+{"subject": "Jay Treaty", "object": "London", "taxonomy": ["Arizona", "Windsor", "Pune", "Edmonton", "Baghdad"]}
+{"subject": "Battle of France", "object": "Belgium", "taxonomy": ["Anatolia", "Gothenburg", "Sicily", "Calgary", "Honolulu"]}
+{"subject": "Invasion of Poland", "object": "Poland", "taxonomy": ["Philadelphia", "Dorset", "Brittany", "Haiti", "Hiroshima"]}
+{"subject": "Georgi Dimitrov Mausoleum", "object": "Sofia", "taxonomy": ["Honduras", "Johannesburg", "Caracas", "Boston", "Damascus"]}
+{"subject": "KK Zrinjevac", "object": "Zagreb", "taxonomy": ["Cyprus", "Pasadena", "Nottingham", "Boston", "parish"]}
+{"subject": "Basilica Cistern", "object": "Istanbul", "taxonomy": ["Wisconsin", "Flanders", "Liverpool", "Genoa", "Cambridge"]}
+{"subject": "2013 Australian Open", "object": "Melbourne", "taxonomy": ["Albany", "Montreal", "Hungary", "Waterloo", "Pasadena"]}
+{"subject": "Galatasaray University", "object": "Istanbul", "taxonomy": ["Rwanda", "Preston", "Barnes", "Houston", "Qatar"]}
+{"subject": "Film Fest Gent", "object": "Ghent", "taxonomy": ["Minsk", "Manhattan", "Lahore", "Armagh", "Memphis"]}
+{"subject": "Animafest Zagreb", "object": "Zagreb", "taxonomy": ["Cornish", "Shirley", "Boston", "Lisbon", "Belgium"]}
+{"subject": "Merriweather Post Pavilion", "object": "Columbia", "taxonomy": ["Lithuania", "Heidelberg", "Brest", "Ljubljana", "Wisconsin"]}
+{"subject": "Norwich Market", "object": "Norwich", "taxonomy": ["Gothenburg", "Prague", "Scotland", "Cologne", "Lviv"]}
+{"subject": "Irish Museum of Modern Art", "object": "Dublin", "taxonomy": ["Ulster", "Frankfurt", "Ethiopia", "Barcelona", "Ljubljana"]}
+{"subject": "1972 Summer Paralympics", "object": "Heidelberg", "taxonomy": ["Windsor", "Halifax", "Australia", "Jakarta", "Nice"]}
+{"subject": "Glasgow School", "object": "Glasgow", "taxonomy": ["Hungary", "Sarajevo", "Budapest", "Macau", "Syria"]}
+{"subject": "Shanghai International Film Festival", "object": "Shanghai", "taxonomy": ["Hyderabad", "Worcester", "Aden", "Nairobi", "Queens"]}
+{"subject": "January Events", "object": "Vilnius", "taxonomy": ["Ulster", "Copenhagen", "Internet", "Karachi", "Lawrence"]}
+{"subject": "BC Lietuvos rytas", "object": "Vilnius", "taxonomy": ["Bermuda", "Ponce", "Boston", "Prescott", "Naples"]}
+{"subject": "International Istanbul Film Festival", "object": "Istanbul", "taxonomy": ["Caracas", "Shreveport", "Cardiff", "Baku", "Turin"]}
+{"subject": "Hualapai people", "object": "Arizona", "taxonomy": ["Vienna", "Brittany", "Manila", "Libya", "Halifax"]}
+{"subject": "Tour de Pologne", "object": "Poland", "taxonomy": ["Bari", "Nigeria", "Caribbean", "Albany", "Wimbledon"]}
+{"subject": "Hotel Green", "object": "Pasadena", "taxonomy": ["Hungary", "ear", "Carthage", "Olympia", "Ashland"]}
+{"subject": "Second Crusade", "object": "Levant", "taxonomy": ["Sheffield", "Annapolis", "Vietnam", "Japan", "Libya"]}
+{"subject": "Netherlands Film Festival", "object": "Utrecht", "taxonomy": ["Italy", "Auckland", "Copenhagen", "Cairo", "Normandy"]}
+{"subject": "Autonomous University of Barcelona", "object": "Barcelona", "taxonomy": ["Illinois", "Tibet", "Jerusalem", "Ljubljana", "Leicester"]}
+{"subject": "Treaty of Brest-Litovsk", "object": "Brest", "taxonomy": ["Florence", "Phoenix", "Northumberland", "Gothenburg", "Preston"]}
+{"subject": "Nagorno-Karabakh War", "object": "Armenia", "taxonomy": ["Shreveport", "Nairobi", "Casablanca", "Hollywood", "Lund"]}
+{"subject": "Northern Mali conflict", "object": "Mali", "taxonomy": ["Kazakhstan", "Bermuda", "Egypt", "Bolivia", "Vienna"]}
+{"subject": "Fallas of Valencia", "object": "Valencia", "taxonomy": ["Hagen", "Lisbon", "Cyprus", "supermarket", "Boston"]}
+{"subject": "Gulf War", "object": "Iraq", "taxonomy": ["Louisiana", "Tallinn", "Cologne", "Oxford", "Porto"]}
+{"subject": "1987 Southeast Asian Games", "object": "Jakarta", "taxonomy": ["Yokohama", "Stockholm", "Mongolia", "Newfoundland", "Guangzhou"]}
+{"subject": "Hapoel Jerusalem B.C.", "object": "Jerusalem", "taxonomy": ["Utrecht", "Kuwait", "Oxford", "Yokohama", "Nashville"]}
+{"subject": "Delhi Technological University", "object": "Delhi", "taxonomy": ["Bermuda", "Kazakhstan", "Lund", "Cumberland", "Cologne"]}
+{"subject": "Windsor Link Railway", "object": "Windsor", "taxonomy": ["Philippines", "Barnes", "Antwerp", "Cuba", "Nashville"]}
+{"subject": "KK Crvena zvezda", "object": "Belgrade", "taxonomy": ["Tehran", "Moon", "Scotland", "Salisbury", "Karachi"]}
+{"subject": "Operation Athena", "object": "Afghanistan", "taxonomy": ["Lund", "Baghdad", "Minnesota", "Wales", "Preston"]}
+{"subject": "Battle of Baltimore", "object": "Baltimore", "taxonomy": ["Libya", "Hagen", "Caucasus", "Honduras", "Dresden"]}
+{"subject": "Toronto International Film Festival", "object": "Toronto", "taxonomy": ["Lviv", "Cyprus", "Slovenia", "Catalonia", "Bern"]}
+{"subject": "Athens Polytechnic uprising", "object": "Athens", "taxonomy": ["Pune", "Yugoslavia", "Blackpool", "Taipei", "Alaska"]}
+{"subject": "Colorado River Indian Tribes", "object": "California", "taxonomy": ["Oceania", "Montreal", "Cairo", "Worcester", "Carthage"]}
+{"subject": "Toumba Stadium", "object": "Thessaloniki", "taxonomy": ["Greenwich", "Constantinople", "Ulster", "Antwerp", "Scandinavia"]}
+{"subject": "Sardana", "object": "Catalonia", "taxonomy": ["Tokyo", "Italy", "Nuremberg", "Damascus", "Antarctica"]}
+{"subject": "2008 Kabul Serena Hotel attack", "object": "Kabul", "taxonomy": ["Ghent", "Norwich", "Hanover", "Auckland", "Yokohama"]}
+{"subject": "KaraFilm Festival", "object": "Karachi", "taxonomy": ["Bangalore", "Ontario", "Swindon", "Nuremberg", "Illinois"]}
+{"subject": "Gulf War", "object": "Kuwait", "taxonomy": ["Guangzhou", "Tokyo", "Delhi", "Parma", "Windsor"]}
+{"subject": "Arcapita", "object": "Singapore", "taxonomy": ["Aspen", "Antarctica", "Jerusalem", "Zagreb", "Iran"]}
+{"subject": "Tallinn Black Nights Film Festival", "object": "Tallinn", "taxonomy": ["Berkshire", "townland", "Hungary", "Nanjing", "Karachi"]}
+{"subject": "domus de janas", "object": "Sardinia", "taxonomy": ["Egypt", "Mongolia", "Assam", "Berkshire", "Wellington"]}
+{"subject": "Warsaw Cup", "object": "Warsaw", "taxonomy": ["Shreveport", "Belgrade", "Glasgow", "Luxembourg", "Israel"]}
+{"subject": "Canal Hotel bombing", "object": "Baghdad", "taxonomy": ["Cannes", "Canberra", "Nice", "Alberta", "Brittany"]}
+{"subject": "New Railway Station, Thessaloniki", "object": "Thessaloniki", "taxonomy": ["Victoria", "Atlanta", "Frankfurt", "Crete", "Nashville"]}
+{"subject": "Seoul International Cartoon and Animation Festival", "object": "Seoul", "taxonomy": ["Asia", "Benin", "Baghdad", "Gujarat", "Minnesota"]}
+{"subject": "Second Crusade", "object": "Egypt", "taxonomy": ["Italy", "Bern", "Manhattan", "Sweden", "Seattle"]}
+{"subject": "Bava-Beccaris massacre", "object": "Milan", "taxonomy": ["Belfast", "Edmond", "Doncaster", "Greenwich", "Bratislava"]}
+{"subject": "Galatsi Olympic Hall", "object": "Athens", "taxonomy": ["Oceania", "Kiev", "Hagen", "Taiwan", "Barcelona"]}
+{"subject": "Anglo-German Naval Agreement", "object": "London", "taxonomy": ["Wimbledon", "Iran", "Afghanistan", "Ulster", "Brazil"]}
+{"subject": "1977 Moscow bombings", "object": "Moscow", "taxonomy": ["Edmond", "Azerbaijan", "Niger", "Dresden", "Paris"]}
+{"subject": "1997 Mediterranean Games", "object": "Bari", "taxonomy": ["Vancouver", "Cincinnati", "Greece", "Edinburgh", "Seville"]}
+{"subject": "Crimean War", "object": "Balkans", "taxonomy": ["Manila", "Bern", "Canada", "Kent", "Doncaster"]}
+{"subject": "Virtus Pallacanestro Bologna", "object": "Bologna", "taxonomy": ["Nottingham", "Ottawa", "Salisbury", "Lithuania", "Constantinople"]}
+{"subject": "Universeum", "object": "Gothenburg", "taxonomy": ["Tallinn", "Minneapolis", "Minsk", "Wisconsin", "Moon"]}
+{"subject": "Pirelli Tower", "object": "Milan", "taxonomy": ["Honolulu", "Helsinki", "Iraq", "Aspen", "Mumbai"]}
+{"subject": "2004 Summer Paralympics", "object": "Athens", "taxonomy": ["Ljubljana", "Wisconsin", "Canada", "Birmingham", "Cyprus"]}
+{"subject": "26th Chess Olympiad", "object": "Thessaloniki", "taxonomy": ["England", "Norwich", "Bavaria", "Antarctica", "Circle"]}
+{"subject": "Crimean War", "object": "Caucasus", "taxonomy": ["Tunisia", "Nigeria", "Bolivia", "Cumberland", "Havana"]}
+{"subject": "Seville Fair", "object": "Seville", "taxonomy": ["Bonn", "Brazil", "Marseille", "Dhaka", "Bucharest"]}
+{"subject": "2004 Madrid train bombings", "object": "Madrid", "taxonomy": ["Bonn", "Warsaw", "Pearl", "Yemen", "Macau"]}
+{"subject": "2011 England riots", "object": "London", "taxonomy": ["Alberta", "England", "Milan", "supermarket", "Montgomery"]}
+{"subject": "1950 British Empire Games", "object": "Auckland", "taxonomy": ["Canberra", "Cannes", "Mongolia", "Hamburg", "Swindon"]}
+{"subject": "Open University of Catalonia", "object": "Barcelona", "taxonomy": ["Austria", "Iceland", "Ponce", "Preston", "Rwanda"]}
+{"subject": "Fantasia Festival", "object": "Montreal", "taxonomy": ["Florence", "Nuremberg", "Australia", "Split", "Glasgow"]}
+{"subject": "Savitribai Phule Pune University", "object": "Pune", "taxonomy": ["Nairobi", "Baltimore", "Lviv", "Lund", "Naples"]}
+{"subject": "Gunpowder Plot", "object": "England", "taxonomy": ["Melbourne", "Sheffield", "Netherlands", "Carthage", "Caucasus"]}
+{"subject": "Amsterdam Treaty", "object": "Amsterdam", "taxonomy": ["Moon", "Glasgow", "Lviv", "Wales", "Europe"]}
+{"subject": "2007 Australian Open", "object": "Melbourne", "taxonomy": ["Belfast", "Wimbledon", "Tehran", "Bethel", "Northumberland"]}
+{"subject": "Istanbul University", "object": "Istanbul", "taxonomy": ["Mexico", "Belgrade", "Nancy", "Venice", "Levant"]}
+{"subject": "Battle of Pressburg", "object": "Bratislava", "taxonomy": ["Valencia", "Mexico", "Baltimore", "Yugoslavia", "Ethiopia"]}
+{"subject": "Library of Alexandria", "object": "Alexandria", "taxonomy": ["Levant", "Dorset", "Norwich", "Aberdeen", "Alberta"]}
+{"subject": "Liber Linteus", "object": "Zagreb", "taxonomy": ["Guangzhou", "Johannesburg", "Irvine", "Sweden", "Basel"]}
+{"subject": "Family Life Radio", "object": "Texas", "taxonomy": ["Harlem", "Hyderabad", "Budapest", "Estonia", "Northampton"]}
+{"subject": "Antwerp Giants", "object": "Antwerp", "taxonomy": ["Budapest", "Porto", "Delhi", "Doncaster", "Florence"]}
+{"subject": "Foxton Locks", "object": "Leicestershire", "taxonomy": ["Wisconsin", "Albany", "Bonn", "Ljubljana", "Tehran"]}
+{"subject": "Yukon Quest", "object": "Circle", "taxonomy": ["Jordan", "Albania", "Antarctica", "Armagh", "Guadalajara"]}
+{"subject": "Ottawa Treaty", "object": "Ottawa", "taxonomy": ["Brittany", "Hamburg", "Kiev", "Bermuda", "Ethiopia"]}
+{"subject": "Edinburgh Art Festival", "object": "Edinburgh", "taxonomy": ["Austin", "Yerevan", "Illinois", "Riga", "Essex"]}
+{"subject": "Fraunces Tavern", "object": "Manhattan", "taxonomy": ["Mongolia", "Germany", "Montgomery", "Alaska", "Sarawak"]}
+{"subject": "Mimar Sinan Fine Arts University", "object": "Istanbul", "taxonomy": ["Dallas", "Ireland", "Preston", "Baltimore", "Rwanda"]}
+{"subject": "Freedom Monument", "object": "Riga", "taxonomy": ["Seattle", "Iran", "Herzegovina", "Chester", "Cambridge"]}
+{"subject": "1978 World Snooker Championship", "object": "Sheffield", "taxonomy": ["Niger", "Caribbean", "Latvia", "Scandinavia", "Dublin"]}
+{"subject": "Battle of Marengo", "object": "Genoa", "taxonomy": ["Vancouver", "Brest", "Zagreb", "Valencia", "Sarawak"]}
+{"subject": "2002 Karachi bus bombing", "object": "Karachi", "taxonomy": ["Niger", "Ontario", "Baghdad", "Tokyo", "Bonn"]}
+{"subject": "Cypriot Super Cup", "object": "Cyprus", "taxonomy": ["Aden", "Canberra", "Wales", "Valencia", "Miami"]}
+{"subject": "Palm wine", "object": "Ghana", "taxonomy": ["Strasbourg", "Wales", "Greece", "Bradford", "Scotland"]}
+{"subject": "civil uprising phase of the Syrian Civil War", "object": "Syria", "taxonomy": ["Oslo", "Hollywood", "Bari", "Wales", "Turin"]}
+{"subject": "Downton Abbey", "object": "Yorkshire", "taxonomy": ["Lisbon", "Yemen", "Ireland", "Ljubljana", "Guadalajara"]}
+{"subject": "2011 German Masters", "object": "Berlin", "taxonomy": ["Mars", "Singapore", "Budapest", "ear", "Sweden"]}
+{"subject": "Arvfurstens palats", "object": "Stockholm", "taxonomy": ["Sicily", "Lviv", "Shirley", "Moscow", "Michigan"]}
+{"subject": "Torino Film Festival", "object": "Turin", "taxonomy": ["Armenia", "Edmond", "Miami", "Asia", "Vietnam"]}
+{"subject": "Battle of France", "object": "Netherlands", "taxonomy": ["Bradford", "Liverpool", "Austin", "Jakarta", "Poland"]}
+{"subject": "Utrecht Caravaggism", "object": "Utrecht", "taxonomy": ["Tehran", "Cornish", "Brest", "Napier", "Bahrain"]}
+{"subject": "Jameson Dublin International Film Festival", "object": "Dublin", "taxonomy": ["Guatemala", "Louisiana", "Bolivia", "Australia", "Illinois"]}
+{"subject": "Genocide against the Tutsis", "object": "Rwanda", "taxonomy": ["Yugoslavia", "Leicestershire", "Utrecht", "Scotland", "Ljubljana"]}
+{"subject": "Talvar", "object": "Berlin", "taxonomy": ["Michigan", "Montgomery", "Australia", "Europe", "Northwest"]}
+{"subject": "Alexandreio Melathron", "object": "Thessaloniki", "taxonomy": ["Pittsburgh", "Catalonia", "Yokohama", "Lausanne", "Norwich"]}
+{"subject": "Wolvendaal Church", "object": "Colombo", "taxonomy": ["Cardiff", "Antarctica", "Salisbury", "Moscow", "Harlem"]}
+{"subject": "Great Sheffield Flood", "object": "Sheffield", "taxonomy": ["Yugoslavia", "Oslo", "France", "Seoul", "Brittany"]}
+{"subject": "2011 Yemeni revolution", "object": "Yemen", "taxonomy": ["Melbourne", "Haifa", "Taipei", "Athens", "Armenia"]}
+{"subject": "2012 Summer Paralympics", "object": "London", "taxonomy": ["Manchester", "Moscow", "Berlin", "Aberdeen", "Tibet"]}
+{"subject": "Fantafestival", "object": "Rome", "taxonomy": ["Finland", "Mainz", "Habsburg", "Carthage", "Hiroshima"]}
+{"subject": "Norman invasion of Ireland", "object": "Ireland", "taxonomy": ["Wales", "Norwich", "Yemen", "Yokohama", "Philippines"]}
+{"subject": "Tour de Langkawi", "object": "Malaysia", "taxonomy": ["Bologna", "Philippines", "Latvia", "Casablanca", "Genoa"]}
+{"subject": "2009 Napier shootings", "object": "Napier", "taxonomy": ["Calgary", "Afghanistan", "Aden", "Crete", "Zagreb"]}
+{"subject": "KK Split", "object": "Split", "taxonomy": ["Madrid", "Worcester", "Haiti", "England", "Marseille"]}
+{"subject": "Concordia University", "object": "Montreal", "taxonomy": ["England", "Queens", "Oslo", "Nairobi", "Normandy"]}
+{"subject": "Typhoon Pamela", "object": "Guam", "taxonomy": ["Norwich", "Baghdad", "Belgium", "Kent", "Iceland"]}
+{"subject": "Radium Girls", "object": "Orange", "taxonomy": ["Nanjing", "Leipzig", "Guadalajara", "Birmingham", "Turkey"]}
+{"subject": "Nottingham Crown Court", "object": "Nottingham", "taxonomy": ["Australia", "Colombo", "Leipzig", "Nigeria", "Chicago"]}
+{"subject": "ZagrebDox", "object": "Zagreb", "taxonomy": ["Prague", "Bratislava", "Alberta", "Northwest", "Montreal"]}
+{"subject": "Tuska Open Air Metal Festival", "object": "Helsinki", "taxonomy": ["Belfast", "Sardinia", "Japan", "Oslo", "England"]}
+{"subject": "Brest Fortress", "object": "Brest", "taxonomy": ["Lausanne", "Chicago", "California", "Riga", "Iraq"]}
+{"subject": "Golden Horse Film Festival and Awards", "object": "Taipei", "taxonomy": ["Sardinia", "Rotterdam", "Minneapolis", "Yemen", "Cambridge"]}
+{"subject": "Operation Market Garden", "object": "Netherlands", "taxonomy": ["Sheffield", "Canberra", "Armenia", "Oceania", "Cuba"]}
+{"subject": "Flying Pig Marathon", "object": "Cincinnati", "taxonomy": ["Manila", "Kolkata", "Worcester", "Dorset", "Mexico"]}
+{"subject": "Port of Belfast", "object": "Belfast", "taxonomy": ["Waterloo", "Romania", "Uruguay", "Colombo", "Bangalore"]}
+{"subject": "Battle of Anzen", "object": "Anatolia", "taxonomy": ["Pasadena", "Lagos", "Aston", "Jerusalem", "Mali"]}
+{"subject": "Winter War", "object": "Finland", "taxonomy": ["Boston", "Oceania", "Northumberland", "Guam", "Aden"]}
+{"subject": "Maxim restaurant suicide bombing", "object": "Haifa", "taxonomy": ["Amsterdam", "Gujarat", "Brest", "Armagh", "Mexico"]}
+{"subject": "vaporetto", "object": "Venice", "taxonomy": ["Cologne", "Singapore", "Chelsea", "Waterloo", "Nuremberg"]}
+{"subject": "ice cream cone", "object": "Austria", "taxonomy": ["Slovakia", "Russia", "Orange", "Cornish", "Split"]}
+{"subject": "START I", "object": "Moscow", "taxonomy": ["Memphis", "Taipei", "Bangkok", "Darwin", "Munich"]}
+{"subject": "Welsh Methodist revival", "object": "Wales", "taxonomy": ["Slovenia", "Darwin", "Brooklyn", "Baku", "Sarawak"]}
+{"subject": "2015 Southeast Asian Games", "object": "Singapore", "taxonomy": ["Benin", "Swindon", "Cleveland", "Athens", "Ljubljana"]}
+{"subject": "Damascus International Film Festival", "object": "Damascus", "taxonomy": ["Vancouver", "Nancy", "Australia", "Seattle", "Hiroshima"]}
+{"subject": "lunar crater", "object": "Moon", "taxonomy": ["Bolivia", "Sweden", "Annapolis", "Qatar", "Goa"]}
+{"subject": "2010 Winter Paralympics", "object": "Vancouver", "taxonomy": ["Jordan", "Berlin", "Brazil", "Guangzhou", "Barnes"]}
+{"subject": "Judgment of Paris", "object": "Paris", "taxonomy": ["Pittsburgh", "Madrid", "Bermuda", "Jordan", "Leeds"]}
+{"subject": "Parliament of Norway Building", "object": "Oslo", "taxonomy": ["Kuwait", "Brazil", "Bethel", "Assam", "Sofia"]}
+{"subject": "Post-Soviet states", "object": "Ukraine", "taxonomy": ["Dallas", "Guangzhou", "England", "Swansea", "Oslo"]}
+{"subject": "French Resistance", "object": "France", "taxonomy": ["Nottingham", "Iceland", "Azerbaijan", "Seville", "Nairobi"]}
+{"subject": "2006 Winter Paralympics", "object": "Turin", "taxonomy": ["Memphis", "Sofia", "Poland", "Minsk", "Swindon"]}
+{"subject": "Ye Olde Cheshire Cheese", "object": "London", "taxonomy": ["Latvia", "Manhattan", "Aden", "Flanders", "Michigan"]}
+{"subject": "Hofburg Palace", "object": "Vienna", "taxonomy": ["Paris", "Guadalajara", "Geneva", "Moldova", "Slovakia"]}
+{"subject": "2014 Jerusalem unrest", "object": "Jerusalem", "taxonomy": ["Sardinia", "Shirley", "France", "Tokyo", "Sweden"]}
+{"subject": "Mumbai International Film Festival", "object": "Mumbai", "taxonomy": ["Boston", "Parma", "Sardinia", "Manchester", "Lisbon"]}
+{"subject": "Viennese Actionism", "object": "Vienna", "taxonomy": ["Texas", "Honduras", "Yerevan", "Cambridge", "Somerset"]}
+{"subject": "2007 Welsh Open", "object": "Newport", "taxonomy": ["Nairobi", "Iraq", "Leipzig", "Edinburgh", "California"]}
+{"subject": "Aston University", "object": "Birmingham", "taxonomy": ["Moscow", "Borneo", "Ulster", "Bristol", "Barcelona"]}
+{"subject": "Post-Soviet states", "object": "Belarus", "taxonomy": ["Azerbaijan", "Belgium", "Bethel", "Nigeria", "Canada"]}
+{"subject": "Charlottenborg Palace", "object": "Copenhagen", "taxonomy": ["Goa", "Turkey", "Bethel", "Rotterdam", "Yokohama"]}
+{"subject": "2004 Ukrainian presidential election", "object": "Ukraine", "taxonomy": ["ear", "Shirley", "Russia", "Honduras", "Guangzhou"]}
+{"subject": "2015 World Men's Handball Championship", "object": "Qatar", "taxonomy": ["Wales", "Zagreb", "Texas", "Bahrain", "Honolulu"]}
+{"subject": "Dudley George", "object": "Ontario", "taxonomy": ["Illinois", "Haifa", "Bolivia", "Shanghai", "Tokyo"]}
+{"subject": "64th Venice International Film Festival", "object": "Venice", "taxonomy": ["Oceania", "Atlanta", "Honduras", "Greece", "Alexandria"]}
+{"subject": "Ajanta Caves", "object": "India", "taxonomy": ["Oceania", "Iceland", "Alberta", "Ponce", "Caribbean"]}
+{"subject": "International Documentary Film Festival Amsterdam", "object": "Amsterdam", "taxonomy": ["Brest", "Toronto", "Newfoundland", "Northampton", "Barnes"]}
+{"subject": "Tokyo International Film Festival", "object": "Tokyo", "taxonomy": ["Hyderabad", "Greenwich", "Minneapolis", "ear", "Mumbai"]}
+{"subject": "Copenhagen International Documentary Festival", "object": "Copenhagen", "taxonomy": ["Yorkshire", "Russia", "Cuba", "Mainz", "Guam"]}
+{"subject": "1996 Summer Olympics", "object": "Atlanta", "taxonomy": ["Heidelberg", "Estonia", "Jordan", "Cuba", "Santiago"]}
+{"subject": "Taiwan Pride", "object": "Taiwan", "taxonomy": ["Athens", "Bermuda", "Kuwait", "Chicago", "Brooklyn"]}
+{"subject": "1997 Southeast Asian Games", "object": "Jakarta", "taxonomy": ["Guadalajara", "Riga", "Chicago", "Yokohama", "Dorset"]}
+{"subject": "White Tower of Thessaloniki", "object": "Thessaloniki", "taxonomy": ["Bavaria", "Turkey", "Pasadena", "Rwanda", "Carthage"]}
+{"subject": "London Regiment", "object": "London", "taxonomy": ["Wisconsin", "Genoa", "Circle", "Russia", "Aspen"]}
+{"subject": "2005 Beach Volleyball World Championships", "object": "Berlin", "taxonomy": ["Mumbai", "Guatemala", "Hagen", "Israel", "Minsk"]}
+{"subject": "Queens International Film Festival", "object": "Queens", "taxonomy": ["Detroit", "Cornish", "Brittany", "Thessaloniki", "Habsburg"]}
+{"subject": "Madrid Conference of 1991", "object": "Madrid", "taxonomy": ["Germany", "Athens", "Worcester", "Frankfurt", "Caucasus"]}
+{"subject": "Massenet Festival", "object": "France", "taxonomy": ["Bolivia", "Sydney", "Michigan", "Cardiff", "Borneo"]}
+{"subject": "Ptolemaic Baris", "object": "Jerusalem", "taxonomy": ["Java", "Cleveland", "Bermuda", "Cornish", "Minnesota"]}
+{"subject": "Rome Statute of the International Criminal Court", "object": "Rome", "taxonomy": ["Preston", "Wellington", "Java", "Macau", "Hanover"]}
+{"subject": "Kyoto Protocol", "object": "Kyoto", "taxonomy": ["Melbourne", "Shreveport", "Romania", "Vancouver", "Valencia"]}
+{"subject": "Battle of Jarama", "object": "Madrid", "taxonomy": ["Delhi", "Edmonton", "Ponce", "Baltimore", "Luxembourg"]}
+{"subject": "Svalbard Treaty", "object": "Paris", "taxonomy": ["Kabul", "Naples", "Flanders", "Verona", "Bali"]}
+{"subject": "Zagreb Film Festival", "object": "Zagreb", "taxonomy": ["Birmingham", "Windsor", "Canada", "Brighton", "Athens"]}
+{"subject": "Kolkata International Film Festival", "object": "Kolkata", "taxonomy": ["Milan", "Vienna", "Adelaide", "Sheffield", "Moscow"]}
+{"subject": "Aragon Offensive", "object": "Spain", "taxonomy": ["Cairo", "Northumberland", "Sicily", "Bangalore", "Strasbourg"]}
+{"subject": "Great Ardra", "object": "Benin", "taxonomy": ["Sweden", "Nuremberg", "Brighton", "Mecca", "Austin"]}
+{"subject": "2004 Australian Open", "object": "Melbourne", "taxonomy": ["Dresden", "Canberra", "Copenhagen", "Olympia", "Moon"]}
+{"subject": "Sinai and Palestine Campaign", "object": "Egypt", "taxonomy": ["Vietnam", "Manhattan", "Illinois", "Seville", "Gettysburg"]}
+{"subject": "Cologne Carnival", "object": "Cologne", "taxonomy": ["Lawrence", "Swindon", "Bratislava", "Ukraine", "Michigan"]}
+{"subject": "2011 World Artistic Gymnastics Championships", "object": "Tokyo", "taxonomy": ["Dallas", "Latvia", "Cyprus", "Edinburgh", "Wellington"]}
+{"subject": "Brisbane International Film Festival", "object": "Brisbane", "taxonomy": ["Darwin", "Genoa", "Colombo", "Russia", "Alexandria"]}
+{"subject": "Barcelona Museum of Contemporary Art", "object": "Barcelona", "taxonomy": ["Flanders", "Poland", "Adelaide", "parish", "Anatolia"]}
+{"subject": "Post-Soviet states", "object": "Uzbekistan", "taxonomy": ["Paris", "Kazakhstan", "Hagen", "Honolulu", "Bratislava"]}
+{"subject": "French Revolution", "object": "France", "taxonomy": ["Singapore", "Crete", "Somerset", "Cumberland", "Essex"]}
+{"subject": "Open-air museum Skansen", "object": "Stockholm", "taxonomy": ["Hagen", "Sydney", "Catalonia", "Nashville", "Montreal"]}
+{"subject": "BC Dynamo Moscow", "object": "Moscow", "taxonomy": ["Thessaloniki", "Portsmouth", "Honduras", "Lausanne", "Slovakia"]}
+{"subject": "Pastry War", "object": "Mexico", "taxonomy": ["Manhattan", "Egypt", "Rwanda", "Parma", "Qatar"]}
+{"subject": "Operation Windmill", "object": "Antarctica", "taxonomy": ["Taiwan", "Hamburg", "Orange", "Auckland", "Israel"]}
+{"subject": "Stansted Express", "object": "London", "taxonomy": ["Valencia", "Spain", "Jakarta", "Salisbury", "Munich"]}
+{"subject": "Farhud", "object": "Baghdad", "taxonomy": ["Bavaria", "Vienna", "Indianapolis", "Canberra", "Miami"]}
+{"subject": "World War II in Yugoslavia", "object": "Yugoslavia", "taxonomy": ["Oslo", "Bucharest", "Leicestershire", "Cairo", "Newfoundland"]}
+{"subject": "Glastonbury Lake Village", "object": "Somerset", "taxonomy": ["Columbia", "Arizona", "Slovenia", "Cuba", "Anatolia"]}
+{"subject": "Finnish Civil War", "object": "Finland", "taxonomy": ["Northwest", "Germany", "Israel", "Sarajevo", "Hanover"]}
+{"subject": "Battle of Hyelion and Leimocheir", "object": "Anatolia", "taxonomy": ["Vienna", "Calgary", "Split", "Honduras", "Montreal"]}
+{"subject": "Cuban Missile Crisis", "object": "Cuba", "taxonomy": ["Slovakia", "Germany", "Kuwait", "Brittany", "Madrid"]}
+{"subject": "1991 Southeast Asian Games", "object": "Manila", "taxonomy": ["Sofia", "Moscow", "Aberdeen", "Singapore", "Carthage"]}
+{"subject": "Operation Flash", "object": "Croatia", "taxonomy": ["Swindon", "Berkshire", "Basel", "Estonia", "Vilnius"]}
+{"subject": "King Edward VI Aston School", "object": "Aston", "taxonomy": ["Java", "Birmingham", "Istanbul", "Vienna", "Edinburgh"]}
+{"subject": "World War II", "object": "Asia", "taxonomy": ["Lithuania", "Santiago", "Detroit", "Dublin", "Bangalore"]}
+{"subject": "Operation Pillar of Cloud", "object": "Israel", "taxonomy": ["Sheffield", "Gettysburg", "Mecca", "Iceland", "ear"]}
+{"subject": "Volvo Museum", "object": "Gothenburg", "taxonomy": ["Syria", "Sarajevo", "Austria", "Bratislava", "Chester"]}
+{"subject": "KK Cibona", "object": "Zagreb", "taxonomy": ["Nuremberg", "Stockholm", "Cleveland", "Tehran", "Northumberland"]}
+{"subject": "Operation Barbarossa", "object": "Lithuania", "taxonomy": ["Niger", "Leicester", "Japan", "Athens", "Oxford"]}
+{"subject": "Battle of Bicocca", "object": "Milan", "taxonomy": ["Lahore", "Nancy", "Wales", "Romania", "Spain"]}
+{"subject": "Mecca Masjid bombing", "object": "Hyderabad", "taxonomy": ["Greenwich", "Dhaka", "Kent", "Minnesota", "Iceland"]}
+{"subject": "Halchidhoma", "object": "Arizona", "taxonomy": ["Detroit", "Armenia", "Uruguay", "Atlanta", "Minnesota"]}
+{"subject": "Insight Film Festival", "object": "Manchester", "taxonomy": ["Uruguay", "Romania", "Aberdeen", "Philippines", "Cyprus"]}
+{"subject": "El Centro College", "object": "Dallas", "taxonomy": ["Ulster", "Singapore", "Catalonia", "Pearl", "Louisiana"]}
+{"subject": "Royal Scottish Society of Painters in Watercolour", "object": "Scotland", "taxonomy": ["Kazan", "Honduras", "Caracas", "Newport", "Darwin"]}
+{"subject": "Dawson College shooting", "object": "Montreal", "taxonomy": ["Vienna", "Vietnam", "Liverpool", "Wales", "Minneapolis"]}
+{"subject": "European Patent Convention", "object": "Munich", "taxonomy": ["Normandy", "Gabon", "Canada", "Barcelona", "Goa"]}
+{"subject": "Pacific War", "object": "Oceania", "taxonomy": ["Baltimore", "Cambridge", "London", "Croatia", "Bonn"]}
+{"subject": "PAX", "object": "Melbourne", "taxonomy": ["Guadalajara", "Michigan", "Ireland", "Bonn", "Ghent"]}
+{"subject": "Battle of Hohenlinden", "object": "Munich", "taxonomy": ["Iran", "Texas", "Jakarta", "Athens", "Antwerp"]}
+{"subject": "World Soundtrack Academy", "object": "Ghent", "taxonomy": ["Liverpool", "Aspen", "Manhattan", "Miami", "Olympia"]}
+{"subject": "Kurdish rebellions in Turkey", "object": "Turkey", "taxonomy": ["Guangzhou", "Goa", "Bradford", "Alaska", "Austria"]}
+{"subject": "Gallagher Convention Centre", "object": "Johannesburg", "taxonomy": ["Geneva", "Havana", "Sofia", "Houston", "Northwest"]}
+{"subject": "Battle of San Marcial", "object": "Spain", "taxonomy": ["Minneapolis", "Nuremberg", "Dresden", "Blackpool", "Pasadena"]}
+{"subject": "Purdue Wreck", "object": "Indianapolis", "taxonomy": ["Wimbledon", "Montgomery", "Texas", "Aden", "Thessaloniki"]}
+{"subject": "2006 Swedish general election", "object": "Sweden", "taxonomy": ["Austria", "Kazan", "Pearl", "Kyoto", "Switzerland"]}
+{"subject": "Megasport Arena", "object": "Moscow", "taxonomy": ["Bali", "Herzegovina", "Atlanta", "parish", "Worcester"]}
+{"subject": "Presidential Mansion", "object": "Athens", "taxonomy": ["Vancouver", "Japan", "Vienna", "Alberta", "townland"]}
+{"subject": "Feel Good Film Festival", "object": "Hollywood", "taxonomy": ["Macau", "Bolivia", "Doncaster", "Sweden", "Mongolia"]}
+{"subject": "2009 attack on the Sri Lanka national cricket team", "object": "Lahore", "taxonomy": ["Hollywood", "Havana", "Bari", "Shirley", "Canada"]}
+{"subject": "Guadalajara International Film Festival", "object": "Guadalajara", "taxonomy": ["Essex", "Brazil", "Cuba", "Lausanne", "Leeds"]}
+{"subject": "Shmuel HaNavi bus bombing", "object": "Jerusalem", "taxonomy": ["Levant", "Italy", "Iraq", "Rwanda", "Memphis"]}
+{"subject": "Aberdeen Street", "object": "Central", "taxonomy": ["Manila", "Kolkata", "Belgium", "Baltimore", "Seattle"]}
+{"subject": "Hiroshima International Animation Festival", "object": "Hiroshima", "taxonomy": ["Bradford", "Baltimore", "Thessaloniki", "Karachi", "Pittsburgh"]}
+{"subject": "Battle of Tolbiac", "object": "Cologne", "taxonomy": ["Nigeria", "Armenia", "Guangzhou", "Carthage", "France"]}
+{"subject": "ice cream cone", "object": "Canada", "taxonomy": ["Helsinki", "Naples", "parish", "Yorkshire", "Minsk"]}
+{"subject": "Smith Tower", "object": "Seattle", "taxonomy": ["Sweden", "Bahrain", "Hamburg", "Marseille", "Yorkshire"]}
+{"subject": "Yaqui Uprising", "object": "Arizona", "taxonomy": ["Karachi", "Poland", "Indianapolis", "Ottawa", "Hyderabad"]}
+{"subject": "Directors' Fortnight", "object": "Cannes", "taxonomy": ["Antwerp", "Switzerland", "Kiev", "supermarket", "Belfast"]}
+{"subject": "Gulf War", "object": "Israel", "taxonomy": ["Baltimore", "Northampton", "Lagos", "Auckland", "Essex"]}
+{"subject": "Marmara University", "object": "Istanbul", "taxonomy": ["Albania", "Olympia", "Hiroshima", "Prescott", "Phoenix"]}
+{"subject": "Battle of the Menin Road Ridge", "object": "Belgium", "taxonomy": ["Yemen", "Taipei", "Somerset", "Riga", "Honduras"]}
+{"subject": "Mercaz HaRav massacre", "object": "Jerusalem", "taxonomy": ["Valencia", "Moldova", "Northumberland", "Afghanistan", "Michigan"]}
+{"subject": "Art Cologne", "object": "Cologne", "taxonomy": ["Genoa", "Bavaria", "Belarus", "Sydney", "Nottingham"]}
+{"subject": "Calgary International Film Festival", "object": "Calgary", "taxonomy": ["Jakarta", "Jerusalem", "Wisconsin", "Rwanda", "Yokohama"]}
+{"subject": "Arcapita", "object": "Atlanta", "taxonomy": ["Oceania", "Ottawa", "Swindon", "Casablanca", "Baltimore"]}
+{"subject": "United Nations Convention on Contracts for the International Sale of Goods", "object": "Vienna", "taxonomy": ["Minnesota", "Kuwait", "Nice", "Mexico", "Jakarta"]}
+{"subject": "1689 Boston revolt", "object": "Boston", "taxonomy": ["Canada", "Switzerland", "Sarajevo", "Basel", "Moldova"]}
+{"subject": "2003 Istanbul bombings", "object": "Istanbul", "taxonomy": ["Guatemala", "Vietnam", "Dallas", "Sardinia", "Leeds"]}
+{"subject": "Broadway theatre", "object": "Manhattan", "taxonomy": ["Nigeria", "Johannesburg", "Kuwait", "Ashland", "Berlin"]}
+{"subject": "Aspen Shortsfest", "object": "Aspen", "taxonomy": ["parish", "Arizona", "Oslo", "Spain", "Africa"]}
+{"subject": "Treaty 8", "object": "Alberta", "taxonomy": ["Bethel", "Wellington", "Ireland", "Cuba", "Ghent"]}
+{"subject": "2008 Bangalore serial blasts", "object": "Bangalore", "taxonomy": ["supermarket", "Kazan", "Luxembourg", "Budapest", "Herzegovina"]}
+{"subject": "Sardinian Action Party", "object": "Sardinia", "taxonomy": ["Olympia", "Scandinavia", "Afghanistan", "Assam", "Valencia"]}
+{"subject": "DOXA Documentary Film Festival", "object": "Vancouver", "taxonomy": ["Kabul", "Genoa", "Alexandria", "Bangkok", "Florence"]}
+{"subject": "Moscow Pride", "object": "Moscow", "taxonomy": ["Gabon", "Ljubljana", "Caracas", "Delhi", "Montreal"]}
+{"subject": "Hope and Anchor, Islington", "object": "London", "taxonomy": ["Essex", "Leeds", "Kazan", "Ontario", "Baghdad"]}
+{"subject": "2008 Summer Paralympics", "object": "Beijing", "taxonomy": ["Detroit", "Blackpool", "Greenwich", "Arizona", "Halifax"]}
+{"subject": "August 2013 Rabaa massacre", "object": "Cairo", "taxonomy": ["Leeds", "Nigeria", "Doncaster", "Australia", "Taipei"]}
+{"subject": "Sveti Sedmochislenitsi Church", "object": "Sofia", "taxonomy": ["Kazan", "Minneapolis", "Santiago", "Baku", "supermarket"]}
+{"subject": "Birmingham pub bombings", "object": "Birmingham", "taxonomy": ["Rwanda", "Split", "Portsmouth", "Zagreb", "Lawrence"]}
+{"subject": "Houston Art Car Parade", "object": "Houston", "taxonomy": ["Boston", "Ghent", "Austin", "Ashland", "Rwanda"]}
+{"subject": "1926 Imperial Conference", "object": "London", "taxonomy": ["Sarajevo", "Kazakhstan", "Athens", "Spain", "Pittsburgh"]}
+{"subject": "Forster Square", "object": "Bradford", "taxonomy": ["Lisbon", "Cyprus", "Honduras", "Taiwan", "Sheffield"]}
+{"subject": "Lawrence Massacre", "object": "Lawrence", "taxonomy": ["Belarus", "Gettysburg", "Guadalajara", "Taiwan", "London"]}
+{"subject": "Al-Anfal Campaign", "object": "Iraq", "taxonomy": ["Pune", "Vienna", "Gettysburg", "Napier", "Yerevan"]}
+{"subject": "Government House of the Russian Federation", "object": "Moscow", "taxonomy": ["Bahrain", "Columbia", "Annapolis", "Pittsburgh", "Mongolia"]}
+{"subject": "Netherlands Photo Museum", "object": "Rotterdam", "taxonomy": ["Halifax", "Rome", "Belgrade", "Honolulu", "Mongolia"]}
+{"subject": "1970 World Figure Skating Championships", "object": "Ljubljana", "taxonomy": ["Valencia", "Brazil", "Worcester", "Seville", "Edmond"]}
+{"subject": "Cleveland International Film Festival", "object": "Cleveland", "taxonomy": ["California", "Philadelphia", "Barcelona", "Maharashtra", "Afghanistan"]}
+{"subject": "Armagh rail disaster", "object": "Armagh", "taxonomy": ["Miami", "Rotterdam", "Bermuda", "Queens", "Antwerp"]}
+{"subject": "Nika riots", "object": "Constantinople", "taxonomy": ["Gettysburg", "Olympia", "Cuba", "Sardinia", "Nice"]}
+{"subject": "Raindance Film Festival", "object": "London", "taxonomy": ["Dresden", "Africa", "Leicester", "Lawrence", "Kyoto"]}
+{"subject": "2011 Southeast Asian Games", "object": "Jakarta", "taxonomy": ["Lahore", "Newfoundland", "Minnesota", "Ashland", "Netherlands"]}
+{"subject": "Erasmusbrug", "object": "Rotterdam", "taxonomy": ["Hungary", "Phoenix", "Netherlands", "Casablanca", "Irvine"]}
+{"subject": "Lund Cathedral", "object": "Lund", "taxonomy": ["Luxembourg", "Dhaka", "Norwich", "Chelsea", "Moscow"]}
+{"subject": "Falash Mura", "object": "Ethiopia", "taxonomy": ["Riga", "Bolivia", "Albany", "Johannesburg", "Newport"]}
+{"subject": "Bolognese School", "object": "Bologna", "taxonomy": ["Bucharest", "Pearl", "Parma", "Sicily", "Gabon"]}
+{"subject": "Ancient Olympic Games", "object": "Olympia", "taxonomy": ["Amsterdam", "Gujarat", "Prescott", "Constantinople", "Italy"]}
+{"subject": "Gordon Highlanders", "object": "Aberdeen", "taxonomy": ["Ethiopia", "Oslo", "Gothenburg", "Riga", "Vietnam"]}
+{"subject": "Cornish Art Colony", "object": "Cornish", "taxonomy": ["Prague", "Swindon", "Tokyo", "Bangalore", "Manila"]}
+{"subject": "Munich massacre", "object": "Munich", "taxonomy": ["Kazan", "Pearl", "Strasbourg", "parish", "Nanjing"]}
+{"subject": "Carnival of Basel", "object": "Basel", "taxonomy": ["Sarajevo", "Canberra", "Scandinavia", "Dublin", "Hanover"]}
+{"subject": "Dhaka International Film Festival", "object": "Dhaka", "taxonomy": ["Cairo", "Europe", "Kyoto", "Prescott", "Sheffield"]}
+{"subject": "2008 Bucharest summit", "object": "Bucharest", "taxonomy": ["Swindon", "Memphis", "Brisbane", "Minnesota", "Thessaloniki"]}
+{"subject": "Sydney Film Festival", "object": "Sydney", "taxonomy": ["Italy", "Nottingham", "Sarajevo", "Lund", "Bangalore"]}
+{"subject": "National Business Book Award", "object": "Toronto", "taxonomy": ["Cannes", "Chelsea", "Vancouver", "Bermuda", "Mars"]}
+{"subject": "Battle of the Alte Veste", "object": "Nuremberg", "taxonomy": ["England", "Mecca", "Berlin", "Cincinnati", "Bavaria"]}
+{"subject": "SuccessTech Academy shooting", "object": "Cleveland", "taxonomy": ["Pune", "Uruguay", "Rotterdam", "Taiwan", "Libya"]}
+{"subject": "Iraq War", "object": "Iraq", "taxonomy": ["Turin", "Kabul", "Prescott", "Wisconsin", "Yokohama"]}
+{"subject": "Andrew Crooke and William Cooke", "object": "London", "taxonomy": ["Olympia", "Warsaw", "Johannesburg", "Chester", "Ljubljana"]}
+{"subject": "Springhill House", "object": "townland", "taxonomy": ["Cannes", "Athens", "Bologna", "Jordan", "Bavaria"]}
+{"subject": "Attica", "object": "Greece", "taxonomy": ["Victoria", "Lund", "Zagreb", "Nice", "Warsaw"]}
+{"subject": "Armagh Planetarium", "object": "Armagh", "taxonomy": ["Syria", "Northampton", "Frankfurt", "Victoria", "Manila"]}
+{"subject": "Warsaw Uprising", "object": "Warsaw", "taxonomy": ["Greenwich", "Victoria", "Hanover", "Benin", "Liverpool"]}
+{"subject": "Artes Mundi", "object": "Wales", "taxonomy": ["Kiev", "Wellington", "Russia", "Belarus", "Kent"]}
+{"subject": "Fantasporto", "object": "Porto", "taxonomy": ["Mexico", "Leipzig", "Nigeria", "Finland", "Liverpool"]}
+{"subject": "Hohenzollern Bridge", "object": "Cologne", "taxonomy": ["Yugoslavia", "Bali", "Croatia", "Brittany", "Parma"]}
+{"subject": "Operation Nemesis", "object": "Berlin", "taxonomy": ["Northampton", "Santiago", "Liverpool", "Shanghai", "Bethel"]}
+{"subject": "Battle of Ellandun", "object": "Swindon", "taxonomy": ["Olympia", "Manila", "Haiti", "Cumberland", "Aberdeen"]}
+{"subject": "Plantation of Ulster", "object": "Ulster", "taxonomy": ["Pasadena", "Rome", "Lisbon", "Turkey", "Mexico"]}
+{"subject": "First Barons' War", "object": "England", "taxonomy": ["Utrecht", "Albania", "Manchester", "Indianapolis", "Bari"]}
+{"subject": "Gamescom", "object": "Cologne", "taxonomy": ["Ontario", "Baku", "Minnesota", "Luxembourg", "Guam"]}
+{"subject": "Sardinian Judicati", "object": "Sardinia", "taxonomy": ["Newfoundland", "Sarawak", "Balkans", "Leicester", "Wales"]}
+{"subject": "Arcapita", "object": "Bahrain", "taxonomy": ["Bali", "Arizona", "Borneo", "Pasadena", "Assam"]}
+{"subject": "Battle of Nanking", "object": "Nanjing", "taxonomy": ["Guadalajara", "Madrid", "Vietnam", "Libya", "Cannes"]}
+{"subject": "Porta Pia", "object": "Rome", "taxonomy": ["Uzbekistan", "Darwin", "Kent", "Levant", "Aden"]}
+{"subject": "Sbarro restaurant suicide bombing", "object": "Jerusalem", "taxonomy": ["India", "Lisbon", "Mexico", "France", "parish"]}
+{"subject": "Montreal Convention", "object": "Montreal", "taxonomy": ["Chelsea", "Sarawak", "Constantinople", "Ireland", "Chicago"]}
+{"subject": "Harvard Law School", "object": "Cambridge", "taxonomy": ["Berlin", "Shirley", "Gothenburg", "Hanover", "Memphis"]}
+{"subject": "Musicians Institute", "object": "Hollywood", "taxonomy": ["Leeds", "Qatar", "Iran", "Ontario", "Queens"]}
+{"subject": "Nagorno-Karabakh War", "object": "Azerbaijan", "taxonomy": ["Mecca", "Caucasus", "Moscow", "London", "Borneo"]}
+{"subject": "Dakota War of 1862", "object": "Minnesota", "taxonomy": ["Colombo", "Africa", "Iceland", "Tallinn", "Auckland"]}
+{"subject": "online community", "object": "Internet", "taxonomy": ["parish", "Ukraine", "California", "Swansea", "Melbourne"]}
+{"subject": "Black Hawk War", "object": "Illinois", "taxonomy": ["Honduras", "Turin", "Caribbean", "Ottawa", "Europe"]}
+{"subject": "Victoria Film Festival", "object": "Victoria", "taxonomy": ["Ljubljana", "Lithuania", "Afghanistan", "Cincinnati", "Yokohama"]}
+{"subject": "ice cream cone", "object": "Switzerland", "taxonomy": ["Dallas", "Guatemala", "Heidelberg", "Bristol", "Montreal"]}
+{"subject": "Maes Knoll Camp", "object": "Somerset", "taxonomy": ["Syria", "Antwerp", "Circle", "Antarctica", "Nashville"]}
+{"subject": "Hacettepe University", "object": "Ankara", "taxonomy": ["Halifax", "Brighton", "Toronto", "Birmingham", "Florence"]}
+{"subject": "Afshar Operation", "object": "Kabul", "taxonomy": ["Thessaloniki", "Harlem", "Nairobi", "Macau", "Auckland"]}
+{"subject": "Ivan Vazov National Theatre", "object": "Sofia", "taxonomy": ["Pasadena", "Finland", "Habsburg", "Brighton", "Flanders"]}
+{"subject": "Battle of Lagos", "object": "Lagos", "taxonomy": ["Bahrain", "Istanbul", "Latvia", "Ontario", "Europe"]}
+{"subject": "London Art Fair", "object": "London", "taxonomy": ["Finland", "Barnes", "Toronto", "Bologna", "California"]}
+{"subject": "Supervivientes", "object": "Honduras", "taxonomy": ["Bonn", "Caracas", "Slovakia", "Iran", "Aspen"]}
+{"subject": "Annapolis Conference", "object": "Annapolis", "taxonomy": ["Wales", "Sardinia", "Switzerland", "Irvine", "Thessaloniki"]}
+{"subject": "Eurovision Song Contest 1964", "object": "Copenhagen", "taxonomy": ["Dorset", "Shreveport", "Queens", "Manchester", "Ponce"]}
+{"subject": "Montgomery Bus Boycott", "object": "Montgomery", "taxonomy": ["Newfoundland", "Bangalore", "Vienna", "Ulster", "Cannes"]}
+{"subject": "Molodist", "object": "Kiev", "taxonomy": ["Oslo", "Edinburgh", "Porto", "Chelsea", "Bradford"]}
+{"subject": "Bangkok International Film Festival", "object": "Bangkok", "taxonomy": ["Niger", "Mongolia", "Kabul", "Italy", "Dresden"]}
+{"subject": "Amsterdam Gay Pride", "object": "Amsterdam", "taxonomy": ["Kuwait", "Swindon", "Oxford", "Shirley", "Ukraine"]}
+{"subject": "Battle of France", "object": "Luxembourg", "taxonomy": ["Houston", "Cumberland", "Habsburg", "Sheffield", "Manila"]}
+{"subject": "Gulshan-e-Hadeed", "object": "Karachi", "taxonomy": ["Seville", "Chelsea", "Casablanca", "Paris", "Ljubljana"]}
+{"subject": "Mr Selfridge", "object": "London", "taxonomy": ["Bonn", "Austria", "Cyprus", "Split", "Brisbane"]}
+{"subject": "Special Period", "object": "Cuba", "taxonomy": ["Delhi", "Mongolia", "Bavaria", "Chelsea", "Bethel"]}
+{"subject": "Edmonton International Film Festival", "object": "Edmonton", "taxonomy": ["Ponce", "Ireland", "Jerusalem", "Scandinavia", "Assam"]}
+{"subject": "Flemish Primitives", "object": "Ghent", "taxonomy": ["Stockholm", "Minnesota", "Chelsea", "Honolulu", "Edmond"]}
+{"subject": "shopping cart", "object": "supermarket", "taxonomy": ["Valencia", "Lithuania", "Madrid", "Mainz", "Sheffield"]}
+{"subject": "Phocaea", "object": "Turkey", "taxonomy": ["Alaska", "Sydney", "Salisbury", "Crete", "Carthage"]}
+{"subject": "Minneapolis Teamsters Strike of 1934", "object": "Minneapolis", "taxonomy": ["Barnes", "Uruguay", "Venice", "Halifax", "Amsterdam"]}
+{"subject": "Bavarian National Museum", "object": "Munich", "taxonomy": ["Wales", "Pearl", "Ashland", "Alexandria", "Bratislava"]}
+{"subject": "Beaumont Palace", "object": "Oxford", "taxonomy": ["Montgomery", "Brazil", "Ukraine", "Cairo", "Europe"]}
+{"subject": "Prinsep Ghat", "object": "Kolkata", "taxonomy": ["Mecca", "Prescott", "Boston", "Antwerp", "Montreal"]}
+{"subject": "Sardinia Nation Independence", "object": "Sardinia", "taxonomy": ["Valencia", "Seoul", "Lawrence", "Helsinki", "Preston"]}
+{"subject": "Just for Laughs", "object": "Montreal", "taxonomy": ["Vietnam", "Blackpool", "Liverpool", "Ankara", "England"]}
+{"subject": "Hollywood Reel Independent Film Festival", "object": "Hollywood", "taxonomy": ["Warsaw", "Nottingham", "Vancouver", "Libya", "Qatar"]}
+{"subject": "2010 Stockholm bombings", "object": "Stockholm", "taxonomy": ["Hiroshima", "Estonia", "Bern", "Guam", "Pune"]}
+{"subject": "World War I", "object": "Europe", "taxonomy": ["Michigan", "Nottingham", "Russia", "Minneapolis", "Honduras"]}
+{"subject": "Little Hagia Sophia", "object": "Istanbul", "taxonomy": ["Kazan", "Dorset", "Berlin", "Genoa", "Crete"]}
+{"subject": "2001 Australian Open", "object": "Melbourne", "taxonomy": ["Antarctica", "Israel", "Aston", "Lahore", "Dresden"]}
+{"subject": "Yoruba religion", "object": "Benin", "taxonomy": ["Armenia", "Philadelphia", "Oxford", "Sofia", "Pearl"]}
+{"subject": "May Uprising in Dresden", "object": "Dresden", "taxonomy": ["Armagh", "Boston", "Turin", "Shirley", "Scandinavia"]}
+{"subject": "Philadelphia QFest", "object": "Philadelphia", "taxonomy": ["Cannes", "India", "Libya", "Brighton", "Caucasus"]}
+{"subject": "2010 Australian Open", "object": "Melbourne", "taxonomy": ["Philadelphia", "Mexico", "Netherlands", "Texas", "Verona"]}
+{"subject": "1993 Bombay bombings", "object": "Mumbai", "taxonomy": ["Cyprus", "Bari", "Circle", "Auckland", "Waterloo"]}
+{"subject": "2004 Istanbul summit", "object": "Istanbul", "taxonomy": ["Afghanistan", "Nice", "Ashland", "Bologna", "Tehran"]}
+{"subject": "Greco-Italian War", "object": "Albania", "taxonomy": ["Uruguay", "Porto", "Uzbekistan", "Constantinople", "Haifa"]}
+{"subject": "virtual community", "object": "Internet", "taxonomy": ["Barnes", "Melbourne", "Guadalajara", "Balkans", "India"]}
+{"subject": "1938 British Empire Games", "object": "Sydney", "taxonomy": ["Havana", "Bangkok", "Canada", "Wellington", "Ghent"]}
+{"subject": "Kent State shootings", "object": "Kent", "taxonomy": ["Catalonia", "Yugoslavia", "Paris", "Ulster", "Berkshire"]}
+{"subject": "Leeds International Film Festival", "object": "Leeds", "taxonomy": ["Rotterdam", "Brooklyn", "Wales", "Iraq", "Havana"]}
+{"subject": "Cuban Revolution", "object": "Cuba", "taxonomy": ["ear", "Carthage", "Edinburgh", "Honduras", "Ireland"]}
+{"subject": "Film Festival Cologne", "object": "Cologne", "taxonomy": ["Porto", "Vietnam", "Newfoundland", "Nottingham", "Ukraine"]}
+{"subject": "West Ham South", "object": "Essex", "taxonomy": ["Shanghai", "Valencia", "Yokohama", "Mexico", "Belgrade"]}
+{"subject": "Space Shuttle Columbia disaster", "object": "Texas", "taxonomy": ["Madrid", "Assam", "Vilnius", "Maharashtra", "Portsmouth"]}
+{"subject": "Romania during World War I", "object": "Romania", "taxonomy": ["Dorset", "Guam", "Havana", "Victoria", "Guadalajara"]}
+{"subject": "Aristotelous Square", "object": "Thessaloniki", "taxonomy": ["Cologne", "Frankfurt", "Italy", "Tunisia", "Columbia"]}
+{"subject": "National Barn Dance", "object": "Chicago", "taxonomy": ["Cairo", "Iran", "London", "Sarawak", "Cannes"]}
+{"subject": "Boston Massacre", "object": "Boston", "taxonomy": ["Wellington", "Moon", "Darwin", "Preston", "Bolivia"]}
+{"subject": "2015 World Archery Championships", "object": "Copenhagen", "taxonomy": ["Yokohama", "Pasadena", "Damascus", "Germany", "Bahrain"]}
+{"subject": "Dance Umbrella", "object": "London", "taxonomy": ["ear", "Edinburgh", "Cornish", "Tehran", "Tunisia"]}
+{"subject": "Red River Campaign", "object": "Louisiana", "taxonomy": ["Waterloo", "Cairo", "Singapore", "Lahore", "Circle"]}
+{"subject": "Battle of Firaz", "object": "Iraq", "taxonomy": ["Pune", "Arizona", "Alaska", "Kiev", "Warsaw"]}
+{"subject": "National Palace of Culture", "object": "Sofia", "taxonomy": ["Salisbury", "Hagen", "Singapore", "Borneo", "Ghana"]}
+{"subject": "Patrick Sherrill", "object": "Edmond", "taxonomy": ["Lund", "Haiti", "Gothenburg", "Illinois", "Yugoslavia"]}
+{"subject": "World War II", "object": "Russia", "taxonomy": ["Montreal", "Seattle", "Azerbaijan", "Austin", "Guatemala"]}
+{"subject": "30th Chess Olympiad", "object": "Manila", "taxonomy": ["Leipzig", "France", "parish", "Madrid", "Glasgow"]}
+{"subject": "Adlertag", "object": "England", "taxonomy": ["Alberta", "Mumbai", "Athens", "Ljubljana", "Levant"]}
+{"subject": "Eyemouth disaster", "object": "Scotland", "taxonomy": ["Taiwan", "Halifax", "Estonia", "Gabon", "Ashland"]}
+{"subject": "Battle of Fornovo", "object": "Parma", "taxonomy": ["Nice", "Frankfurt", "supermarket", "Mexico", "Yorkshire"]}
+{"subject": "Nyepi", "object": "Bali", "taxonomy": ["Vilnius", "France", "Tunisia", "Casablanca", "Latvia"]}
+{"subject": "Mainz carnival", "object": "Mainz", "taxonomy": ["Hyderabad", "Ghent", "Cannes", "Blackpool", "Manila"]}
+{"subject": "Invasion of Normandy", "object": "Normandy", "taxonomy": ["Spain", "Internet", "Illinois", "Chelsea", "Sardinia"]}
+{"subject": "Phoenix Hagen", "object": "Hagen", "taxonomy": ["Brooklyn", "Spain", "Asia", "Crete", "Guadalajara"]}
+{"subject": "Gordon Riots", "object": "London", "taxonomy": ["Brest", "Auckland", "Hyderabad", "Paris", "Russia"]}
+{"subject": "Atlanta Film Festival", "object": "Atlanta", "taxonomy": ["Madrid", "Rwanda", "Pasadena", "Kazan", "Cornish"]}
+{"subject": "1996 Summer Paralympics", "object": "Atlanta", "taxonomy": ["Alberta", "Montreal", "Antarctica", "Circle", "Columbia"]}
+{"subject": "Livonian Crusade", "object": "Estonia", "taxonomy": ["Bahrain", "Java", "Dorset", "Azerbaijan", "Brest"]}
+{"subject": "Cannes Film Festival", "object": "Cannes", "taxonomy": ["Kuwait", "Constantinople", "Romania", "Essex", "Moldova"]}
+{"subject": "Wall Street bombing", "object": "Manhattan", "taxonomy": ["Phoenix", "Olympia", "Berkshire", "Guam", "Detroit"]}
+{"subject": "Operation Barbarossa", "object": "Estonia", "taxonomy": ["Bangkok", "Latvia", "Casablanca", "Bristol", "Ghent"]}
+{"subject": "Mandaeism", "object": "Iran", "taxonomy": ["Iraq", "Wimbledon", "Louisiana", "Brooklyn", "Armenia"]}
+{"subject": "World War II", "object": "Africa", "taxonomy": ["Wimbledon", "Columbia", "Shirley", "Nairobi", "Northampton"]}
+{"subject": "Treaty of Lisbon", "object": "Lisbon", "taxonomy": ["Amsterdam", "Hiroshima", "Finland", "Miami", "Brooklyn"]}
+{"subject": "London Independent Film Festival", "object": "London", "taxonomy": ["Lagos", "Seoul", "Casablanca", "Jordan", "Utrecht"]}
+{"subject": "1974 Asian Games", "object": "Tehran", "taxonomy": ["Guatemala", "Habsburg", "Kabul", "Belarus", "Bratislava"]}
+{"subject": "Irish Rebellion of 1798", "object": "Ireland", "taxonomy": ["Jerusalem", "Taipei", "Bucharest", "Cleveland", "Netherlands"]}
+{"subject": "Ben Yehuda Street bombings", "object": "Jerusalem", "taxonomy": ["Naples", "Benin", "Vancouver", "Newport", "Utrecht"]}
+{"subject": "Wars of the Three Kingdoms", "object": "England", "taxonomy": ["Mecca", "Auckland", "Zagreb", "Nice", "Chelsea"]}
+{"subject": "Canberra International Film Festival", "object": "Canberra", "taxonomy": ["Greenwich", "Minsk", "Gettysburg", "Turkey", "Tallinn"]}
+{"subject": "Geneva Film Festival", "object": "Geneva", "taxonomy": ["Basel", "Macau", "Shanghai", "Singapore", "Vilnius"]}
+{"subject": "First Congress of Vienna", "object": "Vienna", "taxonomy": ["Johannesburg", "Nottingham", "Nanjing", "Texas", "Slovenia"]}
+{"subject": "Kleanthis Vikelidis Stadium", "object": "Thessaloniki", "taxonomy": ["Switzerland", "Cardiff", "Yokohama", "Cairo", "Genoa"]}
+{"subject": "Battle of Java", "object": "Java", "taxonomy": ["Thessaloniki", "Cambridge", "Zagreb", "Leicester", "Pune"]}
+{"subject": "Royal Institute of Painters in Water Colours", "object": "London", "taxonomy": ["Texas", "Belarus", "Nashville", "Damascus", "Ulster"]}
+{"subject": "Theater Tuschinski", "object": "Amsterdam", "taxonomy": ["Minneapolis", "Gettysburg", "Alberta", "Havana", "Africa"]}
+{"subject": "1960 Summer Paralympics", "object": "Rome", "taxonomy": ["Napier", "Indianapolis", "Anatolia", "Iraq", "Benin"]}
+{"subject": "Edinburgh Marathon", "object": "Edinburgh", "taxonomy": ["Cairo", "Seattle", "Munich", "Europe", "Gothenburg"]}
+{"subject": "Russian Civil War", "object": "Mongolia", "taxonomy": ["Kabul", "Aberdeen", "Santiago", "Queens", "Auckland"]}
+{"subject": "7 July 2005 London bombings", "object": "London", "taxonomy": ["Central", "Hamburg", "Essex", "Geneva", "Ireland"]}
+{"subject": "Operation Inherent Resolve", "object": "Iraq", "taxonomy": ["Sarawak", "Gujarat", "Belgrade", "Geneva", "Vancouver"]}
+{"subject": "Miraflores Altarpiece", "object": "Berlin", "taxonomy": ["Bali", "Preston", "Bangalore", "Caucasus", "Afghanistan"]}
+{"subject": "Indie Memphis", "object": "Memphis", "taxonomy": ["Gabon", "Prescott", "Pasadena", "Greenwich", "Columbia"]}
+{"subject": "2005 Southeast Asian Games", "object": "Philippines", "taxonomy": ["Yemen", "Alberta", "Pearl", "Montgomery", "Gujarat"]}
+{"subject": "Norman conquest of England", "object": "England", "taxonomy": ["Cardiff", "Bali", "Leicester", "Hungary", "Hiroshima"]}
+{"subject": "Zagreb Cathedral", "object": "Zagreb", "taxonomy": ["Bethel", "Aden", "Cologne", "Windsor", "Scotland"]}
+{"subject": "Copenhagen International Film Festival", "object": "Copenhagen", "taxonomy": ["Sydney", "Sardinia", "Bradford", "Japan", "Windsor"]}
+{"subject": "Sydney Mint", "object": "Sydney", "taxonomy": ["Pasadena", "Kazan", "Paris", "Habsburg", "Asia"]}
+{"subject": "Sarajevo Film Festival", "object": "Sarajevo", "taxonomy": ["Kent", "Louisiana", "Basel", "Budapest", "Chicago"]}
+{"subject": "Fort McDowell Yavapai Nation", "object": "Arizona", "taxonomy": ["India", "Afghanistan", "Copenhagen", "Calgary", "Baku"]}
+{"subject": "32nd Chess Olympiad", "object": "Yerevan", "taxonomy": ["Bratislava", "Baku", "Liverpool", "Hyderabad", "Lithuania"]}
+{"subject": "2014 German Masters", "object": "Berlin", "taxonomy": ["Vancouver", "Dorset", "Herzegovina", "Sarajevo", "Yemen"]}
+{"subject": "1976 Summer Paralympics", "object": "Toronto", "taxonomy": ["Hyderabad", "Newport", "Latvia", "Ukraine", "Baghdad"]}
+{"subject": "Rotterdamsche Droogdok Maatschappij", "object": "Rotterdam", "taxonomy": ["Sardinia", "Waterloo", "Haifa", "Brittany", "Brazil"]}
+{"subject": "Chicanos Por La Causa", "object": "Arizona", "taxonomy": ["Libya", "Bern", "Switzerland", "Cairo", "Shanghai"]}
+{"subject": "2000 Australian Open", "object": "Melbourne", "taxonomy": ["Vienna", "Arizona", "Edmond", "Amsterdam", "France"]}
+{"subject": "Albany Congress", "object": "Albany", "taxonomy": ["Memphis", "Manila", "Spain", "Yokohama", "Antarctica"]}
+{"subject": "Vancouver Pride Festival", "object": "Vancouver", "taxonomy": ["Strasbourg", "Haifa", "Libya", "Bradford", "Nottingham"]}
+{"subject": "Habsburg Castle", "object": "Habsburg", "taxonomy": ["Halifax", "Latvia", "Queens", "Manila", "Harlem"]}
+{"subject": "CB Estudiantes", "object": "Madrid", "taxonomy": ["Edinburgh", "Essex", "Honolulu", "Lausanne", "Africa"]}
+{"subject": "Newfoundland expedition", "object": "Newfoundland", "taxonomy": ["Texas", "Valencia", "Copenhagen", "Dorset", "Israel"]}
+{"subject": "Detroit Windsor International Film Festival", "object": "Detroit", "taxonomy": ["Yokohama", "Tehran", "Circle", "Brooklyn", "Brittany"]}
+{"subject": "2009 Welsh Open", "object": "Newport", "taxonomy": ["Yerevan", "Armagh", "Ireland", "Sarajevo", "Genoa"]}
+{"subject": "Federation Trail", "object": "Melbourne", "taxonomy": ["Brest", "Dublin", "Shanghai", "Harlem", "Jakarta"]}
+{"subject": "1981 Southeast Asian Games", "object": "Manila", "taxonomy": ["Lisbon", "Wellington", "Uruguay", "Athens", "Germany"]}
+{"subject": "Herald Sun Tour", "object": "Victoria", "taxonomy": ["Belfast", "Guatemala", "Bangkok", "Wimbledon", "Bucharest"]}
+{"subject": "Commonwealth Bank Tennis Classic", "object": "Bali", "taxonomy": ["Wellington", "Slovenia", "Barcelona", "Hiroshima", "Yorkshire"]}
+{"subject": "Pillsbury A Mill", "object": "Minneapolis", "taxonomy": ["Detroit", "Santiago", "Montgomery", "Barcelona", "Rome"]}
+{"subject": "London sewerage system", "object": "London", "taxonomy": ["Minsk", "Lahore", "Columbia", "Borneo", "Adelaide"]}
+{"subject": "Greco-Italian War", "object": "Greece", "taxonomy": ["Poland", "Haifa", "Vancouver", "Hollywood", "Nice"]}
+{"subject": "Environmental Modification Convention", "object": "Geneva", "taxonomy": ["Lund", "Wisconsin", "Edinburgh", "Newport", "Sarajevo"]}
+{"subject": "Viktualienmarkt", "object": "Munich", "taxonomy": ["Santiago", "Macau", "Newfoundland", "Carthage", "Genoa"]}
+{"subject": "Leeds Priory", "object": "Leeds", "taxonomy": ["Caucasus", "Wellington", "Minnesota", "Mongolia", "Aspen"]}
+{"subject": "Pearl High School shooting", "object": "Pearl", "taxonomy": ["Mainz", "Bristol", "Hamburg", "Tehran", "Birmingham"]}
+{"subject": "Edmonton Journal", "object": "Edmonton", "taxonomy": ["Syria", "Leipzig", "Norwich", "Kyoto", "Finland"]}
+{"subject": "Kungsportsavenyn", "object": "Gothenburg", "taxonomy": ["supermarket", "Bali", "Montgomery", "Balkans", "Swindon"]}
+{"subject": "Greenwich Park", "object": "Greenwich", "taxonomy": ["Poland", "Internet", "Delhi", "California", "Victoria"]}
+{"subject": "Paneer", "object": "India", "taxonomy": ["Niger", "Oceania", "Istanbul", "Lahore", "Antarctica"]}
+{"subject": "Hotel Polen fire", "object": "Amsterdam", "taxonomy": ["Victoria", "Nuremberg", "Cambridge", "Annapolis", "Aberdeen"]}
+{"subject": "Vietnam Film Festival", "object": "Vietnam", "taxonomy": ["Sofia", "Arizona", "Mars", "Lausanne", "England"]}
+{"subject": "Berne Convention for the Protection of Literary and Artistic Works", "object": "Bern", "taxonomy": ["Munich", "Miami", "Hamburg", "Habsburg", "Tibet"]}
+{"subject": "Eurovision Song Contest 1981", "object": "Dublin", "taxonomy": ["Nashville", "Hiroshima", "Ulster", "Circle", "Pearl"]}
+{"subject": "Turkish Military Academy", "object": "Ankara", "taxonomy": ["Kent", "Wimbledon", "Brittany", "Lithuania", "London"]}
+{"subject": "Bonn Convention", "object": "Bonn", "taxonomy": ["Hamburg", "Qatar", "Hungary", "Uruguay", "Johannesburg"]}
+{"subject": "Zuni Indian Reservation", "object": "Arizona", "taxonomy": ["Glasgow", "Hamburg", "Bali", "Latvia", "Basel"]}
+{"subject": "1996 Manchester bombing", "object": "Manchester", "taxonomy": ["Northumberland", "Bradford", "Poland", "Jordan", "Constantinople"]}
+{"subject": "Seattle International Film Festival", "object": "Seattle", "taxonomy": ["Guam", "France", "Northampton", "Mali", "Edmonton"]}
+{"subject": "Panathinaikos B.C.", "object": "Athens", "taxonomy": ["Essex", "Shreveport", "Mecca", "Honduras", "Libya"]}
+{"subject": "Ponce massacre", "object": "Ponce", "taxonomy": ["Guadalajara", "Prague", "Rotterdam", "Naples", "Atlanta"]}
+{"subject": "PAX", "object": "Seattle", "taxonomy": ["Hiroshima", "Brooklyn", "Dallas", "Crete", "Johannesburg"]}
+{"subject": "KK Union Olimpija", "object": "Ljubljana", "taxonomy": ["Bologna", "Scandinavia", "Brittany", "Detroit", "Basel"]}
+{"subject": "Fantastic Fest", "object": "Austin", "taxonomy": ["Leipzig", "Albania", "Habsburg", "Cyprus", "Havana"]}
+{"subject": "Independence Hall", "object": "Philadelphia", "taxonomy": ["Cincinnati", "Singapore", "Blackpool", "Salisbury", "Delhi"]}
+{"subject": "Alba Berlin", "object": "Berlin", "taxonomy": ["Yugoslavia", "Brighton", "Nottingham", "Bolivia", "Libya"]}
+{"subject": "Boston Underground Film Festival", "object": "Boston", "taxonomy": ["Albany", "Shirley", "Irvine", "Portsmouth", "Philippines"]}
+{"subject": "Turkish State Cemetery", "object": "Ankara", "taxonomy": ["Brazil", "Croatia", "Swindon", "Flanders", "Dresden"]}
+{"subject": "Dublin lock-out", "object": "Dublin", "taxonomy": ["Philippines", "Bucharest", "Japan", "Halifax", "Portsmouth"]}
+{"subject": "Custom House Tower", "object": "Boston", "taxonomy": ["Stockholm", "Wales", "Tehran", "Central", "Moon"]}
+{"subject": "Cologne school massacre", "object": "Cologne", "taxonomy": ["Damascus", "Rotterdam", "Queens", "Constantinople", "Asia"]}
+{"subject": "Cambrian Pottery", "object": "Swansea", "taxonomy": ["England", "Miami", "Orange", "Jordan", "Yugoslavia"]}
+{"subject": "Hamburg International Film Festival", "object": "Hamburg", "taxonomy": ["Austria", "Switzerland", "Olympia", "Ottawa", "Armagh"]}
+{"subject": "English Civil War", "object": "England", "taxonomy": ["Hagen", "Santiago", "Somerset", "Bangalore", "Waterloo"]}
+{"subject": "2009 Shanghai Masters", "object": "Shanghai", "taxonomy": ["Cambridge", "Berlin", "Barcelona", "Gettysburg", "Singapore"]}
+{"subject": "Dee Bridge disaster", "object": "Chester", "taxonomy": ["Lund", "Casablanca", "Hungary", "Colombo", "Prescott"]}
+{"subject": "Magere Brug", "object": "Amsterdam", "taxonomy": ["Waterloo", "Hiroshima", "Moon", "Ottawa", "Munich"]}
+{"subject": "Cuban War of Independence", "object": "Cuba", "taxonomy": ["Haifa", "Sarajevo", "Australia", "Shirley", "Thessaloniki"]}
+{"subject": "DOK Leipzig - International Leipzig Festival for Documentary and Animated Film", "object": "Leipzig", "taxonomy": ["Bali", "Edinburgh", "Belfast", "Mainz", "Moon"]}
+{"subject": "13 September 2008 Delhi bombings", "object": "Delhi", "taxonomy": ["Turkey", "Melbourne", "Genoa", "Victoria", "Indianapolis"]}
+{"subject": "World War II", "object": "Scandinavia", "taxonomy": ["Lawrence", "Maharashtra", "Cleveland", "Lahore", "Delhi"]}
+{"subject": "SA Tennis Open", "object": "Johannesburg", "taxonomy": ["Japan", "Cleveland", "Doncaster", "Cambridge", "Austria"]}
+{"subject": "Normandy landings", "object": "Normandy", "taxonomy": ["Jerusalem", "Caucasus", "Cardiff", "Swindon", "Philadelphia"]}
+{"subject": "Rotterdam Blitz", "object": "Rotterdam", "taxonomy": ["Guangzhou", "Ponce", "Wimbledon", "Boston", "Moscow"]}
+{"subject": "Bayern-Rundfahrt", "object": "Bavaria", "taxonomy": ["Aberdeen", "Copenhagen", "Israel", "Arizona", "Warsaw"]}
+{"subject": "2008 Welsh Open", "object": "Newport", "taxonomy": ["Sheffield", "Verona", "Kazakhstan", "Ankara", "Kent"]}
+{"subject": "SCI-FI-LONDON", "object": "London", "taxonomy": ["Kabul", "Bucharest", "Anatolia", "Kolkata", "Bratislava"]}
+{"subject": "Clan Cumming", "object": "Scotland", "taxonomy": ["Shanghai", "Napier", "Chicago", "Caribbean", "Greenwich"]}
+{"subject": "Venice Film Festival", "object": "Venice", "taxonomy": ["Manhattan", "Bonn", "Haifa", "Honduras", "Havana"]}
+{"subject": "Adelaide Film Festival", "object": "Adelaide", "taxonomy": ["Delhi", "Brazil", "Damascus", "Jordan", "Albany"]}
+{"subject": "Real Madrid Baloncesto", "object": "Madrid", "taxonomy": ["Armenia", "Antarctica", "Asia", "Tunisia", "Bristol"]}
+{"subject": "Siege of Sarajevo", "object": "Sarajevo", "taxonomy": ["Cambridge", "Guadalajara", "Geneva", "Dresden", "Salisbury"]}
+{"subject": "The Riverfront", "object": "Newport", "taxonomy": ["Illinois", "Montreal", "Shanghai", "Aston", "Seoul"]}
+{"subject": "Addington Hills", "object": "Shirley", "taxonomy": ["Jakarta", "Windsor", "Europe", "Russia", "Flanders"]}
+{"subject": "K.A.A. Gent", "object": "Ghent", "taxonomy": ["Budapest", "Iran", "Annapolis", "parish", "Flanders"]}
+{"subject": "Havana Film Festival", "object": "Havana", "taxonomy": ["Dublin", "Kazan", "Jerusalem", "Italy", "Singapore"]}
+{"subject": "Capodimonte porcelain", "object": "Naples", "taxonomy": ["Havana", "Northwest", "Asia", "Warsaw", "Rotterdam"]}
+{"subject": "Montreal Screwjob", "object": "Montreal", "taxonomy": ["Cleveland", "Minneapolis", "Halifax", "Lagos", "Gothenburg"]}
+{"subject": "terraforming of Mars", "object": "Mars", "taxonomy": ["Vienna", "Bucharest", "Haifa", "Cairo", "Miami"]}
+{"subject": "Museum Boijmans Van Beuningen", "object": "Rotterdam", "taxonomy": ["Australia", "Estonia", "Paris", "Tibet", "Kyoto"]}
+{"subject": "Great Smog", "object": "London", "taxonomy": ["Canada", "Sydney", "Tokyo", "Java", "Manila"]}
+{"subject": "Philadelphia Independent Film Festival", "object": "Philadelphia", "taxonomy": ["Minnesota", "Armagh", "Mumbai", "Ottawa", "Salisbury"]}
+{"subject": "Operation Apollo", "object": "Afghanistan", "taxonomy": ["Nashville", "Yokohama", "Geneva", "Wellington", "Genoa"]}
+{"subject": "Battle of Ashdown", "object": "Berkshire", "taxonomy": ["Helsinki", "Casablanca", "Lviv", "Pune", "Leicester"]}
+{"subject": "World Youth Day 2002", "object": "Toronto", "taxonomy": ["Mumbai", "Berlin", "Niger", "Atlanta", "Benin"]}
+{"subject": "Vermentino", "object": "Sardinia", "taxonomy": ["Geneva", "Honduras", "Johannesburg", "Slovenia", "Orange"]}
+{"subject": "Brooklyn Film Festival", "object": "Brooklyn", "taxonomy": ["Worcester", "Dhaka", "Wimbledon", "Wisconsin", "Michigan"]}
+{"subject": "Magnapop", "object": "Atlanta", "taxonomy": ["Constantinople", "Brittany", "Taiwan", "Japan", "Central"]}
+{"subject": "Antwerp school", "object": "Antwerp", "taxonomy": ["Taipei", "Oxford", "Greenwich", "Kolkata", "Sarawak"]}
+{"subject": "Battle of Gettysburg", "object": "Gettysburg", "taxonomy": ["Malaysia", "Marseille", "Guadalajara", "Guam", "Manhattan"]}
+{"subject": "2013 WTA Tour Championships", "object": "Istanbul", "taxonomy": ["Goa", "Cardiff", "Germany", "Brighton", "Nancy"]}
+{"subject": "Gothenburg Film Festival", "object": "Gothenburg", "taxonomy": ["Cologne", "Borneo", "Yorkshire", "Sardinia", "Ponce"]}
+{"subject": "Stockholm Pride", "object": "Stockholm", "taxonomy": ["Milan", "Seattle", "Shirley", "Luxembourg", "Darwin"]}
+{"subject": "China Squash Open", "object": "Shanghai", "taxonomy": ["Yerevan", "Belarus", "Doncaster", "Porto", "Antwerp"]}
+{"subject": "Habitat II", "object": "Istanbul", "taxonomy": ["Guam", "Moldova", "Cairo", "London", "Munich"]}
+{"subject": "Sinai and Palestine Campaign", "object": "Syria", "taxonomy": ["Rotterdam", "Seville", "Haiti", "Mexico", "Alaska"]}
+{"subject": "London Jazz Festival", "object": "London", "taxonomy": ["Aberdeen", "Belgium", "Atlanta", "Glasgow", "Beijing"]}
+{"subject": "King David Hotel bombing", "object": "Jerusalem", "taxonomy": ["Montgomery", "Uruguay", "Philippines", "Vancouver", "Goa"]}
+{"subject": "Battle of Flodden", "object": "Northumberland", "taxonomy": ["Oslo", "Bermuda", "Johannesburg", "Lagos", "Bangkok"]}
+{"subject": "International Film Festival of India", "object": "Goa", "taxonomy": ["Minsk", "Yerevan", "Orange", "Hungary", "Brest"]}
+{"subject": "KK Bosna", "object": "Sarajevo", "taxonomy": ["Gabon", "Levant", "Miami", "Finland", "Swindon"]}
+{"subject": "transmediale", "object": "Berlin", "taxonomy": ["Rome", "Rwanda", "Hollywood", "Yerevan", "Yugoslavia"]}
+{"subject": "Hengistbury Head", "object": "Dorset", "taxonomy": ["Yokohama", "Aberdeen", "Nigeria", "Cornish", "Latvia"]}
+{"subject": "Edinburgh International Festival", "object": "Edinburgh", "taxonomy": ["Sheffield", "Portsmouth", "Delhi", "Qatar", "Ghent"]}
+{"subject": "Mandaeism", "object": "Iraq", "taxonomy": ["Madrid", "Java", "Balkans", "Spain", "Doncaster"]}
+{"subject": "Subversive Film Festival", "object": "Zagreb", "taxonomy": ["France", "Yemen", "Normandy", "Bristol", "Internet"]}
+{"subject": "Edinburgh International Film Festival", "object": "Edinburgh", "taxonomy": ["Qatar", "Verona", "Belgrade", "Bari", "Amsterdam"]}
+{"subject": "Strasbourg European Fantastic Film Festival", "object": "Strasbourg", "taxonomy": ["Leicestershire", "Riga", "Caracas", "Caribbean", "Atlanta"]}
+{"subject": "Dutch Brazil", "object": "Brazil", "taxonomy": ["Tehran", "Vilnius", "Chester", "Honolulu", "Brisbane"]}
+{"subject": "Spring Offensive", "object": "France", "taxonomy": ["Northumberland", "Leeds", "Shreveport", "Nottingham", "Armenia"]}
+{"subject": "Sardinian Reformers", "object": "Sardinia", "taxonomy": ["Scandinavia", "Aberdeen", "Prague", "Bonn", "Java"]}
+{"subject": "Centennial Olympic Park bombing", "object": "Atlanta", "taxonomy": ["Turkey", "Nuremberg", "Havana", "Milan", "Nice"]}
+{"subject": "Serpent Column", "object": "Istanbul", "taxonomy": ["Harlem", "Venice", "Dresden", "Leipzig", "Yemen"]}
+{"subject": "Soviet invasion of Poland", "object": "Poland", "taxonomy": ["Yemen", "Hanover", "Manila", "Kazan", "Nanjing"]}
+{"subject": "Battle of Stones River", "object": "Nashville", "taxonomy": ["Goa", "Bermuda", "Cumberland", "supermarket", "Thessaloniki"]}
+{"subject": "Sinai and Palestine Campaign", "object": "Levant", "taxonomy": ["Dresden", "Newport", "Nancy", "Bermuda", "Aston"]}
+{"subject": "Markale massacres", "object": "Sarajevo", "taxonomy": ["Libya", "Borneo", "Berkshire", "Irvine", "Haiti"]}
+{"subject": "COBRA", "object": "Amsterdam", "taxonomy": ["Mali", "Doncaster", "Caucasus", "Pune", "Taipei"]}
+{"subject": "ACTRA Award", "object": "Toronto", "taxonomy": ["Moon", "Sheffield", "Latvia", "Windsor", "Uruguay"]}
+{"subject": "Yokohama Film Festival", "object": "Yokohama", "taxonomy": ["Australia", "Delhi", "Lawrence", "Geneva", "Rome"]}
+{"subject": "Fitzroy Tavern", "object": "London", "taxonomy": ["Caracas", "Assam", "Calgary", "Johannesburg", "Bahrain"]}
+{"subject": "2005 Australian Open", "object": "Melbourne", "taxonomy": ["Minneapolis", "Sicily", "Turkey", "Ponce", "Crete"]}
+{"subject": "26th European Film Awards", "object": "Berlin", "taxonomy": ["Verona", "Cardiff", "Irvine", "Vietnam", "Mars"]}
+{"subject": "Ashland Independent Film Festival", "object": "Ashland", "taxonomy": ["Munich", "Ghana", "Ghent", "Switzerland", "Louisiana"]}
+{"subject": "Cairo International Film Festival", "object": "Cairo", "taxonomy": ["Brisbane", "Wellington", "Moscow", "Cardiff", "Rwanda"]}
+{"subject": "2020 Summer Olympics", "object": "Tokyo", "taxonomy": ["Ontario", "Mecca", "Yerevan", "Nuremberg", "Leicestershire"]}
+{"subject": "Phoenix Sky Harbor International Airport", "object": "Phoenix", "taxonomy": ["Aberdeen", "Manhattan", "Estonia", "Wisconsin", "Kazakhstan"]}
+{"subject": "25 August 2003 Mumbai bombings", "object": "Mumbai", "taxonomy": ["Montreal", "Gujarat", "Sardinia", "Cumberland", "Central"]}
+{"subject": "World War I", "object": "Asia", "taxonomy": ["Ponce", "Columbia", "Cardiff", "Dhaka", "Philadelphia"]}
+{"subject": "Typhoon Fran", "object": "Japan", "taxonomy": ["Normandy", "Bradford", "Dublin", "Lund", "Berkshire"]}
+{"subject": "Hubert H. Humphrey Metrodome", "object": "Minneapolis", "taxonomy": ["Dresden", "Prague", "Hiroshima", "Baghdad", "Ponce"]}
+{"subject": "Empire State Plaza", "object": "Albany", "taxonomy": ["Bethel", "Taiwan", "Belgium", "Sheffield", "Jerusalem"]}
+{"subject": "Hungarian Ladies Open", "object": "Budapest", "taxonomy": ["Darwin", "Australia", "Turin", "Montgomery", "Moon"]}
+{"subject": "moon landing", "object": "Moon", "taxonomy": ["Parma", "Wisconsin", "Carthage", "Essex", "Paris"]}
+{"subject": "Maritime Museum Rotterdam", "object": "Rotterdam", "taxonomy": ["Jerusalem", "Queens", "Dublin", "England", "Rome"]}
+{"subject": "International Anarchist Congress of Amsterdam", "object": "Amsterdam", "taxonomy": ["Herzegovina", "Cyprus", "Antwerp", "Cuba", "Stockholm"]}
+{"subject": "Sinagua", "object": "Arizona", "taxonomy": ["Yorkshire", "Bolivia", "Baghdad", "Irvine", "Latvia"]}
+{"subject": "Catalan self-determination referendum", "object": "Catalonia", "taxonomy": ["Hiroshima", "Alberta", "Queens", "Johannesburg", "Honolulu"]}
+{"subject": "Champaner-Pavagadh Archaeological Park", "object": "India", "taxonomy": ["Cairo", "Geneva", "Ghana", "Kuwait", "Hollywood"]}
+{"subject": "PBC Lukoil Academic", "object": "Sofia", "taxonomy": ["Gabon", "Edmonton", "India", "Portsmouth", "Austin"]}
+{"subject": "Devonshire Arms", "object": "London", "taxonomy": ["Halifax", "Caracas", "Israel", "Singapore", "Sydney"]}
+{"subject": "Heptapyrgion", "object": "Thessaloniki", "taxonomy": ["Glasgow", "Austin", "Taiwan", "Sydney", "Kazakhstan"]}
+{"subject": "BFI London Film Festival", "object": "London", "taxonomy": ["Lisbon", "Asia", "Hagen", "Lawrence", "Flanders"]}
+{"subject": "Ankara University", "object": "Ankara", "taxonomy": ["Lithuania", "Dresden", "Bratislava", "Heidelberg", "Budapest"]}
+{"subject": "The Black Cap", "object": "London", "taxonomy": ["Paris", "Bavaria", "Leeds", "Azerbaijan", "Mali"]}
+{"subject": "Hundred Years' War", "object": "France", "taxonomy": ["Sofia", "Utrecht", "Bermuda", "Worcester", "Dallas"]}
+{"subject": "Montreal World Film Festival", "object": "Montreal", "taxonomy": ["Greece", "Sarajevo", "Azerbaijan", "Porto", "Egypt"]}
+{"subject": "Uruguayan Civil War", "object": "Uruguay", "taxonomy": ["Ulster", "Seoul", "Latvia", "Mali", "Bolivia"]}
+{"subject": "Fall of Constantinople", "object": "Constantinople", "taxonomy": ["Asia", "Libya", "Philippines", "Carthage", "Leeds"]}
+{"subject": "Winterval", "object": "Birmingham", "taxonomy": ["Tibet", "Nottingham", "supermarket", "Pearl", "Portsmouth"]}
+{"subject": "Public Against Violence", "object": "Slovakia", "taxonomy": ["Goa", "Florence", "Baghdad", "Darwin", "Nottingham"]}
+{"subject": "Croatian War of Independence", "object": "Croatia", "taxonomy": ["Montgomery", "Ukraine", "Glasgow", "Uruguay", "Asia"]}
+{"subject": "earring", "object": "ear", "taxonomy": ["Brest", "Ghana", "Bratislava", "Libya", "Pearl"]}
+{"subject": "Livonian Crusade", "object": "Latvia", "taxonomy": ["Miami", "Croatia", "Amsterdam", "Bahrain", "Queens"]}
+{"subject": "2011 Cannes Film Festival", "object": "Cannes", "taxonomy": ["Manhattan", "Herzegovina", "Napier", "Birmingham", "Houston"]}
+{"subject": "Methuen Treaty", "object": "Lisbon", "taxonomy": ["Croatia", "Hamburg", "Balkans", "Central", "Bali"]}
+{"subject": "1965 Yerevan Demonstrations", "object": "Yerevan", "taxonomy": ["Yorkshire", "Pittsburgh", "Hungary", "Bari", "Casablanca"]}
+{"subject": "Pointe du Hoc", "object": "Normandy", "taxonomy": ["Paris", "Manchester", "Spain", "Casablanca", "Hagen"]}
+{"subject": "2011 Vancouver Stanley Cup riot", "object": "Vancouver", "taxonomy": ["Caribbean", "Prescott", "Shreveport", "Lausanne", "Shirley"]}
+{"subject": "Lotte World Tower", "object": "Seoul", "taxonomy": ["Constantinople", "Dresden", "Ashland", "Africa", "Mainz"]}
+{"subject": "Victorian gold rush", "object": "Victoria", "taxonomy": ["California", "Bahrain", "Guatemala", "Norwich", "Sicily"]}
+{"subject": "Vienna Shorts", "object": "Vienna", "taxonomy": ["Pasadena", "Salisbury", "Nairobi", "Mecca", "Vancouver"]}
+{"subject": "Battle of France", "object": "France", "taxonomy": ["Havana", "Madrid", "Singapore", "Sardinia", "Manhattan"]}
+{"subject": "Dallas International Film Festival", "object": "Dallas", "taxonomy": ["Leicestershire", "Athens", "Mexico", "Texas", "Mali"]}
+{"subject": "Harrods bombing", "object": "London", "taxonomy": ["Santiago", "Columbia", "Sydney", "Birmingham", "Kent"]}
+{"subject": "Milano Film Festival", "object": "Milan", "taxonomy": ["Swansea", "Dorset", "Annapolis", "Santiago", "Alexandria"]}
+{"subject": "1992 Summer Olympics", "object": "Barcelona", "taxonomy": ["Cyprus", "Toronto", "Ljubljana", "Nanjing", "Slovakia"]}
+{"subject": "Gould Academy", "object": "Bethel", "taxonomy": ["India", "Boston", "Singapore", "Budapest", "Alexandria"]}
+{"subject": "Pride Toronto", "object": "Toronto", "taxonomy": ["Nuremberg", "Armenia", "Berkshire", "Cardiff", "Louisiana"]}
+{"subject": "HollyShorts Film Festival", "object": "Hollywood", "taxonomy": ["Central", "Pasadena", "Vienna", "London", "Waterloo"]}
+{"subject": "Battle of Voltri", "object": "Genoa", "taxonomy": ["Central", "Alaska", "Kabul", "Leipzig", "Shanghai"]}
+{"subject": "Moscow theater hostage crisis", "object": "Moscow", "taxonomy": ["Rome", "Niger", "Columbia", "Marseille", "Spain"]}
+{"subject": "Hildesheimer Rabbinical Seminary", "object": "Berlin", "taxonomy": ["Minnesota", "Philippines", "Vilnius", "Maharashtra", "ear"]}
+{"subject": "Echo Arena Liverpool", "object": "Liverpool", "taxonomy": ["Northumberland", "Uruguay", "Cologne", "Swindon", "Gabon"]}
+{"subject": "Kaftanzoglio Stadium", "object": "Thessaloniki", "taxonomy": ["Kazan", "Constantinople", "Utrecht", "Taiwan", "Honduras"]}
+{"subject": "Operation Barbarossa", "object": "Moldova", "taxonomy": ["Minsk", "Ponce", "Cologne", "Bristol", "Bahrain"]}
+{"subject": "Yoruba religion", "object": "Nigeria", "taxonomy": ["Northampton", "Bavaria", "Greenwich", "Jakarta", "Vienna"]}
+{"subject": "British Museum", "object": "London", "taxonomy": ["Essex", "Frankfurt", "Northwest", "Riga", "Birmingham"]}
+{"subject": "Philadelphia Film Festival", "object": "Philadelphia", "taxonomy": ["Vilnius", "Shanghai", "Victoria", "Catalonia", "Kiev"]}
+{"subject": "2006 Riga summit", "object": "Riga", "taxonomy": ["Chester", "Israel", "Haiti", "Aston", "Baghdad"]}
+{"subject": "Baltimore riot of 1861", "object": "Baltimore", "taxonomy": ["Aden", "Newport", "Bangkok", "Sydney", "Bavaria"]}
+{"subject": "Battle of Olszynka Grochowska", "object": "Warsaw", "taxonomy": ["Leeds", "Brighton", "Turin", "Wimbledon", "Amsterdam"]}
+{"subject": "Oxford International Film Festival", "object": "Oxford", "taxonomy": ["Estonia", "Moscow", "Bermuda", "Detroit", "Mongolia"]}
+{"subject": "Space Center Houston", "object": "Houston", "taxonomy": ["Venice", "Herzegovina", "Cairo", "Yorkshire", "Madrid"]}
+{"subject": "Munich air disaster", "object": "Munich", "taxonomy": ["Canada", "Leicestershire", "Chester", "Split", "Bolivia"]}
+{"subject": "2011 Badminton World Championships", "object": "London", "taxonomy": ["Napier", "Slovakia", "Jerusalem", "Ireland", "Bari"]}
+{"subject": "Battle of Galicia", "object": "Lviv", "taxonomy": ["Uzbekistan", "Asia", "Kolkata", "Auckland", "Bermuda"]}
+{"subject": "Kaocen Revolt", "object": "Niger", "taxonomy": ["Caracas", "Heidelberg", "Kent", "Helsinki", "Armagh"]}
+{"subject": "Taliban insurgency", "object": "Afghanistan", "taxonomy": ["Nashville", "Constantinople", "Greece", "Honduras", "Iraq"]}
+{"subject": "Peterloo Massacre", "object": "Manchester", "taxonomy": ["Leicestershire", "Glasgow", "Vilnius", "Tibet", "Montgomery"]}
+{"subject": "Platonic Academy", "object": "Florence", "taxonomy": ["Ukraine", "Constantinople", "ear", "Swansea", "Shanghai"]}
+{"subject": "Highland Light Infantry", "object": "Glasgow", "taxonomy": ["Wimbledon", "Victoria", "Macau", "Qatar", "Scandinavia"]}
+{"subject": "Officina Bodoni", "object": "Verona", "taxonomy": ["Harlem", "Lausanne", "Tokyo", "Leicester", "Lagos"]}
+{"subject": "Al-Rifa'i Mosque", "object": "Cairo", "taxonomy": ["Madrid", "Alexandria", "Mars", "Rotterdam", "Santiago"]}
+{"subject": "BC UNICS", "object": "Kazan", "taxonomy": ["Leicestershire", "Arizona", "Nashville", "Milan", "Houston"]}

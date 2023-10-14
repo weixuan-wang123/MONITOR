@@ -1,0 +1,235 @@
+{"relations": ["Which country's capital is [X]?", "Which country has [X] as its capital?", "In which country is [X] the capital city?", "What is the country that has designated [X] as its capital?", "Which nation has chosen [X] as its capital city?", "In which country is [X] the center of political power?", "Which country has declared [X] as its administrative capital?"]}
+{"subject": "Edmonton", "object": "Alberta", "taxonomy": ["Ontario", "Bahrain", "Alaska", "Galicia", "Punjab"]}
+{"subject": "Ankara", "object": "Turkey", "taxonomy": ["Indonesia", "Libya", "Bahrain", "Catalonia", "Brandenburg"]}
+{"subject": "Amsterdam", "object": "Netherlands", "taxonomy": ["Lakes", "Massachusetts", "Utah", "France", "Spain"]}
+{"subject": "Baku", "object": "Azerbaijan", "taxonomy": ["Pakistan", "Iowa", "Michigan", "Barbados", "Denmark"]}
+{"subject": "Cairo", "object": "Egypt", "taxonomy": ["Uzbekistan", "Algeria", "Vietnam", "Switzerland", "Azerbaijan"]}
+{"subject": "Copenhagen", "object": "Denmark", "taxonomy": ["Louisiana", "Uzbekistan", "Tajikistan", "Indonesia", "Poland"]}
+{"subject": "Barcelona", "object": "Catalonia", "taxonomy": ["Philippines", "Macedonia", "Italy", "Sichuan", "Latvia"]}
+{"subject": "Buenos Aires", "object": "Argentina", "taxonomy": ["Rhodesia", "Croatia", "Zimbabwe", "Nepal", "Afghanistan"]}
+{"subject": "Munich", "object": "Bavaria", "taxonomy": ["Hawaii", "Portugal", "Iran", "Rhodesia", "Mexico"]}
+{"subject": "Florence", "object": "Tuscany", "taxonomy": ["Lebanon", "Spain", "Kuwait", "Rajasthan", "Salzburg"]}
+{"subject": "Rome", "object": "Italy", "taxonomy": ["Vietnam", "Sarawak", "Alaska", "Germany", "Connecticut"]}
+{"subject": "Algiers", "object": "Algeria", "taxonomy": ["Argentina", "Gabon", "Tanzania", "Oklahoma", "Samoa"]}
+{"subject": "Tripoli", "object": "Libya", "taxonomy": ["Mozambique", "Madagascar", "Romania", "Malaysia", "Oklahoma"]}
+{"subject": "Antwerp", "object": "Antwerp", "taxonomy": ["Serbia", "Israel", "Greenland", "Azerbaijan", "Malta"]}
+{"subject": "Canberra", "object": "Australia", "taxonomy": ["Minnesota", "Vietnam", "Philippines", "Georgia", "Southwest"]}
+{"subject": "Windhoek", "object": "Namibia", "taxonomy": ["Uganda", "Haryana", "Portugal", "Rwanda", "Sardinia"]}
+{"subject": "Heraklion", "object": "Crete", "taxonomy": ["Sichuan", "Azerbaijan", "Niger", "Mozambique", "Israel"]}
+{"subject": "Baghdad", "object": "Iraq", "taxonomy": ["Kenya", "Judah", "Michigan", "Bhutan", "Bihar"]}
+{"subject": "Edinburgh", "object": "Scotland", "taxonomy": ["Wyoming", "Tajikistan", "Germany", "Japan", "Hungary"]}
+{"subject": "Kabul", "object": "Afghanistan", "taxonomy": ["Lebanon", "Catalonia", "Fiji", "Malta", "Syria"]}
+{"subject": "Bonn", "object": "Germany", "taxonomy": ["Bahrain", "Dubai", "Nord", "Argentina", "Sudan"]}
+{"subject": "Berlin", "object": "Germany", "taxonomy": ["Massachusetts", "Oxfordshire", "Afghanistan", "Sichuan", "Greece"]}
+{"subject": "Porto-Novo", "object": "Benin", "taxonomy": ["Zambia", "Portugal", "Aragon", "Poland", "Karnataka"]}
+{"subject": "Gaborone", "object": "Botswana", "taxonomy": ["Somalia", "Arkansas", "Nepal", "Canada", "Algeria"]}
+{"subject": "Paris", "object": "France", "taxonomy": ["Belgium", "Massachusetts", "Lebanon", "Belarus", "Armenia"]}
+{"subject": "Mumbai", "object": "Maharashtra", "taxonomy": ["Indonesia", "Sichuan", "Gujarat", "Lagos", "Punjab"]}
+{"subject": "Oslo", "object": "Norway", "taxonomy": ["Qatar", "Kuwait", "Egypt", "Greece", "Kazakhstan"]}
+{"subject": "Jerusalem", "object": "Judah", "taxonomy": ["Kazakhstan", "West", "Navarre", "Niger", "Aragon"]}
+{"subject": "Bishkek", "object": "Kyrgyzstan", "taxonomy": ["Norway", "Bahrain", "Dubai", "Malta", "Tennessee"]}
+{"subject": "Bucharest", "object": "Romania", "taxonomy": ["Albania", "Louisiana", "Syria", "Papua", "Mozambique"]}
+{"subject": "Melbourne", "object": "Victoria", "taxonomy": ["Sarawak", "Maharashtra", "Bohemia", "Tunisia", "Iran"]}
+{"subject": "Beijing", "object": "Taiwan", "taxonomy": ["Queensland", "Cebu", "Kyrgyzstan", "Rhodesia", "Panama"]}
+{"subject": "Chongqing", "object": "Taiwan", "taxonomy": ["Israel", "Salzburg", "Alba", "Navarre", "Oman"]}
+{"subject": "Havana", "object": "Cuba", "taxonomy": ["Lithuania", "Iraq", "England", "Southwest", "Mozambique"]}
+{"subject": "Denver", "object": "Colorado", "taxonomy": ["Kosovo", "Guangdong", "Mozambique", "Serbia", "Saxony"]}
+{"subject": "Mogadishu", "object": "Somalia", "taxonomy": ["Mali", "Guangdong", "Australia", "Italy", "Ukraine"]}
+{"subject": "Cardiff", "object": "Wales", "taxonomy": ["Ecuador", "Ghana", "Slovakia", "Libya", "Ain"]}
+{"subject": "Dublin", "object": "Ireland", "taxonomy": ["Miranda", "Hawaii", "Latvia", "Denmark", "Gabon"]}
+{"subject": "Tunis", "object": "Tunisia", "taxonomy": ["Southwest", "Romania", "Macedonia", "Hesse", "Aragon"]}
+{"subject": "Rio de Janeiro", "object": "Brazil", "taxonomy": ["Malaysia", "Massachusetts", "Centre", "Egypt", "Honduras"]}
+{"subject": "Valletta", "object": "Malta", "taxonomy": ["Alba", "Mozambique", "Chad", "Belarus", "Munich"]}
+{"subject": "London", "object": "England", "taxonomy": ["Italy", "Zambia", "Scotland", "Cebu", "Tajikistan"]}
+{"subject": "Rabat", "object": "Morocco", "taxonomy": ["Pakistan", "Dubai", "Kazakhstan", "Qatar", "Canada"]}
+{"subject": "Riga", "object": "Latvia", "taxonomy": ["Belarus", "Brazil", "Peru", "Mali", "Samoa"]}
+{"subject": "Damascus", "object": "Syria", "taxonomy": ["Idaho", "Bahrain", "Pakistan", "Russia", "Brandenburg"]}
+{"subject": "Dar es Salaam", "object": "Tanzania", "taxonomy": ["Ethiopia", "Lithuania", "Fiji", "Switzerland", "Ontario"]}
+{"subject": "London", "object": "England", "taxonomy": ["Malaysia", "Armenia", "Luxembourg", "Romania", "Norway"]}
+{"subject": "Stockholm", "object": "Sweden", "taxonomy": ["Iran", "Portugal", "Punjab", "Oxfordshire", "Lima"]}
+{"subject": "Helsinki", "object": "Finland", "taxonomy": ["Switzerland", "Japan", "Montenegro", "Yugoslavia", "Somalia"]}
+{"subject": "Prague", "object": "Bohemia", "taxonomy": ["Oklahoma", "Niger", "Angola", "Utah", "Minnesota"]}
+{"subject": "Indianapolis", "object": "Indiana", "taxonomy": ["Minnesota", "Rajasthan", "Oxfordshire", "Peru", "Egypt"]}
+{"subject": "Madrid", "object": "Spain", "taxonomy": ["Crete", "Flanders", "Punjab", "Kyrgyzstan", "Namibia"]}
+{"subject": "Guatemala City", "object": "Guatemala", "taxonomy": ["Denmark", "Rhodesia", "Belize", "Michigan", "Ghana"]}
+{"subject": "Warsaw", "object": "Poland", "taxonomy": ["Alberta", "Libya", "Saxony", "Brunei", "Pennsylvania"]}
+{"subject": "Guangzhou", "object": "Guangdong", "taxonomy": ["Arkansas", "Tunisia", "Belarus", "Alaska", "Karachi"]}
+{"subject": "Dresden", "object": "Saxony", "taxonomy": ["Lima", "Alba", "Cambodia", "Madagascar", "Galicia"]}
+{"subject": "Port-au-Prince", "object": "Haiti", "taxonomy": ["Unity", "Jordan", "Afghanistan", "Mauritius", "Nicaragua"]}
+{"subject": "Athens", "object": "Greece", "taxonomy": ["Albania", "Barbados", "Normandy", "Ukraine", "Alba"]}
+{"subject": "Hobart", "object": "Tasmania", "taxonomy": ["Utah", "Denmark", "Judah", "Tanzania", "Indonesia"]}
+{"subject": "Tallinn", "object": "Estonia", "taxonomy": ["Sichuan", "Israel", "Papua", "Romania", "Australia"]}
+{"subject": "Tokyo", "object": "Japan", "taxonomy": ["Albania", "Turkey", "Warwickshire", "Norway", "Kazakhstan"]}
+{"subject": "Vienna", "object": "Austria", "taxonomy": ["India", "Croatia", "Brazil", "Kabul", "Dubai"]}
+{"subject": "Ljubljana", "object": "Slovenia", "taxonomy": ["Iran", "Sudan", "Vietnam", "Yemen", "Taiwan"]}
+{"subject": "Jerusalem", "object": "Israel", "taxonomy": ["Bhutan", "Guatemala", "Gabon", "Finland", "Kuwait"]}
+{"subject": "Jakarta", "object": "Indonesia", "taxonomy": ["Haiti", "Taiwan", "Niger", "Provence", "Panama"]}
+{"subject": "Turin", "object": "Piedmont", "taxonomy": ["Armenia", "Uruguay", "Libya", "India", "Israel"]}
+{"subject": "Nairobi", "object": "Kenya", "taxonomy": ["Panama", "Lithuania", "Laos", "Karnataka", "Gabon"]}
+{"subject": "Kuala Lumpur", "object": "Malaysia", "taxonomy": ["Iran", "Guatemala", "Honduras", "Czechoslovakia", "Oklahoma"]}
+{"subject": "Islamabad", "object": "Pakistan", "taxonomy": ["Samoa", "Guangdong", "Macedonia", "Venezuela", "Georgia"]}
+{"subject": "Kathmandu", "object": "Nepal", "taxonomy": ["Bohemia", "Indonesia", "Arkansas", "England", "Italy"]}
+{"subject": "Khartoum", "object": "Sudan", "taxonomy": ["West", "Centre", "Colorado", "Malawi", "Hesse"]}
+{"subject": "Vilnius", "object": "Lithuania", "taxonomy": ["Cyprus", "East", "Navarre", "Ukraine", "Japan"]}
+{"subject": "Beirut", "object": "Lebanon", "taxonomy": ["Panama", "Galicia", "Bari", "Laos", "Morocco"]}
+{"subject": "Lisbon", "object": "Portugal", "taxonomy": ["Kosovo", "Japan", "Buckinghamshire", "Nigeria", "Massachusetts"]}
+{"subject": "Luanda", "object": "Angola", "taxonomy": ["Bahrain", "Belgium", "Minnesota", "Japan", "Wales"]}
+{"subject": "Moscow", "object": "Russia", "taxonomy": ["Telangana", "Brazil", "Wyoming", "Norway", "Kosovo"]}
+{"subject": "Winnipeg", "object": "Manitoba", "taxonomy": ["Thailand", "Niger", "Bohemia", "Georgia", "Connecticut"]}
+{"subject": "Lilongwe", "object": "Malawi", "taxonomy": ["Rajasthan", "Uzbekistan", "Sardinia", "Greece", "Chad"]}
+{"subject": "Mexico City", "object": "Mexico", "taxonomy": ["Miranda", "Laos", "Jordan", "Alba", "Greece"]}
+{"subject": "Maputo", "object": "Mozambique", "taxonomy": ["Quebec", "Laos", "Romania", "Nepal", "Mexico"]}
+{"subject": "Boston", "object": "Massachusetts", "taxonomy": ["Kosovo", "Yunnan", "Philippines", "England", "Quebec"]}
+{"subject": "Ottawa", "object": "Canada", "taxonomy": ["Haiti", "Sweden", "Japan", "Yugoslavia", "Serbia"]}
+{"subject": "Montevideo", "object": "Uruguay", "taxonomy": ["Bihar", "Germany", "Normandy", "Dubai", "Venezuela"]}
+{"subject": "Manama", "object": "Bahrain", "taxonomy": ["Kerala", "Israel", "Honduras", "Egypt", "Indonesia"]}
+{"subject": "Bangalore", "object": "Karnataka", "taxonomy": ["Argentina", "Telangana", "Ireland", "Michigan", "Madagascar"]}
+{"subject": "Budapest", "object": "Hungary", "taxonomy": ["Florida", "Utah", "Haiti", "Papua", "Iran"]}
+{"subject": "Tegucigalpa", "object": "Honduras", "taxonomy": ["Quebec", "Belize", "Ireland", "India", "Queensland"]}
+{"subject": "Gandhinagar", "object": "Gujarat", "taxonomy": ["Haiti", "Montenegro", "Madagascar", "Queensland", "Tajikistan"]}
+{"subject": "Podgorica", "object": "Montenegro", "taxonomy": ["Warwickshire", "Sudan", "Panama", "Sichuan", "Morocco"]}
+{"subject": "Toronto", "object": "Ontario", "taxonomy": ["Gujarat", "Manitoba", "Bari", "Sudan", "Alba"]}
+{"subject": "Panama City", "object": "Panama", "taxonomy": ["Honduras", "Punjab", "Barbados", "Bulgaria", "Sweden"]}
+{"subject": "Dakar", "object": "Senegal", "taxonomy": ["Nord", "Scotland", "Denmark", "Wyoming", "Cebu"]}
+{"subject": "Lagos", "object": "Nigeria", "taxonomy": ["Tajikistan", "Netherlands", "Ecuador", "Luxembourg", "Zambia"]}
+{"subject": "Bangkok", "object": "Thailand", "taxonomy": ["Hungary", "Libya", "Czechoslovakia", "Madagascar", "Sardinia"]}
+{"subject": "Santiago", "object": "Chile", "taxonomy": ["Czechoslovakia", "Cebu", "Louisiana", "Morocco", "France"]}
+{"subject": "New Delhi", "object": "India", "taxonomy": ["Guangdong", "Syria", "Peru", "Somalia", "Idaho"]}
+{"subject": "Belgrade", "object": "Serbia", "taxonomy": ["Samoa", "Pakistan", "Gabon", "Iran", "Connecticut"]}
+{"subject": "Cagliari", "object": "Sardinia", "taxonomy": ["Hesse", "Bohemia", "Luxembourg", "Israel", "Manitoba"]}
+{"subject": "Caracas", "object": "Venezuela", "taxonomy": ["Rajasthan", "Taiwan", "Libya", "Czechoslovakia", "Sudan"]}
+{"subject": "Nicosia", "object": "Cyprus", "taxonomy": ["Thailand", "Poland", "Aragon", "France", "Romania"]}
+{"subject": "Kiev", "object": "Ukraine", "taxonomy": ["Morocco", "Uganda", "Peru", "Tuscany", "Scotland"]}
+{"subject": "Taipei", "object": "Taiwan", "taxonomy": ["Tuscany", "Wales", "Idaho", "Guinea", "Unity"]}
+{"subject": "Abuja", "object": "Nigeria", "taxonomy": ["Greenland", "Hesse", "Tasmania", "Kansas", "Bangladesh"]}
+{"subject": "Sofia", "object": "Bulgaria", "taxonomy": ["Unity", "Leicestershire", "Hesse", "Tennessee", "Indonesia"]}
+{"subject": "Salt Lake City", "object": "Utah", "taxonomy": ["Lebanon", "Namibia", "Connecticut", "India", "Australia"]}
+{"subject": "Palermo", "object": "Sicily", "taxonomy": ["Qatar", "Ecuador", "Southwest", "Alberta", "Egypt"]}
+{"subject": "Tehran", "object": "Iran", "taxonomy": ["Nicaragua", "Salzburg", "Serbia", "Bohemia", "Egypt"]}
+{"subject": "Quebec City", "object": "Quebec", "taxonomy": ["Romania", "Gabon", "Salzburg", "Zambia", "Russia"]}
+{"subject": "Prague", "object": "Czechoslovakia", "taxonomy": ["Rajasthan", "Haiti", "Nicaragua", "Sweden", "Montenegro"]}
+{"subject": "Dhaka", "object": "Bangladesh", "taxonomy": ["Montenegro", "Norway", "Slovenia", "Spain", "Pennsylvania"]}
+{"subject": "Brisbane", "object": "Queensland", "taxonomy": ["Georgia", "Argentina", "Algeria", "Morocco", "Utah"]}
+{"subject": "Harare", "object": "Zimbabwe", "taxonomy": ["Liberia", "Michigan", "Ontario", "Benin", "Cyprus"]}
+{"subject": "Aix-en-Provence", "object": "Provence", "taxonomy": ["Sweden", "Ukraine", "Galicia", "Tasmania", "Tennessee"]}
+{"subject": "Monrovia", "object": "Liberia", "taxonomy": ["Buckinghamshire", "Uzbekistan", "Nord", "Wyoming", "Queensland"]}
+{"subject": "Bern", "object": "Switzerland", "taxonomy": ["Norway", "Bahrain", "Jordan", "Madagascar", "Netherlands"]}
+{"subject": "Addis Ababa", "object": "Ethiopia", "taxonomy": ["Quebec", "Brandenburg", "Fiji", "Florida", "Pennsylvania"]}
+{"subject": "Zagreb", "object": "Croatia", "taxonomy": ["Algeria", "California", "Zimbabwe", "Wales", "Crete"]}
+{"subject": "Phnom Penh", "object": "Cambodia", "taxonomy": ["Dubai", "Pakistan", "Croatia", "Wales", "Kerala"]}
+{"subject": "Dushanbe", "object": "Tajikistan", "taxonomy": ["Belarus", "Vietnam", "Samoa", "Croatia", "Austria"]}
+{"subject": "Lansing", "object": "Michigan", "taxonomy": ["Israel", "Luxembourg", "Montenegro", "Brunei", "Flanders"]}
+{"subject": "Kuching", "object": "Sarawak", "taxonomy": ["Malaysia", "Bihar", "Sabah", "Canada", "Benin"]}
+{"subject": "Manila", "object": "Philippines", "taxonomy": ["Ain", "Karachi", "Iraq", "Bolivia", "Mali"]}
+{"subject": "Westminster", "object": "England", "taxonomy": ["Georgia", "Mexico", "Ecuador", "Kabul", "Bohemia"]}
+{"subject": "Quito", "object": "Ecuador", "taxonomy": ["Yunnan", "Hungary", "Chile", "Sarawak", "Dubai"]}
+{"subject": "Leicester", "object": "Leicestershire", "taxonomy": ["Colorado", "Tuscany", "Ethiopia", "Pakistan", "Piedmont"]}
+{"subject": "Kunming", "object": "Yunnan", "taxonomy": ["Uzbekistan", "Zimbabwe", "Sweden", "Minnesota", "Taiwan"]}
+{"subject": "Managua", "object": "Nicaragua", "taxonomy": ["Queensland", "England", "Tasmania", "Qatar", "Alba"]}
+{"subject": "Warwick", "object": "Warwickshire", "taxonomy": ["Sardinia", "Sicily", "Ecuador", "Brandenburg", "Uruguay"]}
+{"subject": "Sucre", "object": "Bolivia", "taxonomy": ["Oklahoma", "Latvia", "Kenya", "Germany", "Fiji"]}
+{"subject": "Honolulu", "object": "Hawaii", "taxonomy": ["Somalia", "Peru", "Hungary", "Bahrain", "Bhutan"]}
+{"subject": "Vientiane", "object": "Laos", "taxonomy": ["Karachi", "Honduras", "Flanders", "Karnataka", "Ain"]}
+{"subject": "Chengdu", "object": "Sichuan", "taxonomy": ["Provence", "Ecuador", "Idaho", "Maharashtra", "Ain"]}
+{"subject": "Zaragoza", "object": "Aragon", "taxonomy": ["Mozambique", "Lima", "Hawaii", "Jordan", "Bahrain"]}
+{"subject": "Aylesbury", "object": "Buckinghamshire", "taxonomy": ["Zimbabwe", "Liberia", "Mauritius", "Azerbaijan", "Centre"]}
+{"subject": "Oxford", "object": "Oxfordshire", "taxonomy": ["Tanzania", "Georgia", "Romania", "Taiwan", "Ain"]}
+{"subject": "Chandigarh", "object": "Haryana", "taxonomy": ["Alba", "Nicaragua", "Hawaii", "Tasmania", "Mali"]}
+{"subject": "Niamey", "object": "Niger", "taxonomy": ["Argentina", "Venezuela", "Luxembourg", "Rhodesia", "Guangdong"]}
+{"subject": "Nanjing", "object": "Taiwan", "taxonomy": ["Zambia", "Uzbekistan", "Madagascar", "Germany", "Crete"]}
+{"subject": "Doha", "object": "Qatar", "taxonomy": ["Flanders", "Switzerland", "Leicestershire", "Honduras", "Cuba"]}
+{"subject": "Harare", "object": "Rhodesia", "taxonomy": ["Munich", "Normandy", "Texas", "Kabul", "Latvia"]}
+{"subject": "Apia", "object": "Samoa", "taxonomy": ["Malaysia", "Michigan", "Niger", "Scotland", "Yugoslavia"]}
+{"subject": "Bratislava", "object": "Slovakia", "taxonomy": ["Lithuania", "Egypt", "Brandenburg", "Aragon", "Estonia"]}
+{"subject": "Kota Kinabalu", "object": "Sabah", "taxonomy": ["Pennsylvania", "Warwickshire", "Navarre", "Germany", "Oklahoma"]}
+{"subject": "Tashkent", "object": "Uzbekistan", "taxonomy": ["Piedmont", "Warwickshire", "Pakistan", "Fiji", "Sicily"]}
+{"subject": "Dodoma", "object": "Tanzania", "taxonomy": ["Senegal", "Qatar", "Georgia", "Kuwait", "Yemen"]}
+{"subject": "Tirana", "object": "Albania", "taxonomy": ["Netherlands", "Sweden", "Unity", "Haiti", "Leicestershire"]}
+{"subject": "Kampala", "object": "Uganda", "taxonomy": ["Tuscany", "Indiana", "Victoria", "Kazakhstan", "Qatar"]}
+{"subject": "Hanoi", "object": "Vietnam", "taxonomy": ["Utah", "Rhodesia", "Haiti", "Louisiana", "Colorado"]}
+{"subject": "Aden", "object": "Yemen", "taxonomy": ["Italy", "Sardinia", "Brazil", "Cambodia", "Wales"]}
+{"subject": "Lusaka", "object": "Zambia", "taxonomy": ["Lagos", "Bihar", "Goa", "Uruguay", "Algeria"]}
+{"subject": "Yerevan", "object": "Armenia", "taxonomy": ["Norway", "Telangana", "East", "Iowa", "Antwerp"]}
+{"subject": "Kuwait City", "object": "Kuwait", "taxonomy": ["Armenia", "Warwickshire", "Minnesota", "Somalia", "Bangladesh"]}
+{"subject": "Port Louis", "object": "Mauritius", "taxonomy": ["Nord", "Unity", "Namibia", "Sarawak", "Wales"]}
+{"subject": "Accra", "object": "Ghana", "taxonomy": ["Uganda", "France", "Jordan", "Haiti", "Piedmont"]}
+{"subject": "Jaipur", "object": "Rajasthan", "taxonomy": ["Fiji", "India", "Arkansas", "California", "Somalia"]}
+{"subject": "Minsk", "object": "Belarus", "taxonomy": ["Lakes", "Rajasthan", "Chad", "Syria", "Alaska"]}
+{"subject": "Des Moines", "object": "Iowa", "taxonomy": ["Kansas", "Lebanon", "Ecuador", "Azerbaijan", "Chile"]}
+{"subject": "Patna", "object": "Bihar", "taxonomy": ["Sabah", "Thailand", "Warwickshire", "Ethiopia", "Scotland"]}
+{"subject": "Baton Rouge", "object": "Louisiana", "taxonomy": ["Iraq", "Kyrgyzstan", "Belarus", "Sarawak", "Antwerp"]}
+{"subject": "Yogyakarta", "object": "Indonesia", "taxonomy": ["Uzbekistan", "Hawaii", "Netherlands", "Israel", "Ontario"]}
+{"subject": "Nur-Sultan", "object": "Kazakhstan", "taxonomy": ["Honduras", "Gujarat", "Bohemia", "Goa", "Piedmont"]}
+{"subject": "Wiesbaden", "object": "Hesse", "taxonomy": ["Indonesia", "Turkey", "Denmark", "Catalonia", "Qatar"]}
+{"subject": "Dijon", "object": "Burgundy", "taxonomy": ["Malta", "Queensland", "Ecuador", "Munich", "Portugal"]}
+{"subject": "Rouen", "object": "Normandy", "taxonomy": ["East", "Catalonia", "Iowa", "Sudan", "Crete"]}
+{"subject": "Oklahoma City", "object": "Oklahoma", "taxonomy": ["Hawaii", "Zambia", "Georgia", "Serbia", "Maryland"]}
+{"subject": "Ikeja", "object": "Lagos", "taxonomy": ["Ukraine", "Indonesia", "Greenland", "Colorado", "Rajasthan"]}
+{"subject": "Little Rock", "object": "Arkansas", "taxonomy": ["Italy", "Canada", "Texas", "Sudan", "Munich"]}
+{"subject": "N'Djamena", "object": "Chad", "taxonomy": ["Pennsylvania", "Samoa", "Estonia", "Connecticut", "Tunisia"]}
+{"subject": "Amman", "object": "Jordan", "taxonomy": ["Hesse", "Kuwait", "Nord", "Chile", "Texas"]}
+{"subject": "Thiruvananthapuram", "object": "Kerala", "taxonomy": ["Utah", "Miranda", "Kyrgyzstan", "Crete", "Niger"]}
+{"subject": "Bridgetown", "object": "Barbados", "taxonomy": ["Pennsylvania", "Victoria", "England", "Gujarat", "Centre"]}
+{"subject": "Dubai", "object": "Dubai", "taxonomy": ["Kazakhstan", "Iran", "Italy", "Niger", "Honduras"]}
+{"subject": "Potsdam", "object": "Brandenburg", "taxonomy": ["Cebu", "Idaho", "Austria", "Iowa", "Mozambique"]}
+{"subject": "Antananarivo", "object": "Madagascar", "taxonomy": ["Buckinghamshire", "Azerbaijan", "Ghana", "Yunnan", "Judah"]}
+{"subject": "Bamako", "object": "Mali", "taxonomy": ["Massachusetts", "Brunei", "Lebanon", "Croatia", "Poland"]}
+{"subject": "Annapolis", "object": "Maryland", "taxonomy": ["Azerbaijan", "Nigeria", "Indiana", "Gujarat", "Ethiopia"]}
+{"subject": "Hyderabad", "object": "Telangana", "taxonomy": ["Peru", "Bavaria", "England", "Chile", "Ghana"]}
+{"subject": "Chandigarh", "object": "Punjab", "taxonomy": ["Oman", "Samoa", "Senegal", "Hawaii", "Sichuan"]}
+{"subject": "Bourg-en-Bresse", "object": "Ain", "taxonomy": ["Galicia", "Sudan", "Portugal", "Quebec", "Liberia"]}
+{"subject": "Suva", "object": "Fiji", "taxonomy": ["Oxfordshire", "Belarus", "West", "Mali", "Poland"]}
+{"subject": "Harrisburg", "object": "Pennsylvania", "taxonomy": ["Leicestershire", "Sardinia", "Croatia", "Navarre", "Cyprus"]}
+{"subject": "Sana'a", "object": "Yemen", "taxonomy": ["Botswana", "Israel", "Lagos", "Colorado", "Ghana"]}
+{"subject": "Panjim", "object": "Goa", "taxonomy": ["Navarre", "Russia", "Sardinia", "Bavaria", "Wales"]}
+{"subject": "Bandar Seri Begawan", "object": "Brunei", "taxonomy": ["Florida", "Slovenia", "Croatia", "Uganda", "Massachusetts"]}
+{"subject": "Cheyenne", "object": "Wyoming", "taxonomy": ["Yunnan", "Lithuania", "Bulgaria", "Bhutan", "Spain"]}
+{"subject": "Pamplona", "object": "Navarre", "taxonomy": ["Cambodia", "Crete", "Barbados", "California", "Uzbekistan"]}
+{"subject": "Libreville", "object": "Gabon", "taxonomy": ["Netherlands", "Bangladesh", "Normandy", "Yunnan", "West"]}
+{"subject": "Pristina", "object": "Kosovo", "taxonomy": ["Bhutan", "Ecuador", "Argentina", "Morocco", "Wyoming"]}
+{"subject": "Nuuk", "object": "Greenland", "taxonomy": ["Aragon", "Bahrain", "Turkey", "Serbia", "Guatemala"]}
+{"subject": "Cebu City", "object": "Cebu", "taxonomy": ["Indonesia", "Quebec", "Peru", "Leicestershire", "Uzbekistan"]}
+{"subject": "Winchester", "object": "England", "taxonomy": ["Switzerland", "Taiwan", "Madagascar", "Cebu", "Nord"]}
+{"subject": "Belgrade", "object": "Yugoslavia", "taxonomy": ["Oxfordshire", "Bihar", "Tajikistan", "Ontario", "Flanders"]}
+{"subject": "Hartford", "object": "Connecticut", "taxonomy": ["Kabul", "Morocco", "Croatia", "Nigeria", "Karnataka"]}
+{"subject": "Lima", "object": "Peru", "taxonomy": ["Sarawak", "Bhutan", "Rajasthan", "Somalia", "Slovenia"]}
+{"subject": "Conakry", "object": "Guinea", "taxonomy": ["Telangana", "Laos", "Aragon", "Romania", "Oman"]}
+{"subject": "Los Teques", "object": "Miranda", "taxonomy": ["Sichuan", "Michigan", "Guinea", "Qatar", "Iowa"]}
+{"subject": "Juneau", "object": "Alaska", "taxonomy": ["Normandy", "Indonesia", "Bahrain", "Malta", "Cuba"]}
+{"subject": "Belmopan", "object": "Belize", "taxonomy": ["Benin", "Zambia", "Greenland", "Cyprus", "Karachi"]}
+{"subject": "Gulshan Town", "object": "Karachi", "taxonomy": ["Aragon", "Denmark", "Massachusetts", "Samoa", "Bavaria"]}
+{"subject": "Huacho", "object": "Lima", "taxonomy": ["Qatar", "Kosovo", "Ain", "Bhutan", "Austria"]}
+{"subject": "Sacramento", "object": "California", "taxonomy": ["Dubai", "Lithuania", "Australia", "Belgium", "Papua"]}
+{"subject": "City of London", "object": "England", "taxonomy": ["Utah", "Chile", "Sudan", "Fiji", "Nicaragua"]}
+{"subject": "Kigali", "object": "Rwanda", "taxonomy": ["Mali", "Telangana", "Czechoslovakia", "Nicaragua", "Libya"]}
+{"subject": "Brussels", "object": "Belgium", "taxonomy": ["Greece", "Greenland", "Syria", "Yugoslavia", "Hawaii"]}
+{"subject": "Thimphu", "object": "Bhutan", "taxonomy": ["Zambia", "Warwickshire", "Pakistan", "France", "Benin"]}
+{"subject": "Munich", "object": "Munich", "taxonomy": ["Lagos", "Uzbekistan", "Ireland", "Pennsylvania", "Argentina"]}
+{"subject": "Bukittinggi", "object": "Indonesia", "taxonomy": ["Vietnam", "Romania", "Rwanda", "Maryland", "Antwerp"]}
+{"subject": "Kabul", "object": "Kabul", "taxonomy": ["Sweden", "Cambodia", "Mali", "Argentina", "Chad"]}
+{"subject": "Nauplion", "object": "Greece", "taxonomy": ["Karachi", "Ontario", "Massachusetts", "Luxembourg", "Provence"]}
+{"subject": "Hinche", "object": "Centre", "taxonomy": ["Buckinghamshire", "Lima", "Unity", "Antwerp", "Bihar"]}
+{"subject": "Alba Iulia", "object": "Alba", "taxonomy": ["Florida", "India", "Namibia", "Oxfordshire", "Victoria"]}
+{"subject": "Boise", "object": "Idaho", "taxonomy": ["Netherlands", "Oman", "Tunisia", "Belgium", "Zambia"]}
+{"subject": "Buea", "object": "Southwest", "taxonomy": ["Niger", "Ukraine", "Ontario", "Guangdong", "Yemen"]}
+{"subject": "Nashville", "object": "Tennessee", "taxonomy": ["Guinea", "Netherlands", "Fiji", "Liberia", "Pakistan"]}
+{"subject": "Arlon", "object": "Luxembourg", "taxonomy": ["Guatemala", "Sweden", "California", "Greece", "Namibia"]}
+{"subject": "Salzburg", "object": "Salzburg", "taxonomy": ["Ontario", "Hungary", "Tasmania", "Bolivia", "Colorado"]}
+{"subject": "Jayapura", "object": "Papua", "taxonomy": ["Mauritius", "Ethiopia", "Russia", "Tuscany", "Utah"]}
+{"subject": "Austin", "object": "Texas", "taxonomy": ["Gujarat", "Bihar", "Rhodesia", "Lima", "Panama"]}
+{"subject": "Saint Paul", "object": "Minnesota", "taxonomy": ["Laos", "East", "Barbados", "Unity", "Ukraine"]}
+{"subject": "Muscat", "object": "Oman", "taxonomy": ["Centre", "California", "Senegal", "Azerbaijan", "Rajasthan"]}
+{"subject": "Bertoua", "object": "East", "taxonomy": ["Lima", "Venezuela", "Yemen", "Niger", "Centre"]}
+{"subject": "Bafoussam", "object": "West", "taxonomy": ["Kuwait", "Iraq", "Armenia", "India", "Sarawak"]}
+{"subject": "Tallahassee", "object": "Florida", "taxonomy": ["Buckinghamshire", "Kazakhstan", "Mozambique", "Barbados", "Greenland"]}
+{"subject": "Tbilisi", "object": "Georgia", "taxonomy": ["Connecticut", "Haryana", "Mauritius", "Wales", "Leicestershire"]}
+{"subject": "Vergina", "object": "Macedonia", "taxonomy": ["Buckinghamshire", "Telangana", "Brunei", "Namibia", "Nicaragua"]}
+{"subject": "Brussels", "object": "Flanders", "taxonomy": ["Germany", "Rajasthan", "Ain", "Ontario", "Bari"]}
+{"subject": "Zomba, Malawi", "object": "Malawi", "taxonomy": ["Iowa", "Kerala", "Italy", "Bahrain", "Lima"]}
+{"subject": "Bentiu", "object": "Unity", "taxonomy": ["Bangladesh", "Indiana", "Nigeria", "Kerala", "Montenegro"]}
+{"subject": "Hebron", "object": "Judah", "taxonomy": ["Barbados", "Munich", "Bolivia", "Switzerland", "Tunisia"]}
+{"subject": "Lille", "object": "Nord", "taxonomy": ["Dubai", "Kansas", "Florida", "Greece", "Zimbabwe"]}
+{"subject": "Topeka", "object": "Kansas", "taxonomy": ["Victoria", "Aragon", "Judah", "Benin", "Philippines"]}
+{"subject": "Rumbek", "object": "Lakes", "taxonomy": ["Sarawak", "Salzburg", "Bolivia", "Romania", "Provence"]}
+{"subject": "Bosaso", "object": "Bari", "taxonomy": ["Thailand", "Hesse", "Greenland", "Massachusetts", "Guangdong"]}
+{"subject": "Santiago de Compostela", "object": "Galicia", "taxonomy": ["Haryana", "Scotland", "Malaysia", "Montenegro", "Idaho"]}

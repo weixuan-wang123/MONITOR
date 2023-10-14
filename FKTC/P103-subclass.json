@@ -1,0 +1,978 @@
+{"relations": ["What is the native language of [X]?", "In what language did [X] grow up speaking?", "What is the first language of [X]?", "Which language did [X] learn as their mother tongue?", "Which language did [X] first learn to speak?", "What is [X]'s mother tongue?", "Which language is [X] most fluent in?"]}
+{"subject": "Louis Jules Trochu", "object": "French", "taxonomy": ["Latin", "Malayalam", "Croatian", "Welsh", "Bengali"]}
+{"subject": "Valeria Bruni Tedeschi", "object": "French", "taxonomy": ["Croatian", "Serbian", "Chinese", "Welsh", "Cantonese"]}
+{"subject": "Pierre Messmer", "object": "French", "taxonomy": ["Portuguese", "Danish", "Nepali", "Welsh", "Russian"]}
+{"subject": "Roger Nimier", "object": "French", "taxonomy": ["English", "Telugu", "Swedish", "Hindi", "Marathi"]}
+{"subject": "Andrey Malakhov", "object": "Russian", "taxonomy": ["Japanese", "Hindi", "Armenian", "Belarusian", "Spanish"]}
+{"subject": "Emmanuelle Arsan", "object": "French", "taxonomy": ["German", "Welsh", "Estonian", "Turkish", "Bengali"]}
+{"subject": "Georges Mouton", "object": "French", "taxonomy": ["Marathi", "Russian", "Hungarian", "Hindi", "Dutch"]}
+{"subject": "Nie Weiping", "object": "Chinese", "taxonomy": ["Greek", "Bengali", "Hungarian", "Welsh", "Finnish"]}
+{"subject": "Muppalaneni Shiva", "object": "Telugu", "taxonomy": ["English", "Persian", "German", "Croatian", "Cantonese"]}
+{"subject": "Laurent Lafitte", "object": "French", "taxonomy": ["Hebrew", "Belarusian", "Spanish", "Finnish", "Marathi"]}
+{"subject": "Joseph Reinach", "object": "French", "taxonomy": ["Portuguese", "Cantonese", "Hebrew", "Dutch", "Marathi"]}
+{"subject": "Russians", "object": "Russian", "taxonomy": ["Armenian", "Serbian", "Chinese", "Portuguese", "Finnish"]}
+{"subject": "Claude Aveline", "object": "French", "taxonomy": ["English", "Russian", "Breton", "Japanese", "Persian"]}
+{"subject": "Jan Commelin", "object": "Dutch", "taxonomy": ["Spanish", "Chinese", "Hungarian", "French", "Latin"]}
+{"subject": "Jean Rotrou", "object": "French", "taxonomy": ["Welsh", "Serbian", "Chinese", "Russian", "Romanian"]}
+{"subject": "Laura Smet", "object": "French", "taxonomy": ["Dutch", "Breton", "Polish", "Welsh", "Hindi"]}
+{"subject": "Sara Coleridge", "object": "English", "taxonomy": ["Hebrew", "Persian", "French", "Romanian", "Chinese"]}
+{"subject": "Jean-Antoine Chaptal", "object": "French", "taxonomy": ["Turkish", "Nepali", "Serbian", "Finnish", "Hindi"]}
+{"subject": "Raymond Queneau", "object": "French", "taxonomy": ["Spanish", "Cantonese", "Belarusian", "Armenian", "Estonian"]}
+{"subject": "Fernand David", "object": "French", "taxonomy": ["Croatian", "Polish", "Greek", "Bengali", "Georgian"]}
+{"subject": "Guy Sorman", "object": "French", "taxonomy": ["Georgian", "Telugu", "Persian", "English", "Armenian"]}
+{"subject": "Jean-Luc Marion", "object": "French", "taxonomy": ["English", "Italian", "Armenian", "Chinese", "Breton"]}
+{"subject": "Goncourt brothers", "object": "French", "taxonomy": ["Japanese", "Hindi", "Belarusian", "Cantonese", "Estonian"]}
+{"subject": "Mahesh Babu", "object": "Telugu", "taxonomy": ["Korean", "Welsh", "Polish", "Armenian", "Breton"]}
+{"subject": "Victor de Riqueti, marquis de Mirabeau", "object": "French", "taxonomy": ["Latin", "Cantonese", "Welsh", "Persian", "Croatian"]}
+{"subject": "Gustaaf Schlegel", "object": "Dutch", "taxonomy": ["Georgian", "Telugu", "German", "Swedish", "Chinese"]}
+{"subject": "Dmitry Rybolovlev", "object": "Russian", "taxonomy": ["Greek", "Marathi", "Croatian", "Turkish", "Nepali"]}
+{"subject": "Sophie Marceau", "object": "French", "taxonomy": ["Romanian", "Telugu", "Malayalam", "Latin", "Russian"]}
+{"subject": "Louis-Nicolas Davout", "object": "French", "taxonomy": ["Hindi", "Turkish", "Belarusian", "Indonesian", "Romanian"]}
+{"subject": "Paul-Jean Toulet", "object": "French", "taxonomy": ["Russian", "Tamil", "Finnish", "Malayalam", "Hebrew"]}
+{"subject": "Adrien Duport", "object": "French", "taxonomy": ["Hebrew", "Malayalam", "Cantonese", "Finnish", "Hungarian"]}
+{"subject": "Lionel Jospin", "object": "French", "taxonomy": ["Armenian", "Indonesian", "Serbian", "Hebrew", "Italian"]}
+{"subject": "Dmitry Malikov", "object": "Russian", "taxonomy": ["Croatian", "Latin", "Hebrew", "Portuguese", "Marathi"]}
+{"subject": "Michel Bouquet", "object": "French", "taxonomy": ["Malayalam", "Indonesian", "Turkish", "Armenian", "Breton"]}
+{"subject": "William Henry Harrison", "object": "English", "taxonomy": ["Estonian", "Georgian", "Welsh", "French", "Croatian"]}
+{"subject": "Jean Rouch", "object": "French", "taxonomy": ["English", "Indonesian", "Finnish", "Romanian", "Estonian"]}
+{"subject": "Alain Delon", "object": "French", "taxonomy": ["Telugu", "Latin", "Cantonese", "Italian", "Greek"]}
+{"subject": "Alfred Marie-Jeanne", "object": "French", "taxonomy": ["English", "Breton", "Indonesian", "Serbian", "Danish"]}
+{"subject": "Philippe de Mornay", "object": "French", "taxonomy": ["Indonesian", "Romanian", "Spanish", "Turkish", "Chinese"]}
+{"subject": "Michel de Montaigne", "object": "Latin", "taxonomy": ["Georgian", "Japanese", "Hindi", "French", "Korean"]}
+{"subject": "Yevgeny Yevtushenko", "object": "Russian", "taxonomy": ["Korean", "Spanish", "Japanese", "Italian", "Cantonese"]}
+{"subject": "Mukesh", "object": "Malayalam", "taxonomy": ["Spanish", "Portuguese", "English", "Welsh", "Polish"]}
+{"subject": "Pierre Alcover", "object": "French", "taxonomy": ["Korean", "Spanish", "Serbian", "Greek", "Armenian"]}
+{"subject": "Pierre-Alexandre-Laurent Forfait", "object": "French", "taxonomy": ["Finnish", "Georgian", "Breton", "Spanish", "Marathi"]}
+{"subject": "Imanol Arias", "object": "Spanish", "taxonomy": ["Hindi", "Bengali", "Telugu", "German", "Malayalam"]}
+{"subject": "Marthe Mellot", "object": "French", "taxonomy": ["Belarusian", "Japanese", "Estonian", "Georgian", "Malayalam"]}
+{"subject": "Daniel Ceccaldi", "object": "French", "taxonomy": ["Chinese", "Greek", "Nepali", "Korean", "Danish"]}
+{"subject": "Jean-Pierre Marielle", "object": "French", "taxonomy": ["Cantonese", "Romanian", "Portuguese", "Armenian", "Tamil"]}
+{"subject": "Patrick Topaloff", "object": "French", "taxonomy": ["English", "Welsh", "Hindi", "Japanese", "Indonesian"]}
+{"subject": "John Paul II", "object": "Polish", "taxonomy": ["Georgian", "Welsh", "Marathi", "Hebrew", "Estonian"]}
+{"subject": "Henry de Montherlant", "object": "French", "taxonomy": ["Portuguese", "Finnish", "Latin", "Chinese", "Indonesian"]}
+{"subject": "Charles Le Goffic", "object": "Breton", "taxonomy": ["Danish", "Portuguese", "Georgian", "Romanian", "Japanese"]}
+{"subject": "Pingali Nagendrarao", "object": "Telugu", "taxonomy": ["Greek", "Hebrew", "Portuguese", "Croatian", "Cantonese"]}
+{"subject": "Jacques Laurent", "object": "French", "taxonomy": ["Indonesian", "Malayalam", "Swedish", "Armenian", "Nepali"]}
+{"subject": "Nikolai Bukharin", "object": "Russian", "taxonomy": ["Estonian", "Bengali", "Dutch", "Serbian", "Romanian"]}
+{"subject": "Gerrit Komrij", "object": "Dutch", "taxonomy": ["Russian", "Welsh", "Georgian", "Swedish", "Portuguese"]}
+{"subject": "Jan Wils", "object": "Dutch", "taxonomy": ["Malayalam", "Breton", "Danish", "Estonian", "Japanese"]}
+{"subject": "Maurice Renard", "object": "French", "taxonomy": ["Bengali", "Hungarian", "Nepali", "Portuguese", "Chinese"]}
+{"subject": "Jean Rostand", "object": "French", "taxonomy": ["Turkish", "Latin", "Chinese", "Dutch", "Welsh"]}
+{"subject": "Fernand Gravey", "object": "French", "taxonomy": ["German", "Korean", "Russian", "Estonian", "Serbian"]}
+{"subject": "Michael of Romania", "object": "English", "taxonomy": ["Italian", "Welsh", "Finnish", "Korean", "Tamil"]}
+{"subject": "Jules Paul Benjamin Delessert", "object": "French", "taxonomy": ["Nepali", "Portuguese", "Tamil", "Croatian", "Japanese"]}
+{"subject": "Jean Claudio", "object": "French", "taxonomy": ["Indonesian", "Marathi", "Italian", "Hungarian", "Armenian"]}
+{"subject": "Christophe Hondelatte", "object": "French", "taxonomy": ["Romanian", "Portuguese", "Georgian", "Hebrew", "Italian"]}
+{"subject": "Bruno Cremer", "object": "French", "taxonomy": ["Japanese", "Belarusian", "Marathi", "Armenian", "Polish"]}
+{"subject": "Henri Vidal", "object": "French", "taxonomy": ["Swedish", "Hindi", "Estonian", "Romanian", "Korean"]}
+{"subject": "Louis Gallet", "object": "French", "taxonomy": ["Hebrew", "Armenian", "German", "Hindi", "Belarusian"]}
+{"subject": "Ville Haapasalo", "object": "Russian", "taxonomy": ["Serbian", "Breton", "German", "Chinese", "Portuguese"]}
+{"subject": "Claude Gensac", "object": "French", "taxonomy": ["Japanese", "Italian", "Nepali", "Belarusian", "Hungarian"]}
+{"subject": "Lindsey Davis", "object": "English", "taxonomy": ["Welsh", "Portuguese", "Breton", "Dutch", "Spanish"]}
+{"subject": "Orane Demazis", "object": "French", "taxonomy": ["Korean", "Italian", "Cantonese", "Serbian", "Malayalam"]}
+{"subject": "S. V. Ranga Rao", "object": "Telugu", "taxonomy": ["Turkish", "Belarusian", "Polish", "Finnish", "Romanian"]}
+{"subject": "Guy Hocquenghem", "object": "French", "taxonomy": ["Croatian", "Estonian", "Georgian", "Breton", "Bengali"]}
+{"subject": "Gilles Quispel", "object": "Dutch", "taxonomy": ["Armenian", "Japanese", "German", "Estonian", "Italian"]}
+{"subject": "Stefanos Stratigos", "object": "Greek", "taxonomy": ["Armenian", "Malayalam", "Croatian", "Romanian", "Marathi"]}
+{"subject": "Michael Albert", "object": "English", "taxonomy": ["French", "Portuguese", "Serbian", "Nepali", "Cantonese"]}
+{"subject": "Michele Bartoli", "object": "Italian", "taxonomy": ["Croatian", "Romanian", "Polish", "Marathi", "French"]}
+{"subject": "Pierre Jolivet", "object": "French", "taxonomy": ["Danish", "Italian", "Hungarian", "Georgian", "Welsh"]}
+{"subject": "Roger Duchesne", "object": "French", "taxonomy": ["Georgian", "Korean", "Cantonese", "Tamil", "Russian"]}
+{"subject": "Alexandra Marinina", "object": "Russian", "taxonomy": ["Latin", "Marathi", "Portuguese", "English", "Cantonese"]}
+{"subject": "Adriaan van Dis", "object": "Dutch", "taxonomy": ["Latin", "Marathi", "Danish", "English", "Greek"]}
+{"subject": "Andy Lau", "object": "Cantonese", "taxonomy": ["Persian", "German", "Chinese", "English", "Serbian"]}
+{"subject": "Ginette Leclerc", "object": "French", "taxonomy": ["Nepali", "Polish", "Dutch", "Hungarian", "Japanese"]}
+{"subject": "Daniel-Rops", "object": "French", "taxonomy": ["Serbian", "Hebrew", "Japanese", "Nepali", "Dutch"]}
+{"subject": "Christophe Moreau", "object": "French", "taxonomy": ["Marathi", "Russian", "Hindi", "Persian", "Indonesian"]}
+{"subject": "Ann Scott", "object": "French", "taxonomy": ["Estonian", "Marathi", "Latin", "Armenian", "Chinese"]}
+{"subject": "Franz-Olivier Giesbert", "object": "French", "taxonomy": ["Italian", "Hebrew", "German", "Korean", "Danish"]}
+{"subject": "Tonino Benacquista", "object": "French", "taxonomy": ["Italian", "Estonian", "English", "Spanish", "Portuguese"]}
+{"subject": "Joachim Lebreton", "object": "French", "taxonomy": ["Indonesian", "Telugu", "Hungarian", "Georgian", "Finnish"]}
+{"subject": "Nikolay Strakhov", "object": "Russian", "taxonomy": ["Chinese", "Greek", "Indonesian", "Turkish", "Tamil"]}
+{"subject": "Twm o'r Nant", "object": "Welsh", "taxonomy": ["Turkish", "Swedish", "Finnish", "Georgian", "Croatian"]}
+{"subject": "Paul Bonifas", "object": "French", "taxonomy": ["Belarusian", "Marathi", "Bengali", "Persian", "Hindi"]}
+{"subject": "Jacques Charles Dupont de l'Eure", "object": "French", "taxonomy": ["Armenian", "Hindi", "Korean", "Breton", "Georgian"]}
+{"subject": "Jacques MacDonald", "object": "French", "taxonomy": ["Spanish", "Japanese", "Serbian", "Hindi", "Russian"]}
+{"subject": "Lionel Messi", "object": "Spanish", "taxonomy": ["Marathi", "Dutch", "Polish", "Malayalam", "German"]}
+{"subject": "Michel-Jean Sedaine", "object": "French", "taxonomy": ["Hindi", "Hebrew", "Marathi", "Polish", "Chinese"]}
+{"subject": "Franz Kafka", "object": "German", "taxonomy": ["Malayalam", "Russian", "Croatian", "Welsh", "Serbian"]}
+{"subject": "Anatole France", "object": "French", "taxonomy": ["Persian", "Portuguese", "Greek", "Cantonese", "Chinese"]}
+{"subject": "Vera Brezhneva", "object": "Russian", "taxonomy": ["Danish", "Finnish", "Dutch", "Serbian", "French"]}
+{"subject": "Achille Varzi", "object": "Italian", "taxonomy": ["Greek", "Hebrew", "Chinese", "Belarusian", "German"]}
+{"subject": "Babu Mohan", "object": "Telugu", "taxonomy": ["Swedish", "Marathi", "Croatian", "Greek", "English"]}
+{"subject": "Marcel Vibert", "object": "French", "taxonomy": ["Cantonese", "Spanish", "Estonian", "Polish", "Greek"]}
+{"subject": "Rama Prabha", "object": "Telugu", "taxonomy": ["Portuguese", "Marathi", "English", "Croatian", "Estonian"]}
+{"subject": "Jean Marais", "object": "French", "taxonomy": ["Estonian", "Italian", "Finnish", "Croatian", "Portuguese"]}
+{"subject": "Jean-Marie Guyau", "object": "French", "taxonomy": ["Serbian", "Hebrew", "Korean", "Polish", "Bengali"]}
+{"subject": "Michel Delebarre", "object": "French", "taxonomy": ["Persian", "Hungarian", "Danish", "Hebrew", "Bengali"]}
+{"subject": "Victor de Laprade", "object": "French", "taxonomy": ["Malayalam", "Polish", "Japanese", "Cantonese", "Swedish"]}
+{"subject": "Firmin Abauzit", "object": "French", "taxonomy": ["Finnish", "English", "Nepali", "Latin", "Armenian"]}
+{"subject": "Dasaradhi", "object": "Telugu", "taxonomy": ["Malayalam", "Armenian", "Polish", "Marathi", "Danish"]}
+{"subject": "S. S. Rajamouli", "object": "Telugu", "taxonomy": ["Breton", "Dutch", "Romanian", "Hebrew", "Polish"]}
+{"subject": "Oleg Kotov", "object": "Russian", "taxonomy": ["Hindi", "Chinese", "German", "Spanish", "Romanian"]}
+{"subject": "Jean-Paul Sartre", "object": "French", "taxonomy": ["Russian", "Dutch", "Hungarian", "German", "Finnish"]}
+{"subject": "Louis Jourdan", "object": "French", "taxonomy": ["Korean", "Russian", "Portuguese", "Dutch", "Marathi"]}
+{"subject": "Evert Willem Beth", "object": "Dutch", "taxonomy": ["Hebrew", "Estonian", "Swedish", "Cantonese", "Welsh"]}
+{"subject": "Michel Poniatowski", "object": "French", "taxonomy": ["Italian", "Persian", "Hebrew", "Latin", "German"]}
+{"subject": "Seamus Heaney", "object": "English", "taxonomy": ["Estonian", "Polish", "Dutch", "Cantonese", "Japanese"]}
+{"subject": "Alexander Pushkin", "object": "Russian", "taxonomy": ["Japanese", "French", "Breton", "Danish", "Italian"]}
+{"subject": "Marc-Philippe Daubresse", "object": "French", "taxonomy": ["Russian", "Spanish", "Nepali", "German", "Portuguese"]}
+{"subject": "Myriam Bru", "object": "French", "taxonomy": ["Tamil", "Welsh", "Russian", "Spanish", "English"]}
+{"subject": "Robert Garnier", "object": "French", "taxonomy": ["Latin", "Danish", "English", "Estonian", "Russian"]}
+{"subject": "Andy Murray", "object": "English", "taxonomy": ["Indonesian", "Tamil", "Chinese", "Malayalam", "Dutch"]}
+{"subject": "Alphonse Pyramus de Candolle", "object": "French", "taxonomy": ["Tamil", "Russian", "Indonesian", "Latin", "Persian"]}
+{"subject": "Georges Courteline", "object": "French", "taxonomy": ["Telugu", "Greek", "Serbian", "English", "Marathi"]}
+{"subject": "Agoston Haraszthy", "object": "Hungarian", "taxonomy": ["Swedish", "Estonian", "Marathi", "Greek", "Telugu"]}
+{"subject": "Pierre Blanchar", "object": "French", "taxonomy": ["Swedish", "Italian", "Persian", "Bengali", "Armenian"]}
+{"subject": "Claude Henri de Rouvroy, comte de Saint-Simon", "object": "French", "taxonomy": ["Hungarian", "Japanese", "Chinese", "Turkish", "Greek"]}
+{"subject": "Sourou-Migan Apithy", "object": "French", "taxonomy": ["Chinese", "Italian", "Persian", "Hungarian", "Armenian"]}
+{"subject": "Christine Boisson", "object": "French", "taxonomy": ["Croatian", "Danish", "Romanian", "Hindi", "Cantonese"]}
+{"subject": "Jean Rollin", "object": "French", "taxonomy": ["Indonesian", "Armenian", "Bengali", "Dutch", "Marathi"]}
+{"subject": "Thierry Lhermitte", "object": "French", "taxonomy": ["Italian", "Serbian", "Nepali", "Portuguese", "Latin"]}
+{"subject": "Miho Mosulishvili", "object": "Georgian", "taxonomy": ["French", "English", "Cantonese", "Hebrew", "Portuguese"]}
+{"subject": "John Calvin", "object": "French", "taxonomy": ["Telugu", "Italian", "Dutch", "Japanese", "Tamil"]}
+{"subject": "Pierre Pelot", "object": "French", "taxonomy": ["Breton", "Telugu", "Latin", "Belarusian", "Dutch"]}
+{"subject": "Louis Legendre", "object": "French", "taxonomy": ["Persian", "Marathi", "Bengali", "Belarusian", "Latin"]}
+{"subject": "Christian Bouchet", "object": "French", "taxonomy": ["Welsh", "Romanian", "Breton", "Chinese", "Latin"]}
+{"subject": "Cees Nooteboom", "object": "Dutch", "taxonomy": ["Portuguese", "Chinese", "French", "Tamil", "Telugu"]}
+{"subject": "Henricus Hondius II", "object": "Dutch", "taxonomy": ["Hungarian", "English", "Korean", "Finnish", "Breton"]}
+{"subject": "Fernand Ledoux", "object": "French", "taxonomy": ["Finnish", "Cantonese", "Marathi", "Welsh", "Armenian"]}
+{"subject": "Milly Mathis", "object": "French", "taxonomy": ["Dutch", "Malayalam", "Hebrew", "Serbian", "Tamil"]}
+{"subject": "Boris Kochno", "object": "French", "taxonomy": ["Dutch", "Telugu", "Latin", "Romanian", "Persian"]}
+{"subject": "Angelica Agurbash", "object": "Russian", "taxonomy": ["Swedish", "Bengali", "Korean", "Latin", "German"]}
+{"subject": "Oleg Skripochka", "object": "Russian", "taxonomy": ["Danish", "Polish", "Indonesian", "Marathi", "Chinese"]}
+{"subject": "Fredrika Bremer", "object": "Swedish", "taxonomy": ["Danish", "Nepali", "Turkish", "Cantonese", "Portuguese"]}
+{"subject": "Korney Chukovsky", "object": "Russian", "taxonomy": ["Italian", "Malayalam", "German", "Nepali", "Greek"]}
+{"subject": "Peter Kassovitz", "object": "French", "taxonomy": ["Bengali", "Turkish", "Italian", "Cantonese", "Nepali"]}
+{"subject": "Gaby Morlay", "object": "French", "taxonomy": ["Dutch", "Danish", "Belarusian", "Swedish", "Estonian"]}
+{"subject": "Gabrielle Fontan", "object": "French", "taxonomy": ["Tamil", "Danish", "Portuguese", "Latin", "Hungarian"]}
+{"subject": "Dmitry Merezhkovsky", "object": "Russian", "taxonomy": ["Breton", "Latin", "Estonian", "Armenian", "Nepali"]}
+{"subject": "Mabrouk El Mechri", "object": "French", "taxonomy": ["Estonian", "Georgian", "Telugu", "Indonesian", "Dutch"]}
+{"subject": "Claude Victor-Perrin, Duc de Belluno", "object": "French", "taxonomy": ["German", "Hungarian", "Croatian", "Georgian", "Hebrew"]}
+{"subject": "Roger Hanin", "object": "French", "taxonomy": ["Telugu", "Polish", "Japanese", "Romanian", "Bengali"]}
+{"subject": "Roland Armontel", "object": "French", "taxonomy": ["Swedish", "Greek", "Malayalam", "Hungarian", "Cantonese"]}
+{"subject": "Viacheslav Belavkin", "object": "Russian", "taxonomy": ["Finnish", "Italian", "English", "Malayalam", "Bengali"]}
+{"subject": "Michel Godard", "object": "French", "taxonomy": ["Russian", "Finnish", "Romanian", "Greek", "Breton"]}
+{"subject": "Edmond Michelet", "object": "French", "taxonomy": ["Korean", "Armenian", "English", "Danish", "Marathi"]}
+{"subject": "Adurthi Subba Rao", "object": "Telugu", "taxonomy": ["Malayalam", "Italian", "Tamil", "Greek", "Hungarian"]}
+{"subject": "Jacques Toubon", "object": "French", "taxonomy": ["Tamil", "Georgian", "Serbian", "Italian", "Finnish"]}
+{"subject": "Maurice Bucaille", "object": "French", "taxonomy": ["Spanish", "English", "Croatian", "Hindi", "Finnish"]}
+{"subject": "Martine Brochard", "object": "French", "taxonomy": ["Swedish", "Georgian", "Telugu", "Tamil", "Spanish"]}
+{"subject": "Marcelin Pleynet", "object": "French", "taxonomy": ["Telugu", "Georgian", "English", "Chinese", "Hungarian"]}
+{"subject": "Armand Trousseau", "object": "French", "taxonomy": ["Latin", "Bengali", "Hebrew", "Greek", "English"]}
+{"subject": "Kozma Prutkov", "object": "Russian", "taxonomy": ["Hebrew", "Armenian", "Serbian", "Marathi", "Turkish"]}
+{"subject": "Sylvia Lopez", "object": "French", "taxonomy": ["Portuguese", "Georgian", "Finnish", "Hungarian", "Spanish"]}
+{"subject": "Georges Perec", "object": "French", "taxonomy": ["Swedish", "Telugu", "Marathi", "Breton", "Chinese"]}
+{"subject": "Lee Chang-dong", "object": "Korean", "taxonomy": ["Breton", "Croatian", "Portuguese", "Spanish", "Armenian"]}
+{"subject": "Pierre Fresnay", "object": "French", "taxonomy": ["Russian", "Estonian", "English", "Turkish", "Portuguese"]}
+{"subject": "William-Adolphe Bouguereau", "object": "French", "taxonomy": ["Portuguese", "Swedish", "Indonesian", "Marathi", "German"]}
+{"subject": "Park Bum-shin", "object": "Korean", "taxonomy": ["Russian", "Japanese", "Hindi", "Cantonese", "Chinese"]}
+{"subject": "Ram Gopal Varma", "object": "Telugu", "taxonomy": ["Portuguese", "Chinese", "Romanian", "Marathi", "Greek"]}
+{"subject": "Constantijn Huygens", "object": "Dutch", "taxonomy": ["Hungarian", "Tamil", "Swedish", "Croatian", "Bengali"]}
+{"subject": "Lannick Gautry", "object": "French", "taxonomy": ["Polish", "Nepali", "Bengali", "Danish", "Indonesian"]}
+{"subject": "Jean Reno", "object": "French", "taxonomy": ["Marathi", "Cantonese", "Spanish", "Turkish", "German"]}
+{"subject": "Christine Albanel", "object": "French", "taxonomy": ["Persian", "Serbian", "Chinese", "Russian", "Danish"]}
+{"subject": "Pietro Mennea", "object": "Italian", "taxonomy": ["Cantonese", "German", "Telugu", "Turkish", "Chinese"]}
+{"subject": "Michel Etcheverry", "object": "French", "taxonomy": ["Korean", "Cantonese", "German", "Marathi", "Dutch"]}
+{"subject": "Audrey Tautou", "object": "French", "taxonomy": ["Estonian", "Belarusian", "Marathi", "Swedish", "Russian"]}
+{"subject": "Dmitry Muratov", "object": "Russian", "taxonomy": ["Danish", "Cantonese", "German", "Romanian", "Hindi"]}
+{"subject": "Geoff Dyer", "object": "English", "taxonomy": ["Malayalam", "Greek", "Polish", "Nepali", "Tamil"]}
+{"subject": "Marcel Ichac", "object": "French", "taxonomy": ["Marathi", "Greek", "Polish", "Croatian", "German"]}
+{"subject": "Polina Zherebtsova", "object": "Russian", "taxonomy": ["Romanian", "Italian", "Japanese", "Hebrew", "Portuguese"]}
+{"subject": "J. Robert Oppenheimer", "object": "English", "taxonomy": ["Greek", "Hebrew", "Breton", "Cantonese", "Japanese"]}
+{"subject": "Alain Robbe-Grillet", "object": "French", "taxonomy": ["Estonian", "Tamil", "Turkish", "Korean", "Hindi"]}
+{"subject": "Bernadette Lafont", "object": "French", "taxonomy": ["Korean", "Malayalam", "Romanian", "Dutch", "Hindi"]}
+{"subject": "Eugene Roshal", "object": "Russian", "taxonomy": ["Greek", "Dutch", "Bengali", "Estonian", "Tamil"]}
+{"subject": "Louis Edmond Duranty", "object": "French", "taxonomy": ["English", "Bengali", "Indonesian", "Georgian", "Marathi"]}
+{"subject": "Viktor Bychkov", "object": "Russian", "taxonomy": ["Polish", "Romanian", "Nepali", "Telugu", "Hebrew"]}
+{"subject": "Jean-Baptiste Solignac", "object": "French", "taxonomy": ["Armenian", "Croatian", "Romanian", "Malayalam", "Belarusian"]}
+{"subject": "Olivier Marchal", "object": "French", "taxonomy": ["Croatian", "Hindi", "Welsh", "Polish", "Latin"]}
+{"subject": "Ingrian Finns", "object": "Finnish", "taxonomy": ["English", "Hebrew", "French", "Indonesian", "Japanese"]}
+{"subject": "Manuel Blanc", "object": "French", "taxonomy": ["Estonian", "Japanese", "Tamil", "Telugu", "Spanish"]}
+{"subject": "Erick van Egeraat", "object": "Dutch", "taxonomy": ["Hindi", "Portuguese", "Welsh", "Cantonese", "Georgian"]}
+{"subject": "Gwen Stefani", "object": "English", "taxonomy": ["Finnish", "Italian", "Persian", "Greek", "Spanish"]}
+{"subject": "Ivan Ivanov-Vano", "object": "Russian", "taxonomy": ["Breton", "Latin", "Turkish", "Cantonese", "Korean"]}
+{"subject": "Claude Ribbe", "object": "French", "taxonomy": ["English", "Welsh", "Cantonese", "Romanian", "Portuguese"]}
+{"subject": "Pyotr Vyazemsky", "object": "Russian", "taxonomy": ["Hindi", "Welsh", "English", "Cantonese", "Romanian"]}
+{"subject": "William Habington", "object": "English", "taxonomy": ["Hindi", "Korean", "Estonian", "Finnish", "Romanian"]}
+{"subject": "George Sluizer", "object": "Dutch", "taxonomy": ["Hebrew", "Hungarian", "Persian", "Belarusian", "German"]}
+{"subject": "Olympe de Gouges", "object": "French", "taxonomy": ["Japanese", "Italian", "Nepali", "Marathi", "Hebrew"]}
+{"subject": "Christopher Smart", "object": "English", "taxonomy": ["Korean", "Italian", "Hungarian", "Hindi", "Belarusian"]}
+{"subject": "David Beckham", "object": "English", "taxonomy": ["German", "Russian", "Chinese", "Dutch", "Latin"]}
+{"subject": "Blaise Pascal", "object": "French", "taxonomy": ["Greek", "Tamil", "Malayalam", "Swedish", "Indonesian"]}
+{"subject": "Pierre Magnier", "object": "French", "taxonomy": ["Croatian", "Finnish", "Breton", "Polish", "Hebrew"]}
+{"subject": "Odette Joyeux", "object": "French", "taxonomy": ["Turkish", "Korean", "Persian", "Russian", "Malayalam"]}
+{"subject": "Kad Merad", "object": "French", "taxonomy": ["Breton", "Spanish", "Tamil", "Bengali", "Swedish"]}
+{"subject": "Maurice Schutz", "object": "French", "taxonomy": ["Georgian", "Persian", "Greek", "Japanese", "English"]}
+{"subject": "Bernard Giraudeau", "object": "French", "taxonomy": ["Malayalam", "Spanish", "Korean", "Chinese", "Dutch"]}
+{"subject": "Pierre Trabaud", "object": "French", "taxonomy": ["Indonesian", "Portuguese", "Bengali", "Hungarian", "Cantonese"]}
+{"subject": "Georges Leygues", "object": "French", "taxonomy": ["Armenian", "Greek", "Danish", "Chinese", "Romanian"]}
+{"subject": "Vladimir Bekhterev", "object": "Russian", "taxonomy": ["Chinese", "French", "Hindi", "Greek", "Telugu"]}
+{"subject": "Jenson Button", "object": "English", "taxonomy": ["Telugu", "Romanian", "Russian", "Estonian", "Swedish"]}
+{"subject": "Pierre Louis Prieur", "object": "French", "taxonomy": ["Persian", "Serbian", "Telugu", "Russian", "Bengali"]}
+{"subject": "Isaac Massa", "object": "Dutch", "taxonomy": ["German", "Tamil", "Polish", "Finnish", "Cantonese"]}
+{"subject": "Jean Giraudoux", "object": "French", "taxonomy": ["Belarusian", "Marathi", "Telugu", "English", "Italian"]}
+{"subject": "Aleksei Dikiy", "object": "Russian", "taxonomy": ["Cantonese", "Estonian", "Chinese", "Dutch", "Portuguese"]}
+{"subject": "Clovis Cornillac", "object": "French", "taxonomy": ["Tamil", "Greek", "Nepali", "Telugu", "Korean"]}
+{"subject": "Antonietta Di Martino", "object": "Italian", "taxonomy": ["Marathi", "French", "English", "Croatian", "Serbian"]}
+{"subject": "Anna Bijns", "object": "Dutch", "taxonomy": ["Russian", "English", "Armenian", "Italian", "Polish"]}
+{"subject": "Bernard Menez", "object": "French", "taxonomy": ["Swedish", "Greek", "Estonian", "Spanish", "Indonesian"]}
+{"subject": "Danielle Darrieux", "object": "French", "taxonomy": ["Swedish", "Bengali", "Persian", "Turkish", "Spanish"]}
+{"subject": "Pauline Lafont", "object": "French", "taxonomy": ["Estonian", "Croatian", "Romanian", "Hebrew", "Georgian"]}
+{"subject": "Roman Karmen", "object": "Russian", "taxonomy": ["Georgian", "Greek", "Hungarian", "Japanese", "Malayalam"]}
+{"subject": "Pierre Reverdy", "object": "French", "taxonomy": ["Nepali", "Bengali", "Telugu", "Estonian", "Persian"]}
+{"subject": "Venu Thottempudi", "object": "Telugu", "taxonomy": ["Nepali", "Hungarian", "Greek", "Malayalam", "Italian"]}
+{"subject": "Fyodor Pavlovich Reshetnikov", "object": "Russian", "taxonomy": ["Turkish", "Nepali", "Hindi", "Hungarian", "Hebrew"]}
+{"subject": "Ewa Farna", "object": "Polish", "taxonomy": ["Portuguese", "Breton", "Swedish", "Spanish", "Marathi"]}
+{"subject": "Ercole Baldini", "object": "Italian", "taxonomy": ["Bengali", "Korean", "Breton", "Japanese", "Tamil"]}
+{"subject": "Pierre Bayle", "object": "French", "taxonomy": ["Spanish", "Croatian", "Polish", "Romanian", "Georgian"]}
+{"subject": "Nikolay Akimov", "object": "Russian", "taxonomy": ["Danish", "Welsh", "Armenian", "Swedish", "Indonesian"]}
+{"subject": "Gennady Zyuganov", "object": "Russian", "taxonomy": ["Hungarian", "Armenian", "Korean", "Marathi", "Portuguese"]}
+{"subject": "Jean Gaven", "object": "French", "taxonomy": ["Korean", "Finnish", "Danish", "Romanian", "Spanish"]}
+{"subject": "Kool Shen", "object": "French", "taxonomy": ["English", "Finnish", "Armenian", "Polish", "Nepali"]}
+{"subject": "Pierre Bec", "object": "French", "taxonomy": ["Persian", "Korean", "Indonesian", "Breton", "Japanese"]}
+{"subject": "Dominique Besnehard", "object": "French", "taxonomy": ["Hebrew", "Tamil", "Japanese", "German", "Romanian"]}
+{"subject": "Gerard Bilders", "object": "Dutch", "taxonomy": ["Hebrew", "Turkish", "Persian", "Danish", "Hindi"]}
+{"subject": "Joseph Laniel", "object": "French", "taxonomy": ["Spanish", "Telugu", "Nepali", "Latin", "Breton"]}
+{"subject": "Hamidou Benmassoud", "object": "French", "taxonomy": ["Chinese", "Estonian", "Finnish", "Hebrew", "Welsh"]}
+{"subject": "Henri Gault", "object": "French", "taxonomy": ["Persian", "Cantonese", "Greek", "Italian", "Russian"]}
+{"subject": "Olivier Messiaen", "object": "French", "taxonomy": ["Polish", "Romanian", "Breton", "Persian", "Russian"]}
+{"subject": "Leo Klejn", "object": "Russian", "taxonomy": ["Cantonese", "Hindi", "Spanish", "Turkish", "Estonian"]}
+{"subject": "Victor Horta", "object": "Dutch", "taxonomy": ["Nepali", "Hebrew", "Polish", "Spanish", "Japanese"]}
+{"subject": "Miguel de Cervantes", "object": "Spanish", "taxonomy": ["Greek", "Croatian", "Russian", "Chinese", "Finnish"]}
+{"subject": "Woodrow Wilson", "object": "English", "taxonomy": ["Breton", "Serbian", "Telugu", "Welsh", "Hungarian"]}
+{"subject": "Alexander Butlerov", "object": "Russian", "taxonomy": ["Indonesian", "Danish", "Portuguese", "Swedish", "Serbian"]}
+{"subject": "Oleg Novitskiy", "object": "Russian", "taxonomy": ["Japanese", "German", "Armenian", "Danish", "Serbian"]}
+{"subject": "Marc Caro", "object": "French", "taxonomy": ["Hebrew", "Polish", "German", "Serbian", "Spanish"]}
+{"subject": "Robert Jan van Pelt", "object": "Dutch", "taxonomy": ["Russian", "Hebrew", "Tamil", "Romanian", "Hindi"]}
+{"subject": "Alexander Lebedev", "object": "Russian", "taxonomy": ["Turkish", "Georgian", "Finnish", "Greek", "Breton"]}
+{"subject": "Augustin Barruel", "object": "French", "taxonomy": ["Georgian", "Croatian", "Chinese", "Bengali", "Portuguese"]}
+{"subject": "Maurice Poli", "object": "French", "taxonomy": ["Russian", "Swedish", "Bengali", "Belarusian", "Tamil"]}
+{"subject": "Nikolai Luzin", "object": "Russian", "taxonomy": ["Persian", "Dutch", "Japanese", "Armenian", "Croatian"]}
+{"subject": "Patrick Devedjian", "object": "French", "taxonomy": ["Polish", "German", "Indonesian", "Greek", "Belarusian"]}
+{"subject": "Jean Paulhan", "object": "French", "taxonomy": ["Nepali", "English", "Persian", "Chinese", "Japanese"]}
+{"subject": "Romain Duris", "object": "French", "taxonomy": ["Hungarian", "Bengali", "Serbian", "Telugu", "Armenian"]}
+{"subject": "Thom Hoffman", "object": "Dutch", "taxonomy": ["Breton", "Serbian", "Persian", "Croatian", "Hungarian"]}
+{"subject": "Anna Kournikova", "object": "Russian", "taxonomy": ["Hindi", "Bengali", "French", "Finnish", "Belarusian"]}
+{"subject": "Alice Delysia", "object": "French", "taxonomy": ["Marathi", "Latin", "Chinese", "Finnish", "Hebrew"]}
+{"subject": "Coralie Trinh Thi", "object": "French", "taxonomy": ["Latin", "Persian", "Italian", "Georgian", "Hindi"]}
+{"subject": "Catherine Rouvel", "object": "French", "taxonomy": ["Cantonese", "Marathi", "Malayalam", "Spanish", "Russian"]}
+{"subject": "Isabelle Caro", "object": "French", "taxonomy": ["Nepali", "Marathi", "Welsh", "English", "Bengali"]}
+{"subject": "Nagendra Babu", "object": "Telugu", "taxonomy": ["Hindi", "Bengali", "Hungarian", "German", "Serbian"]}
+{"subject": "Francis Jammes", "object": "French", "taxonomy": ["Persian", "Belarusian", "Malayalam", "Chinese", "Latin"]}
+{"subject": "Bam Margera", "object": "English", "taxonomy": ["Hungarian", "Breton", "Korean", "Hebrew", "Chinese"]}
+{"subject": "Jean-Marie Cavada", "object": "French", "taxonomy": ["Spanish", "Persian", "Chinese", "Hebrew", "Nepali"]}
+{"subject": "Henri Garat", "object": "French", "taxonomy": ["Bengali", "Polish", "Finnish", "Cantonese", "Belarusian"]}
+{"subject": "Jacques Attali", "object": "French", "taxonomy": ["Latin", "Danish", "Portuguese", "Tamil", "Persian"]}
+{"subject": "Camille de Casabianca", "object": "French", "taxonomy": ["Hindi", "Romanian", "Armenian", "German", "Cantonese"]}
+{"subject": "Daniel Ivernel", "object": "French", "taxonomy": ["Turkish", "Polish", "Serbian", "Persian", "Breton"]}
+{"subject": "Frans G. Bengtsson", "object": "Swedish", "taxonomy": ["Cantonese", "Japanese", "Armenian", "Serbian", "Malayalam"]}
+{"subject": "Tina Turner", "object": "English", "taxonomy": ["Greek", "Romanian", "Belarusian", "Danish", "Italian"]}
+{"subject": "Riebeeck Jan Van", "object": "Dutch", "taxonomy": ["Turkish", "German", "Finnish", "Spanish", "Serbian"]}
+{"subject": "Fred Vargas", "object": "French", "taxonomy": ["Finnish", "Belarusian", "English", "Latin", "Welsh"]}
+{"subject": "Mithat Bayrak", "object": "Turkish", "taxonomy": ["Indonesian", "Polish", "Dutch", "English", "Persian"]}
+{"subject": "Marcel Schwob", "object": "French", "taxonomy": ["Georgian", "Greek", "Portuguese", "Russian", "Malayalam"]}
+{"subject": "Zelimkhan Yandarbiyev", "object": "Russian", "taxonomy": ["Danish", "Hungarian", "Portuguese", "Croatian", "Nepali"]}
+{"subject": "Louis Joxe", "object": "French", "taxonomy": ["Malayalam", "English", "Welsh", "Bengali", "Belarusian"]}
+{"subject": "Raghu Babu", "object": "Telugu", "taxonomy": ["Belarusian", "Dutch", "Hebrew", "Danish", "Georgian"]}
+{"subject": "Odette Barencey", "object": "French", "taxonomy": ["Breton", "Dutch", "Russian", "Swedish", "Welsh"]}
+{"subject": "Irma Boom", "object": "Dutch", "taxonomy": ["Georgian", "Nepali", "Polish", "Swedish", "Finnish"]}
+{"subject": "Nyusha", "object": "Russian", "taxonomy": ["Romanian", "Indonesian", "Serbian", "Bengali", "Breton"]}
+{"subject": "Henriette-Julie de Murat", "object": "French", "taxonomy": ["Italian", "Telugu", "Romanian", "German", "Belarusian"]}
+{"subject": "Rainer Maria Rilke", "object": "German", "taxonomy": ["Greek", "Georgian", "Marathi", "Romanian", "Finnish"]}
+{"subject": "Lev Landau", "object": "Russian", "taxonomy": ["Hebrew", "Turkish", "Serbian", "Nepali", "Georgian"]}
+{"subject": "Alex Ferguson", "object": "English", "taxonomy": ["Russian", "Hungarian", "Turkish", "Romanian", "Cantonese"]}
+{"subject": "Louis-Jean-Marie Daubenton", "object": "French", "taxonomy": ["Chinese", "Telugu", "Korean", "Danish", "Hebrew"]}
+{"subject": "Ferdinand-Alphonse Hamelin", "object": "French", "taxonomy": ["Dutch", "Breton", "Greek", "Romanian", "English"]}
+{"subject": "Lydie Denier", "object": "French", "taxonomy": ["English", "Polish", "Dutch", "Persian", "Japanese"]}
+{"subject": "Dominique Bouhours", "object": "French", "taxonomy": ["Persian", "Malayalam", "Russian", "Bengali", "Danish"]}
+{"subject": "Frederick Marryat", "object": "English", "taxonomy": ["Hindi", "Armenian", "Tamil", "Marathi", "Serbian"]}
+{"subject": "Elsa Zylberstein", "object": "French", "taxonomy": ["Hungarian", "Turkish", "Croatian", "Russian", "Serbian"]}
+{"subject": "Nicolaas Pierson", "object": "Dutch", "taxonomy": ["Telugu", "Latin", "Persian", "Russian", "French"]}
+{"subject": "Adolphe Schneider", "object": "French", "taxonomy": ["Chinese", "Latin", "Hungarian", "Greek", "Turkish"]}
+{"subject": "Julie Myerson", "object": "English", "taxonomy": ["German", "Latin", "Japanese", "Romanian", "Bengali"]}
+{"subject": "Juan de Espinosa Medrano", "object": "Spanish", "taxonomy": ["Chinese", "Persian", "Polish", "Tamil", "Romanian"]}
+{"subject": "Paolo Tiralongo", "object": "Italian", "taxonomy": ["English", "Greek", "Nepali", "Spanish", "Latin"]}
+{"subject": "Isabelle Nanty", "object": "French", "taxonomy": ["English", "Persian", "Cantonese", "Serbian", "Indonesian"]}
+{"subject": "Marcel Mouloudji", "object": "French", "taxonomy": ["Chinese", "Bengali", "Georgian", "German", "Latin"]}
+{"subject": "Jean-Pierre Andrevon", "object": "French", "taxonomy": ["Portuguese", "Cantonese", "Breton", "Japanese", "Dutch"]}
+{"subject": "Joannes de Laet", "object": "Dutch", "taxonomy": ["Korean", "Greek", "German", "English", "Cantonese"]}
+{"subject": "Charles Augustin Sainte-Beuve", "object": "French", "taxonomy": ["Swedish", "Dutch", "Russian", "Hungarian", "Welsh"]}
+{"subject": "Gilles Lellouche", "object": "French", "taxonomy": ["Polish", "Hindi", "Hebrew", "Breton", "Tamil"]}
+{"subject": "Marguerite Audoux", "object": "French", "taxonomy": ["Serbian", "Belarusian", "Telugu", "German", "Russian"]}
+{"subject": "Shy'm", "object": "French", "taxonomy": ["Bengali", "Persian", "Turkish", "Belarusian", "Dutch"]}
+{"subject": "Colette Darfeuil", "object": "French", "taxonomy": ["Tamil", "Latin", "Marathi", "Telugu", "Polish"]}
+{"subject": "Mohammad-Reza Sharifinia", "object": "Persian", "taxonomy": ["Finnish", "Marathi", "Malayalam", "Welsh", "Telugu"]}
+{"subject": "Blanchette Brunoy", "object": "French", "taxonomy": ["Cantonese", "Turkish", "Russian", "Malayalam", "Telugu"]}
+{"subject": "Patrick Chamoiseau", "object": "French", "taxonomy": ["Spanish", "Hindi", "Breton", "Armenian", "English"]}
+{"subject": "Wil Huygen", "object": "Dutch", "taxonomy": ["Spanish", "Polish", "Russian", "Welsh", "Croatian"]}
+{"subject": "Jacques Ellul", "object": "French", "taxonomy": ["German", "Belarusian", "Greek", "Japanese", "Italian"]}
+{"subject": "Edward Bulwer-Lytton", "object": "English", "taxonomy": ["Polish", "Swedish", "Serbian", "Belarusian", "Romanian"]}
+{"subject": "Glenmor", "object": "Breton", "taxonomy": ["Estonian", "Tamil", "Telugu", "Persian", "Nepali"]}
+{"subject": "Geetu Mohandas", "object": "Malayalam", "taxonomy": ["Bengali", "Marathi", "French", "Serbian", "English"]}
+{"subject": "Guy Debord", "object": "French", "taxonomy": ["Nepali", "Indonesian", "Spanish", "English", "Korean"]}
+{"subject": "Christopher Frank", "object": "French", "taxonomy": ["Latin", "Dutch", "Indonesian", "Estonian", "Korean"]}
+{"subject": "Simon Dubnow", "object": "Russian", "taxonomy": ["English", "Indonesian", "Estonian", "Latin", "Bengali"]}
+{"subject": "Gautier de Metz", "object": "French", "taxonomy": ["Tamil", "Spanish", "Hebrew", "English", "Persian"]}
+{"subject": "Cyril Collard", "object": "French", "taxonomy": ["Belarusian", "Armenian", "Cantonese", "Breton", "Marathi"]}
+{"subject": "Henri Desgrange", "object": "French", "taxonomy": ["Hindi", "Chinese", "Marathi", "English", "Russian"]}
+{"subject": "Silvia Monfort", "object": "French", "taxonomy": ["Hungarian", "Armenian", "Swedish", "Marathi", "English"]}
+{"subject": "Joseph Buonaparte", "object": "French", "taxonomy": ["German", "Hungarian", "Romanian", "Nepali", "Serbian"]}
+{"subject": "Michel Saint-Denis", "object": "French", "taxonomy": ["Breton", "Armenian", "Japanese", "Chinese", "Indonesian"]}
+{"subject": "Pierre Brice", "object": "French", "taxonomy": ["Croatian", "Spanish", "Tamil", "English", "Belarusian"]}
+{"subject": "Maurice Teynac", "object": "French", "taxonomy": ["Welsh", "Finnish", "Turkish", "Japanese", "Breton"]}
+{"subject": "Boris Vian", "object": "French", "taxonomy": ["Telugu", "Spanish", "Persian", "Hungarian", "Italian"]}
+{"subject": "Brahmaji", "object": "Telugu", "taxonomy": ["Persian", "Swedish", "Estonian", "Belarusian", "Malayalam"]}
+{"subject": "Michel Robin", "object": "French", "taxonomy": ["Chinese", "Danish", "Cantonese", "Dutch", "Portuguese"]}
+{"subject": "Jean-Marie Le Pen", "object": "French", "taxonomy": ["Dutch", "Malayalam", "Russian", "Breton", "Italian"]}
+{"subject": "Farid Chopel", "object": "French", "taxonomy": ["Indonesian", "Dutch", "German", "English", "Russian"]}
+{"subject": "Novak Djokovic", "object": "Serbian", "taxonomy": ["Armenian", "Croatian", "Estonian", "English", "Japanese"]}
+{"subject": "Muriel Barbery", "object": "French", "taxonomy": ["Bengali", "Romanian", "German", "Swedish", "Armenian"]}
+{"subject": "Jean Piat", "object": "French", "taxonomy": ["Danish", "Croatian", "Tamil", "Georgian", "Turkish"]}
+{"subject": "Alain Mabanckou", "object": "French", "taxonomy": ["Chinese", "German", "Malayalam", "Armenian", "Estonian"]}
+{"subject": "Lipke Holthuis", "object": "Dutch", "taxonomy": ["Japanese", "Latin", "English", "Malayalam", "Georgian"]}
+{"subject": "Chaya Devi", "object": "Bengali", "taxonomy": ["Chinese", "Breton", "Korean", "Hungarian", "Spanish"]}
+{"subject": "Anne Fontaine", "object": "French", "taxonomy": ["Hebrew", "Turkish", "Breton", "Serbian", "Dutch"]}
+{"subject": "Maximilian Voloshin", "object": "Russian", "taxonomy": ["Japanese", "Dutch", "Welsh", "Nepali", "English"]}
+{"subject": "Maarten Tromp", "object": "Dutch", "taxonomy": ["Chinese", "English", "Romanian", "Georgian", "Cantonese"]}
+{"subject": "Paul Guimard", "object": "French", "taxonomy": ["Portuguese", "Belarusian", "Latin", "Estonian", "Polish"]}
+{"subject": "Jacques Frantz", "object": "French", "taxonomy": ["Turkish", "Cantonese", "Croatian", "Persian", "Swedish"]}
+{"subject": "Vera Zvonareva", "object": "Russian", "taxonomy": ["Georgian", "Latin", "Breton", "English", "Nepali"]}
+{"subject": "Irina Shayk", "object": "Russian", "taxonomy": ["Telugu", "Dutch", "Serbian", "Georgian", "Greek"]}
+{"subject": "Ludivine Sagnier", "object": "French", "taxonomy": ["Romanian", "Marathi", "Armenian", "Hindi", "Latin"]}
+{"subject": "John Dalton", "object": "English", "taxonomy": ["Bengali", "Italian", "Greek", "Danish", "Estonian"]}
+{"subject": "Claude Rich", "object": "French", "taxonomy": ["Italian", "Hebrew", "Armenian", "Chinese", "Danish"]}
+{"subject": "Marcelle Auclair", "object": "French", "taxonomy": ["Hindi", "Danish", "Estonian", "Hebrew", "Romanian"]}
+{"subject": "Theodore Roosevelt", "object": "English", "taxonomy": ["Finnish", "Malayalam", "Bengali", "Breton", "Georgian"]}
+{"subject": "Bas Jan Ader", "object": "Dutch", "taxonomy": ["Cantonese", "German", "Latin", "Hindi", "Croatian"]}
+{"subject": "Xavier Beauvois", "object": "French", "taxonomy": ["Welsh", "Japanese", "Italian", "Portuguese", "Dutch"]}
+{"subject": "Olga Medvedtseva", "object": "Russian", "taxonomy": ["Hebrew", "Persian", "Japanese", "French", "Tamil"]}
+{"subject": "Jaak Aaviksoo", "object": "Estonian", "taxonomy": ["Romanian", "Marathi", "Welsh", "Korean", "Polish"]}
+{"subject": "Aleksandr Lyapunov", "object": "Russian", "taxonomy": ["Korean", "Cantonese", "Turkish", "Indonesian", "Greek"]}
+{"subject": "Didier Van Cauwelaert", "object": "French", "taxonomy": ["Dutch", "Chinese", "Serbian", "Latin", "Spanish"]}
+{"subject": "Guy Drut", "object": "French", "taxonomy": ["Korean", "Hebrew", "Cantonese", "Hungarian", "Turkish"]}
+{"subject": "Boris Asafyev", "object": "Russian", "taxonomy": ["Italian", "Polish", "Georgian", "German", "Persian"]}
+{"subject": "Samuel Benchetrit", "object": "French", "taxonomy": ["Finnish", "Romanian", "Belarusian", "Georgian", "Latin"]}
+{"subject": "Julie Delpy", "object": "French", "taxonomy": ["Hindi", "Welsh", "Chinese", "Greek", "Portuguese"]}
+{"subject": "Almeida Garrett", "object": "Portuguese", "taxonomy": ["Tamil", "Turkish", "Croatian", "Korean", "Dutch"]}
+{"subject": "Henri Barbusse", "object": "French", "taxonomy": ["Persian", "Romanian", "Polish", "Tamil", "Croatian"]}
+{"subject": "Aleksandr Ptushko", "object": "Russian", "taxonomy": ["Belarusian", "Spanish", "Japanese", "Chinese", "Georgian"]}
+{"subject": "Robin Renucci", "object": "French", "taxonomy": ["Malayalam", "Armenian", "Indonesian", "Latin", "Korean"]}
+{"subject": "Manuel Valls", "object": "Spanish", "taxonomy": ["Greek", "Hindi", "Marathi", "Georgian", "Estonian"]}
+{"subject": "Jean Foyer", "object": "French", "taxonomy": ["Armenian", "Breton", "English", "Bengali", "Korean"]}
+{"subject": "Octave Uzanne", "object": "French", "taxonomy": ["Chinese", "Croatian", "Indonesian", "Belarusian", "Japanese"]}
+{"subject": "George Sand", "object": "French", "taxonomy": ["Latin", "Armenian", "Korean", "Breton", "Dutch"]}
+{"subject": "Jeroen Willems", "object": "Dutch", "taxonomy": ["Estonian", "Hebrew", "Nepali", "Bengali", "Cantonese"]}
+{"subject": "Jiang Qinqin", "object": "Chinese", "taxonomy": ["Bengali", "Russian", "Portuguese", "Nepali", "Georgian"]}
+{"subject": "Betha Sudhakar", "object": "Telugu", "taxonomy": ["Japanese", "Swedish", "Hindi", "Georgian", "Latin"]}
+{"subject": "Artyom Borovik", "object": "Russian", "taxonomy": ["Dutch", "Georgian", "Romanian", "Nepali", "Telugu"]}
+{"subject": "Fabrice Luchini", "object": "French", "taxonomy": ["Hebrew", "Russian", "Latin", "Georgian", "Belarusian"]}
+{"subject": "Fanny Ardant", "object": "French", "taxonomy": ["Malayalam", "Greek", "Finnish", "Hindi", "Chinese"]}
+{"subject": "Annick Alane", "object": "French", "taxonomy": ["Korean", "Estonian", "Welsh", "Chinese", "Indonesian"]}
+{"subject": "Pierre Brasseur", "object": "French", "taxonomy": ["Tamil", "Marathi", "Cantonese", "Korean", "Hungarian"]}
+{"subject": "Jean-Antoine Roucher", "object": "French", "taxonomy": ["Russian", "Hebrew", "Nepali", "Belarusian", "Georgian"]}
+{"subject": "Hendrik Petrus Berlage", "object": "Dutch", "taxonomy": ["Russian", "Nepali", "Spanish", "Persian", "Greek"]}
+{"subject": "Louis de Rouvroy, duc de Saint-Simon", "object": "French", "taxonomy": ["Malayalam", "Russian", "English", "Hungarian", "Croatian"]}
+{"subject": "Walter Pater", "object": "English", "taxonomy": ["Korean", "Breton", "Serbian", "Belarusian", "Romanian"]}
+{"subject": "Roger Dumas", "object": "French", "taxonomy": ["Belarusian", "Italian", "Estonian", "Serbian", "Welsh"]}
+{"subject": "Jean-Baptiste Henri Lacordaire", "object": "French", "taxonomy": ["Romanian", "Greek", "Persian", "German", "Italian"]}
+{"subject": "Leo Tolstoy", "object": "Russian", "taxonomy": ["Armenian", "Marathi", "Malayalam", "German", "Dutch"]}
+{"subject": "Al Gore", "object": "English", "taxonomy": ["Belarusian", "Polish", "Croatian", "Hungarian", "Telugu"]}
+{"subject": "Jean Bruller", "object": "French", "taxonomy": ["Marathi", "English", "Georgian", "Swedish", "Romanian"]}
+{"subject": "Nicola Sirkis", "object": "French", "taxonomy": ["Cantonese", "Belarusian", "Welsh", "Danish", "Swedish"]}
+{"subject": "Ilya Ehrenburg", "object": "Russian", "taxonomy": ["Romanian", "Turkish", "Portuguese", "Dutch", "Italian"]}
+{"subject": "Kannadasan", "object": "Tamil", "taxonomy": ["Swedish", "Polish", "Cantonese", "Hungarian", "Italian"]}
+{"subject": "Jacques Dufilho", "object": "French", "taxonomy": ["Croatian", "German", "Spanish", "Romanian", "Estonian"]}
+{"subject": "Jean Le Poulain", "object": "French", "taxonomy": ["Japanese", "Bengali", "Hungarian", "German", "Cantonese"]}
+{"subject": "Julien Carette", "object": "French", "taxonomy": ["Italian", "Serbian", "Georgian", "Indonesian", "Polish"]}
+{"subject": "Joop Zoetemelk", "object": "Dutch", "taxonomy": ["Telugu", "Russian", "German", "Tamil", "Latin"]}
+{"subject": "Jean-Christophe Bouvet", "object": "French", "taxonomy": ["Romanian", "Portuguese", "Turkish", "Hungarian", "Latin"]}
+{"subject": "Xavier Saint-Macary", "object": "French", "taxonomy": ["Hungarian", "Japanese", "Tamil", "Croatian", "Bengali"]}
+{"subject": "Johan van Heemskerk", "object": "Dutch", "taxonomy": ["Indonesian", "Hebrew", "Polish", "Japanese", "Russian"]}
+{"subject": "Emmanuel Hocquard", "object": "French", "taxonomy": ["Welsh", "Armenian", "Hungarian", "Belarusian", "Serbian"]}
+{"subject": "Louis Gabriel Michaud", "object": "French", "taxonomy": ["Indonesian", "Welsh", "Georgian", "Italian", "Dutch"]}
+{"subject": "Jean-Baptiste de Boyer, Marquis d'Argens", "object": "French", "taxonomy": ["Hindi", "Latin", "Finnish", "Tamil", "Malayalam"]}
+{"subject": "Maurice Thorez", "object": "French", "taxonomy": ["Bengali", "Romanian", "Belarusian", "Italian", "Hungarian"]}
+{"subject": "Thoppil Bhasi", "object": "Malayalam", "taxonomy": ["Cantonese", "Armenian", "Portuguese", "Chinese", "Tamil"]}
+{"subject": "Claude Cerval", "object": "French", "taxonomy": ["Danish", "Bengali", "Tamil", "Hindi", "Greek"]}
+{"subject": "Hendrikus Colijn", "object": "Dutch", "taxonomy": ["Cantonese", "German", "Bengali", "Telugu", "Estonian"]}
+{"subject": "Edsger W. Dijkstra", "object": "Dutch", "taxonomy": ["Breton", "Hungarian", "Croatian", "Georgian", "Estonian"]}
+{"subject": "Dominique Sanda", "object": "French", "taxonomy": ["Armenian", "Breton", "Bengali", "Malayalam", "Russian"]}
+{"subject": "Vincent Rottiers", "object": "French", "taxonomy": ["Croatian", "Cantonese", "Hebrew", "Dutch", "Hungarian"]}
+{"subject": "Jean-Louis Curtis", "object": "French", "taxonomy": ["Hebrew", "Malayalam", "Finnish", "Chinese", "Breton"]}
+{"subject": "Edward Burnett Tylor", "object": "English", "taxonomy": ["Breton", "Armenian", "Georgian", "Greek", "Persian"]}
+{"subject": "Vincent Lacoste", "object": "French", "taxonomy": ["Bengali", "Hebrew", "Tamil", "Serbian", "Nepali"]}
+{"subject": "Paul Capellani", "object": "French", "taxonomy": ["Belarusian", "Armenian", "Serbian", "Japanese", "Finnish"]}
+{"subject": "Charles de Rochefort", "object": "French", "taxonomy": ["Telugu", "Bengali", "Japanese", "Tamil", "Hungarian"]}
+{"subject": "Maurice Risch", "object": "French", "taxonomy": ["Russian", "Japanese", "Serbian", "Latin", "Portuguese"]}
+{"subject": "Raymond Abellio", "object": "French", "taxonomy": ["Nepali", "Russian", "Welsh", "Latin", "Georgian"]}
+{"subject": "Paul Pellisson", "object": "French", "taxonomy": ["Spanish", "Italian", "Breton", "Nepali", "Dutch"]}
+{"subject": "Daniel Tammet", "object": "English", "taxonomy": ["Hungarian", "Armenian", "Dutch", "French", "Georgian"]}
+{"subject": "Pierre Bourdieu", "object": "French", "taxonomy": ["Turkish", "Tamil", "Portuguese", "Latin", "Greek"]}
+{"subject": "Vitruvius", "object": "Latin", "taxonomy": ["Portuguese", "Hungarian", "Tamil", "Russian", "Estonian"]}
+{"subject": "Hans Peter Anvin", "object": "Swedish", "taxonomy": ["Greek", "Russian", "Telugu", "Turkish", "Hungarian"]}
+{"subject": "Raymond Triboulet", "object": "French", "taxonomy": ["Latin", "Croatian", "Persian", "Malayalam", "Polish"]}
+{"subject": "Josiane Balasko", "object": "French", "taxonomy": ["Georgian", "Croatian", "Nepali", "Japanese", "Finnish"]}
+{"subject": "Paul Frankeur", "object": "French", "taxonomy": ["Romanian", "Nepali", "Serbian", "Korean", "Bengali"]}
+{"subject": "Symeon of Polotsk", "object": "Russian", "taxonomy": ["Hindi", "Latin", "Spanish", "Tamil", "Breton"]}
+{"subject": "Isabelle Autissier", "object": "French", "taxonomy": ["Hebrew", "Tamil", "Marathi", "Swedish", "Dutch"]}
+{"subject": "Jean-Hilaire Aubame", "object": "French", "taxonomy": ["Malayalam", "Russian", "Latin", "Tamil", "Spanish"]}
+{"subject": "Laurent Casanova", "object": "French", "taxonomy": ["Portuguese", "Persian", "Russian", "Cantonese", "Breton"]}
+{"subject": "Pierre Schneiter", "object": "French", "taxonomy": ["Portuguese", "Bengali", "Estonian", "Marathi", "Persian"]}
+{"subject": "Louis Florencie", "object": "French", "taxonomy": ["Russian", "Finnish", "Romanian", "Georgian", "Hindi"]}
+{"subject": "Charlotte-Rose de Caumont de La Force", "object": "French", "taxonomy": ["Dutch", "Swedish", "Malayalam", "Latin", "Indonesian"]}
+{"subject": "Jayabharathi", "object": "Malayalam", "taxonomy": ["Armenian", "Hebrew", "Persian", "Turkish", "Spanish"]}
+{"subject": "Willem Johan Kolff", "object": "Dutch", "taxonomy": ["Swedish", "Portuguese", "Finnish", "Chinese", "Romanian"]}
+{"subject": "Arthur Dupont", "object": "French", "taxonomy": ["Hungarian", "Welsh", "Turkish", "Polish", "Belarusian"]}
+{"subject": "Devulapalli Krishnasastri", "object": "Telugu", "taxonomy": ["Korean", "Hebrew", "Persian", "Belarusian", "Danish"]}
+{"subject": "Louis Dutens", "object": "French", "taxonomy": ["Bengali", "Polish", "Georgian", "Telugu", "Tamil"]}
+{"subject": "Hugo von Hofmannsthal", "object": "German", "taxonomy": ["Hindi", "Marathi", "Indonesian", "Malayalam", "French"]}
+{"subject": "Anastasy Vonsyatsky", "object": "Russian", "taxonomy": ["Armenian", "Croatian", "Tamil", "Greek", "Dutch"]}
+{"subject": "Kondavalasa Lakshmana Rao", "object": "Telugu", "taxonomy": ["Breton", "Korean", "Belarusian", "Bengali", "Welsh"]}
+{"subject": "Yuri Knorozov", "object": "Russian", "taxonomy": ["Latin", "Tamil", "Hungarian", "English", "Serbian"]}
+{"subject": "Johnny Hallyday", "object": "French", "taxonomy": ["Chinese", "German", "Polish", "Armenian", "Italian"]}
+{"subject": "Marie-Arlette Carlotti", "object": "French", "taxonomy": ["Latin", "Dutch", "Chinese", "Korean", "Indonesian"]}
+{"subject": "Ida Dalser", "object": "Italian", "taxonomy": ["Greek", "Estonian", "Korean", "Hindi", "Turkish"]}
+{"subject": "Ger van Elk", "object": "Dutch", "taxonomy": ["Finnish", "Hebrew", "Breton", "Georgian", "Turkish"]}
+{"subject": "Tylman van Gameren", "object": "Dutch", "taxonomy": ["Polish", "Russian", "Tamil", "Finnish", "Turkish"]}
+{"subject": "Nazi Boni", "object": "French", "taxonomy": ["Welsh", "Telugu", "Breton", "Hebrew", "Bengali"]}
+{"subject": "Roger Caillois", "object": "French", "taxonomy": ["Hebrew", "Armenian", "Nepali", "Georgian", "Hindi"]}
+{"subject": "Roger Garaudy", "object": "French", "taxonomy": ["Belarusian", "Italian", "Japanese", "Welsh", "Chinese"]}
+{"subject": "Paul Louis Courier", "object": "French", "taxonomy": ["Serbian", "Russian", "Danish", "Hindi", "Korean"]}
+{"subject": "Jalil Lespert", "object": "French", "taxonomy": ["Tamil", "English", "Indonesian", "Spanish", "Turkish"]}
+{"subject": "Alfred Capus", "object": "French", "taxonomy": ["German", "Japanese", "Romanian", "Tamil", "Hebrew"]}
+{"subject": "Daniel Darc", "object": "French", "taxonomy": ["German", "Malayalam", "Russian", "Korean", "English"]}
+{"subject": "Jules Favre", "object": "French", "taxonomy": ["Indonesian", "Cantonese", "Breton", "Swedish", "Chinese"]}
+{"subject": "Anton Nilson", "object": "Swedish", "taxonomy": ["Armenian", "Estonian", "Hungarian", "Hebrew", "Latin"]}
+{"subject": "Nicolas Giraud", "object": "French", "taxonomy": ["English", "Malayalam", "Chinese", "Tamil", "Croatian"]}
+{"subject": "Marcel Pagnol", "object": "French", "taxonomy": ["Japanese", "Nepali", "Korean", "Belarusian", "Russian"]}
+{"subject": "Zachris Topelius", "object": "Swedish", "taxonomy": ["Finnish", "Hungarian", "Korean", "Telugu", "Italian"]}
+{"subject": "Aluri Chakrapani", "object": "Telugu", "taxonomy": ["Malayalam", "Cantonese", "Russian", "Breton", "Nepali"]}
+{"subject": "Panagiotis Lafazanis", "object": "Greek", "taxonomy": ["Korean", "Telugu", "Croatian", "Turkish", "Spanish"]}
+{"subject": "Amira Casar", "object": "French", "taxonomy": ["Hebrew", "Dutch", "Nepali", "Hindi", "Spanish"]}
+{"subject": "Shakira", "object": "Spanish", "taxonomy": ["German", "Turkish", "Estonian", "Greek", "Romanian"]}
+{"subject": "Joseph Brodsky", "object": "Russian", "taxonomy": ["Dutch", "Korean", "Turkish", "Persian", "Chinese"]}
+{"subject": "Master Venu", "object": "Telugu", "taxonomy": ["Danish", "Hebrew", "Belarusian", "Swedish", "Polish"]}
+{"subject": "Louis Friant", "object": "French", "taxonomy": ["Danish", "Greek", "Armenian", "Bengali", "Tamil"]}
+{"subject": "Henri-Joseph Paixhans", "object": "French", "taxonomy": ["Turkish", "Chinese", "Hebrew", "Indonesian", "Breton"]}
+{"subject": "Maurice Biraud", "object": "French", "taxonomy": ["Romanian", "Korean", "Telugu", "Marathi", "Welsh"]}
+{"subject": "Pierre Daniel Huet", "object": "French", "taxonomy": ["Bengali", "Latin", "Hebrew", "German", "Finnish"]}
+{"subject": "Michel d'Ornano", "object": "French", "taxonomy": ["Hebrew", "Malayalam", "Breton", "Georgian", "Welsh"]}
+{"subject": "Jacques Mauclair", "object": "French", "taxonomy": ["Japanese", "Belarusian", "Polish", "Greek", "German"]}
+{"subject": "Alberto Giacometti", "object": "Italian", "taxonomy": ["Russian", "Estonian", "German", "Dutch", "Polish"]}
+{"subject": "Jean Marot", "object": "French", "taxonomy": ["Swedish", "Tamil", "Persian", "Nepali", "Serbian"]}
+{"subject": "Gollapudi Maruti Rao", "object": "Telugu", "taxonomy": ["Hindi", "Malayalam", "Indonesian", "Portuguese", "Latin"]}
+{"subject": "Christiane Taubira", "object": "French", "taxonomy": ["Telugu", "Hindi", "Georgian", "German", "Turkish"]}
+{"subject": "Vlada Roslyakova", "object": "Russian", "taxonomy": ["Georgian", "Portuguese", "Marathi", "Serbian", "Hindi"]}
+{"subject": "Marie Curie", "object": "Polish", "taxonomy": ["Serbian", "Nepali", "Turkish", "Korean", "Welsh"]}
+{"subject": "Joost Swarte", "object": "Dutch", "taxonomy": ["Turkish", "Romanian", "Persian", "Nepali", "Hebrew"]}
+{"subject": "Akkineni Nagarjuna", "object": "Telugu", "taxonomy": ["Breton", "Polish", "Marathi", "Malayalam", "German"]}
+{"subject": "Louis Nicolas Vauquelin", "object": "French", "taxonomy": ["Welsh", "Estonian", "Finnish", "Romanian", "Persian"]}
+{"subject": "Robert Lecourt", "object": "French", "taxonomy": ["Latin", "Croatian", "Persian", "Russian", "Romanian"]}
+{"subject": "Marguerite Yourcenar", "object": "French", "taxonomy": ["Hindi", "Serbian", "Persian", "Telugu", "Turkish"]}
+{"subject": "Aleksey Khomyakov", "object": "Russian", "taxonomy": ["Portuguese", "Tamil", "Danish", "Cantonese", "Turkish"]}
+{"subject": "F. Springer", "object": "Dutch", "taxonomy": ["Indonesian", "Telugu", "Nepali", "Turkish", "Welsh"]}
+{"subject": "Chveneburi", "object": "Georgian", "taxonomy": ["Dutch", "Turkish", "Bengali", "Telugu", "Finnish"]}
+{"subject": "Hans Christian Andersen", "object": "Danish", "taxonomy": ["Malayalam", "Welsh", "Spanish", "Breton", "Bengali"]}
+{"subject": "Aleksandr Kaleri", "object": "Russian", "taxonomy": ["Latin", "French", "Italian", "Armenian", "Polish"]}
+{"subject": "Jean Lefebvre", "object": "French", "taxonomy": ["Dutch", "Latin", "Indonesian", "Italian", "Tamil"]}
+{"subject": "Jacques Cazotte", "object": "French", "taxonomy": ["Armenian", "Persian", "Finnish", "Welsh", "Dutch"]}
+{"subject": "Gough Whitlam", "object": "English", "taxonomy": ["Persian", "German", "Tamil", "Marathi", "Armenian"]}
+{"subject": "Swedes", "object": "Swedish", "taxonomy": ["English", "Finnish", "Armenian", "Hungarian", "Croatian"]}
+{"subject": "Jonathan Littell", "object": "French", "taxonomy": ["Japanese", "Marathi", "Swedish", "Dutch", "Welsh"]}
+{"subject": "Bertrand Tavernier", "object": "French", "taxonomy": ["Welsh", "Nepali", "Tamil", "Russian", "Turkish"]}
+{"subject": "Dominique Rocheteau", "object": "French", "taxonomy": ["Chinese", "Romanian", "Finnish", "Marathi", "Hungarian"]}
+{"subject": "Jean Schopfer", "object": "French", "taxonomy": ["Dutch", "Belarusian", "Serbian", "Croatian", "Greek"]}
+{"subject": "Jacques Roubaud", "object": "French", "taxonomy": ["Portuguese", "Armenian", "Indonesian", "Tamil", "English"]}
+{"subject": "Cherusseri Namboothiri", "object": "Malayalam", "taxonomy": ["Breton", "Polish", "Finnish", "Estonian", "Hindi"]}
+{"subject": "Antoine Augustin Calmet", "object": "French", "taxonomy": ["Korean", "Malayalam", "Portuguese", "Danish", "Marathi"]}
+{"subject": "Maurice Clavel", "object": "French", "taxonomy": ["Swedish", "Latin", "Cantonese", "Chinese", "Hebrew"]}
+{"subject": "Alexandros Rizos Rangavis", "object": "Greek", "taxonomy": ["Finnish", "Georgian", "French", "Korean", "Chinese"]}
+{"subject": "Christian Clavier", "object": "French", "taxonomy": ["Portuguese", "Bengali", "Armenian", "Croatian", "Italian"]}
+{"subject": "Michel Modo", "object": "French", "taxonomy": ["Hindi", "Persian", "Portuguese", "Belarusian", "Hebrew"]}
+{"subject": "Jacques Werup", "object": "Swedish", "taxonomy": ["Georgian", "Breton", "English", "Chinese", "Hindi"]}
+{"subject": "Jean-Christophe Rufin", "object": "French", "taxonomy": ["Italian", "Hungarian", "German", "Telugu", "Serbian"]}
+{"subject": "Vasil Kiryienka", "object": "Belarusian", "taxonomy": ["Dutch", "Danish", "Bengali", "Latin", "Polish"]}
+{"subject": "Jean Desailly", "object": "French", "taxonomy": ["Swedish", "Cantonese", "Marathi", "Japanese", "Malayalam"]}
+{"subject": "Valentin Rasputin", "object": "Russian", "taxonomy": ["Belarusian", "Croatian", "Portuguese", "Cantonese", "Greek"]}
+{"subject": "Auguste Villiers de l'Isle-Adam", "object": "French", "taxonomy": ["Romanian", "Finnish", "Indonesian", "Chinese", "Hebrew"]}
+{"subject": "Jules de Goncourt", "object": "French", "taxonomy": ["Breton", "Croatian", "Portuguese", "Turkish", "Hebrew"]}
+{"subject": "Mathieu de Montmorency", "object": "French", "taxonomy": ["Dutch", "Malayalam", "Croatian", "Georgian", "English"]}
+{"subject": "Andreas Karkavitsas", "object": "Greek", "taxonomy": ["Italian", "Telugu", "Bengali", "Turkish", "English"]}
+{"subject": "Louis Barthou", "object": "French", "taxonomy": ["Bengali", "Korean", "Latin", "Telugu", "Hungarian"]}
+{"subject": "Andrew Jackson", "object": "English", "taxonomy": ["Armenian", "Hungarian", "Italian", "Chinese", "Russian"]}
+{"subject": "Antoine Isaac Silvestre de Sacy", "object": "French", "taxonomy": ["English", "Croatian", "Persian", "Armenian", "Bengali"]}
+{"subject": "Sophie Calle", "object": "French", "taxonomy": ["Telugu", "Indonesian", "Welsh", "Malayalam", "Estonian"]}
+{"subject": "Pierre Guyotat", "object": "French", "taxonomy": ["Japanese", "Hungarian", "Breton", "Bengali", "Cantonese"]}
+{"subject": "Georges Pompidou", "object": "French", "taxonomy": ["Armenian", "Bengali", "Russian", "Telugu", "Japanese"]}
+{"subject": "Jean-Baptiste Say", "object": "French", "taxonomy": ["Nepali", "Dutch", "Croatian", "Finnish", "Cantonese"]}
+{"subject": "Ivan Kireyevsky", "object": "Russian", "taxonomy": ["Malayalam", "Chinese", "Turkish", "Tamil", "Hebrew"]}
+{"subject": "Gad Elmaleh", "object": "French", "taxonomy": ["Danish", "Croatian", "Persian", "Italian", "Turkish"]}
+{"subject": "Thomas Joannes Stieltjes", "object": "Dutch", "taxonomy": ["Latin", "German", "Italian", "Romanian", "Bengali"]}
+{"subject": "Joseph Conombo", "object": "French", "taxonomy": ["Finnish", "Swedish", "English", "Indonesian", "Georgian"]}
+{"subject": "Isaac Vossius", "object": "Dutch", "taxonomy": ["Georgian", "Latin", "Indonesian", "Estonian", "Malayalam"]}
+{"subject": "Anna Prucnal", "object": "French", "taxonomy": ["Polish", "Romanian", "Breton", "English", "Spanish"]}
+{"subject": "Sergey Aksyonov", "object": "Russian", "taxonomy": ["English", "Georgian", "Marathi", "Estonian", "Tamil"]}
+{"subject": "Aagje Deken", "object": "Dutch", "taxonomy": ["Hungarian", "Finnish", "Japanese", "Swedish", "Belarusian"]}
+{"subject": "Jean-Bernard Raimond", "object": "French", "taxonomy": ["Hebrew", "Korean", "Tamil", "Italian", "Chinese"]}
+{"subject": "Christian Millau", "object": "French", "taxonomy": ["Hindi", "Belarusian", "German", "Japanese", "Danish"]}
+{"subject": "Louis Aragon", "object": "French", "taxonomy": ["Belarusian", "Finnish", "Hungarian", "Spanish", "Italian"]}
+{"subject": "Mathieu Amalric", "object": "French", "taxonomy": ["Hindi", "Romanian", "Japanese", "Serbian", "Cantonese"]}
+{"subject": "Ruslan Khasbulatov", "object": "Russian", "taxonomy": ["Cantonese", "Danish", "Hindi", "Armenian", "Belarusian"]}
+{"subject": "Porfiry Ivanov", "object": "Russian", "taxonomy": ["Cantonese", "Telugu", "Nepali", "Armenian", "Hindi"]}
+{"subject": "Raimu", "object": "French", "taxonomy": ["Korean", "Swedish", "Persian", "Hungarian", "Marathi"]}
+{"subject": "Franz Roubaud", "object": "Russian", "taxonomy": ["Chinese", "Cantonese", "German", "Estonian", "Croatian"]}
+{"subject": "Joseph Joubert", "object": "French", "taxonomy": ["English", "Hungarian", "Dutch", "Spanish", "Hindi"]}
+{"subject": "Paul Collin", "object": "French", "taxonomy": ["Georgian", "Spanish", "English", "Indonesian", "Marathi"]}
+{"subject": "Jean Sorel", "object": "French", "taxonomy": ["Nepali", "Belarusian", "Hindi", "Russian", "Spanish"]}
+{"subject": "Didier Daeninckx", "object": "French", "taxonomy": ["Romanian", "Japanese", "Dutch", "English", "Nepali"]}
+{"subject": "Alexander Osmerkin", "object": "Russian", "taxonomy": ["Serbian", "Breton", "Danish", "Swedish", "Polish"]}
+{"subject": "Francis Blanche", "object": "French", "taxonomy": ["Russian", "Telugu", "Finnish", "Welsh", "Hebrew"]}
+{"subject": "Nadezhda Krupskaya", "object": "Russian", "taxonomy": ["Finnish", "Hindi", "Tamil", "Croatian", "Telugu"]}
+{"subject": "Jean Davy", "object": "French", "taxonomy": ["Serbian", "Portuguese", "German", "Latin", "Romanian"]}
+{"subject": "Leconte de Lisle", "object": "French", "taxonomy": ["Bengali", "Korean", "Indonesian", "Romanian", "Marathi"]}
+{"subject": "Ariane Labed", "object": "French", "taxonomy": ["Bengali", "Estonian", "Hindi", "Dutch", "Indonesian"]}
+{"subject": "Marc Alyn", "object": "French", "taxonomy": ["Serbian", "Swedish", "German", "Belarusian", "Polish"]}
+{"subject": "Michel Sardou", "object": "French", "taxonomy": ["Breton", "Spanish", "Persian", "Hebrew", "Turkish"]}
+{"subject": "Paul Citroen", "object": "Dutch", "taxonomy": ["Hebrew", "Greek", "Latin", "Welsh", "Hungarian"]}
+{"subject": "Jean Raspail", "object": "French", "taxonomy": ["Danish", "Tamil", "Russian", "Korean", "Armenian"]}
+{"subject": "Skolts", "object": "Finnish", "taxonomy": ["Georgian", "Armenian", "German", "Belarusian", "Danish"]}
+{"subject": "Louis-Pierre Baltard", "object": "French", "taxonomy": ["Welsh", "Persian", "Swedish", "Chinese", "Breton"]}
+{"subject": "Claude Simon", "object": "French", "taxonomy": ["German", "Turkish", "Romanian", "Tamil", "Persian"]}
+{"subject": "Slava Zaitsev", "object": "Russian", "taxonomy": ["English", "Korean", "Bengali", "Danish", "Hungarian"]}
+{"subject": "Felix Dzerzhinsky", "object": "Russian", "taxonomy": ["English", "Italian", "French", "Nepali", "Breton"]}
+{"subject": "Julien Boisselier", "object": "French", "taxonomy": ["Turkish", "Greek", "Hebrew", "Hungarian", "Bengali"]}
+{"subject": "Yvonne de Bray", "object": "French", "taxonomy": ["Bengali", "Hungarian", "German", "Latin", "Tamil"]}
+{"subject": "Chrisye", "object": "Indonesian", "taxonomy": ["German", "Persian", "Finnish", "French", "Korean"]}
+{"subject": "Guy Patin", "object": "French", "taxonomy": ["Spanish", "Tamil", "Portuguese", "Chinese", "Japanese"]}
+{"subject": "Jacques Dumesnil", "object": "French", "taxonomy": ["Dutch", "Welsh", "Bengali", "Breton", "Hungarian"]}
+{"subject": "Sarath Babu", "object": "Telugu", "taxonomy": ["Malayalam", "Latin", "Breton", "Dutch", "Persian"]}
+{"subject": "Jean Allemane", "object": "French", "taxonomy": ["Finnish", "Hebrew", "Croatian", "Telugu", "Serbian"]}
+{"subject": "Hendrik Nicolaas Werkman", "object": "Dutch", "taxonomy": ["Nepali", "Japanese", "Spanish", "Swedish", "Russian"]}
+{"subject": "Paul Doumer", "object": "French", "taxonomy": ["Greek", "Breton", "Portuguese", "Finnish", "Cantonese"]}
+{"subject": "Beatrix of the Netherlands", "object": "Dutch", "taxonomy": ["German", "Telugu", "Tamil", "Romanian", "Belarusian"]}
+{"subject": "William Howitt", "object": "English", "taxonomy": ["Georgian", "Danish", "Breton", "Swedish", "French"]}
+{"subject": "Paule Andral", "object": "French", "taxonomy": ["Chinese", "Swedish", "Estonian", "Breton", "Korean"]}
+{"subject": "Jean Baptiste Antoine Auget de Montyon", "object": "French", "taxonomy": ["Nepali", "German", "Swedish", "Turkish", "Bengali"]}
+{"subject": "Nikolay Dobrolyubov", "object": "Russian", "taxonomy": ["Danish", "Latin", "Swedish", "Croatian", "Persian"]}
+{"subject": "Pierre Assouline", "object": "French", "taxonomy": ["Malayalam", "Greek", "Swedish", "Japanese", "Serbian"]}
+{"subject": "Mohanlal", "object": "Malayalam", "taxonomy": ["Breton", "Romanian", "Swedish", "Finnish", "Indonesian"]}
+{"subject": "Georges Hugnet", "object": "French", "taxonomy": ["Armenian", "Dutch", "Polish", "Russian", "Nepali"]}
+{"subject": "Paul Coste-Floret", "object": "French", "taxonomy": ["Georgian", "Malayalam", "Dutch", "Croatian", "Cantonese"]}
+{"subject": "Lisa Ekdahl", "object": "Swedish", "taxonomy": ["Persian", "English", "Indonesian", "Dutch", "Serbian"]}
+{"subject": "Jandhyala Subramanya Sastry", "object": "Telugu", "taxonomy": ["Hindi", "Latin", "Finnish", "Hungarian", "Korean"]}
+{"subject": "Anthony Delon", "object": "French", "taxonomy": ["Russian", "Greek", "Georgian", "German", "Japanese"]}
+{"subject": "Michel Brault", "object": "French", "taxonomy": ["Korean", "Armenian", "Turkish", "Telugu", "Marathi"]}
+{"subject": "Gunasekhar", "object": "Telugu", "taxonomy": ["Georgian", "Polish", "Nepali", "Danish", "German"]}
+{"subject": "Caroline Ducey", "object": "French", "taxonomy": ["Italian", "Hebrew", "Turkish", "Nepali", "Marathi"]}
+{"subject": "Aletta Jacobs", "object": "Dutch", "taxonomy": ["Swedish", "Malayalam", "Breton", "French", "Belarusian"]}
+{"subject": "Vladimir Mayakovsky", "object": "Russian", "taxonomy": ["Malayalam", "Hungarian", "Chinese", "Polish", "Bengali"]}
+{"subject": "Arnould Galopin", "object": "French", "taxonomy": ["Danish", "Italian", "Serbian", "German", "Latin"]}
+{"subject": "Bernard Tapie", "object": "French", "taxonomy": ["Marathi", "Dutch", "Japanese", "Chinese", "Belarusian"]}
+{"subject": "Charles Hernu", "object": "French", "taxonomy": ["Portuguese", "Hungarian", "Malayalam", "Cantonese", "Finnish"]}
+{"subject": "Kamala Surayya", "object": "Malayalam", "taxonomy": ["Danish", "Breton", "German", "Korean", "Russian"]}
+{"subject": "Anastasia Myskina", "object": "Russian", "taxonomy": ["Danish", "Bengali", "Telugu", "German", "Italian"]}
+{"subject": "Pierre Braunberger", "object": "French", "taxonomy": ["Telugu", "Malayalam", "Armenian", "Chinese", "Marathi"]}
+{"subject": "Vaikom Muhammad Basheer", "object": "Malayalam", "taxonomy": ["Swedish", "Polish", "Spanish", "Georgian", "Croatian"]}
+{"subject": "Claude-Joseph Dorat", "object": "French", "taxonomy": ["Estonian", "Japanese", "Welsh", "German", "Latin"]}
+{"subject": "Michel Ordener", "object": "French", "taxonomy": ["Romanian", "Hindi", "Tamil", "Finnish", "Danish"]}
+{"subject": "Sridevi", "object": "Tamil", "taxonomy": ["Malayalam", "Cantonese", "Japanese", "Polish", "Serbian"]}
+{"subject": "Dominique Joseph Garat", "object": "French", "taxonomy": ["Chinese", "Telugu", "Russian", "Persian", "Hindi"]}
+{"subject": "Luc Besson", "object": "French", "taxonomy": ["Tamil", "Belarusian", "Serbian", "Georgian", "Dutch"]}
+{"subject": "Anne-Marie Idrac", "object": "French", "taxonomy": ["Belarusian", "Swedish", "Georgian", "Hebrew", "Cantonese"]}
+{"subject": "Mario Vargas Llosa", "object": "Spanish", "taxonomy": ["French", "Welsh", "Hindi", "Russian", "Swedish"]}
+{"subject": "Jean-Claude Brisseau", "object": "French", "taxonomy": ["Finnish", "Dutch", "Latin", "Persian", "Serbian"]}
+{"subject": "Paul Guth", "object": "French", "taxonomy": ["Greek", "Chinese", "Telugu", "Nepali", "Hebrew"]}
+{"subject": "Paul Crauchet", "object": "French", "taxonomy": ["German", "Swedish", "Serbian", "Telugu", "Estonian"]}
+{"subject": "Henri Decoin", "object": "French", "taxonomy": ["English", "Korean", "Spanish", "Breton", "Hungarian"]}
+{"subject": "Balthasar Bekker", "object": "Dutch", "taxonomy": ["Korean", "Cantonese", "Hebrew", "Chinese", "Estonian"]}
+{"subject": "Roland Topor", "object": "French", "taxonomy": ["Latin", "Persian", "Breton", "Russian", "Belarusian"]}
+{"subject": "Bernard Blancan", "object": "French", "taxonomy": ["Welsh", "German", "Hungarian", "Swedish", "Bengali"]}
+{"subject": "Toine Manders", "object": "Dutch", "taxonomy": ["Belarusian", "Hungarian", "Armenian", "Marathi", "Serbian"]}
+{"subject": "Maria Tesselschade Visscher", "object": "Dutch", "taxonomy": ["Hindi", "Malayalam", "Finnish", "Welsh", "Greek"]}
+{"subject": "Nedurumalli Janardhana Reddy", "object": "Telugu", "taxonomy": ["Italian", "Russian", "Croatian", "Finnish", "Turkish"]}
+{"subject": "Thieleman J. van Braght", "object": "Dutch", "taxonomy": ["Swedish", "Armenian", "Portuguese", "Polish", "Belarusian"]}
+{"subject": "Francis de Croisset", "object": "French", "taxonomy": ["Danish", "Hindi", "Armenian", "Italian", "Telugu"]}
+{"subject": "Georges Chamarat", "object": "French", "taxonomy": ["Danish", "Croatian", "Belarusian", "Armenian", "Japanese"]}
+{"subject": "Adel Bencherif", "object": "French", "taxonomy": ["Georgian", "Belarusian", "Russian", "Polish", "Spanish"]}
+{"subject": "Marie Anne de Vichy-Chamrond, marquise du Deffand", "object": "French", "taxonomy": ["Welsh", "Spanish", "Georgian", "Nepali", "English"]}
+{"subject": "Gil J Wolman", "object": "French", "taxonomy": ["Welsh", "Croatian", "Greek", "Telugu", "Danish"]}
+{"subject": "Jacques Legras", "object": "French", "taxonomy": ["Danish", "Polish", "Portuguese", "English", "Spanish"]}
+{"subject": "Jean-Sifrein Maury", "object": "French", "taxonomy": ["Estonian", "Finnish", "Armenian", "Persian", "Belarusian"]}
+{"subject": "Georges Sadoul", "object": "French", "taxonomy": ["Welsh", "Indonesian", "Hebrew", "Chinese", "Romanian"]}
+{"subject": "Eduardo Duhalde", "object": "Spanish", "taxonomy": ["Portuguese", "Armenian", "Indonesian", "Latin", "Estonian"]}
+{"subject": "Joseph Roumanille", "object": "French", "taxonomy": ["Danish", "Nepali", "Dutch", "Telugu", "Hindi"]}
+{"subject": "Louis Bonaparte", "object": "French", "taxonomy": ["Greek", "Marathi", "English", "Danish", "Chinese"]}
+{"subject": "Chris Marker", "object": "French", "taxonomy": ["Breton", "Croatian", "Persian", "Italian", "Nepali"]}
+{"subject": "Yvan Goll", "object": "French", "taxonomy": ["Chinese", "Hungarian", "Dutch", "Serbian", "Latin"]}
+{"subject": "Georgy Shpagin", "object": "Russian", "taxonomy": ["Dutch", "Swedish", "Chinese", "Nepali", "Croatian"]}
+{"subject": "Antoine Bourdelle", "object": "French", "taxonomy": ["Marathi", "Chinese", "Croatian", "Italian", "Breton"]}
+{"subject": "Jean Petitot", "object": "French", "taxonomy": ["Georgian", "Korean", "Portuguese", "Latin", "Danish"]}
+{"subject": "Maurice Herzog", "object": "French", "taxonomy": ["Portuguese", "Estonian", "Hungarian", "Finnish", "Armenian"]}
+{"subject": "Russians in Ukraine", "object": "Russian", "taxonomy": ["Serbian", "Finnish", "Latin", "Korean", "Malayalam"]}
+{"subject": "Victorien Sardou", "object": "French", "taxonomy": ["Serbian", "Malayalam", "Italian", "Bengali", "Dutch"]}
+{"subject": "Louane", "object": "French", "taxonomy": ["Telugu", "German", "Turkish", "Georgian", "Polish"]}
+{"subject": "Chen Xiaoxu", "object": "Chinese", "taxonomy": ["Croatian", "Estonian", "English", "Japanese", "Tamil"]}
+{"subject": "Eduard Uspensky", "object": "Russian", "taxonomy": ["Persian", "Malayalam", "Marathi", "Tamil", "Greek"]}
+{"subject": "John Quincy Adams", "object": "English", "taxonomy": ["Malayalam", "Hungarian", "Korean", "Georgian", "Cantonese"]}
+{"subject": "Theo van Doesburg", "object": "Dutch", "taxonomy": ["Hindi", "Marathi", "French", "Portuguese", "Indonesian"]}
+{"subject": "Hannah Szenes", "object": "Hungarian", "taxonomy": ["Indonesian", "Bengali", "Hindi", "Nepali", "Telugu"]}
+{"subject": "Roger Karoutchi", "object": "French", "taxonomy": ["Russian", "Armenian", "German", "Polish", "Portuguese"]}
+{"subject": "Lili Damita", "object": "French", "taxonomy": ["Romanian", "Cantonese", "Telugu", "Welsh", "Polish"]}
+{"subject": "Marc Dolez", "object": "French", "taxonomy": ["English", "Malayalam", "Spanish", "Russian", "Hindi"]}
+{"subject": "Michel Vinaver", "object": "French", "taxonomy": ["Danish", "Korean", "Indonesian", "Swedish", "Russian"]}
+{"subject": "Ernest Picard", "object": "French", "taxonomy": ["Nepali", "English", "Persian", "Finnish", "Hindi"]}
+{"subject": "Mikhail Evstafiev", "object": "Russian", "taxonomy": ["Turkish", "Portuguese", "Greek", "Estonian", "Bengali"]}
+{"subject": "Bernard Cerquiglini", "object": "French", "taxonomy": ["Korean", "Welsh", "Nepali", "Telugu", "Georgian"]}
+{"subject": "Bertrand Russell", "object": "English", "taxonomy": ["Malayalam", "Georgian", "Greek", "Tamil", "Hebrew"]}
+{"subject": "Bhimrao Ramji Ambedkar", "object": "Marathi", "taxonomy": ["French", "Portuguese", "Russian", "Romanian", "German"]}
+{"subject": "Alfred Savoir", "object": "French", "taxonomy": ["Hindi", "Persian", "Georgian", "Telugu", "Hungarian"]}
+{"subject": "Jean Follain", "object": "French", "taxonomy": ["Greek", "Telugu", "Hindi", "Croatian", "Romanian"]}
+{"subject": "Louis-Paul Aujoulat", "object": "French", "taxonomy": ["Dutch", "Korean", "Italian", "Greek", "Portuguese"]}
+{"subject": "Jacques Doriot", "object": "French", "taxonomy": ["Estonian", "Hungarian", "Polish", "Chinese", "Greek"]}
+{"subject": "Adrienne Monnier", "object": "French", "taxonomy": ["Korean", "Latin", "Tamil", "Belarusian", "Croatian"]}
+{"subject": "Victor Prosper Considerant", "object": "French", "taxonomy": ["Turkish", "Cantonese", "Swedish", "Chinese", "Romanian"]}
+{"subject": "Herman Dooyeweerd", "object": "Dutch", "taxonomy": ["German", "Romanian", "English", "Telugu", "Persian"]}
+{"subject": "Akira Kurosawa", "object": "Japanese", "taxonomy": ["French", "Swedish", "Tamil", "Turkish", "Malayalam"]}
+{"subject": "Suman Pokhrel", "object": "Nepali", "taxonomy": ["Serbian", "Hebrew", "Hindi", "French", "Greek"]}
+{"subject": "Sully Prudhomme", "object": "French", "taxonomy": ["Georgian", "Swedish", "Polish", "Italian", "Latin"]}
+{"subject": "Allan Kardec", "object": "French", "taxonomy": ["Tamil", "Spanish", "Danish", "Serbian", "Malayalam"]}
+{"subject": "Michel Aumont", "object": "French", "taxonomy": ["Greek", "Malayalam", "Romanian", "Portuguese", "Bengali"]}
+{"subject": "Frantz Fanon", "object": "French", "taxonomy": ["Belarusian", "Finnish", "Spanish", "Persian", "German"]}
+{"subject": "Irina Khakamada", "object": "Russian", "taxonomy": ["English", "Nepali", "Spanish", "Breton", "Bengali"]}
+{"subject": "Jean-Baptiste Maunier", "object": "French", "taxonomy": ["Hindi", "Nepali", "Bengali", "Hungarian", "Belarusian"]}
+{"subject": "Dmitry Pisarev", "object": "Russian", "taxonomy": ["Indonesian", "Turkish", "Breton", "Croatian", "Romanian"]}
+{"subject": "Eva Ionesco", "object": "French", "taxonomy": ["Nepali", "Belarusian", "Armenian", "Malayalam", "Latin"]}
+{"subject": "Jules Berry", "object": "French", "taxonomy": ["Persian", "Belarusian", "Portuguese", "Bengali", "German"]}
+{"subject": "Georges Altman", "object": "French", "taxonomy": ["Malayalam", "Persian", "Croatian", "Serbian", "Chinese"]}
+{"subject": "Don Cossacks", "object": "Russian", "taxonomy": ["Georgian", "Latin", "Nepali", "Danish", "Italian"]}
+{"subject": "Wim Crouwel", "object": "Dutch", "taxonomy": ["Latin", "English", "Spanish", "Croatian", "Breton"]}
+{"subject": "Coluche", "object": "French", "taxonomy": ["Hungarian", "Welsh", "Italian", "Hindi", "Belarusian"]}
+{"subject": "Virginia Woolf", "object": "English", "taxonomy": ["Greek", "Indonesian", "Danish", "French", "Russian"]}
+{"subject": "Daniel Pennacchioni", "object": "French", "taxonomy": ["Malayalam", "English", "Korean", "Nepali", "Telugu"]}
+{"subject": "Catherine Deneuve", "object": "French", "taxonomy": ["Telugu", "Latin", "Danish", "Hindi", "Hungarian"]}
+{"subject": "John Stuart Mill", "object": "English", "taxonomy": ["Breton", "Polish", "German", "Bengali", "Telugu"]}
+{"subject": "Emil Cioran", "object": "Romanian", "taxonomy": ["German", "Belarusian", "Russian", "Japanese", "Danish"]}
+{"subject": "Dominique Perben", "object": "French", "taxonomy": ["Turkish", "Croatian", "Italian", "Indonesian", "German"]}
+{"subject": "Freek de Jonge", "object": "Dutch", "taxonomy": ["Danish", "Nepali", "French", "English", "Finnish"]}
+{"subject": "Vladimir Bukovsky", "object": "Russian", "taxonomy": ["Serbian", "Cantonese", "Portuguese", "English", "Italian"]}
+{"subject": "Nathalie Kosciusko-Morizet", "object": "French", "taxonomy": ["Cantonese", "Danish", "German", "Japanese", "Portuguese"]}
+{"subject": "Georges Marchal", "object": "French", "taxonomy": ["Tamil", "Spanish", "Russian", "Turkish", "Greek"]}
+{"subject": "Laurent Fabius", "object": "French", "taxonomy": ["Korean", "Indonesian", "Belarusian", "Hungarian", "German"]}
+{"subject": "Pablo Picasso", "object": "Spanish", "taxonomy": ["Marathi", "Hungarian", "Hebrew", "Chinese", "Danish"]}
+{"subject": "Robert Merle", "object": "French", "taxonomy": ["Finnish", "Belarusian", "Swedish", "Polish", "Marathi"]}
+{"subject": "Klaas Schilder", "object": "Dutch", "taxonomy": ["Indonesian", "Marathi", "Cantonese", "Korean", "Hebrew"]}
+{"subject": "Shi Yongxin", "object": "Chinese", "taxonomy": ["Hungarian", "Finnish", "Armenian", "Breton", "Bengali"]}
+{"subject": "Grigoris Lambrakis", "object": "Greek", "taxonomy": ["Turkish", "Hebrew", "Cantonese", "Dutch", "Latin"]}
+{"subject": "Suzy Vernon", "object": "French", "taxonomy": ["Georgian", "Latin", "Indonesian", "English", "Bengali"]}
+{"subject": "Moses Amyraut", "object": "French", "taxonomy": ["Belarusian", "Polish", "Hindi", "Indonesian", "Italian"]}
+{"subject": "Jean Yanne", "object": "French", "taxonomy": ["Indonesian", "Persian", "Estonian", "Telugu", "Turkish"]}
+{"subject": "Joseph-Marie, comte Portalis", "object": "French", "taxonomy": ["English", "Portuguese", "Hebrew", "Korean", "Danish"]}
+{"subject": "Valentin Conrart", "object": "French", "taxonomy": ["Malayalam", "Hindi", "Nepali", "Spanish", "Chinese"]}
+{"subject": "Christiaan Snouck Hurgronje", "object": "Dutch", "taxonomy": ["Persian", "Cantonese", "Hebrew", "Indonesian", "Breton"]}
+{"subject": "Georges Ernest Boulanger", "object": "French", "taxonomy": ["Dutch", "Greek", "Croatian", "Welsh", "Nepali"]}
+{"subject": "Alice Isaaz", "object": "French", "taxonomy": ["Breton", "Russian", "Portuguese", "Finnish", "Tamil"]}
+{"subject": "Darry Cowl", "object": "French", "taxonomy": ["Persian", "Turkish", "Tamil", "German", "Welsh"]}
+{"subject": "Bernard Musson", "object": "French", "taxonomy": ["Japanese", "Marathi", "Welsh", "Swedish", "Croatian"]}
+{"subject": "Marcel Dassault", "object": "French", "taxonomy": ["Belarusian", "German", "Malayalam", "Dutch", "Latin"]}
+{"subject": "Alphonse Daudet", "object": "French", "taxonomy": ["Portuguese", "Croatian", "Japanese", "Tamil", "Italian"]}
+{"subject": "Jean-Pierre Thiollet", "object": "French", "taxonomy": ["Belarusian", "Italian", "Russian", "Swedish", "Latin"]}
+{"subject": "John Ruskin", "object": "English", "taxonomy": ["Indonesian", "French", "Georgian", "Romanian", "Bengali"]}
+{"subject": "Edurne", "object": "Spanish", "taxonomy": ["Welsh", "Hebrew", "Persian", "Chinese", "Armenian"]}
+{"subject": "Alexandre Dumas, fils", "object": "French", "taxonomy": ["Estonian", "Turkish", "Telugu", "Malayalam", "Welsh"]}
+{"subject": "Hendrick de Keyser", "object": "Dutch", "taxonomy": ["Cantonese", "Marathi", "Finnish", "Danish", "Spanish"]}
+{"subject": "Vincent de Moro-Giafferi", "object": "French", "taxonomy": ["Marathi", "Dutch", "Russian", "Japanese", "Portuguese"]}
+{"subject": "Pedro de la Rosa", "object": "Spanish", "taxonomy": ["Hindi", "Croatian", "Japanese", "Hebrew", "Hungarian"]}
+{"subject": "Andries Cornelis Dirk de Graeff", "object": "Dutch", "taxonomy": ["Georgian", "German", "Japanese", "Armenian", "Hebrew"]}
+{"subject": "Grigore Moisil", "object": "Romanian", "taxonomy": ["German", "Hebrew", "Swedish", "Hindi", "Armenian"]}
+{"subject": "Brian May", "object": "English", "taxonomy": ["Bengali", "Estonian", "Romanian", "Tamil", "Georgian"]}
+{"subject": "Georges Gorse", "object": "French", "taxonomy": ["Armenian", "Breton", "Spanish", "Dutch", "Russian"]}
+{"subject": "Charles Maurras", "object": "French", "taxonomy": ["Italian", "Malayalam", "Persian", "Armenian", "Dutch"]}
+{"subject": "Georges-Louis Leclerc, Comte de Buffon", "object": "French", "taxonomy": ["Persian", "Hebrew", "Portuguese", "Breton", "Bengali"]}
+{"subject": "Stieg Larsson", "object": "Swedish", "taxonomy": ["Persian", "Dutch", "Estonian", "Hindi", "Tamil"]}
+{"subject": "Jean-Claude Izzo", "object": "French", "taxonomy": ["Malayalam", "Indonesian", "Portuguese", "Russian", "Swedish"]}
+{"subject": "Herman Gorter", "object": "Dutch", "taxonomy": ["Serbian", "Marathi", "Japanese", "Hindi", "Georgian"]}
+{"subject": "Casimir Delavigne", "object": "French", "taxonomy": ["Turkish", "Portuguese", "Indonesian", "Polish", "Croatian"]}
+{"subject": "Rafael Alberti", "object": "Spanish", "taxonomy": ["Greek", "Estonian", "Portuguese", "Belarusian", "Romanian"]}
+{"subject": "Alain Cuny", "object": "French", "taxonomy": ["Serbian", "Korean", "Turkish", "Hungarian", "Georgian"]}
+{"subject": "Paul Le Person", "object": "French", "taxonomy": ["Chinese", "Polish", "Danish", "Turkish", "German"]}
+{"subject": "Pascal Quignard", "object": "French", "taxonomy": ["Nepali", "English", "Swedish", "Dutch", "Polish"]}
+{"subject": "Brigitte Fontaine", "object": "French", "taxonomy": ["Russian", "Indonesian", "Italian", "Swedish", "Dutch"]}
+{"subject": "Bhuvanachandra", "object": "Telugu", "taxonomy": ["Marathi", "Italian", "Georgian", "Bengali", "Croatian"]}
+{"subject": "Yves Bonnefoy", "object": "French", "taxonomy": ["Tamil", "Danish", "Bengali", "Greek", "Dutch"]}
+{"subject": "Hafsia Herzi", "object": "French", "taxonomy": ["Portuguese", "Breton", "English", "Tamil", "Spanish"]}
+{"subject": "Wang Shu", "object": "Chinese", "taxonomy": ["Armenian", "Telugu", "Finnish", "Italian", "French"]}
+{"subject": "Jacques Sadoul", "object": "French", "taxonomy": ["Persian", "German", "Armenian", "Welsh", "Marathi"]}
+{"subject": "Ilya Nikolaevich Ulyanov", "object": "Russian", "taxonomy": ["Romanian", "Portuguese", "Dutch", "Welsh", "German"]}
+{"subject": "Nikolay Nekrasov", "object": "Russian", "taxonomy": ["Greek", "Hebrew", "Belarusian", "Tamil", "Breton"]}
+{"subject": "Eva Rivas", "object": "Armenian", "taxonomy": ["English", "Greek", "Estonian", "Telugu", "Hungarian"]}
+{"subject": "Dominique Cabrera", "object": "French", "taxonomy": ["Chinese", "Armenian", "Swedish", "Welsh", "Russian"]}
+{"subject": "Patrick Rambaud", "object": "French", "taxonomy": ["Georgian", "Breton", "Bengali", "Italian", "Japanese"]}
+{"subject": "Raja Ravi Varma", "object": "Malayalam", "taxonomy": ["Swedish", "French", "Marathi", "Serbian", "Nepali"]}
+{"subject": "Paul Biegel", "object": "Dutch", "taxonomy": ["Marathi", "Italian", "Estonian", "Romanian", "Welsh"]}
+{"subject": "Jean-Baptiste Alphonse Karr", "object": "French", "taxonomy": ["Swedish", "Nepali", "Belarusian", "Hindi", "Persian"]}
+{"subject": "Laurent Stocker", "object": "French", "taxonomy": ["Indonesian", "English", "Polish", "Telugu", "Marathi"]}
+{"subject": "Sergey Platonov", "object": "Russian", "taxonomy": ["Greek", "Malayalam", "Georgian", "Serbian", "English"]}
+{"subject": "Dominique Zardi", "object": "French", "taxonomy": ["Cantonese", "Tamil", "Welsh", "Latin", "Georgian"]}
+{"subject": "Delphine de Girardin", "object": "French", "taxonomy": ["Croatian", "Cantonese", "Dutch", "Spanish", "Turkish"]}
+{"subject": "Zachary Taylor", "object": "English", "taxonomy": ["Telugu", "Armenian", "Korean", "Polish", "Bengali"]}
+{"subject": "Margot Anand", "object": "French", "taxonomy": ["Russian", "Turkish", "Danish", "Chinese", "Estonian"]}
+{"subject": "John Webster", "object": "English", "taxonomy": ["Latin", "Estonian", "Finnish", "Marathi", "Croatian"]}
+{"subject": "Jean-Claude Brialy", "object": "French", "taxonomy": ["English", "Finnish", "Spanish", "Serbian", "Latin"]}
+{"subject": "Adam Sandler", "object": "English", "taxonomy": ["Breton", "Marathi", "Danish", "Tamil", "Nepali"]}
+{"subject": "Denis Robert", "object": "French", "taxonomy": ["Serbian", "Swedish", "Welsh", "Dutch", "Tamil"]}
+{"subject": "Michel Zevaco", "object": "French", "taxonomy": ["Chinese", "German", "Spanish", "Polish", "Swedish"]}
+{"subject": "Vera Lynn", "object": "English", "taxonomy": ["Italian", "Romanian", "Turkish", "Georgian", "Indonesian"]}
+{"subject": "Mimie Mathy", "object": "French", "taxonomy": ["Danish", "Italian", "Armenian", "English", "Serbian"]}
+{"subject": "Jean-Baptiste Philibert Willaumez", "object": "French", "taxonomy": ["Danish", "Malayalam", "Welsh", "Croatian", "Romanian"]}
+{"subject": "Alexey Miller", "object": "Russian", "taxonomy": ["Malayalam", "Chinese", "Latin", "Breton", "Hindi"]}
+{"subject": "Mathieu Demy", "object": "French", "taxonomy": ["English", "Cantonese", "Tamil", "Croatian", "Dutch"]}
+{"subject": "Benjamin Constant", "object": "French", "taxonomy": ["Danish", "Tamil", "Georgian", "Korean", "Armenian"]}
+{"subject": "Clio Goldsmith", "object": "French", "taxonomy": ["Hungarian", "Greek", "Breton", "Serbian", "Telugu"]}
+{"subject": "Learco Guerra", "object": "Italian", "taxonomy": ["Spanish", "Croatian", "Armenian", "Hebrew", "Telugu"]}
+{"subject": "James A. Garfield", "object": "English", "taxonomy": ["Finnish", "Italian", "Latin", "Nepali", "Telugu"]}
+{"subject": "Olga Georges-Picot", "object": "French", "taxonomy": ["Nepali", "Greek", "Portuguese", "Romanian", "Cantonese"]}
+{"subject": "Jacques Dupin", "object": "French", "taxonomy": ["Hindi", "Japanese", "Polish", "Indonesian", "Belarusian"]}
+{"subject": "Charles Vanel", "object": "French", "taxonomy": ["Romanian", "Welsh", "Finnish", "Malayalam", "Cantonese"]}
+{"subject": "Jan van Krimpen", "object": "Dutch", "taxonomy": ["Latin", "Belarusian", "Turkish", "Hungarian", "Danish"]}
+{"subject": "Vasily Kamensky", "object": "Russian", "taxonomy": ["Indonesian", "Telugu", "Malayalam", "French", "Bengali"]}
+{"subject": "Jules Barbier", "object": "French", "taxonomy": ["Cantonese", "Russian", "Indonesian", "Finnish", "Malayalam"]}
+{"subject": "Irina Arkhipova", "object": "Russian", "taxonomy": ["Croatian", "Swedish", "English", "Polish", "Nepali"]}
+{"subject": "Paul Verhoeven", "object": "Dutch", "taxonomy": ["Korean", "Hindi", "Welsh", "Russian", "Hungarian"]}
+{"subject": "Claude Bartolone", "object": "French", "taxonomy": ["Chinese", "Bengali", "Indonesian", "Serbian", "Estonian"]}
+{"subject": "Joseph Paul-Boncour", "object": "French", "taxonomy": ["Turkish", "German", "Russian", "Serbian", "English"]}
+{"subject": "Jean Anouilh", "object": "French", "taxonomy": ["Indonesian", "Dutch", "Finnish", "Cantonese", "Romanian"]}
+{"subject": "Armand Lunel", "object": "French", "taxonomy": ["Danish", "Finnish", "Japanese", "Hebrew", "Turkish"]}
+{"subject": "Brigitte Bardot", "object": "French", "taxonomy": ["Finnish", "Portuguese", "Dutch", "Chinese", "German"]}
+{"subject": "Posani Krishna Murali", "object": "Telugu", "taxonomy": ["Italian", "Armenian", "Serbian", "Spanish", "Indonesian"]}
+{"subject": "Tatiana Sorokko", "object": "Russian", "taxonomy": ["Swedish", "Chinese", "Marathi", "Japanese", "German"]}
+{"subject": "Edmond Gondinet", "object": "French", "taxonomy": ["Turkish", "Welsh", "Romanian", "Serbian", "Tamil"]}
+{"subject": "Michel Ciment", "object": "French", "taxonomy": ["Greek", "Hungarian", "Latin", "Romanian", "Croatian"]}
+{"subject": "Jean-Marie Pardessus", "object": "French", "taxonomy": ["Greek", "Indonesian", "Turkish", "Romanian", "Dutch"]}
+{"subject": "Jacobus Henricus van 't Hoff", "object": "Dutch", "taxonomy": ["Croatian", "Hebrew", "Turkish", "Italian", "Korean"]}
+{"subject": "Alain Marleix", "object": "French", "taxonomy": ["Marathi", "Hindi", "Russian", "Korean", "Romanian"]}
+{"subject": "Christian Jacq", "object": "French", "taxonomy": ["Telugu", "Turkish", "Latin", "Breton", "Polish"]}
+{"subject": "Leslie Caron", "object": "French", "taxonomy": ["Persian", "Armenian", "Serbian", "Tamil", "German"]}
+{"subject": "Jean-Marie Colombani", "object": "French", "taxonomy": ["Welsh", "Cantonese", "Portuguese", "Hungarian", "Telugu"]}
+{"subject": "Jan Davidsz. de Heem", "object": "Dutch", "taxonomy": ["Latin", "Hebrew", "German", "Danish", "Hungarian"]}
+{"subject": "Judith Chemla", "object": "French", "taxonomy": ["English", "Serbian", "Welsh", "Hindi", "Breton"]}
+{"subject": "Pierre Laval", "object": "French", "taxonomy": ["English", "Marathi", "Telugu", "Croatian", "Latin"]}
+{"subject": "Ernest Monis", "object": "French", "taxonomy": ["Greek", "Finnish", "Breton", "Bengali", "Portuguese"]}
+{"subject": "Roger Coggio", "object": "French", "taxonomy": ["Chinese", "Spanish", "Cantonese", "Croatian", "English"]}
+{"subject": "JoeyStarr", "object": "French", "taxonomy": ["Romanian", "Finnish", "Portuguese", "Malayalam", "Danish"]}
+{"subject": "Jean-Michel Dupuis", "object": "French", "taxonomy": ["Hungarian", "Latin", "Chinese", "Estonian", "Armenian"]}
+{"subject": "Corinne Calvet", "object": "French", "taxonomy": ["Cantonese", "Swedish", "Latin", "Hindi", "Persian"]}
+{"subject": "Giuseppe Saronni", "object": "Italian", "taxonomy": ["Welsh", "Romanian", "Spanish", "Polish", "Georgian"]}
+{"subject": "Lo Hartog van Banda", "object": "Dutch", "taxonomy": ["Swedish", "Belarusian", "French", "Greek", "German"]}
+{"subject": "Armand de Kersaint", "object": "French", "taxonomy": ["Belarusian", "Telugu", "Armenian", "Hungarian", "Swedish"]}
+{"subject": "Alain Savary", "object": "French", "taxonomy": ["Estonian", "Chinese", "Hungarian", "Tamil", "Swedish"]}
+{"subject": "Jan Peter Balkenende", "object": "Dutch", "taxonomy": ["Romanian", "Spanish", "Russian", "Hindi", "Malayalam"]}
+{"subject": "Giovanni Boccaccio", "object": "Italian", "taxonomy": ["Korean", "Hebrew", "Serbian", "Romanian", "Bengali"]}
+{"subject": "Sacha Briquet", "object": "French", "taxonomy": ["Greek", "Armenian", "Russian", "Hebrew", "Serbian"]}
+{"subject": "Junie Astor", "object": "French", "taxonomy": ["Japanese", "Telugu", "Korean", "Hungarian", "Breton"]}
+{"subject": "Valentin Glushko", "object": "Russian", "taxonomy": ["Nepali", "Malayalam", "Polish", "Breton", "Telugu"]}
+{"subject": "Michel Subor", "object": "French", "taxonomy": ["Hindi", "Japanese", "Chinese", "Latin", "Hebrew"]}
+{"subject": "Nathalie Baye", "object": "French", "taxonomy": ["Romanian", "Welsh", "Chinese", "English", "Danish"]}
+{"subject": "Jeanna Friske", "object": "Russian", "taxonomy": ["Spanish", "French", "Malayalam", "German", "Polish"]}
+{"subject": "Jean Vautrin", "object": "French", "taxonomy": ["Welsh", "Russian", "Greek", "German", "Hungarian"]}
+{"subject": "Vladimir Vinogradov", "object": "Russian", "taxonomy": ["Marathi", "Danish", "Breton", "Greek", "Cantonese"]}
+{"subject": "Maurice Faure", "object": "French", "taxonomy": ["Marathi", "Malayalam", "Hungarian", "Persian", "Japanese"]}
+{"subject": "Nicolas Chamfort", "object": "French", "taxonomy": ["Cantonese", "Portuguese", "Georgian", "Malayalam", "Polish"]}
+{"subject": "Pierre Lescure", "object": "French", "taxonomy": ["Croatian", "Belarusian", "Korean", "Nepali", "Breton"]}
+{"subject": "Anton Reinhard Falck", "object": "Dutch", "taxonomy": ["Hungarian", "Italian", "Croatian", "Japanese", "Finnish"]}
+{"subject": "Sergey Lavrov", "object": "Russian", "taxonomy": ["Telugu", "Croatian", "Bengali", "Portuguese", "Serbian"]}
+{"subject": "Toon Hermans", "object": "Dutch", "taxonomy": ["Marathi", "Portuguese", "Nepali", "Cantonese", "Turkish"]}
+{"subject": "Menno ter Braak", "object": "Dutch", "taxonomy": ["Greek", "Japanese", "Finnish", "Portuguese", "Malayalam"]}
+{"subject": "Suzy Prim", "object": "French", "taxonomy": ["Chinese", "Armenian", "Indonesian", "Hebrew", "Breton"]}
+{"subject": "Marina Hands", "object": "French", "taxonomy": ["Welsh", "Turkish", "Japanese", "Cantonese", "Russian"]}
+{"subject": "John Abraham Heraud", "object": "English", "taxonomy": ["Portuguese", "Serbian", "Finnish", "Cantonese", "Chinese"]}
+{"subject": "Jacobus Revius", "object": "Dutch", "taxonomy": ["Swedish", "Nepali", "Breton", "Russian", "Portuguese"]}
+{"subject": "Ginette Garcin", "object": "French", "taxonomy": ["Swedish", "Hungarian", "Greek", "Georgian", "Portuguese"]}
+{"subject": "Olivier Rabourdin", "object": "French", "taxonomy": ["Korean", "Latin", "Japanese", "Indonesian", "Greek"]}
+{"subject": "Peter Kropotkin", "object": "Russian", "taxonomy": ["Italian", "Hungarian", "Korean", "Armenian", "Marathi"]}
+{"subject": "Nicholas Marr", "object": "Russian", "taxonomy": ["Estonian", "Turkish", "Telugu", "Polish", "German"]}
+{"subject": "Jean de La Fontaine", "object": "French", "taxonomy": ["Croatian", "Serbian", "Malayalam", "Telugu", "Welsh"]}
+{"subject": "Pieter Cornelis Boutens", "object": "Dutch", "taxonomy": ["Hindi", "Armenian", "Telugu", "Croatian", "Chinese"]}
+{"subject": "Alfonso V of Aragon", "object": "Spanish", "taxonomy": ["Swedish", "German", "French", "Indonesian", "Cantonese"]}
+{"subject": "Isabelle Breitman", "object": "French", "taxonomy": ["Malayalam", "Croatian", "Tamil", "Bengali", "Breton"]}
+{"subject": "Germaine Dieterlen", "object": "French", "taxonomy": ["Finnish", "Russian", "Telugu", "Armenian", "Hindi"]}
+{"subject": "Herbert Edward Read", "object": "English", "taxonomy": ["Greek", "Korean", "Tamil", "Nepali", "Marathi"]}
+{"subject": "Jean-Pierre Pernaut", "object": "French", "taxonomy": ["Italian", "Belarusian", "Indonesian", "Finnish", "Telugu"]}
+{"subject": "Xavier de Maistre", "object": "French", "taxonomy": ["Danish", "Polish", "Nepali", "Italian", "Spanish"]}
+{"subject": "Jean-Jacques Pauvert", "object": "French", "taxonomy": ["Hindi", "Armenian", "Nepali", "Latin", "Breton"]}
+{"subject": "Hendrik Marsman", "object": "Dutch", "taxonomy": ["Italian", "Latin", "Chinese", "French", "Turkish"]}
+{"subject": "Pino Caruso", "object": "Italian", "taxonomy": ["Russian", "Cantonese", "Marathi", "Persian", "Polish"]}
+{"subject": "Dino Dvornik", "object": "Croatian", "taxonomy": ["English", "Spanish", "Bengali", "Serbian", "Swedish"]}
+{"subject": "Aruna Mucherla", "object": "Telugu", "taxonomy": ["Portuguese", "Breton", "Indonesian", "Romanian", "English"]}
+{"subject": "Jean Galland", "object": "French", "taxonomy": ["Chinese", "Korean", "Polish", "Breton", "English"]}
+{"subject": "Patrice Leconte", "object": "French", "taxonomy": ["Persian", "English", "Hindi", "Russian", "Malayalam"]}
+{"subject": "Yvonne Monlaur", "object": "French", "taxonomy": ["Persian", "Japanese", "Marathi", "Romanian", "Bengali"]}
+{"subject": "Gustave Geffroy", "object": "French", "taxonomy": ["Chinese", "Latin", "Portuguese", "Romanian", "Georgian"]}
+{"subject": "Roger Holeindre", "object": "French", "taxonomy": ["Dutch", "Indonesian", "Estonian", "Persian", "Korean"]}
+{"subject": "Coenraad Jacob Temminck", "object": "Dutch", "taxonomy": ["Turkish", "Georgian", "Russian", "Romanian", "Telugu"]}
+{"subject": "Min Gyu-dong", "object": "Korean", "taxonomy": ["Malayalam", "English", "German", "Latin", "Chinese"]}
+{"subject": "Bernard Alane", "object": "French", "taxonomy": ["Marathi", "Hebrew", "Chinese", "Georgian", "Nepali"]}
+{"subject": "Edwy Plenel", "object": "French", "taxonomy": ["Malayalam", "Welsh", "Japanese", "Croatian", "Italian"]}
+{"subject": "Reinhart Dozy", "object": "Dutch", "taxonomy": ["French", "Hindi", "English", "Armenian", "Welsh"]}
+{"subject": "L. V. Prasad", "object": "Telugu", "taxonomy": ["German", "Breton", "Italian", "Estonian", "Malayalam"]}
+{"subject": "Dmitry Puchkov", "object": "Russian", "taxonomy": ["Finnish", "French", "Breton", "Estonian", "Welsh"]}
+{"subject": "Marie-Anne Chazel", "object": "French", "taxonomy": ["English", "Romanian", "Danish", "Hungarian", "Swedish"]}
+{"subject": "Jean Martinelli", "object": "French", "taxonomy": ["Spanish", "Telugu", "Welsh", "Danish", "Finnish"]}
+{"subject": "Bruno Racine", "object": "French", "taxonomy": ["Hindi", "Breton", "Belarusian", "Georgian", "Polish"]}
+{"subject": "Yuliya Snigir", "object": "Russian", "taxonomy": ["Spanish", "Portuguese", "Korean", "Nepali", "Danish"]}
+{"subject": "Paulette Dubost", "object": "French", "taxonomy": ["Georgian", "Nepali", "Serbian", "Danish", "Russian"]}
+{"subject": "Dmitry Medvedev", "object": "Russian", "taxonomy": ["Greek", "Indonesian", "Dutch", "Croatian", "Serbian"]}
+{"subject": "Michel Boujenah", "object": "French", "taxonomy": ["Georgian", "Latin", "Turkish", "Marathi", "Breton"]}
+{"subject": "Jo Coenen", "object": "Dutch", "taxonomy": ["Armenian", "Serbian", "Portuguese", "Russian", "Croatian"]}
+{"subject": "Go Hyeon-jeong", "object": "Korean", "taxonomy": ["Portuguese", "German", "English", "Telugu", "Persian"]}
+{"subject": "Lev Kulidzhanov", "object": "Russian", "taxonomy": ["Armenian", "Korean", "Indonesian", "Hindi", "Greek"]}
+{"subject": "Eustache-Hyacinthe Langlois", "object": "French", "taxonomy": ["Danish", "Finnish", "Persian", "German", "Italian"]}
+{"subject": "Andrew Lang", "object": "English", "taxonomy": ["Cantonese", "Polish", "Estonian", "Marathi", "Belarusian"]}
+{"subject": "Lydia Chukovskaya", "object": "Russian", "taxonomy": ["Turkish", "Hindi", "Bengali", "Swedish", "Spanish"]}
+{"subject": "Camille Flammarion", "object": "French", "taxonomy": ["Bengali", "Danish", "Cantonese", "Turkish", "Greek"]}
+{"subject": "Gautier de Coincy", "object": "French", "taxonomy": ["English", "Turkish", "Bengali", "Nepali", "Hindi"]}
+{"subject": "John Banville", "object": "English", "taxonomy": ["Indonesian", "Portuguese", "Armenian", "Danish", "Finnish"]}
+{"subject": "Robert de Flers", "object": "French", "taxonomy": ["Welsh", "Malayalam", "English", "German", "Polish"]}
+{"subject": "Louis Carrogis Carmontelle", "object": "French", "taxonomy": ["Portuguese", "Hebrew", "Hindi", "Bengali", "Dutch"]}
+{"subject": "Gabriel Hanotaux", "object": "French", "taxonomy": ["Turkish", "English", "Telugu", "Russian", "Dutch"]}
+{"subject": "Michel Denisot", "object": "French", "taxonomy": ["Russian", "Danish", "Greek", "Portuguese", "Croatian"]}
+{"subject": "Ivan Puni", "object": "Russian", "taxonomy": ["Danish", "Italian", "Croatian", "Dutch", "German"]}
+{"subject": "Jean Rouaud", "object": "French", "taxonomy": ["Bengali", "Marathi", "Dutch", "Chinese", "Persian"]}
+{"subject": "Marie NDiaye", "object": "French", "taxonomy": ["Polish", "Finnish", "Chinese", "Japanese", "Georgian"]}
+{"subject": "Donald Keene", "object": "English", "taxonomy": ["Romanian", "Dutch", "Portuguese", "Marathi", "Finnish"]}
+{"subject": "Prabhas Raju Uppalapati", "object": "Telugu", "taxonomy": ["Spanish", "Georgian", "Russian", "Breton", "Hungarian"]}
+{"subject": "Yevgenia Albats", "object": "Russian", "taxonomy": ["Hindi", "Tamil", "Belarusian", "Telugu", "Italian"]}
+{"subject": "Raymond Depardon", "object": "French", "taxonomy": ["Cantonese", "Romanian", "German", "Russian", "Danish"]}
+{"subject": "Pierre Brossolette", "object": "French", "taxonomy": ["Turkish", "Persian", "Tamil", "English", "Breton"]}
+{"subject": "Julien Dray", "object": "French", "taxonomy": ["English", "Persian", "Malayalam", "Korean", "Indonesian"]}
+{"subject": "Jean Lacouture", "object": "French", "taxonomy": ["Tamil", "Georgian", "Croatian", "Swedish", "Polish"]}
+{"subject": "Hendrik Lorentz", "object": "Dutch", "taxonomy": ["Cantonese", "Indonesian", "Finnish", "Danish", "Swedish"]}
+{"subject": "Mikhail Khodorkovsky", "object": "Russian", "taxonomy": ["Bengali", "French", "Malayalam", "Breton", "Croatian"]}
+{"subject": "Nina Companéez", "object": "French", "taxonomy": ["Chinese", "Turkish", "Georgian", "Latin", "Italian"]}
+{"subject": "Alexandre Rignault", "object": "French", "taxonomy": ["Estonian", "Hungarian", "English", "Bengali", "Telugu"]}
+{"subject": "Charles-Joseph Panckoucke", "object": "French", "taxonomy": ["Latin", "Nepali", "Japanese", "Finnish", "Dutch"]}
+{"subject": "Lalithambika Antharjanam", "object": "Malayalam", "taxonomy": ["English", "Spanish", "Finnish", "Polish", "Estonian"]}
+{"subject": "Dominique Lapierre", "object": "French", "taxonomy": ["Tamil", "Danish", "Romanian", "Italian", "Polish"]}
+{"subject": "Paul Morand", "object": "French", "taxonomy": ["Hungarian", "Romanian", "Georgian", "Italian", "Malayalam"]}
+{"subject": "Ovid", "object": "Latin", "taxonomy": ["Georgian", "Japanese", "Cantonese", "Chinese", "Tamil"]}
+{"subject": "Akkitham Achuthan Namboothiri", "object": "Malayalam", "taxonomy": ["Cantonese", "Dutch", "English", "Greek", "Indonesian"]}
+{"subject": "Huguette Duflos", "object": "French", "taxonomy": ["Latin", "Indonesian", "Dutch", "Hindi", "Polish"]}
+{"subject": "Jacques Laffitte", "object": "French", "taxonomy": ["Nepali", "Indonesian", "Cantonese", "Italian", "Dutch"]}
+{"subject": "Christiane Martel", "object": "French", "taxonomy": ["Spanish", "Hungarian", "Dutch", "Romanian", "Welsh"]}
+{"subject": "Goswin de Stassart", "object": "French", "taxonomy": ["Swedish", "Belarusian", "Greek", "Turkish", "Latin"]}
+{"subject": "C. N. Annadurai", "object": "Tamil", "taxonomy": ["Welsh", "Hungarian", "German", "Finnish", "Polish"]}
+{"subject": "Michel Camdessus", "object": "French", "taxonomy": ["Swedish", "Croatian", "Dutch", "German", "Greek"]}
+{"subject": "Leonard Knijff", "object": "Dutch", "taxonomy": ["English", "Cantonese", "Marathi", "Russian", "Breton"]}
+{"subject": "Nadine Morano", "object": "French", "taxonomy": ["Belarusian", "Persian", "Cantonese", "Marathi", "Hebrew"]}
+{"subject": "Martin Lamotte", "object": "French", "taxonomy": ["Korean", "Danish", "Indonesian", "Finnish", "Greek"]}
+{"subject": "Julien Courbet", "object": "French", "taxonomy": ["Italian", "Belarusian", "Malayalam", "Serbian", "Japanese"]}
+{"subject": "Florent Chrestien", "object": "French", "taxonomy": ["Telugu", "Tamil", "Serbian", "Estonian", "Italian"]}
+{"subject": "Thomas Horsfield", "object": "English", "taxonomy": ["Polish", "Greek", "Malayalam", "German", "Welsh"]}
+{"subject": "Adriaan Roland Holst", "object": "Dutch", "taxonomy": ["Telugu", "Bengali", "Russian", "Croatian", "Chinese"]}
+{"subject": "Jacques Jouanneau", "object": "French", "taxonomy": ["Chinese", "Telugu", "Greek", "Welsh", "Japanese"]}
+{"subject": "Pascal Gentil", "object": "French", "taxonomy": ["Belarusian", "Welsh", "Russian", "Indonesian", "Danish"]}
+{"subject": "Andrei Soldatov", "object": "Russian", "taxonomy": ["Persian", "Telugu", "Tamil", "Belarusian", "Hebrew"]}
+{"subject": "Indrajith Sukumaran", "object": "Malayalam", "taxonomy": ["French", "Spanish", "Serbian", "German", "Hindi"]}
+{"subject": "Adolphe Pinard", "object": "French", "taxonomy": ["Georgian", "Serbian", "Hebrew", "German", "Welsh"]}
+{"subject": "Vladimir Putin", "object": "Russian", "taxonomy": ["Estonian", "Greek", "Hebrew", "Hungarian", "Swedish"]}
+{"subject": "Roger Vitrac", "object": "French", "taxonomy": ["Estonian", "Welsh", "Russian", "Cantonese", "Finnish"]}
+{"subject": "Gustave Flaubert", "object": "French", "taxonomy": ["Chinese", "Marathi", "Hebrew", "Nepali", "Serbian"]}
+{"subject": "Alain Soral", "object": "French", "taxonomy": ["German", "Dutch", "Marathi", "Bengali", "Turkish"]}
+{"subject": "Anatoly Kudryavitsky", "object": "Russian", "taxonomy": ["Malayalam", "Italian", "Telugu", "Tamil", "Hungarian"]}
+{"subject": "Dany Robin", "object": "French", "taxonomy": ["Hebrew", "Indonesian", "Persian", "Hungarian", "Breton"]}
+{"subject": "Gleb Kotelnikov", "object": "Russian", "taxonomy": ["Romanian", "Telugu", "Nepali", "Welsh", "Greek"]}
+{"subject": "Georgios Rallis", "object": "Greek", "taxonomy": ["Turkish", "Dutch", "Marathi", "Polish", "Romanian"]}
+{"subject": "Eduard Khil", "object": "Russian", "taxonomy": ["Breton", "Welsh", "Telugu", "Nepali", "Turkish"]}
+{"subject": "Jean-Paul Belmondo", "object": "French", "taxonomy": ["Estonian", "Romanian", "Breton", "German", "Spanish"]}
+{"subject": "Hendrik Wagenvoort", "object": "Dutch", "taxonomy": ["Polish", "Breton", "Romanian", "Danish", "Marathi"]}
+{"subject": "Norman Rockwell", "object": "English", "taxonomy": ["Telugu", "Nepali", "Hindi", "Cantonese", "Russian"]}
+{"subject": "Pothana", "object": "Telugu", "taxonomy": ["Malayalam", "Swedish", "Romanian", "Armenian", "Greek"]}
+{"subject": "Jeanne Balibar", "object": "French", "taxonomy": ["Italian", "Croatian", "Turkish", "Belarusian", "Persian"]}
+{"subject": "Victor Margueritte", "object": "French", "taxonomy": ["Turkish", "Latin", "Russian", "Romanian", "Malayalam"]}
+{"subject": "Dominique Pinon", "object": "French", "taxonomy": ["Spanish", "Armenian", "Tamil", "Turkish", "Croatian"]}
+{"subject": "Michel Onfray", "object": "French", "taxonomy": ["Italian", "Breton", "Portuguese", "Indonesian", "Danish"]}
+{"subject": "Jean-Roger Milo", "object": "French", "taxonomy": ["Swedish", "Hungarian", "Armenian", "Croatian", "Latin"]}
+{"subject": "Bernard Blier", "object": "French", "taxonomy": ["Persian", "Latin", "Hebrew", "Breton", "Indonesian"]}
+{"subject": "Emmanuel Mouret", "object": "French", "taxonomy": ["Bengali", "Hebrew", "Latin", "Armenian", "Nepali"]}
+{"subject": "Tanikella Bharani", "object": "Telugu", "taxonomy": ["Nepali", "Korean", "Welsh", "Malayalam", "Latin"]}
+{"subject": "Sivaji Raja", "object": "Telugu", "taxonomy": ["Serbian", "Hindi", "Belarusian", "Estonian", "Greek"]}
+{"subject": "Louis Darquier de Pellepoix", "object": "French", "taxonomy": ["Belarusian", "Estonian", "Turkish", "Greek", "Marathi"]}
+{"subject": "Marc Chagall", "object": "Russian", "taxonomy": ["Malayalam", "German", "Nepali", "Finnish", "Polish"]}
+{"subject": "Narsing Yadav", "object": "Telugu", "taxonomy": ["French", "Korean", "Italian", "Tamil", "Japanese"]}
+{"subject": "Catherine Picard", "object": "French", "taxonomy": ["Danish", "Spanish", "Romanian", "Hebrew", "Armenian"]}
+{"subject": "Robert Buron", "object": "French", "taxonomy": ["English", "Estonian", "Malayalam", "Persian", "Portuguese"]}
+{"subject": "Claude Bernard", "object": "French", "taxonomy": ["Portuguese", "Malayalam", "Belarusian", "Nepali", "Serbian"]}
+{"subject": "Denys Corbet", "object": "French", "taxonomy": ["Breton", "Indonesian", "Cantonese", "Portuguese", "Estonian"]}
+{"subject": "Zakhar Prilepin", "object": "Russian", "taxonomy": ["French", "Turkish", "Serbian", "Danish", "Spanish"]}
+{"subject": "Alexandre de Laborde", "object": "French", "taxonomy": ["Indonesian", "Korean", "English", "Chinese", "Russian"]}
+{"subject": "Barend Cornelis Koekkoek", "object": "Dutch", "taxonomy": ["Georgian", "Greek", "Nepali", "Armenian", "Romanian"]}
+{"subject": "Michel Braudeau", "object": "French", "taxonomy": ["Japanese", "Bengali", "Estonian", "Welsh", "Breton"]}
+{"subject": "Pascale Ogier", "object": "French", "taxonomy": ["Welsh", "Serbian", "Armenian", "Hebrew", "Bengali"]}
+{"subject": "Pierre-Joseph Cambon", "object": "French", "taxonomy": ["Tamil", "Croatian", "Hungarian", "Danish", "Dutch"]}
+{"subject": "Louis Pergaud", "object": "French", "taxonomy": ["Marathi", "Serbian", "Spanish", "Romanian", "Greek"]}
+{"subject": "Yves Beneyton", "object": "French", "taxonomy": ["Polish", "Armenian", "Greek", "German", "Serbian"]}
+{"subject": "Virginie Ledoyen", "object": "French", "taxonomy": ["Italian", "Welsh", "Belarusian", "Armenian", "Hindi"]}
+{"subject": "Pierre Emmanuel", "object": "French", "taxonomy": ["Malayalam", "Spanish", "Cantonese", "Finnish", "Chinese"]}
+{"subject": "Nelly Kaplan", "object": "French", "taxonomy": ["Indonesian", "German", "Hungarian", "Greek", "Tamil"]}
+{"subject": "Alexandre Auguste Ledru-Rollin", "object": "French", "taxonomy": ["Turkish", "Marathi", "Belarusian", "Russian", "English"]}
+{"subject": "Douglas Adams", "object": "English", "taxonomy": ["Italian", "Latin", "Dutch", "Hindi", "Greek"]}
+{"subject": "Giunta Pisano", "object": "Italian", "taxonomy": ["Japanese", "Belarusian", "Nepali", "Romanian", "English"]}
+{"subject": "Kim Philby", "object": "English", "taxonomy": ["Portuguese", "Russian", "Malayalam", "Hungarian", "Persian"]}
+{"subject": "Cornelis Tiele", "object": "Dutch", "taxonomy": ["Polish", "Romanian", "Portuguese", "Bengali", "Marathi"]}
+{"subject": "Polaire", "object": "French", "taxonomy": ["Indonesian", "Latin", "Cantonese", "Breton", "Marathi"]}
+{"subject": "Mehdi Nebbou", "object": "French", "taxonomy": ["Greek", "Serbian", "Marathi", "Croatian", "Bengali"]}
+{"subject": "Ehud Olmert", "object": "Hebrew", "taxonomy": ["Korean", "Telugu", "Italian", "Finnish", "Latin"]}
+{"subject": "Charles Perrault", "object": "French", "taxonomy": ["Tamil", "Hindi", "Hungarian", "Finnish", "English"]}
+{"subject": "Francis Carco", "object": "French", "taxonomy": ["Estonian", "Hebrew", "Greek", "Georgian", "Italian"]}
+{"subject": "Gustave de Beaumont", "object": "French", "taxonomy": ["Tamil", "Nepali", "Estonian", "Italian", "Malayalam"]}
+{"subject": "Mani Sharma", "object": "Telugu", "taxonomy": ["Persian", "Japanese", "Breton", "Armenian", "Romanian"]}
+{"subject": "Marie Dorval", "object": "French", "taxonomy": ["English", "Spanish", "Breton", "Bengali", "Latin"]}
+{"subject": "Jean-Claude Grumberg", "object": "French", "taxonomy": ["Marathi", "Finnish", "Hebrew", "Breton", "Cantonese"]}
+{"subject": "Yuri Vizbor", "object": "Russian", "taxonomy": ["Bengali", "Italian", "Finnish", "Croatian", "Estonian"]}
+{"subject": "Eugene Kaspersky", "object": "Russian", "taxonomy": ["Nepali", "French", "Malayalam", "Latin", "Chinese"]}
+{"subject": "Maurice Viollette", "object": "French", "taxonomy": ["Telugu", "Italian", "Estonian", "Breton", "Latin"]}
+{"subject": "Georges Bernier", "object": "French", "taxonomy": ["Greek", "Cantonese", "Dutch", "Bengali", "Portuguese"]}
+{"subject": "Saluri Koteswara Rao", "object": "Telugu", "taxonomy": ["Tamil", "Croatian", "Hungarian", "Georgian", "Chinese"]}
+{"subject": "Marcel Marceau", "object": "French", "taxonomy": ["Japanese", "Romanian", "Belarusian", "Tamil", "Serbian"]}
+{"subject": "Marie Glory", "object": "French", "taxonomy": ["Greek", "Georgian", "Danish", "Korean", "Hindi"]}
+{"subject": "Virgil", "object": "Latin", "taxonomy": ["Romanian", "Spanish", "Nepali", "Korean", "Dutch"]}
+{"subject": "Edita Piekha", "object": "French", "taxonomy": ["Serbian", "Romanian", "Japanese", "Korean", "Polish"]}
+{"subject": "Paschal Grousset", "object": "French", "taxonomy": ["Greek", "Nepali", "Japanese", "Polish", "Chinese"]}
+{"subject": "Jeanne Moreau", "object": "French", "taxonomy": ["Welsh", "Russian", "Polish", "Turkish", "Belarusian"]}
+{"subject": "Skolts", "object": "Russian", "taxonomy": ["Indonesian", "Chinese", "Malayalam", "Hebrew", "Hindi"]}
+{"subject": "Jean Debucourt", "object": "French", "taxonomy": ["Welsh", "Tamil", "English", "Hebrew", "Finnish"]}
+{"subject": "Jean Dujardin", "object": "French", "taxonomy": ["Portuguese", "Marathi", "Japanese", "Nepali", "Italian"]}
+{"subject": "Elsa Lunghini", "object": "French", "taxonomy": ["Armenian", "Hebrew", "Swedish", "Finnish", "Chinese"]}
+{"subject": "Jean Chiappe", "object": "French", "taxonomy": ["Cantonese", "Bengali", "Finnish", "Danish", "Georgian"]}
+{"subject": "Jacques Leroy de Saint Arnaud", "object": "French", "taxonomy": ["Dutch", "Welsh", "Danish", "Korean", "Serbian"]}
+{"subject": "Relangi Venkata Ramaiah", "object": "Telugu", "taxonomy": ["Hindi", "Belarusian", "Persian", "Georgian", "Indonesian"]}
+{"subject": "Emmanuel Macron", "object": "French", "taxonomy": ["Breton", "Dutch", "Hebrew", "Cantonese", "Turkish"]}
+{"subject": "Charles Chamberland", "object": "French", "taxonomy": ["Spanish", "Latin", "Indonesian", "Polish", "English"]}
+{"subject": "A. P. J. Abdul Kalam", "object": "Tamil", "taxonomy": ["Russian", "Chinese", "Portuguese", "Nepali", "Armenian"]}
+{"subject": "Henri Diamant-Berger", "object": "French", "taxonomy": ["Telugu", "Armenian", "Marathi", "Welsh", "Italian"]}
+{"subject": "Jules Roy", "object": "French", "taxonomy": ["Nepali", "Telugu", "Persian", "Croatian", "Turkish"]}
+{"subject": "Jean Gabriel Marchand", "object": "French", "taxonomy": ["Korean", "Breton", "Dutch", "Marathi", "Hungarian"]}
+{"subject": "Alexander Penn", "object": "Russian", "taxonomy": ["Cantonese", "Portuguese", "Turkish", "Armenian", "Malayalam"]}
+{"subject": "Jean-Louis Barrault", "object": "French", "taxonomy": ["Cantonese", "Persian", "Croatian", "Tamil", "Bengali"]}
+{"subject": "Rajesh Khanna", "object": "Hindi", "taxonomy": ["Georgian", "Spanish", "Armenian", "Belarusian", "Nepali"]}
+{"subject": "William Craft Brumfield", "object": "Russian", "taxonomy": ["Japanese", "Telugu", "Serbian", "Georgian", "Romanian"]}
+{"subject": "Joseph Luns", "object": "Dutch", "taxonomy": ["Marathi", "Swedish", "Finnish", "Hindi", "English"]}
+{"subject": "Christopher Lambert", "object": "French", "taxonomy": ["Finnish", "Danish", "Portuguese", "Persian", "Georgian"]}
+{"subject": "Lucien Bonaparte", "object": "French", "taxonomy": ["Telugu", "Dutch", "Japanese", "Armenian", "Marathi"]}
+{"subject": "Basavaraju Venkata Padmanabha Rao", "object": "Telugu", "taxonomy": ["Indonesian", "Italian", "Malayalam", "Georgian", "Swedish"]}
+{"subject": "Brigitte Catillon", "object": "French", "taxonomy": ["Japanese", "Turkish", "Dutch", "Indonesian", "Greek"]}
+{"subject": "Jacques Dynam", "object": "French", "taxonomy": ["Georgian", "German", "Telugu", "Russian", "Serbian"]}
+{"subject": "Jean-Claude Gaudin", "object": "French", "taxonomy": ["Georgian", "Dutch", "Polish", "Russian", "Chinese"]}
+{"subject": "Vincent Moscato", "object": "French", "taxonomy": ["Finnish", "Breton", "Bengali", "Danish", "Polish"]}
+{"subject": "Barack Obama", "object": "English", "taxonomy": ["Welsh", "Korean", "Bengali", "Russian", "Marathi"]}
+{"subject": "Basshunter", "object": "Swedish", "taxonomy": ["Dutch", "Portuguese", "Spanish", "Japanese", "Bengali"]}
+{"subject": "Albert Sarraut", "object": "French", "taxonomy": ["Russian", "Marathi", "Hebrew", "Hungarian", "Serbian"]}
+{"subject": "Paul Klebnikov", "object": "Russian", "taxonomy": ["Danish", "Italian", "Nepali", "Telugu", "Swedish"]}
+{"subject": "William Butler Yeats", "object": "English", "taxonomy": ["Portuguese", "Belarusian", "Russian", "Croatian", "Estonian"]}
+{"subject": "Tommy Nilsson", "object": "Swedish", "taxonomy": ["Tamil", "Georgian", "Japanese", "Croatian", "Armenian"]}
+{"subject": "Arthur Conan Doyle", "object": "English", "taxonomy": ["Indonesian", "Spanish", "Latin", "Chinese", "Italian"]}
+{"subject": "Tanya Lopert", "object": "French", "taxonomy": ["Telugu", "Japanese", "Latin", "Tamil", "English"]}
+{"subject": "Olaus Rudbeck", "object": "Swedish", "taxonomy": ["Dutch", "Greek", "Turkish", "Estonian", "Indonesian"]}
+{"subject": "Max Jacob", "object": "French", "taxonomy": ["Welsh", "Dutch", "Portuguese", "Russian", "Swedish"]}
+{"subject": "Omar Sy", "object": "French", "taxonomy": ["German", "Breton", "Danish", "Turkish", "Nepali"]}
+{"subject": "Francis Ponge", "object": "French", "taxonomy": ["Chinese", "Portuguese", "Polish", "Russian", "Hebrew"]}

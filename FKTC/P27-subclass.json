@@ -1,0 +1,967 @@
+{"relations": ["What country is [X] a citizen of?", "What country does [X] hold citizenship in?", "What country is [X] a national of?", "What country does [X] belong to?", "Which country claims [X] as a citizen?", "What is [X]'s nationality?", "Which citizenship does [X] hold?"]}
+{"subject": "Rubens Barrichello", "object": "Brazil", "taxonomy": ["Spain", "Malaysia", "Greece", "Laos", "Poland"]}
+{"subject": "Yves Mirande", "object": "France", "taxonomy": ["Cambodia", "Chile", "Babylon", "Mozambique", "Belgium"]}
+{"subject": "August Gailit", "object": "Estonia", "taxonomy": ["Cambodia", "Ecuador", "Luxembourg", "Bhutan", "Bahrain"]}
+{"subject": "Princess Elisabeth of Denmark", "object": "Denmark", "taxonomy": ["Jamaica", "Peru", "Croatia", "Sweden", "Finland"]}
+{"subject": "Tue West", "object": "Denmark", "taxonomy": ["Japan", "Wales", "Armenia", "Sudan", "Australia"]}
+{"subject": "Bertil Lindblad", "object": "Sweden", "taxonomy": ["Wales", "Zimbabwe", "Germany", "Lebanon", "Netherlands"]}
+{"subject": "Prafulla Chandra Ghosh", "object": "India", "taxonomy": ["Lebanon", "Azerbaijan", "Ghana", "Armenia", "Bulgaria"]}
+{"subject": "Noriyasu Hirata", "object": "Japan", "taxonomy": ["Romania", "Senegal", "Laos", "Iraq", "Cuba"]}
+{"subject": "Woodrow Lloyd", "object": "Canada", "taxonomy": ["Egypt", "Bangladesh", "Mongolia", "Sudan", "Nepal"]}
+{"subject": "Namadi Sambo", "object": "Nigeria", "taxonomy": ["Laos", "Taiwan", "Afghanistan", "Canada", "Angola"]}
+{"subject": "Leif Sylvester Petersen", "object": "Denmark", "taxonomy": ["Italy", "Algeria", "Ukraine", "Venezuela", "Qatar"]}
+{"subject": "John Landy", "object": "Australia", "taxonomy": ["Morocco", "Malaysia", "Singapore", "Paraguay", "Mali"]}
+{"subject": "H. V. Evatt", "object": "Australia", "taxonomy": ["Cyprus", "Kenya", "Germany", "Norway", "Slovakia"]}
+{"subject": "Humphrey Stafford, 1st Duke of Buckingham", "object": "England", "taxonomy": ["Zimbabwe", "Ghana", "Romania", "Belgium", "Mali"]}
+{"subject": "Boris Spassky", "object": "France", "taxonomy": ["Netherlands", "Wales", "Estonia", "Indonesia", "Belarus"]}
+{"subject": "Louise-Rosalie Lefebvre", "object": "France", "taxonomy": ["Syria", "Mali", "Slovenia", "Georgia", "Netherlands"]}
+{"subject": "Thomas Bo Larsen", "object": "Denmark", "taxonomy": ["Romania", "Niger", "Slovenia", "Zimbabwe", "Haiti"]}
+{"subject": "Daniela Iraschko-Stolz", "object": "Austria", "taxonomy": ["Albania", "Cyprus", "Bahrain", "Indonesia", "Kazakhstan"]}
+{"subject": "Ada Yonath", "object": "Israel", "taxonomy": ["Colombia", "Georgia", "Nigeria", "Laos", "Norway"]}
+{"subject": "Mari Hamada", "object": "Japan", "taxonomy": ["Lebanon", "Morocco", "Ghana", "Bahrain", "Ireland"]}
+{"subject": "Jeet Ganguly", "object": "India", "taxonomy": ["Egypt", "Jamaica", "Russia", "Denmark", "Mali"]}
+{"subject": "Arturo Rodas", "object": "Ecuador", "taxonomy": ["Angola", "Israel", "Moldova", "Greece", "Zimbabwe"]}
+{"subject": "Enrique Llanes", "object": "Mexico", "taxonomy": ["India", "Tunisia", "Albania", "Bolivia", "Syria"]}
+{"subject": "Lionel Messi", "object": "Argentina", "taxonomy": ["Sweden", "Israel", "Taiwan", "Rwanda", "Latvia"]}
+{"subject": "Diosdado Cabello", "object": "Venezuela", "taxonomy": ["Ethiopia", "Moldova", "Uganda", "Kenya", "Scotland"]}
+{"subject": "Ken Okuyama", "object": "Japan", "taxonomy": ["Zimbabwe", "Nigeria", "France", "Bhutan", "Belgium"]}
+{"subject": "Itta of Metz", "object": "Belgium", "taxonomy": ["Afghanistan", "Italy", "Hungary", "Kenya", "Mexico"]}
+{"subject": "Leonardo Silva", "object": "Brazil", "taxonomy": ["Niger", "Estonia", "Senegal", "Cambodia", "Philippines"]}
+{"subject": "Andrew Bogut", "object": "Australia", "taxonomy": ["Sudan", "Hungary", "Cyprus", "Estonia", "Morocco"]}
+{"subject": "Juma Ikangaa", "object": "Tanzania", "taxonomy": ["Babylon", "Barbados", "Mali", "Slovakia", "Haiti"]}
+{"subject": "Marlene Favela", "object": "Mexico", "taxonomy": ["Sweden", "Afghanistan", "Venezuela", "Slovenia", "Barbados"]}
+{"subject": "Abdul Khalid Ibrahim", "object": "Malaysia", "taxonomy": ["Tanzania", "Ukraine", "Indonesia", "Thailand", "Scotland"]}
+{"subject": "Prince Leka of Albania", "object": "Albania", "taxonomy": ["Azerbaijan", "Iran", "Malaysia", "Finland", "Jamaica"]}
+{"subject": "Auguste Forel", "object": "Switzerland", "taxonomy": ["Finland", "Bahrain", "Haiti", "Belgium", "Rwanda"]}
+{"subject": "Alfred Werner", "object": "Switzerland", "taxonomy": ["Belgium", "Slovenia", "Ghana", "Ethiopia", "Chile"]}
+{"subject": "Helga Nowotny", "object": "Austria", "taxonomy": ["Nepal", "Cambodia", "Turkey", "Norway", "Latvia"]}
+{"subject": "Szymon Szymonowic", "object": "Poland", "taxonomy": ["Ghana", "Tanzania", "Bulgaria", "Brazil", "Syria"]}
+{"subject": "Rosario Flores", "object": "Spain", "taxonomy": ["Belarus", "Cyprus", "Kenya", "Latvia", "Japan"]}
+{"subject": "Inge Magnusson", "object": "Norway", "taxonomy": ["Fiji", "Qatar", "Bahrain", "Haiti", "Colombia"]}
+{"subject": "Eleanor Wachtel", "object": "Canada", "taxonomy": ["Poland", "Syria", "Scotland", "Hungary", "Kenya"]}
+{"subject": "Charles II of Spain", "object": "Spain", "taxonomy": ["Argentina", "Niger", "Romania", "Nepal", "Norway"]}
+{"subject": "Jean Baptiste Abbeloos", "object": "Belgium", "taxonomy": ["Canada", "Algeria", "Germany", "Ethiopia", "Armenia"]}
+{"subject": "Timothy Anglin", "object": "Canada", "taxonomy": ["Argentina", "France", "Ecuador", "Netherlands", "Algeria"]}
+{"subject": "Hanan al-Shaykh", "object": "Lebanon", "taxonomy": ["Uganda", "Philippines", "Senegal", "Slovakia", "Bolivia"]}
+{"subject": "Art mac Cuinn", "object": "Ireland", "taxonomy": ["Niger", "Israel", "Albania", "Sudan", "Taiwan"]}
+{"subject": "Kristy Sargeant", "object": "Canada", "taxonomy": ["Italy", "Armenia", "Ecuador", "Lebanon", "Nepal"]}
+{"subject": "Ely Guerra", "object": "Mexico", "taxonomy": ["Syria", "Philippines", "Bolivia", "Bhutan", "Belarus"]}
+{"subject": "Felix Plater", "object": "Switzerland", "taxonomy": ["Estonia", "Latvia", "Nigeria", "Brazil", "Mongolia"]}
+{"subject": "Borys Kolesnikov", "object": "Ukraine", "taxonomy": ["Thailand", "Indonesia", "Australia", "Nigeria", "Bulgaria"]}
+{"subject": "Assif Tsahar", "object": "Israel", "taxonomy": ["Armenia", "Paraguay", "Greece", "India", "Switzerland"]}
+{"subject": "Marek Niit", "object": "Estonia", "taxonomy": ["Chile", "Malaysia", "Iran", "Mongolia", "Indonesia"]}
+{"subject": "Marcel Trudel", "object": "Canada", "taxonomy": ["Austria", "Georgia", "Bangladesh", "Pakistan", "Haiti"]}
+{"subject": "Fa Ngum", "object": "Laos", "taxonomy": ["Mozambique", "Netherlands", "Philippines", "Babylon", "Sweden"]}
+{"subject": "Lyuben Berov", "object": "Bulgaria", "taxonomy": ["Belarus", "Belgium", "Singapore", "Pakistan", "Cuba"]}
+{"subject": "Luke Hemsworth", "object": "Australia", "taxonomy": ["England", "Georgia", "France", "Ukraine", "Croatia"]}
+{"subject": "Colman mac Duagh", "object": "Ireland", "taxonomy": ["Colombia", "Spain", "Poland", "Uganda", "Malaysia"]}
+{"subject": "Frank Oberle, Sr.", "object": "Canada", "taxonomy": ["Barbados", "Bangladesh", "India", "Lithuania", "Babylon"]}
+{"subject": "Mario Aerts", "object": "Belgium", "taxonomy": ["Armenia", "Frankfurt", "Slovakia", "Afghanistan", "Taiwan"]}
+{"subject": "Terry Mosher", "object": "Canada", "taxonomy": ["Argentina", "Belgium", "Cuba", "Peru", "Bulgaria"]}
+{"subject": "Minamoto no Sanetomo", "object": "Japan", "taxonomy": ["Estonia", "Mongolia", "Spain", "Haiti", "Croatia"]}
+{"subject": "Abdul Malik Pahlawan", "object": "Afghanistan", "taxonomy": ["Bahrain", "Frankfurt", "Mongolia", "Finland", "Armenia"]}
+{"subject": "Blanca de Silos", "object": "Spain", "taxonomy": ["Venezuela", "England", "Hungary", "Thailand", "Poland"]}
+{"subject": "Gorm the Old", "object": "Denmark", "taxonomy": ["Zimbabwe", "Slovenia", "Croatia", "Bangladesh", "Oman"]}
+{"subject": "Gabriel Garcete", "object": "Paraguay", "taxonomy": ["Armenia", "Mozambique", "Russia", "Iraq", "France"]}
+{"subject": "Arthur Phillip", "object": "Australia", "taxonomy": ["Netherlands", "Fiji", "Armenia", "Uganda", "Nigeria"]}
+{"subject": "Johann Aegidius Bach", "object": "Germany", "taxonomy": ["Taiwan", "Ethiopia", "Ukraine", "Spain", "Senegal"]}
+{"subject": "Katsuhiko Nagata", "object": "Japan", "taxonomy": ["Tanzania", "Italy", "Algeria", "Mali", "Romania"]}
+{"subject": "Rodolfo Mederos", "object": "Argentina", "taxonomy": ["Armenia", "Hungary", "Lithuania", "Scotland", "Pakistan"]}
+{"subject": "Satoshi Tsumabuki", "object": "Japan", "taxonomy": ["France", "Poland", "Nepal", "Romania", "Kenya"]}
+{"subject": "Katerine Moreno", "object": "Bolivia", "taxonomy": ["Sweden", "Algeria", "Singapore", "Ghana", "Canada"]}
+{"subject": "Yuki Uchida", "object": "Japan", "taxonomy": ["Georgia", "Brazil", "Netherlands", "Kurdistan", "Laos"]}
+{"subject": "Joan Burton", "object": "Ireland", "taxonomy": ["Paraguay", "Qatar", "Oman", "Haiti", "Uganda"]}
+{"subject": "Fumihiko Maki", "object": "Japan", "taxonomy": ["Barbados", "Pakistan", "Nigeria", "Mexico", "Moldova"]}
+{"subject": "Sachimi Iwao", "object": "Japan", "taxonomy": ["Chile", "Barbados", "Mozambique", "Estonia", "Kurdistan"]}
+{"subject": "John Queen", "object": "Canada", "taxonomy": ["Hungary", "Iran", "Afghanistan", "Qatar", "Ghana"]}
+{"subject": "Konosuke Matsushita", "object": "Japan", "taxonomy": ["Scotland", "Niger", "Philippines", "India", "Kazakhstan"]}
+{"subject": "Manuel Uribe", "object": "Mexico", "taxonomy": ["Australia", "Thailand", "Russia", "Germany", "Niger"]}
+{"subject": "Malick Badiane", "object": "Senegal", "taxonomy": ["Estonia", "Malaysia", "Scotland", "Belarus", "Bahrain"]}
+{"subject": "Eduardo Schaerer", "object": "Paraguay", "taxonomy": ["Vietnam", "Canada", "India", "Peru", "Mongolia"]}
+{"subject": "Sayyed Imam Al-Sharif", "object": "Egypt", "taxonomy": ["Tunisia", "Indonesia", "Chile", "Zimbabwe", "Lithuania"]}
+{"subject": "Jean Bobet", "object": "France", "taxonomy": ["Paraguay", "Vietnam", "Ethiopia", "Fiji", "Lebanon"]}
+{"subject": "Ion Dragalina", "object": "Romania", "taxonomy": ["Switzerland", "Russia", "Sweden", "Croatia", "Belgium"]}
+{"subject": "Adrian Knox", "object": "Australia", "taxonomy": ["Ghana", "Peru", "Hungary", "Paraguay", "Mexico"]}
+{"subject": "Awang Hassan", "object": "Malaysia", "taxonomy": ["Indonesia", "Croatia", "Moldova", "Greece", "Mongolia"]}
+{"subject": "Charles de Salaberry", "object": "Canada", "taxonomy": ["Egypt", "Luxembourg", "Kurdistan", "Colombia", "Netherlands"]}
+{"subject": "Orest Subtelny", "object": "Canada", "taxonomy": ["Rwanda", "Slovakia", "Ghana", "England", "Bangladesh"]}
+{"subject": "Yahya Petra of Kelantan", "object": "Malaysia", "taxonomy": ["Georgia", "Iraq", "Netherlands", "Slovenia", "Hungary"]}
+{"subject": "Adriano Celentano", "object": "Italy", "taxonomy": ["Thailand", "Turkey", "England", "Brazil", "Qatar"]}
+{"subject": "Jens Evensen", "object": "Norway", "taxonomy": ["Egypt", "Zimbabwe", "Malaysia", "Angola", "Morocco"]}
+{"subject": "Henriette Caillaux", "object": "France", "taxonomy": ["Colombia", "Mexico", "Frankfurt", "Cuba", "Turkey"]}
+{"subject": "Renzo Furlan", "object": "Italy", "taxonomy": ["Mali", "Rwanda", "Moldova", "Germany", "Norway"]}
+{"subject": "Pierre Antonini", "object": "France", "taxonomy": ["Lithuania", "Singapore", "Bulgaria", "Azerbaijan", "Qatar"]}
+{"subject": "Ivry Gitlis", "object": "Israel", "taxonomy": ["Nigeria", "Lithuania", "Sudan", "Latvia", "Bangladesh"]}
+{"subject": "Desmond O'Malley", "object": "Ireland", "taxonomy": ["Moldova", "Albania", "Zimbabwe", "Ghana", "Nigeria"]}
+{"subject": "Caterina Davinio", "object": "Italy", "taxonomy": ["Ethiopia", "Angola", "Poland", "Luxembourg", "Greece"]}
+{"subject": "Rudolf Viest", "object": "Slovakia", "taxonomy": ["Malaysia", "Kurdistan", "Colombia", "Bangladesh", "Albania"]}
+{"subject": "Toke Makinwa", "object": "Nigeria", "taxonomy": ["Lebanon", "Iran", "Poland", "Israel", "Angola"]}
+{"subject": "Mathieu Bodmer", "object": "France", "taxonomy": ["Afghanistan", "Fiji", "Australia", "Nigeria", "Georgia"]}
+{"subject": "Alix Perez", "object": "Belgium", "taxonomy": ["Ireland", "Cambodia", "Frankfurt", "Bahrain", "Bhutan"]}
+{"subject": "Friederike Caroline Neuber", "object": "Germany", "taxonomy": ["Canada", "Egypt", "Colombia", "Cambodia", "Taiwan"]}
+{"subject": "Honinbo Shuei", "object": "Japan", "taxonomy": ["Russia", "Israel", "Philippines", "Greece", "Estonia"]}
+{"subject": "Georgi Parvanov", "object": "Bulgaria", "taxonomy": ["Tunisia", "Paraguay", "Morocco", "Netherlands", "Bahrain"]}
+{"subject": "Sharanjit Leyl", "object": "Singapore", "taxonomy": ["Venezuela", "Tunisia", "Switzerland", "Greece", "Denmark"]}
+{"subject": "Avni Rustemi", "object": "Albania", "taxonomy": ["Switzerland", "Austria", "Oman", "Colombia", "Mexico"]}
+{"subject": "Rahul Dev Burman", "object": "India", "taxonomy": ["Scotland", "Cambodia", "Peru", "Germany", "Bulgaria"]}
+{"subject": "Andreas Carlsson", "object": "Sweden", "taxonomy": ["Fiji", "India", "Rwanda", "Philippines", "Russia"]}
+{"subject": "Duiliu Zamfirescu", "object": "Romania", "taxonomy": ["Philippines", "Switzerland", "Slovenia", "Turkey", "Ghana"]}
+{"subject": "Harashima", "object": "Japan", "taxonomy": ["Greece", "Indonesia", "Paraguay", "Norway", "Haiti"]}
+{"subject": "Jao Mapa", "object": "Philippines", "taxonomy": ["Bolivia", "Cambodia", "Niger", "Venezuela", "Austria"]}
+{"subject": "Charles Rhodes Smith", "object": "Canada", "taxonomy": ["Frankfurt", "Estonia", "Argentina", "Vietnam", "Austria"]}
+{"subject": "Ana Guevara", "object": "Mexico", "taxonomy": ["Spain", "Ghana", "Switzerland", "Croatia", "Oman"]}
+{"subject": "Grant Lawrence", "object": "Canada", "taxonomy": ["Singapore", "Austria", "Israel", "Bhutan", "Thailand"]}
+{"subject": "Adelsteen Normann", "object": "Norway", "taxonomy": ["Moldova", "Hungary", "Iraq", "Bahrain", "Bulgaria"]}
+{"subject": "Dilma Rousseff", "object": "Brazil", "taxonomy": ["Iraq", "Mexico", "Bulgaria", "Oman", "Nepal"]}
+{"subject": "William Weintraub", "object": "Canada", "taxonomy": ["Latvia", "Colombia", "Belgium", "Morocco", "England"]}
+{"subject": "Claude d'Annebault", "object": "France", "taxonomy": ["Armenia", "Belgium", "Estonia", "Nepal", "Cambodia"]}
+{"subject": "Juliusz Gardan", "object": "Poland", "taxonomy": ["Cuba", "Russia", "Armenia", "Mongolia", "Ethiopia"]}
+{"subject": "Chula Chakrabongse", "object": "Thailand", "taxonomy": ["Uganda", "Norway", "Lebanon", "Babylon", "Russia"]}
+{"subject": "Charles Sturt", "object": "Australia", "taxonomy": ["Austria", "Thailand", "Frankfurt", "Switzerland", "Iraq"]}
+{"subject": "Gopaldas Neeraj", "object": "India", "taxonomy": ["Algeria", "Mongolia", "Morocco", "Latvia", "Switzerland"]}
+{"subject": "Hanna Krall", "object": "Poland", "taxonomy": ["Iran", "Italy", "Lithuania", "Netherlands", "England"]}
+{"subject": "Alfred Kubel", "object": "Germany", "taxonomy": ["Sudan", "Bhutan", "Iran", "Belgium", "Senegal"]}
+{"subject": "Doychin Vasilev", "object": "Bulgaria", "taxonomy": ["Moldova", "Poland", "Ukraine", "Kazakhstan", "Norway"]}
+{"subject": "Eric Peterson", "object": "Canada", "taxonomy": ["Bhutan", "Fiji", "Jamaica", "Denmark", "Indonesia"]}
+{"subject": "Maxwell William Ward", "object": "Canada", "taxonomy": ["Hungary", "Afghanistan", "Denmark", "Mexico", "Jamaica"]}
+{"subject": "Albrecht Weber", "object": "Germany", "taxonomy": ["Vietnam", "Spain", "Scotland", "Senegal", "Syria"]}
+{"subject": "Hasibul Hossain", "object": "Bangladesh", "taxonomy": ["Germany", "Mali", "Belgium", "Moldova", "Fiji"]}
+{"subject": "Mykola Tomenko", "object": "Ukraine", "taxonomy": ["Estonia", "Syria", "Bolivia", "Morocco", "Lebanon"]}
+{"subject": "Sabeer Bhatia", "object": "India", "taxonomy": ["Croatia", "Kazakhstan", "Denmark", "Bahrain", "Spain"]}
+{"subject": "Imanol Landeta", "object": "Mexico", "taxonomy": ["Niger", "Lebanon", "Wales", "Cyprus", "Nigeria"]}
+{"subject": "K. R. Gowri Amma", "object": "India", "taxonomy": ["Bhutan", "Luxembourg", "Moldova", "Ecuador", "Austria"]}
+{"subject": "Jo Berger Myhre", "object": "Norway", "taxonomy": ["Estonia", "Mozambique", "Slovenia", "Croatia", "Rwanda"]}
+{"subject": "Ernest Blanc", "object": "France", "taxonomy": ["Bhutan", "Senegal", "Wales", "Poland", "Mexico"]}
+{"subject": "Chespirito", "object": "Mexico", "taxonomy": ["Nigeria", "Israel", "Denmark", "Azerbaijan", "Luxembourg"]}
+{"subject": "Adel Gholami", "object": "Iran", "taxonomy": ["Sudan", "Nepal", "Syria", "Austria", "Kazakhstan"]}
+{"subject": "Theodosia Salome Okoh", "object": "Ghana", "taxonomy": ["Turkey", "Austria", "Romania", "Pakistan", "Thailand"]}
+{"subject": "Constantin von Monakow", "object": "Switzerland", "taxonomy": ["Bolivia", "Taiwan", "Belarus", "Greece", "Angola"]}
+{"subject": "Ronaldo", "object": "Brazil", "taxonomy": ["Ireland", "Denmark", "Finland", "Morocco", "Sweden"]}
+{"subject": "Peter Lalor", "object": "Australia", "taxonomy": ["Frankfurt", "Haiti", "Singapore", "Paraguay", "Wales"]}
+{"subject": "Edelgard Bulmahn", "object": "Germany", "taxonomy": ["Venezuela", "Algeria", "Scotland", "Angola", "Denmark"]}
+{"subject": "Mohammad Bahr al-Ulloum", "object": "Iraq", "taxonomy": ["Mexico", "Cyprus", "Iran", "Scotland", "Chile"]}
+{"subject": "Christian Friedrich Hebbel", "object": "Germany", "taxonomy": ["Colombia", "Egypt", "Ukraine", "Angola", "Kenya"]}
+{"subject": "Isidore the Laborer", "object": "Spain", "taxonomy": ["Greece", "Chile", "Pakistan", "Mali", "Ecuador"]}
+{"subject": "Carrera family", "object": "Chile", "taxonomy": ["Moldova", "Australia", "Kenya", "Cambodia", "Cyprus"]}
+{"subject": "Jan Pieter Schotte", "object": "Belgium", "taxonomy": ["Frankfurt", "Thailand", "Morocco", "Lithuania", "Kenya"]}
+{"subject": "Rainer Fetting", "object": "Germany", "taxonomy": ["Tanzania", "Argentina", "Thailand", "Canada", "Ireland"]}
+{"subject": "Trajan", "object": "Spain", "taxonomy": ["Norway", "Netherlands", "Kazakhstan", "Turkey", "Colombia"]}
+{"subject": "Mateo Garralda", "object": "Spain", "taxonomy": ["Colombia", "Finland", "Wales", "Russia", "Luxembourg"]}
+{"subject": "Ronaldinho", "object": "Brazil", "taxonomy": ["Iraq", "Hungary", "Germany", "Italy", "Algeria"]}
+{"subject": "Leslie Morris", "object": "Canada", "taxonomy": ["Italy", "Brazil", "Austria", "Romania", "Ukraine"]}
+{"subject": "Kensuke Tanabe", "object": "Japan", "taxonomy": ["Syria", "Sudan", "Kurdistan", "Philippines", "Tanzania"]}
+{"subject": "Francis Dhanis", "object": "Belgium", "taxonomy": ["Argentina", "Belarus", "Babylon", "Nigeria", "Lithuania"]}
+{"subject": "Epeli Ganilau", "object": "Fiji", "taxonomy": ["Vietnam", "Thailand", "Angola", "Frankfurt", "Turkey"]}
+{"subject": "Iiro Rantala", "object": "Finland", "taxonomy": ["Rwanda", "Croatia", "Lebanon", "Romania", "Frankfurt"]}
+{"subject": "Hamilton Hume", "object": "Australia", "taxonomy": ["Poland", "Frankfurt", "Netherlands", "Uganda", "Russia"]}
+{"subject": "Nancy Drolet", "object": "Canada", "taxonomy": ["Switzerland", "Frankfurt", "Kenya", "Bhutan", "Moldova"]}
+{"subject": "Unkei", "object": "Japan", "taxonomy": ["Barbados", "Haiti", "Kazakhstan", "Iraq", "France"]}
+{"subject": "Peter Canisius", "object": "Netherlands", "taxonomy": ["Latvia", "Ecuador", "Venezuela", "Taiwan", "Cuba"]}
+{"subject": "Yohann Diniz", "object": "France", "taxonomy": ["Cambodia", "Laos", "Sweden", "Belarus", "Rwanda"]}
+{"subject": "Bassekou Kouyate", "object": "Mali", "taxonomy": ["Cyprus", "Oman", "Fiji", "Slovakia", "Jamaica"]}
+{"subject": "Rick Springfield", "object": "Australia", "taxonomy": ["Denmark", "Frankfurt", "Latvia", "Belgium", "Spain"]}
+{"subject": "Bimal Roy", "object": "India", "taxonomy": ["Estonia", "Vietnam", "Colombia", "Argentina", "Babylon"]}
+{"subject": "Scott Morrison", "object": "Australia", "taxonomy": ["Azerbaijan", "Bhutan", "Hungary", "Armenia", "Indonesia"]}
+{"subject": "Randy Bachman", "object": "Canada", "taxonomy": ["Morocco", "Vietnam", "Lithuania", "Norway", "Laos"]}
+{"subject": "Otto Monsted", "object": "Denmark", "taxonomy": ["Japan", "Morocco", "Barbados", "Ireland", "Iran"]}
+{"subject": "Paulo Flores", "object": "Angola", "taxonomy": ["Lithuania", "Babylon", "Poland", "Ghana", "Cuba"]}
+{"subject": "Alexandre Trauner", "object": "Hungary", "taxonomy": ["Niger", "Australia", "Venezuela", "Greece", "Slovenia"]}
+{"subject": "Norma Aleandro", "object": "Argentina", "taxonomy": ["Rwanda", "Cambodia", "Tanzania", "Mali", "Nepal"]}
+{"subject": "Marty Natalegawa", "object": "Indonesia", "taxonomy": ["Mongolia", "Uganda", "Bahrain", "Cambodia", "Ireland"]}
+{"subject": "Stockwell Day", "object": "Canada", "taxonomy": ["Greece", "Taiwan", "Germany", "Norway", "Azerbaijan"]}
+{"subject": "Idris I of Morocco", "object": "Morocco", "taxonomy": ["Bolivia", "Scotland", "Canada", "Egypt", "Israel"]}
+{"subject": "Humayun Abdulali", "object": "India", "taxonomy": ["Fiji", "Malaysia", "Venezuela", "Ireland", "Switzerland"]}
+{"subject": "Anders Fannemel", "object": "Norway", "taxonomy": ["Australia", "Rwanda", "Bolivia", "Netherlands", "Germany"]}
+{"subject": "Maria Wetterstrand", "object": "Sweden", "taxonomy": ["Austria", "Pakistan", "Zimbabwe", "Afghanistan", "Turkey"]}
+{"subject": "Enzo Pineda", "object": "Philippines", "taxonomy": ["Greece", "Armenia", "Finland", "Luxembourg", "Malaysia"]}
+{"subject": "Buichi Terasawa", "object": "Japan", "taxonomy": ["Egypt", "Sweden", "India", "Kazakhstan", "Romania"]}
+{"subject": "Hans Magnus Ryan", "object": "Norway", "taxonomy": ["Lithuania", "Spain", "Austria", "Hungary", "Afghanistan"]}
+{"subject": "Ovadia Yosef", "object": "Israel", "taxonomy": ["Bolivia", "Ukraine", "Ghana", "Armenia", "Georgia"]}
+{"subject": "Zafar Karachiwala", "object": "India", "taxonomy": ["Mozambique", "Zimbabwe", "Mexico", "Venezuela", "Nigeria"]}
+{"subject": "Sola Aoi", "object": "Japan", "taxonomy": ["Haiti", "Algeria", "Denmark", "Uganda", "Albania"]}
+{"subject": "Rangsit Prayurasakdi", "object": "Thailand", "taxonomy": ["Ireland", "Netherlands", "Austria", "Nigeria", "Belarus"]}
+{"subject": "Ambrose Bury", "object": "Canada", "taxonomy": ["Barbados", "Jamaica", "Armenia", "Ukraine", "Ecuador"]}
+{"subject": "Jennifer Heil", "object": "Canada", "taxonomy": ["Netherlands", "Ghana", "Denmark", "Kenya", "Cambodia"]}
+{"subject": "Albert Grisar", "object": "Belgium", "taxonomy": ["Mozambique", "Kurdistan", "Bulgaria", "Syria", "Zimbabwe"]}
+{"subject": "Juan O'Gorman", "object": "Mexico", "taxonomy": ["Slovakia", "Finland", "Mozambique", "Austria", "Haiti"]}
+{"subject": "Beni Montresor", "object": "Italy", "taxonomy": ["Nigeria", "Spain", "Romania", "Ireland", "Croatia"]}
+{"subject": "Paolo Nespoli", "object": "Italy", "taxonomy": ["Slovenia", "Tunisia", "Ecuador", "Venezuela", "Oman"]}
+{"subject": "Natallia Solohub", "object": "Belarus", "taxonomy": ["England", "Mozambique", "Moldova", "Wales", "Germany"]}
+{"subject": "Thousand Foot Krutch", "object": "Canada", "taxonomy": ["Sweden", "Mozambique", "Netherlands", "Estonia", "Cuba"]}
+{"subject": "Yunfa", "object": "Nigeria", "taxonomy": ["Frankfurt", "Indonesia", "Estonia", "Netherlands", "Laos"]}
+{"subject": "Ho Chi Minh", "object": "Vietnam", "taxonomy": ["Poland", "Haiti", "Bhutan", "Wales", "Nepal"]}
+{"subject": "Vasile Stati", "object": "Moldova", "taxonomy": ["Slovakia", "Lithuania", "Niger", "Armenia", "Norway"]}
+{"subject": "John Buchanan", "object": "Canada", "taxonomy": ["Laos", "Nepal", "Indonesia", "Albania", "Denmark"]}
+{"subject": "Tapio Kantanen", "object": "Finland", "taxonomy": ["Romania", "Tanzania", "Denmark", "Belgium", "Pakistan"]}
+{"subject": "Fabio Grobart", "object": "Cuba", "taxonomy": ["Indonesia", "Greece", "England", "Thailand", "Argentina"]}
+{"subject": "Kim Myhr", "object": "Norway", "taxonomy": ["Ireland", "Niger", "India", "Malaysia", "Russia"]}
+{"subject": "Thierry St-Cyr", "object": "Canada", "taxonomy": ["Babylon", "Belgium", "France", "Russia", "Ireland"]}
+{"subject": "Serik Akhmetov", "object": "Kazakhstan", "taxonomy": ["Mexico", "Lebanon", "Japan", "Bangladesh", "Zimbabwe"]}
+{"subject": "Alex Hawke", "object": "Australia", "taxonomy": ["Luxembourg", "Azerbaijan", "Laos", "Wales", "Austria"]}
+{"subject": "Alain Robert", "object": "France", "taxonomy": ["India", "Thailand", "Australia", "Kenya", "Cuba"]}
+{"subject": "Qazi Hussain Ahmad", "object": "Pakistan", "taxonomy": ["Denmark", "Bolivia", "Bulgaria", "Jamaica", "Norway"]}
+{"subject": "Henry Wallace Atkinson", "object": "Australia", "taxonomy": ["Armenia", "Switzerland", "Iraq", "Mexico", "Denmark"]}
+{"subject": "Kimio Yanagisawa", "object": "Japan", "taxonomy": ["Fiji", "Barbados", "Mongolia", "Senegal", "Peru"]}
+{"subject": "Touraj Daryaee", "object": "Iran", "taxonomy": ["Lebanon", "Slovenia", "Georgia", "Kenya", "Lithuania"]}
+{"subject": "Thiago Soares Alves", "object": "Brazil", "taxonomy": ["Kurdistan", "Qatar", "Paraguay", "Greece", "Tunisia"]}
+{"subject": "Tanvir Mokammel", "object": "Bangladesh", "taxonomy": ["Singapore", "Luxembourg", "Bulgaria", "Azerbaijan", "Bolivia"]}
+{"subject": "Yasuyuki Kase", "object": "Japan", "taxonomy": ["Kazakhstan", "Fiji", "France", "Russia", "Ethiopia"]}
+{"subject": "Hilde Marie Kjersem", "object": "Norway", "taxonomy": ["Turkey", "Switzerland", "Georgia", "Bahrain", "Nepal"]}
+{"subject": "Julius Nwosu", "object": "Nigeria", "taxonomy": ["Kurdistan", "Moldova", "Qatar", "Mexico", "Russia"]}
+{"subject": "Princess Sophie of Greece and Denmark", "object": "Greece", "taxonomy": ["Belarus", "Tunisia", "Malaysia", "Denmark", "Taiwan"]}
+{"subject": "Karol Szajnocha", "object": "Poland", "taxonomy": ["Georgia", "Azerbaijan", "Japan", "Angola", "Germany"]}
+{"subject": "Jakub Kubicki", "object": "Poland", "taxonomy": ["Oman", "Canada", "Georgia", "Kazakhstan", "Japan"]}
+{"subject": "Ferdinand de Saussure", "object": "Switzerland", "taxonomy": ["Kurdistan", "Poland", "Laos", "Uganda", "Lithuania"]}
+{"subject": "Pali Miska", "object": "Albania", "taxonomy": ["Sweden", "Brazil", "Ireland", "Turkey", "Haiti"]}
+{"subject": "Pasi Rautiainen", "object": "Finland", "taxonomy": ["Angola", "Moldova", "Brazil", "Canada", "Fiji"]}
+{"subject": "Irfan Yusuf", "object": "Australia", "taxonomy": ["Greece", "Philippines", "Ethiopia", "Sudan", "Colombia"]}
+{"subject": "Sunidhi Chauhan", "object": "India", "taxonomy": ["Mali", "Poland", "Italy", "Azerbaijan", "Ghana"]}
+{"subject": "Mario Aldo Montano", "object": "Italy", "taxonomy": ["Niger", "Syria", "Sweden", "Malaysia", "Moldova"]}
+{"subject": "Etsushi Toyokawa", "object": "Japan", "taxonomy": ["Canada", "Chile", "Italy", "Moldova", "Cuba"]}
+{"subject": "Oscar Drouin", "object": "Canada", "taxonomy": ["Bhutan", "Niger", "Australia", "Ukraine", "Angola"]}
+{"subject": "Madan Lal", "object": "India", "taxonomy": ["Australia", "Barbados", "Romania", "Mongolia", "Kurdistan"]}
+{"subject": "Cecily Bonville, 7th Baroness Harington", "object": "England", "taxonomy": ["Ireland", "Algeria", "Syria", "Denmark", "Ghana"]}
+{"subject": "Petri Lindroos", "object": "Finland", "taxonomy": ["Peru", "Kenya", "Wales", "Slovakia", "Frankfurt"]}
+{"subject": "Hsieh Cheng-peng", "object": "Taiwan", "taxonomy": ["Netherlands", "Indonesia", "Angola", "Belgium", "Tunisia"]}
+{"subject": "Nathaniel Anselm von Rothschild", "object": "Austria", "taxonomy": ["Brazil", "Mongolia", "Bahrain", "Jamaica", "Uganda"]}
+{"subject": "Magda Linette", "object": "Poland", "taxonomy": ["Bolivia", "Morocco", "Germany", "Jamaica", "Rwanda"]}
+{"subject": "Irfan Habib", "object": "India", "taxonomy": ["Syria", "Denmark", "Bangladesh", "Paraguay", "Haiti"]}
+{"subject": "Giovanni Ferrari", "object": "Italy", "taxonomy": ["Armenia", "Malaysia", "Chile", "Greece", "Philippines"]}
+{"subject": "Joe Peschisolido", "object": "Canada", "taxonomy": ["Slovenia", "Haiti", "Slovakia", "Pakistan", "Peru"]}
+{"subject": "Vali Myers", "object": "Australia", "taxonomy": ["Wales", "Rwanda", "Bahrain", "Russia", "Angola"]}
+{"subject": "Ermete Zacconi", "object": "Italy", "taxonomy": ["Laos", "Cuba", "Cyprus", "Kazakhstan", "Albania"]}
+{"subject": "Tarak Ben Ammar", "object": "Tunisia", "taxonomy": ["Romania", "Laos", "Peru", "Netherlands", "Austria"]}
+{"subject": "Johann Reuchlin", "object": "Germany", "taxonomy": ["Russia", "Azerbaijan", "Angola", "Armenia", "Nepal"]}
+{"subject": "Taha Hussein", "object": "Egypt", "taxonomy": ["Sudan", "Albania", "Qatar", "Sweden", "Tanzania"]}
+{"subject": "Margarita Moran-Floirendo", "object": "Philippines", "taxonomy": ["Taiwan", "Belarus", "Italy", "Paraguay", "Uganda"]}
+{"subject": "Maria Lurdes Mutola", "object": "Mozambique", "taxonomy": ["Rwanda", "Azerbaijan", "Cyprus", "Oman", "Canada"]}
+{"subject": "Robert Erskine Childers", "object": "Ireland", "taxonomy": ["Germany", "Senegal", "Zimbabwe", "Frankfurt", "Netherlands"]}
+{"subject": "Farley Mowat", "object": "Canada", "taxonomy": ["Netherlands", "Turkey", "Japan", "Thailand", "Peru"]}
+{"subject": "Baron Eligius Franz Joseph von Münch-Bellinghausen", "object": "Austria", "taxonomy": ["Angola", "Lebanon", "Bahrain", "Italy", "Romania"]}
+{"subject": "Ahmed Soultan", "object": "Morocco", "taxonomy": ["Albania", "Oman", "Croatia", "Finland", "Indonesia"]}
+{"subject": "Takahiro Fujimoto", "object": "Japan", "taxonomy": ["Sweden", "Mongolia", "Netherlands", "Niger", "Laos"]}
+{"subject": "Ulrica Arfvidsson", "object": "Sweden", "taxonomy": ["Brazil", "Zimbabwe", "Jamaica", "Finland", "France"]}
+{"subject": "Albert Prefontaine", "object": "Canada", "taxonomy": ["Philippines", "Italy", "Taiwan", "Iraq", "Sweden"]}
+{"subject": "Jean Victor Marie Moreau", "object": "France", "taxonomy": ["Albania", "Bhutan", "Bahrain", "Italy", "Belgium"]}
+{"subject": "Johan Karlsson", "object": "Sweden", "taxonomy": ["Sudan", "Peru", "Hungary", "Cyprus", "Israel"]}
+{"subject": "Alireza Eftekhari", "object": "Iran", "taxonomy": ["Pakistan", "Morocco", "Ethiopia", "England", "Spain"]}
+{"subject": "Kalraj Mishra", "object": "India", "taxonomy": ["Sweden", "Algeria", "Taiwan", "Australia", "Nepal"]}
+{"subject": "Igor Markevitch", "object": "France", "taxonomy": ["Bolivia", "Chile", "Austria", "Japan", "Finland"]}
+{"subject": "Howe Yoon Chong", "object": "Singapore", "taxonomy": ["Chile", "Bangladesh", "Pakistan", "Israel", "Syria"]}
+{"subject": "James Kinley", "object": "Canada", "taxonomy": ["Denmark", "Afghanistan", "Georgia", "Jamaica", "Norway"]}
+{"subject": "Antonio Banfi", "object": "Italy", "taxonomy": ["Mongolia", "Morocco", "Scotland", "Germany", "Nigeria"]}
+{"subject": "Hoshyar Zebari", "object": "Iraq", "taxonomy": ["Sweden", "Pakistan", "Indonesia", "Bangladesh", "India"]}
+{"subject": "Nicola Ghiuselev", "object": "Bulgaria", "taxonomy": ["Indonesia", "Bangladesh", "Babylon", "Mali", "Morocco"]}
+{"subject": "Vincens Lunge", "object": "Denmark", "taxonomy": ["Morocco", "Brazil", "Norway", "Barbados", "Japan"]}
+{"subject": "Alejandro Lerner", "object": "Argentina", "taxonomy": ["Lebanon", "Senegal", "Iran", "Niger", "Azerbaijan"]}
+{"subject": "Meiert Avis", "object": "Ireland", "taxonomy": ["Estonia", "Philippines", "Algeria", "Bahrain", "Japan"]}
+{"subject": "Rabah Bitat", "object": "Algeria", "taxonomy": ["Laos", "Austria", "Pakistan", "Nepal", "Slovakia"]}
+{"subject": "Gjin Progoni", "object": "Albania", "taxonomy": ["Colombia", "Barbados", "Niger", "Finland", "Singapore"]}
+{"subject": "Olaus Rudbeck", "object": "Sweden", "taxonomy": ["Rwanda", "Ecuador", "Lebanon", "Malaysia", "Lithuania"]}
+{"subject": "Genrikh Sapgir", "object": "Russia", "taxonomy": ["Turkey", "Slovenia", "Italy", "Tunisia", "India"]}
+{"subject": "Rafael Reyes", "object": "Colombia", "taxonomy": ["Ukraine", "Sweden", "Ireland", "Moldova", "Bahrain"]}
+{"subject": "Doug Paisley", "object": "Canada", "taxonomy": ["Sudan", "India", "Ukraine", "Brazil", "Germany"]}
+{"subject": "Auguste Rodin", "object": "France", "taxonomy": ["Pakistan", "Albania", "Mozambique", "Canada", "Australia"]}
+{"subject": "Soamsawali", "object": "Thailand", "taxonomy": ["Estonia", "Frankfurt", "Vietnam", "Mozambique", "Ghana"]}
+{"subject": "Gerard Mortier", "object": "Belgium", "taxonomy": ["Tanzania", "India", "Scotland", "Rwanda", "Sudan"]}
+{"subject": "Peggy Nash", "object": "Canada", "taxonomy": ["Cambodia", "Belarus", "Paraguay", "Iran", "Denmark"]}
+{"subject": "Norval Morrisseau", "object": "Canada", "taxonomy": ["Bulgaria", "Singapore", "Argentina", "Mongolia", "Iran"]}
+{"subject": "Lillian Thomas", "object": "Canada", "taxonomy": ["Mongolia", "Russia", "Kurdistan", "Barbados", "Oman"]}
+{"subject": "Ravi Shankar", "object": "India", "taxonomy": ["Kenya", "Syria", "Niger", "Spain", "Italy"]}
+{"subject": "Fred Van Hove", "object": "Belgium", "taxonomy": ["Taiwan", "Norway", "Bolivia", "Australia", "Sweden"]}
+{"subject": "Hermann Burger", "object": "Switzerland", "taxonomy": ["Nigeria", "Norway", "Belgium", "Cyprus", "Japan"]}
+{"subject": "Amandus Adamson", "object": "Estonia", "taxonomy": ["Mali", "Luxembourg", "Ecuador", "Indonesia", "Algeria"]}
+{"subject": "Friedrich Bessel", "object": "Germany", "taxonomy": ["Croatia", "Italy", "Lithuania", "Russia", "Georgia"]}
+{"subject": "Andrea Sartoretti", "object": "Italy", "taxonomy": ["Denmark", "Canada", "Colombia", "Scotland", "Spain"]}
+{"subject": "William II de La Marck", "object": "Netherlands", "taxonomy": ["Turkey", "Lithuania", "Denmark", "Norway", "Azerbaijan"]}
+{"subject": "Stephen Worobetz", "object": "Canada", "taxonomy": ["Uganda", "Tanzania", "Vietnam", "Kenya", "Denmark"]}
+{"subject": "Thomas Wentworth, 1st Baron Wentworth", "object": "England", "taxonomy": ["Norway", "Philippines", "Bulgaria", "Cuba", "Poland"]}
+{"subject": "Heikki Saari", "object": "Finland", "taxonomy": ["Oman", "Thailand", "Australia", "Belarus", "Mexico"]}
+{"subject": "Eva Henning", "object": "Sweden", "taxonomy": ["Japan", "Azerbaijan", "Brazil", "Egypt", "Haiti"]}
+{"subject": "Jean de Reszke", "object": "Poland", "taxonomy": ["Laos", "Barbados", "Belarus", "Nepal", "Azerbaijan"]}
+{"subject": "Michael Healy-Rae", "object": "Ireland", "taxonomy": ["Slovenia", "Scotland", "Azerbaijan", "Canada", "Finland"]}
+{"subject": "Atsunori Inaba", "object": "Japan", "taxonomy": ["Bhutan", "Egypt", "Cyprus", "Canada", "Germany"]}
+{"subject": "Shaad Ali", "object": "India", "taxonomy": ["Albania", "Hungary", "Bolivia", "Tunisia", "Babylon"]}
+{"subject": "Andrea Fischbacher", "object": "Austria", "taxonomy": ["Belgium", "Bangladesh", "Zimbabwe", "Armenia", "Sudan"]}
+{"subject": "Poonam Sinha", "object": "India", "taxonomy": ["Kurdistan", "France", "Greece", "Bulgaria", "Estonia"]}
+{"subject": "Nimai Bali", "object": "India", "taxonomy": ["Egypt", "Algeria", "Colombia", "Ethiopia", "Mexico"]}
+{"subject": "Potti Sreeramulu", "object": "India", "taxonomy": ["Albania", "Austria", "Laos", "Cambodia", "Angola"]}
+{"subject": "Assis Chateaubriand", "object": "Brazil", "taxonomy": ["Denmark", "Romania", "Hungary", "Rwanda", "Georgia"]}
+{"subject": "Rokkaku Yoshikata", "object": "Japan", "taxonomy": ["Ethiopia", "Latvia", "Scotland", "Ecuador", "Kurdistan"]}
+{"subject": "Marcos Balter", "object": "Brazil", "taxonomy": ["England", "Wales", "Oman", "Belarus", "Argentina"]}
+{"subject": "Alex Cabagnot", "object": "Philippines", "taxonomy": ["Syria", "Peru", "Pakistan", "Niger", "Wales"]}
+{"subject": "Trixie Whitley", "object": "Belgium", "taxonomy": ["Scotland", "Zimbabwe", "Nigeria", "Colombia", "Indonesia"]}
+{"subject": "Marie Liljedahl", "object": "Sweden", "taxonomy": ["India", "Bhutan", "Israel", "Romania", "Malaysia"]}
+{"subject": "Embrik Strand", "object": "Norway", "taxonomy": ["Rwanda", "Jamaica", "Babylon", "Wales", "Netherlands"]}
+{"subject": "Pir Mazhar Ul Haq", "object": "Pakistan", "taxonomy": ["Japan", "Afghanistan", "Latvia", "Lebanon", "Tunisia"]}
+{"subject": "Dominic Purcell", "object": "Australia", "taxonomy": ["Singapore", "Mali", "Cyprus", "Kazakhstan", "Egypt"]}
+{"subject": "Frederick II of Denmark", "object": "Norway", "taxonomy": ["Nigeria", "Estonia", "Sweden", "Bahrain", "Cuba"]}
+{"subject": "Luis Martins de Souza Dantas", "object": "Brazil", "taxonomy": ["Poland", "Barbados", "Hungary", "Ukraine", "Belarus"]}
+{"subject": "T. M. A. Pai", "object": "India", "taxonomy": ["Moldova", "Rwanda", "Kazakhstan", "Bulgaria", "Peru"]}
+{"subject": "Lisa Ekdahl", "object": "Sweden", "taxonomy": ["Bolivia", "Jamaica", "Japan", "Barbados", "Iran"]}
+{"subject": "Johann Wolfgang von Goethe", "object": "Frankfurt", "taxonomy": ["Paraguay", "Bahrain", "Mali", "Colombia", "Spain"]}
+{"subject": "Monica Niculescu", "object": "Romania", "taxonomy": ["Ghana", "Mozambique", "Slovakia", "Ireland", "Uganda"]}
+{"subject": "Douglas Century", "object": "Canada", "taxonomy": ["Malaysia", "Laos", "Niger", "Oman", "Scotland"]}
+{"subject": "Scott Frandsen", "object": "Canada", "taxonomy": ["Paraguay", "Ethiopia", "Barbados", "Peru", "Spain"]}
+{"subject": "Roman Kroitor", "object": "Canada", "taxonomy": ["Oman", "Finland", "Georgia", "Lebanon", "France"]}
+{"subject": "Eduard Dallmann", "object": "Germany", "taxonomy": ["Ethiopia", "Mexico", "Bolivia", "Belarus", "Slovakia"]}
+{"subject": "Thomas Hirschhorn", "object": "Switzerland", "taxonomy": ["Kurdistan", "Ireland", "Indonesia", "Scotland", "Estonia"]}
+{"subject": "Patricia Wartusch", "object": "Austria", "taxonomy": ["Zimbabwe", "Bahrain", "Bangladesh", "Ecuador", "Singapore"]}
+{"subject": "Bernardo Reyes", "object": "Mexico", "taxonomy": ["Slovenia", "Armenia", "Canada", "Denmark", "Thailand"]}
+{"subject": "Nandamuri Balakrishna", "object": "India", "taxonomy": ["Pakistan", "Vietnam", "Kurdistan", "Argentina", "Wales"]}
+{"subject": "Per Joar Hansen", "object": "Norway", "taxonomy": ["Cyprus", "Israel", "Kazakhstan", "Georgia", "Barbados"]}
+{"subject": "Georgios Papanikolaou", "object": "Greece", "taxonomy": ["Uganda", "Kazakhstan", "Russia", "Belarus", "Netherlands"]}
+{"subject": "Lydie Polfer", "object": "Luxembourg", "taxonomy": ["Ghana", "England", "Kurdistan", "Venezuela", "Jamaica"]}
+{"subject": "Kae Araki", "object": "Japan", "taxonomy": ["Armenia", "France", "Mexico", "Barbados", "Finland"]}
+{"subject": "Manuel Ferraz de Campos Sales", "object": "Brazil", "taxonomy": ["Bangladesh", "Colombia", "Syria", "Angola", "Switzerland"]}
+{"subject": "Gabriel Zubeir Wako", "object": "Sudan", "taxonomy": ["Ethiopia", "Bangladesh", "Niger", "Ukraine", "Belgium"]}
+{"subject": "Blendi Nallbani", "object": "Albania", "taxonomy": ["Morocco", "Iran", "Argentina", "Poland", "Belarus"]}
+{"subject": "Audrey Fleurot", "object": "France", "taxonomy": ["Syria", "Germany", "Israel", "Angola", "Bulgaria"]}
+{"subject": "Bruno Putzulu", "object": "France", "taxonomy": ["Colombia", "Germany", "Slovenia", "Mozambique", "Luxembourg"]}
+{"subject": "Robert Linssen", "object": "Belgium", "taxonomy": ["Venezuela", "Estonia", "Wales", "Kurdistan", "Mexico"]}
+{"subject": "Willi Hennig", "object": "Germany", "taxonomy": ["Taiwan", "Japan", "Uganda", "Ukraine", "Morocco"]}
+{"subject": "Paolo Bertoli", "object": "Italy", "taxonomy": ["Bulgaria", "Haiti", "Bangladesh", "Thailand", "Indonesia"]}
+{"subject": "Alexey Poltoranin", "object": "Kazakhstan", "taxonomy": ["Bolivia", "Ireland", "Tunisia", "Taiwan", "Azerbaijan"]}
+{"subject": "William Hovell", "object": "Australia", "taxonomy": ["Finland", "Ecuador", "Pakistan", "Greece", "Lithuania"]}
+{"subject": "Jawad al-Bulani", "object": "Iraq", "taxonomy": ["Cuba", "Slovakia", "Turkey", "Lebanon", "Nepal"]}
+{"subject": "Giovanni Pellielo", "object": "Italy", "taxonomy": ["Ecuador", "Norway", "Indonesia", "France", "Mozambique"]}
+{"subject": "Sadeq Larijani", "object": "Iran", "taxonomy": ["Romania", "Bangladesh", "India", "Rwanda", "Fiji"]}
+{"subject": "Feng Tianwei", "object": "Singapore", "taxonomy": ["Paraguay", "Russia", "Canada", "Lithuania", "Fiji"]}
+{"subject": "Katri Helena", "object": "Finland", "taxonomy": ["Mozambique", "Frankfurt", "Laos", "Nigeria", "Turkey"]}
+{"subject": "Juana Azurduy de Padilla", "object": "Bolivia", "taxonomy": ["Ireland", "Slovenia", "Brazil", "Canada", "Estonia"]}
+{"subject": "Mohsen Mirdamadi", "object": "Iran", "taxonomy": ["Moldova", "Iraq", "Spain", "Peru", "Indonesia"]}
+{"subject": "Arne Vidar Røed", "object": "Norway", "taxonomy": ["Thailand", "Ghana", "Iraq", "Ecuador", "Mexico"]}
+{"subject": "David Le Lay", "object": "France", "taxonomy": ["Pakistan", "Egypt", "Laos", "Algeria", "Babylon"]}
+{"subject": "Dino Marcan", "object": "Croatia", "taxonomy": ["Poland", "Slovakia", "Georgia", "India", "Latvia"]}
+{"subject": "Alan Carvalho", "object": "Brazil", "taxonomy": ["Bhutan", "Lithuania", "Cyprus", "Ukraine", "Lebanon"]}
+{"subject": "Muzaffar Ali", "object": "India", "taxonomy": ["Bolivia", "Singapore", "Latvia", "Syria", "Algeria"]}
+{"subject": "Claudio Borghi", "object": "Argentina", "taxonomy": ["Ireland", "Iran", "Estonia", "Greece", "Niger"]}
+{"subject": "Wakako Tsuchida", "object": "Japan", "taxonomy": ["Qatar", "Kurdistan", "Canada", "Spain", "Venezuela"]}
+{"subject": "Paul Due", "object": "Norway", "taxonomy": ["France", "Australia", "Lithuania", "Angola", "Chile"]}
+{"subject": "Jeff Leal", "object": "Canada", "taxonomy": ["Jamaica", "Israel", "Indonesia", "Belgium", "Babylon"]}
+{"subject": "Armin Hofmann", "object": "Switzerland", "taxonomy": ["Ghana", "Oman", "Wales", "Norway", "Haiti"]}
+{"subject": "Mohammad-Nabi Sarbolouki", "object": "Iran", "taxonomy": ["Italy", "Georgia", "Azerbaijan", "Jamaica", "Vietnam"]}
+{"subject": "Maria Mourani", "object": "Canada", "taxonomy": ["Syria", "Rwanda", "Malaysia", "Ghana", "Singapore"]}
+{"subject": "Ahmad Nadeem Qasmi", "object": "Pakistan", "taxonomy": ["Slovakia", "Turkey", "Uganda", "Taiwan", "Croatia"]}
+{"subject": "Daniel Powter", "object": "Canada", "taxonomy": ["Denmark", "Lithuania", "Niger", "Mozambique", "Cuba"]}
+{"subject": "Ashim Ahluwalia", "object": "India", "taxonomy": ["Latvia", "Italy", "Egypt", "Hungary", "Austria"]}
+{"subject": "Isabell Werth", "object": "Germany", "taxonomy": ["Azerbaijan", "Armenia", "Latvia", "Rwanda", "Norway"]}
+{"subject": "Nicholas Hyde", "object": "England", "taxonomy": ["Hungary", "Fiji", "Tanzania", "Mongolia", "Babylon"]}
+{"subject": "Magnar Solberg", "object": "Norway", "taxonomy": ["Ghana", "Iraq", "Colombia", "Croatia", "England"]}
+{"subject": "Roisin McGettigan", "object": "Ireland", "taxonomy": ["Cyprus", "Mexico", "Lithuania", "Ghana", "Bulgaria"]}
+{"subject": "Matsukata Masayoshi", "object": "Japan", "taxonomy": ["Hungary", "Azerbaijan", "Slovakia", "Cuba", "Luxembourg"]}
+{"subject": "Desireless", "object": "France", "taxonomy": ["Chile", "Malaysia", "Netherlands", "Hungary", "Wales"]}
+{"subject": "Mikael Rothstein", "object": "Denmark", "taxonomy": ["Switzerland", "Cyprus", "Indonesia", "Zimbabwe", "Kenya"]}
+{"subject": "Nicolas Godin", "object": "France", "taxonomy": ["Sudan", "Frankfurt", "Ghana", "Ecuador", "Croatia"]}
+{"subject": "Kurt Schuschnigg", "object": "Austria", "taxonomy": ["Paraguay", "Israel", "Pakistan", "Venezuela", "Egypt"]}
+{"subject": "Peter Velits", "object": "Slovakia", "taxonomy": ["Bolivia", "Belgium", "Georgia", "Ghana", "Peru"]}
+{"subject": "Aris Velouchiotis", "object": "Greece", "taxonomy": ["Poland", "Babylon", "Hungary", "Tanzania", "Senegal"]}
+{"subject": "Ramon Magsaysay", "object": "Philippines", "taxonomy": ["Bulgaria", "Austria", "Qatar", "Kurdistan", "Laos"]}
+{"subject": "Thomas Ong", "object": "Singapore", "taxonomy": ["Austria", "Jamaica", "Estonia", "Cuba", "Greece"]}
+{"subject": "Kevin Pauwels", "object": "Belgium", "taxonomy": ["Bolivia", "Poland", "Philippines", "Sweden", "Hungary"]}
+{"subject": "Miguel Barbachano", "object": "Mexico", "taxonomy": ["Jamaica", "Hungary", "Bahrain", "Slovakia", "Croatia"]}
+{"subject": "Takeshi Urata", "object": "Japan", "taxonomy": ["Zimbabwe", "Mexico", "Cyprus", "Germany", "Colombia"]}
+{"subject": "Patrick Fiori", "object": "France", "taxonomy": ["Barbados", "Slovenia", "Qatar", "Haiti", "Poland"]}
+{"subject": "Kosuke Matsuura", "object": "Japan", "taxonomy": ["Laos", "Belgium", "Estonia", "Ireland", "Nepal"]}
+{"subject": "Sven Wollter", "object": "Sweden", "taxonomy": ["Moldova", "Cuba", "Nepal", "Egypt", "Uganda"]}
+{"subject": "Marcus Horan", "object": "Ireland", "taxonomy": ["Australia", "Cuba", "Egypt", "Croatia", "Morocco"]}
+{"subject": "Hans Ulrik", "object": "Denmark", "taxonomy": ["Argentina", "Bulgaria", "Mozambique", "Cuba", "Japan"]}
+{"subject": "Diori Hamani", "object": "Niger", "taxonomy": ["Peru", "Italy", "Bhutan", "Norway", "Greece"]}
+{"subject": "Marshall Rothstein", "object": "Canada", "taxonomy": ["Belgium", "Fiji", "Moldova", "Paraguay", "Lebanon"]}
+{"subject": "Mohammad-Taqi Mesbah-Yazdi", "object": "Iran", "taxonomy": ["Haiti", "Thailand", "Paraguay", "Russia", "Poland"]}
+{"subject": "Hernando de Soto", "object": "Cuba", "taxonomy": ["Ireland", "Philippines", "Tanzania", "Netherlands", "Belarus"]}
+{"subject": "Luigi Lanzi", "object": "Italy", "taxonomy": ["Sweden", "Ukraine", "Scotland", "Cyprus", "Tanzania"]}
+{"subject": "Priska Doppmann", "object": "Switzerland", "taxonomy": ["Angola", "Israel", "Russia", "Tanzania", "Kurdistan"]}
+{"subject": "Manuel Carrasco", "object": "Spain", "taxonomy": ["Ukraine", "Georgia", "Austria", "Greece", "Niger"]}
+{"subject": "Massimo D'Alema", "object": "Italy", "taxonomy": ["Armenia", "Belarus", "Germany", "France", "Singapore"]}
+{"subject": "Zadoc Kahn", "object": "France", "taxonomy": ["Venezuela", "Malaysia", "Azerbaijan", "Kazakhstan", "Ukraine"]}
+{"subject": "Vidar Busk", "object": "Norway", "taxonomy": ["Bulgaria", "Estonia", "Latvia", "Fiji", "Zimbabwe"]}
+{"subject": "Ian Nepomniachtchi", "object": "Russia", "taxonomy": ["Azerbaijan", "Israel", "Bolivia", "Finland", "Kazakhstan"]}
+{"subject": "Birendra of Nepal", "object": "Nepal", "taxonomy": ["Ireland", "Algeria", "Thailand", "Frankfurt", "Morocco"]}
+{"subject": "Heinz Heck", "object": "Germany", "taxonomy": ["Egypt", "Kenya", "Kurdistan", "Colombia", "Spain"]}
+{"subject": "Rudolf Hess", "object": "Germany", "taxonomy": ["Armenia", "Vietnam", "England", "Netherlands", "Peru"]}
+{"subject": "Henry V of England", "object": "England", "taxonomy": ["Bangladesh", "Estonia", "Germany", "Argentina", "Qatar"]}
+{"subject": "Shadi Sadr", "object": "Iran", "taxonomy": ["Chile", "Venezuela", "Argentina", "Mozambique", "Mongolia"]}
+{"subject": "Ludmila Belousova", "object": "Russia", "taxonomy": ["Wales", "Slovakia", "Babylon", "Nigeria", "Ireland"]}
+{"subject": "Veronica Lario", "object": "Italy", "taxonomy": ["Kazakhstan", "Bolivia", "Mozambique", "Thailand", "Slovenia"]}
+{"subject": "Richard Sorge", "object": "Germany", "taxonomy": ["Bangladesh", "Ghana", "Belarus", "Georgia", "Norway"]}
+{"subject": "Deng Gai", "object": "Sudan", "taxonomy": ["Sweden", "Pakistan", "Australia", "Spain", "Slovenia"]}
+{"subject": "Anthony Warlow", "object": "Australia", "taxonomy": ["Uganda", "Bahrain", "Senegal", "Cuba", "Fiji"]}
+{"subject": "Swingfly", "object": "Sweden", "taxonomy": ["Japan", "Kenya", "Ireland", "Egypt", "Colombia"]}
+{"subject": "Jose de Venecia", "object": "Philippines", "taxonomy": ["Japan", "Chile", "Ethiopia", "Indonesia", "Rwanda"]}
+{"subject": "Harold Edward Winch", "object": "Canada", "taxonomy": ["Algeria", "Belarus", "Indonesia", "Uganda", "Albania"]}
+{"subject": "Dawid Janowski", "object": "Poland", "taxonomy": ["Pakistan", "Thailand", "Peru", "Venezuela", "Russia"]}
+{"subject": "Ihriel", "object": "Norway", "taxonomy": ["Philippines", "Frankfurt", "Kazakhstan", "Nigeria", "Paraguay"]}
+{"subject": "Gunnar Thoresen", "object": "Norway", "taxonomy": ["Ghana", "Bangladesh", "Germany", "Slovenia", "Estonia"]}
+{"subject": "Felice Bonetto", "object": "Italy", "taxonomy": ["England", "Kazakhstan", "Uganda", "Fiji", "Canada"]}
+{"subject": "Henry Villard", "object": "Germany", "taxonomy": ["Senegal", "Colombia", "Romania", "Croatia", "Chile"]}
+{"subject": "Kalevi Sorsa", "object": "Finland", "taxonomy": ["Morocco", "Malaysia", "Vietnam", "Rwanda", "Scotland"]}
+{"subject": "Moses Ndiema Masai", "object": "Kenya", "taxonomy": ["Mongolia", "Tunisia", "Israel", "Iran", "Paraguay"]}
+{"subject": "Anna Livia Julian Brawn", "object": "Ireland", "taxonomy": ["Kazakhstan", "Taiwan", "Poland", "Romania", "Philippines"]}
+{"subject": "Phyllis Gotlieb", "object": "Canada", "taxonomy": ["Peru", "Germany", "India", "Belarus", "Thailand"]}
+{"subject": "Victor Pinchuk", "object": "Ukraine", "taxonomy": ["Italy", "Switzerland", "Indonesia", "Belgium", "Kurdistan"]}
+{"subject": "Margaret Preston", "object": "Australia", "taxonomy": ["Romania", "Norway", "Bolivia", "Japan", "Denmark"]}
+{"subject": "Francisco Roig", "object": "Spain", "taxonomy": ["Rwanda", "Croatia", "Ghana", "Nigeria", "Laos"]}
+{"subject": "Michel Houellebecq", "object": "France", "taxonomy": ["Israel", "Oman", "Tunisia", "Switzerland", "Iran"]}
+{"subject": "Dominic Seiterle", "object": "Canada", "taxonomy": ["Latvia", "Kurdistan", "Taiwan", "Uganda", "Ireland"]}
+{"subject": "Guillaume-Antoine Olivier", "object": "France", "taxonomy": ["Algeria", "Estonia", "Bhutan", "Armenia", "Philippines"]}
+{"subject": "Masaccio", "object": "Italy", "taxonomy": ["Latvia", "Austria", "Georgia", "Wales", "Ireland"]}
+{"subject": "Moufdi Zakaria", "object": "Algeria", "taxonomy": ["Bangladesh", "Norway", "Armenia", "Belgium", "Babylon"]}
+{"subject": "Eric Frenzel", "object": "Germany", "taxonomy": ["Senegal", "Russia", "Lebanon", "Slovakia", "India"]}
+{"subject": "Abigail Sin", "object": "Singapore", "taxonomy": ["Bangladesh", "Moldova", "Georgia", "Lebanon", "Barbados"]}
+{"subject": "Paul Duchesnay", "object": "France", "taxonomy": ["Qatar", "Mexico", "Taiwan", "Estonia", "Canada"]}
+{"subject": "Erika Miyoshi", "object": "Japan", "taxonomy": ["Denmark", "Colombia", "Cambodia", "India", "Haiti"]}
+{"subject": "Frans Hubert Edouard Arthur Walter Robyns", "object": "Belgium", "taxonomy": ["Mali", "Albania", "Scotland", "Fiji", "Israel"]}
+{"subject": "Pablo Antonio", "object": "Philippines", "taxonomy": ["Haiti", "Finland", "Bangladesh", "Denmark", "Australia"]}
+{"subject": "Bernard Lietaer", "object": "Belgium", "taxonomy": ["Nepal", "Israel", "Mali", "Rwanda", "Ethiopia"]}
+{"subject": "Sirusho", "object": "Armenia", "taxonomy": ["Haiti", "Lebanon", "Bhutan", "Ethiopia", "Norway"]}
+{"subject": "Erik Pauelsen", "object": "Denmark", "taxonomy": ["Latvia", "Babylon", "Moldova", "Estonia", "Kenya"]}
+{"subject": "William Gummow", "object": "Australia", "taxonomy": ["Poland", "Frankfurt", "Chile", "Tunisia", "Afghanistan"]}
+{"subject": "John Banim", "object": "Ireland", "taxonomy": ["Afghanistan", "Haiti", "Tunisia", "Mongolia", "Switzerland"]}
+{"subject": "Frank Hsieh", "object": "Taiwan", "taxonomy": ["Moldova", "Qatar", "Sudan", "Fiji", "Bahrain"]}
+{"subject": "France Gall", "object": "France", "taxonomy": ["Italy", "Taiwan", "Malaysia", "Mexico", "Albania"]}
+{"subject": "Erna Braun", "object": "Canada", "taxonomy": ["Georgia", "Iraq", "Niger", "Estonia", "Azerbaijan"]}
+{"subject": "Nashenas", "object": "Afghanistan", "taxonomy": ["Romania", "Tunisia", "Fiji", "Russia", "Morocco"]}
+{"subject": "Philip Hellquist", "object": "Sweden", "taxonomy": ["Bolivia", "Ecuador", "Poland", "Oman", "Laos"]}
+{"subject": "Azis", "object": "Bulgaria", "taxonomy": ["Iraq", "Norway", "Thailand", "Qatar", "Babylon"]}
+{"subject": "Henri de Man", "object": "Belgium", "taxonomy": ["Slovakia", "Israel", "Croatia", "Paraguay", "Moldova"]}
+{"subject": "Ugo Rondinone", "object": "Switzerland", "taxonomy": ["Chile", "Georgia", "Pakistan", "Cyprus", "Jamaica"]}
+{"subject": "Scarlet Ortiz", "object": "Venezuela", "taxonomy": ["Cambodia", "Singapore", "Norway", "Spain", "Frankfurt"]}
+{"subject": "Kumiko Ogura", "object": "Japan", "taxonomy": ["Switzerland", "Egypt", "Babylon", "Ecuador", "Malaysia"]}
+{"subject": "Rafael Alberti", "object": "Spain", "taxonomy": ["Bhutan", "Ghana", "Bangladesh", "Taiwan", "Scotland"]}
+{"subject": "Carol Zhao", "object": "Canada", "taxonomy": ["Germany", "Greece", "Denmark", "Croatia", "Zimbabwe"]}
+{"subject": "Mehmet Ali Aybar", "object": "Turkey", "taxonomy": ["Morocco", "Peru", "Luxembourg", "Singapore", "Bolivia"]}
+{"subject": "Jag Bhaduria", "object": "Canada", "taxonomy": ["Australia", "Senegal", "Vietnam", "Ethiopia", "Egypt"]}
+{"subject": "Suzy Batkovic", "object": "Australia", "taxonomy": ["Rwanda", "Turkey", "Poland", "Netherlands", "Peru"]}
+{"subject": "Oladipo Diya", "object": "Nigeria", "taxonomy": ["Greece", "Mali", "Sudan", "Malaysia", "Romania"]}
+{"subject": "Marc Lavoie", "object": "Canada", "taxonomy": ["Italy", "Hungary", "Germany", "Oman", "Tunisia"]}
+{"subject": "Bernardo Houssay", "object": "Argentina", "taxonomy": ["Poland", "Latvia", "Qatar", "Colombia", "India"]}
+{"subject": "Erwin Wurm", "object": "Austria", "taxonomy": ["Slovenia", "Peru", "Nepal", "Ecuador", "Egypt"]}
+{"subject": "Alexandre Astruc", "object": "France", "taxonomy": ["Switzerland", "Barbados", "Babylon", "Israel", "Syria"]}
+{"subject": "Kiichi Miyazawa", "object": "Japan", "taxonomy": ["Malaysia", "Angola", "Wales", "Azerbaijan", "Senegal"]}
+{"subject": "John Mitchel", "object": "Ireland", "taxonomy": ["Fiji", "Jamaica", "Ecuador", "Afghanistan", "Ghana"]}
+{"subject": "Caroline Lacroix", "object": "Belgium", "taxonomy": ["Philippines", "Switzerland", "Scotland", "Tanzania", "Vietnam"]}
+{"subject": "Oscar I of Sweden", "object": "Sweden", "taxonomy": ["England", "Belgium", "Syria", "Rwanda", "Scotland"]}
+{"subject": "Pavlos, Crown Prince of Greece", "object": "Greece", "taxonomy": ["Australia", "Latvia", "Ghana", "Austria", "Angola"]}
+{"subject": "Gabriel Axel", "object": "Denmark", "taxonomy": ["Thailand", "Kazakhstan", "Laos", "Cuba", "Zimbabwe"]}
+{"subject": "Julio Cueva", "object": "Cuba", "taxonomy": ["Nigeria", "Jamaica", "Babylon", "Slovakia", "Switzerland"]}
+{"subject": "Carl Bosch", "object": "Germany", "taxonomy": ["Georgia", "Poland", "Babylon", "Ethiopia", "Oman"]}
+{"subject": "Abune Paulos", "object": "Ethiopia", "taxonomy": ["Norway", "Australia", "Slovenia", "Nigeria", "Niger"]}
+{"subject": "Adad-apla-iddina", "object": "Babylon", "taxonomy": ["Uganda", "Latvia", "Georgia", "Slovenia", "Malaysia"]}
+{"subject": "Thomas Macdonald-Paterson", "object": "Australia", "taxonomy": ["Syria", "Kazakhstan", "Egypt", "Slovenia", "Cuba"]}
+{"subject": "William Ivens", "object": "Canada", "taxonomy": ["Italy", "Jamaica", "Slovenia", "Hungary", "Frankfurt"]}
+{"subject": "Yakubu Gowon", "object": "Nigeria", "taxonomy": ["Greece", "Senegal", "Luxembourg", "Iraq", "Netherlands"]}
+{"subject": "Mohammad Gharib", "object": "Iran", "taxonomy": ["Ukraine", "Venezuela", "Paraguay", "Ecuador", "Colombia"]}
+{"subject": "Massimiliano Fuksas", "object": "Italy", "taxonomy": ["Senegal", "Luxembourg", "Vietnam", "Slovakia", "Lebanon"]}
+{"subject": "Nikki Webster", "object": "Australia", "taxonomy": ["Bolivia", "Austria", "Slovenia", "Afghanistan", "Albania"]}
+{"subject": "Tanka Prasad Acharya", "object": "Nepal", "taxonomy": ["Malaysia", "Thailand", "Kurdistan", "Mali", "Haiti"]}
+{"subject": "Joanne Malar", "object": "Canada", "taxonomy": ["Fiji", "Afghanistan", "Latvia", "Kazakhstan", "Armenia"]}
+{"subject": "Sisowath of Cambodia", "object": "Cambodia", "taxonomy": ["Iraq", "Argentina", "Luxembourg", "Croatia", "England"]}
+{"subject": "Naimee Coleman", "object": "Ireland", "taxonomy": ["Scotland", "Brazil", "Vietnam", "Barbados", "Qatar"]}
+{"subject": "Miriam Waddington", "object": "Canada", "taxonomy": ["Latvia", "Luxembourg", "Bangladesh", "Laos", "India"]}
+{"subject": "Ellen Gleditsch", "object": "Norway", "taxonomy": ["Poland", "Mali", "Fiji", "Laos", "Peru"]}
+{"subject": "Shardad Rohani", "object": "Iran", "taxonomy": ["Cambodia", "Slovenia", "Poland", "Scotland", "England"]}
+{"subject": "Kim Nekroman", "object": "Denmark", "taxonomy": ["Norway", "Qatar", "Pakistan", "Oman", "Morocco"]}
+{"subject": "Paolo Chiavenna", "object": "Italy", "taxonomy": ["Barbados", "Bangladesh", "Qatar", "Bhutan", "Morocco"]}
+{"subject": "Tomoko Kawase", "object": "Japan", "taxonomy": ["Poland", "Barbados", "Morocco", "Peru", "Canada"]}
+{"subject": "Josetsu", "object": "Japan", "taxonomy": ["Philippines", "Kurdistan", "Uganda", "Pakistan", "Poland"]}
+{"subject": "Kanna Arihara", "object": "Japan", "taxonomy": ["Netherlands", "Belgium", "Latvia", "Vietnam", "Slovenia"]}
+{"subject": "John Stanley Beard", "object": "Australia", "taxonomy": ["Croatia", "Babylon", "Thailand", "Mozambique", "Angola"]}
+{"subject": "Giorgio Pantano", "object": "Italy", "taxonomy": ["Tanzania", "Kazakhstan", "Ukraine", "Bolivia", "Malaysia"]}
+{"subject": "Alice Furlong", "object": "Ireland", "taxonomy": ["Belgium", "England", "Estonia", "Malaysia", "Scotland"]}
+{"subject": "Barry Creyton", "object": "Australia", "taxonomy": ["Indonesia", "Syria", "Albania", "Spain", "Niger"]}
+{"subject": "Yoko Moriguchi", "object": "Japan", "taxonomy": ["Cyprus", "Bolivia", "Zimbabwe", "France", "Germany"]}
+{"subject": "Wanda Rutkiewicz", "object": "Poland", "taxonomy": ["Jamaica", "Malaysia", "Cyprus", "Bhutan", "Haiti"]}
+{"subject": "Espen Knutsen", "object": "Norway", "taxonomy": ["Mozambique", "Greece", "Belgium", "Italy", "France"]}
+{"subject": "Abu al-Hassan al-Kharaqani", "object": "Iran", "taxonomy": ["Kurdistan", "Egypt", "Senegal", "Lithuania", "Uganda"]}
+{"subject": "George Manuel", "object": "Canada", "taxonomy": ["Greece", "Estonia", "Cyprus", "Switzerland", "Mozambique"]}
+{"subject": "Pop Shalini", "object": "India", "taxonomy": ["Haiti", "Thailand", "Morocco", "Qatar", "Slovakia"]}
+{"subject": "Petros Voulgaris", "object": "Greece", "taxonomy": ["Italy", "Laos", "Poland", "Croatia", "Slovakia"]}
+{"subject": "Jiddu Krishnamurti", "object": "India", "taxonomy": ["Netherlands", "Slovakia", "Cuba", "Albania", "Chile"]}
+{"subject": "Irma Adlawan", "object": "Philippines", "taxonomy": ["Syria", "Jamaica", "Brazil", "Mozambique", "Spain"]}
+{"subject": "Vincent Kenis", "object": "Belgium", "taxonomy": ["Italy", "Senegal", "Chile", "Australia", "Barbados"]}
+{"subject": "Shanta Kumar", "object": "India", "taxonomy": ["Singapore", "Senegal", "Barbados", "Tanzania", "Ukraine"]}
+{"subject": "Priyanka Vadra", "object": "India", "taxonomy": ["Ghana", "Wales", "Japan", "Nepal", "Sudan"]}
+{"subject": "Dimitrie Sturdza", "object": "Romania", "taxonomy": ["Barbados", "Albania", "Armenia", "Slovenia", "Frankfurt"]}
+{"subject": "Neptali Gonzales II", "object": "Philippines", "taxonomy": ["France", "Babylon", "Belgium", "Haiti", "Bahrain"]}
+{"subject": "Francis Walsingham", "object": "England", "taxonomy": ["Bulgaria", "Chile", "Finland", "Peru", "Mongolia"]}
+{"subject": "Ervin Sotto", "object": "Philippines", "taxonomy": ["Babylon", "Ghana", "Romania", "Canada", "Australia"]}
+{"subject": "Cristina Favre-Moretti", "object": "Switzerland", "taxonomy": ["Canada", "Rwanda", "Tunisia", "Russia", "Bangladesh"]}
+{"subject": "Pat Scully", "object": "Ireland", "taxonomy": ["Germany", "Babylon", "Nepal", "Frankfurt", "Russia"]}
+{"subject": "Herman Wilhelm Bissen", "object": "Denmark", "taxonomy": ["Bulgaria", "Qatar", "Romania", "Frankfurt", "Ukraine"]}
+{"subject": "Yves Sente", "object": "Belgium", "taxonomy": ["Finland", "Oman", "Sweden", "Israel", "Nepal"]}
+{"subject": "Sven Delblanc", "object": "Sweden", "taxonomy": ["Luxembourg", "England", "Germany", "Jamaica", "Bulgaria"]}
+{"subject": "Andris Piebalgs", "object": "Latvia", "taxonomy": ["Russia", "Croatia", "Bhutan", "Estonia", "Indonesia"]}
+{"subject": "Haruna Ishola", "object": "Nigeria", "taxonomy": ["Tunisia", "Venezuela", "Laos", "Moldova", "Austria"]}
+{"subject": "Kevin Hearn", "object": "Canada", "taxonomy": ["Angola", "Mexico", "Nigeria", "Ghana", "Kurdistan"]}
+{"subject": "Evstati Stratev", "object": "Bulgaria", "taxonomy": ["Italy", "Cambodia", "Zimbabwe", "India", "Haiti"]}
+{"subject": "Lubaina Himid", "object": "Tanzania", "taxonomy": ["Ethiopia", "Niger", "Canada", "Germany", "Latvia"]}
+{"subject": "Jonel Perlea", "object": "Romania", "taxonomy": ["Albania", "Ghana", "Mali", "Chile", "France"]}
+{"subject": "Armenians in Turkey", "object": "Turkey", "taxonomy": ["Israel", "Zimbabwe", "Belarus", "Belgium", "Poland"]}
+{"subject": "Elizabeth I of England", "object": "England", "taxonomy": ["Australia", "Finland", "Latvia", "Belgium", "Colombia"]}
+{"subject": "Arthur Calwell", "object": "Australia", "taxonomy": ["Algeria", "Germany", "Philippines", "Paraguay", "Iraq"]}
+{"subject": "Hulagu Khan", "object": "Mongolia", "taxonomy": ["Peru", "Sudan", "Georgia", "Slovakia", "Zimbabwe"]}
+{"subject": "Pierre Cardin", "object": "France", "taxonomy": ["Laos", "Russia", "Ireland", "Estonia", "Jamaica"]}
+{"subject": "Peter Peter", "object": "Denmark", "taxonomy": ["Indonesia", "Senegal", "Germany", "Switzerland", "Zimbabwe"]}
+{"subject": "Camille Bulcke", "object": "India", "taxonomy": ["Lebanon", "Albania", "Jamaica", "Turkey", "Finland"]}
+{"subject": "Alfred Gusenbauer", "object": "Austria", "taxonomy": ["Uganda", "Angola", "Bulgaria", "Bangladesh", "Greece"]}
+{"subject": "Tzeni Karezi", "object": "Greece", "taxonomy": ["Nepal", "Denmark", "Chile", "Taiwan", "Albania"]}
+{"subject": "Brenda Asnicar", "object": "Argentina", "taxonomy": ["Barbados", "Pakistan", "Peru", "Switzerland", "Kazakhstan"]}
+{"subject": "Michel de Ghelderode", "object": "Belgium", "taxonomy": ["Iran", "Hungary", "Ukraine", "Lithuania", "Israel"]}
+{"subject": "F. S. Platou", "object": "Norway", "taxonomy": ["Denmark", "Russia", "Paraguay", "Bolivia", "Thailand"]}
+{"subject": "Prasanna", "object": "India", "taxonomy": ["Egypt", "Pakistan", "Singapore", "Nigeria", "Spain"]}
+{"subject": "Duvvuri Subbarao", "object": "India", "taxonomy": ["England", "Haiti", "Slovakia", "Finland", "Egypt"]}
+{"subject": "Carlos Slim Domit", "object": "Mexico", "taxonomy": ["Ireland", "Finland", "Frankfurt", "Latvia", "Slovakia"]}
+{"subject": "Prudentius", "object": "Spain", "taxonomy": ["Paraguay", "Babylon", "Afghanistan", "Ecuador", "Albania"]}
+{"subject": "Facundo Bagnis", "object": "Argentina", "taxonomy": ["Luxembourg", "Paraguay", "Brazil", "Haiti", "Tanzania"]}
+{"subject": "Vita Semerenko", "object": "Ukraine", "taxonomy": ["Bangladesh", "India", "Haiti", "Qatar", "Thailand"]}
+{"subject": "George William Gordon", "object": "Jamaica", "taxonomy": ["Brazil", "Bahrain", "Netherlands", "Russia", "Afghanistan"]}
+{"subject": "Karl Enderlin", "object": "Switzerland", "taxonomy": ["Belgium", "Albania", "Slovakia", "Egypt", "Poland"]}
+{"subject": "Evan Dimas Darmono", "object": "Indonesia", "taxonomy": ["Estonia", "Lebanon", "Venezuela", "Morocco", "Russia"]}
+{"subject": "Emmanuelle Seigner", "object": "France", "taxonomy": ["Sweden", "Angola", "Lithuania", "Switzerland", "Laos"]}
+{"subject": "Christophor Araratov", "object": "Armenia", "taxonomy": ["Hungary", "Sudan", "Belarus", "Estonia", "Mexico"]}
+{"subject": "Lukas Ligeti", "object": "Austria", "taxonomy": ["Slovakia", "Ireland", "Kenya", "Mexico", "Syria"]}
+{"subject": "Daudi Kabaka", "object": "Kenya", "taxonomy": ["Venezuela", "Tunisia", "Peru", "Ecuador", "Romania"]}
+{"subject": "Julieta Venegas", "object": "Mexico", "taxonomy": ["Tunisia", "Egypt", "Iraq", "Slovakia", "Cambodia"]}
+{"subject": "Bent Hamer", "object": "Norway", "taxonomy": ["Slovakia", "Scotland", "Finland", "Singapore", "Mexico"]}
+{"subject": "Suryavarman I", "object": "Cambodia", "taxonomy": ["Mexico", "Poland", "Tanzania", "Ireland", "Israel"]}
+{"subject": "Rizal Nurdin", "object": "Indonesia", "taxonomy": ["Ethiopia", "Taiwan", "Ghana", "Niger", "Belarus"]}
+{"subject": "Edmund of Abingdon", "object": "France", "taxonomy": ["Cyprus", "Syria", "Scotland", "Kenya", "Kazakhstan"]}
+{"subject": "Grzegorz Lato", "object": "Poland", "taxonomy": ["Kurdistan", "Philippines", "Taiwan", "Haiti", "Ghana"]}
+{"subject": "Cajsa Warg", "object": "Sweden", "taxonomy": ["Mongolia", "Belgium", "Jamaica", "Nigeria", "Luxembourg"]}
+{"subject": "Tewodros II", "object": "Ethiopia", "taxonomy": ["Armenia", "Georgia", "Syria", "Venezuela", "Rwanda"]}
+{"subject": "Thomas Cecil, 1st Earl of Exeter", "object": "England", "taxonomy": ["Senegal", "Nigeria", "Switzerland", "Malaysia", "Lithuania"]}
+{"subject": "Madhan Bob", "object": "India", "taxonomy": ["Egypt", "Senegal", "Colombia", "Jamaica", "Cyprus"]}
+{"subject": "Pehr Kalm", "object": "Finland", "taxonomy": ["Ethiopia", "Israel", "Morocco", "Belarus", "Wales"]}
+{"subject": "Tupeni Baba", "object": "Fiji", "taxonomy": ["Mozambique", "Slovenia", "Singapore", "Bolivia", "Mongolia"]}
+{"subject": "Carlos Meglia", "object": "Argentina", "taxonomy": ["Sudan", "Bhutan", "India", "Nigeria", "Japan"]}
+{"subject": "Hilda Watson", "object": "Canada", "taxonomy": ["Mali", "Cuba", "Colombia", "Lithuania", "Syria"]}
+{"subject": "William Osler", "object": "Canada", "taxonomy": ["Estonia", "Venezuela", "Iran", "Zimbabwe", "Moldova"]}
+{"subject": "Jaishankar", "object": "India", "taxonomy": ["France", "Kenya", "Poland", "Germany", "Norway"]}
+{"subject": "Orestis Laskos", "object": "Greece", "taxonomy": ["Luxembourg", "Bhutan", "Mongolia", "Belgium", "Lithuania"]}
+{"subject": "Kenta Fukasaku", "object": "Japan", "taxonomy": ["Tunisia", "Netherlands", "Algeria", "Canada", "Taiwan"]}
+{"subject": "Mark Strudal", "object": "Denmark", "taxonomy": ["Philippines", "Cuba", "Sudan", "Tunisia", "Lebanon"]}
+{"subject": "Takashi Yanase", "object": "Japan", "taxonomy": ["Mexico", "Turkey", "Romania", "Norway", "Singapore"]}
+{"subject": "Minamoto no Yoshinaka", "object": "Japan", "taxonomy": ["Mozambique", "Ireland", "Italy", "Armenia", "Nepal"]}
+{"subject": "Pavel Bure", "object": "Russia", "taxonomy": ["Peru", "Romania", "Fiji", "Finland", "Norway"]}
+{"subject": "Francisco Vallejo Pons", "object": "Spain", "taxonomy": ["Bhutan", "Russia", "Haiti", "Slovenia", "Thailand"]}
+{"subject": "Derrick Dalley", "object": "Canada", "taxonomy": ["Niger", "Estonia", "Azerbaijan", "Afghanistan", "Cambodia"]}
+{"subject": "Haseeb Ahsan", "object": "Pakistan", "taxonomy": ["Vietnam", "Belgium", "Niger", "India", "Egypt"]}
+{"subject": "Stephen Low", "object": "Canada", "taxonomy": ["Bulgaria", "Azerbaijan", "Zimbabwe", "France", "Vietnam"]}
+{"subject": "Lin Yang-kang", "object": "Taiwan", "taxonomy": ["Cambodia", "Rwanda", "Estonia", "Turkey", "Tanzania"]}
+{"subject": "Henri Maurice Berteaux", "object": "France", "taxonomy": ["Denmark", "Niger", "Finland", "Paraguay", "Ireland"]}
+{"subject": "Domingo Nieto", "object": "Peru", "taxonomy": ["Hungary", "Slovakia", "Qatar", "Babylon", "Italy"]}
+{"subject": "Masahiko Nishimura", "object": "Japan", "taxonomy": ["Switzerland", "Syria", "Albania", "Bahrain", "France"]}
+{"subject": "Maud Olofsson", "object": "Sweden", "taxonomy": ["Oman", "Mozambique", "Singapore", "Brazil", "Uganda"]}
+{"subject": "Edita Abdieski", "object": "Switzerland", "taxonomy": ["Frankfurt", "Bolivia", "Ghana", "Chile", "Belgium"]}
+{"subject": "Annemarie Schwarzenbach", "object": "Switzerland", "taxonomy": ["Rwanda", "Slovenia", "Nigeria", "Canada", "Cyprus"]}
+{"subject": "Chiril Gaburici", "object": "Moldova", "taxonomy": ["Spain", "Georgia", "Germany", "England", "Sweden"]}
+{"subject": "Ger Canning", "object": "Ireland", "taxonomy": ["Germany", "Kazakhstan", "Malaysia", "Paraguay", "Norway"]}
+{"subject": "Chico Buarque", "object": "Brazil", "taxonomy": ["Australia", "Azerbaijan", "Finland", "Mexico", "Ethiopia"]}
+{"subject": "Wilhelm Heitmeyer", "object": "Germany", "taxonomy": ["Turkey", "Kurdistan", "Nepal", "Philippines", "Cuba"]}
+{"subject": "Louis Appia", "object": "Switzerland", "taxonomy": ["Barbados", "Bulgaria", "Iran", "Canada", "Ghana"]}
+{"subject": "Santiago Botero", "object": "Colombia", "taxonomy": ["Haiti", "Rwanda", "Sudan", "India", "Venezuela"]}
+{"subject": "Jorge Rial", "object": "Argentina", "taxonomy": ["Afghanistan", "Cambodia", "Romania", "Italy", "Senegal"]}
+{"subject": "Jigme Singye Wangchuck", "object": "Bhutan", "taxonomy": ["Mexico", "Tanzania", "Greece", "Hungary", "Nigeria"]}
+{"subject": "Ron Cantelon", "object": "Canada", "taxonomy": ["Fiji", "Kurdistan", "Netherlands", "Kenya", "Poland"]}
+{"subject": "Patrik Jensen", "object": "Sweden", "taxonomy": ["Malaysia", "Slovenia", "Turkey", "Egypt", "Cuba"]}
+{"subject": "Afewerk Tekle", "object": "Ethiopia", "taxonomy": ["Bhutan", "Australia", "Italy", "Cuba", "Ghana"]}
+{"subject": "Colmar Freiherr von der Goltz", "object": "Germany", "taxonomy": ["Japan", "Vietnam", "Ireland", "Niger", "England"]}
+{"subject": "Ikki Kajiwara", "object": "Japan", "taxonomy": ["Tanzania", "Scotland", "Germany", "Haiti", "Cuba"]}
+{"subject": "Bhaktisiddhanta Saraswati", "object": "India", "taxonomy": ["Canada", "Kurdistan", "Afghanistan", "Uganda", "Russia"]}
+{"subject": "Alex Sirvent", "object": "Mexico", "taxonomy": ["India", "Mongolia", "Tanzania", "Uganda", "Syria"]}
+{"subject": "Jeff Lang", "object": "Australia", "taxonomy": ["Romania", "Syria", "Oman", "Italy", "Tunisia"]}
+{"subject": "Feng Fei-fei", "object": "Taiwan", "taxonomy": ["Iran", "Rwanda", "Nigeria", "Frankfurt", "Belgium"]}
+{"subject": "Cian O'Connor", "object": "Ireland", "taxonomy": ["Armenia", "Russia", "Mali", "Argentina", "Germany"]}
+{"subject": "Kurt Waldheim", "object": "Austria", "taxonomy": ["Laos", "India", "Brazil", "Oman", "Haiti"]}
+{"subject": "Adriana Fonseca", "object": "Mexico", "taxonomy": ["Ethiopia", "Laos", "Finland", "Brazil", "Bulgaria"]}
+{"subject": "Sukhdev Thapar", "object": "India", "taxonomy": ["Lebanon", "Colombia", "Croatia", "Turkey", "Netherlands"]}
+{"subject": "Marguerite Broquedis", "object": "France", "taxonomy": ["Netherlands", "Ukraine", "Bolivia", "Egypt", "Spain"]}
+{"subject": "Nina van Pallandt", "object": "Denmark", "taxonomy": ["Bangladesh", "Mozambique", "Jamaica", "Indonesia", "Egypt"]}
+{"subject": "Joyce Bamford-Addo", "object": "Ghana", "taxonomy": ["Georgia", "Thailand", "Greece", "Romania", "Japan"]}
+{"subject": "Mukul Roy", "object": "India", "taxonomy": ["Taiwan", "Kenya", "Vietnam", "Luxembourg", "Albania"]}
+{"subject": "Sturla Gunnarsson", "object": "Canada", "taxonomy": ["Russia", "Bhutan", "Uganda", "Norway", "Lebanon"]}
+{"subject": "Friedrich Asinger", "object": "Austria", "taxonomy": ["Mexico", "Bhutan", "Ecuador", "Bulgaria", "Rwanda"]}
+{"subject": "Kristian Levring", "object": "Denmark", "taxonomy": ["Nepal", "Austria", "Cuba", "Albania", "Nigeria"]}
+{"subject": "Senkichi Taniguchi", "object": "Japan", "taxonomy": ["Bahrain", "Latvia", "Israel", "Brazil", "Laos"]}
+{"subject": "Margaret Atwood", "object": "Canada", "taxonomy": ["Poland", "Croatia", "Uganda", "Spain", "France"]}
+{"subject": "Vilayat Khan", "object": "India", "taxonomy": ["Georgia", "Afghanistan", "Zimbabwe", "Hungary", "Pakistan"]}
+{"subject": "death of Ali Abdulhadi Mushaima", "object": "Bahrain", "taxonomy": ["Romania", "Ecuador", "Switzerland", "Croatia", "Finland"]}
+{"subject": "Irakli Alasania", "object": "Georgia", "taxonomy": ["Morocco", "Luxembourg", "Kenya", "Venezuela", "Angola"]}
+{"subject": "Luis Llosa", "object": "Peru", "taxonomy": ["Belarus", "Estonia", "Slovakia", "Bangladesh", "Russia"]}
+{"subject": "Ambar Roy", "object": "India", "taxonomy": ["Romania", "Iran", "Ethiopia", "France", "Colombia"]}
+{"subject": "Nathuram Godse", "object": "India", "taxonomy": ["Ghana", "Peru", "Kazakhstan", "England", "Scotland"]}
+{"subject": "Linor Abargil", "object": "Israel", "taxonomy": ["Oman", "Egypt", "Wales", "Georgia", "Sudan"]}
+{"subject": "Frederick Noronha", "object": "Brazil", "taxonomy": ["Cambodia", "Pakistan", "Moldova", "Uganda", "Syria"]}
+{"subject": "Prince Aly Khan", "object": "Pakistan", "taxonomy": ["Qatar", "Venezuela", "Paraguay", "Russia", "Ireland"]}
+{"subject": "Lars Halvor Jensen", "object": "Denmark", "taxonomy": ["Vietnam", "Ecuador", "Morocco", "Mongolia", "Slovakia"]}
+{"subject": "Wasis Diop", "object": "Senegal", "taxonomy": ["Niger", "Moldova", "Austria", "Bangladesh", "Philippines"]}
+{"subject": "Abu al-Qasim al-Shabbi", "object": "Tunisia", "taxonomy": ["Romania", "Sudan", "Slovenia", "Syria", "Kurdistan"]}
+{"subject": "Ritt Bjerregaard", "object": "Denmark", "taxonomy": ["India", "Venezuela", "Spain", "Wales", "Norway"]}
+{"subject": "Adil Abdul-Mahdi", "object": "Iraq", "taxonomy": ["Austria", "Latvia", "Bhutan", "Uganda", "Scotland"]}
+{"subject": "Enzo Ferrari", "object": "Italy", "taxonomy": ["Norway", "Moldova", "Nigeria", "Hungary", "Tunisia"]}
+{"subject": "George Fox", "object": "England", "taxonomy": ["Sudan", "Algeria", "Australia", "Barbados", "Armenia"]}
+{"subject": "Egid Quirin Asam", "object": "Germany", "taxonomy": ["Wales", "Chile", "Bolivia", "Romania", "Bhutan"]}
+{"subject": "Francesco Calogero", "object": "Italy", "taxonomy": ["Luxembourg", "Netherlands", "Frankfurt", "Sudan", "Cyprus"]}
+{"subject": "Benson Idahosa", "object": "Nigeria", "taxonomy": ["Luxembourg", "Taiwan", "Slovakia", "India", "Japan"]}
+{"subject": "Shigeaki Ikeda", "object": "Japan", "taxonomy": ["Uganda", "India", "Oman", "Georgia", "Laos"]}
+{"subject": "Hans Fruhstorfer", "object": "Germany", "taxonomy": ["Colombia", "Turkey", "Belgium", "Ethiopia", "Moldova"]}
+{"subject": "Andre Spitzer", "object": "Israel", "taxonomy": ["Poland", "Egypt", "Tunisia", "Sweden", "France"]}
+{"subject": "Adele King", "object": "Ireland", "taxonomy": ["Belgium", "Norway", "Belarus", "Thailand", "Poland"]}
+{"subject": "Chuwit Kamolvisit", "object": "Thailand", "taxonomy": ["Albania", "Bolivia", "Wales", "Canada", "Syria"]}
+{"subject": "Gianni Lancia", "object": "Italy", "taxonomy": ["Azerbaijan", "Qatar", "Niger", "Romania", "Syria"]}
+{"subject": "Gustave Flourens", "object": "France", "taxonomy": ["Oman", "Croatia", "Rwanda", "Jamaica", "Lebanon"]}
+{"subject": "Doug Saunders", "object": "Canada", "taxonomy": ["Luxembourg", "Japan", "Ethiopia", "Venezuela", "Oman"]}
+{"subject": "John Sellekaers", "object": "Canada", "taxonomy": ["Taiwan", "Cuba", "Croatia", "Thailand", "Peru"]}
+{"subject": "Bapsi Sidhwa", "object": "Pakistan", "taxonomy": ["Georgia", "Japan", "Azerbaijan", "Cuba", "Sweden"]}
+{"subject": "Henrique Maximiano Coelho Neto", "object": "Brazil", "taxonomy": ["Peru", "Haiti", "Italy", "Ukraine", "Rwanda"]}
+{"subject": "Sachiko Kobayashi", "object": "Japan", "taxonomy": ["Kenya", "Moldova", "Albania", "Hungary", "Colombia"]}
+{"subject": "Yusuf bin Alawi bin Abdullah", "object": "Oman", "taxonomy": ["Kazakhstan", "England", "Netherlands", "Lithuania", "Sudan"]}
+{"subject": "Rajeev Chandrasekhar", "object": "India", "taxonomy": ["Zimbabwe", "Haiti", "Iran", "Turkey", "Slovakia"]}
+{"subject": "Franz Mayer", "object": "Mexico", "taxonomy": ["Denmark", "Albania", "Kenya", "Lithuania", "Cyprus"]}
+{"subject": "Mette-Marit, Crown Princess of Norway", "object": "Norway", "taxonomy": ["Iraq", "Fiji", "Laos", "Slovakia", "Bahrain"]}
+{"subject": "Shane Withington", "object": "Australia", "taxonomy": ["Zimbabwe", "Sudan", "Babylon", "Austria", "Slovakia"]}
+{"subject": "Joanne King", "object": "Ireland", "taxonomy": ["Brazil", "Chile", "Philippines", "Hungary", "Nepal"]}
+{"subject": "Juan Lavalle", "object": "Argentina", "taxonomy": ["Vietnam", "Sudan", "Senegal", "Cambodia", "Barbados"]}
+{"subject": "Phong Bui", "object": "Vietnam", "taxonomy": ["Tunisia", "Ireland", "Pakistan", "Germany", "Bhutan"]}
+{"subject": "Violette Verdy", "object": "France", "taxonomy": ["Nigeria", "Kurdistan", "Vietnam", "Mozambique", "Jamaica"]}
+{"subject": "Zakaria Tamer", "object": "Syria", "taxonomy": ["Paraguay", "Bangladesh", "Sudan", "Haiti", "Spain"]}
+{"subject": "Scott Brison", "object": "Canada", "taxonomy": ["Iran", "Norway", "Slovakia", "Mexico", "Armenia"]}
+{"subject": "Lisa Appignanesi", "object": "Canada", "taxonomy": ["Belarus", "Iraq", "Ecuador", "Babylon", "Poland"]}
+{"subject": "Elastinen", "object": "Finland", "taxonomy": ["Jamaica", "Latvia", "Croatia", "Belarus", "Hungary"]}
+{"subject": "Nelida Lobato", "object": "Argentina", "taxonomy": ["Finland", "Bulgaria", "Angola", "Tunisia", "Cuba"]}
+{"subject": "Dean Joanisse", "object": "Canada", "taxonomy": ["Bhutan", "Jamaica", "Chile", "Iraq", "Armenia"]}
+{"subject": "Maria Adelaide Amaral", "object": "Brazil", "taxonomy": ["Slovakia", "Kurdistan", "Egypt", "Syria", "Colombia"]}
+{"subject": "Maurice Bellemare", "object": "Canada", "taxonomy": ["Slovenia", "Chile", "Albania", "Venezuela", "Bulgaria"]}
+{"subject": "Patricia Conroy", "object": "Canada", "taxonomy": ["Kurdistan", "Brazil", "Senegal", "Ukraine", "Lithuania"]}
+{"subject": "Helle Virkner", "object": "Denmark", "taxonomy": ["Peru", "Hungary", "Taiwan", "India", "Morocco"]}
+{"subject": "Susan Denberg", "object": "Austria", "taxonomy": ["Bhutan", "Oman", "Paraguay", "Norway", "Morocco"]}
+{"subject": "Lucien Van Impe", "object": "Belgium", "taxonomy": ["Scotland", "Mongolia", "Austria", "Babylon", "Iran"]}
+{"subject": "Tommy McCook", "object": "Jamaica", "taxonomy": ["Nigeria", "Malaysia", "Bahrain", "Israel", "Scotland"]}
+{"subject": "Elis Regina", "object": "Brazil", "taxonomy": ["Albania", "Ethiopia", "Ghana", "Russia", "Azerbaijan"]}
+{"subject": "Siobhan Paton", "object": "Australia", "taxonomy": ["Albania", "Mali", "Barbados", "Niger", "Haiti"]}
+{"subject": "Bourvil", "object": "France", "taxonomy": ["Italy", "Scotland", "Azerbaijan", "Ireland", "Philippines"]}
+{"subject": "Farid Mammadov", "object": "Azerbaijan", "taxonomy": ["Egypt", "Mexico", "Uganda", "Bolivia", "Ukraine"]}
+{"subject": "Augustine Ahinful", "object": "Ghana", "taxonomy": ["Mexico", "Finland", "Rwanda", "Thailand", "Colombia"]}
+{"subject": "Ernst Christian Friedrich Schering", "object": "Germany", "taxonomy": ["Estonia", "Bangladesh", "Cambodia", "England", "Armenia"]}
+{"subject": "Yoshio Shirai", "object": "Japan", "taxonomy": ["Niger", "Brazil", "Iran", "Finland", "Tunisia"]}
+{"subject": "Apollo Milton Obote", "object": "Uganda", "taxonomy": ["Ghana", "Mexico", "Croatia", "England", "Switzerland"]}
+{"subject": "Patricia Kohlmann", "object": "Mexico", "taxonomy": ["Ireland", "Hungary", "Syria", "Mali", "Spain"]}
+{"subject": "Norimoto Yoda", "object": "Japan", "taxonomy": ["Malaysia", "Jamaica", "Sudan", "Wales", "Iraq"]}
+{"subject": "Anna Theresa Licaros", "object": "Philippines", "taxonomy": ["Paraguay", "Zimbabwe", "Iran", "Morocco", "Thailand"]}
+{"subject": "Jimmy Choo", "object": "Malaysia", "taxonomy": ["Barbados", "Russia", "Brazil", "Denmark", "Morocco"]}
+{"subject": "Henrik Zetterberg", "object": "Sweden", "taxonomy": ["Austria", "Malaysia", "Hungary", "Mongolia", "Indonesia"]}
+{"subject": "Rick Hansen", "object": "Canada", "taxonomy": ["India", "Latvia", "Bhutan", "Cyprus", "Iran"]}
+{"subject": "Gheorghe Grigore Cantacuzino", "object": "Romania", "taxonomy": ["Iran", "Indonesia", "Nigeria", "Sudan", "Armenia"]}
+{"subject": "Eiko Shimamiya", "object": "Japan", "taxonomy": ["Mozambique", "Nigeria", "Iraq", "Ireland", "Latvia"]}
+{"subject": "Simon Kvamm", "object": "Denmark", "taxonomy": ["Bangladesh", "Ukraine", "Iraq", "Nigeria", "Netherlands"]}
+{"subject": "Jithan Ramesh", "object": "India", "taxonomy": ["Pakistan", "Nigeria", "Lebanon", "Afghanistan", "Azerbaijan"]}
+{"subject": "Delia Murphy", "object": "Ireland", "taxonomy": ["Senegal", "Algeria", "Qatar", "Bolivia", "Zimbabwe"]}
+{"subject": "Soenario", "object": "Indonesia", "taxonomy": ["Zimbabwe", "Argentina", "Scotland", "Senegal", "Canada"]}
+{"subject": "Pugh Rogefeldt", "object": "Sweden", "taxonomy": ["Rwanda", "Ethiopia", "Mongolia", "Ukraine", "Indonesia"]}
+{"subject": "Darin King", "object": "Canada", "taxonomy": ["India", "Frankfurt", "Lebanon", "Argentina", "Scotland"]}
+{"subject": "Mary Gaunt", "object": "Australia", "taxonomy": ["Nigeria", "Algeria", "Albania", "Uganda", "Cambodia"]}
+{"subject": "Niamh Cusack", "object": "Ireland", "taxonomy": ["Japan", "France", "Kenya", "Syria", "Barbados"]}
+{"subject": "Joey Saputo", "object": "Canada", "taxonomy": ["Germany", "Syria", "Bangladesh", "England", "Egypt"]}
+{"subject": "Zenon Plech", "object": "Poland", "taxonomy": ["Belgium", "Tanzania", "Estonia", "Croatia", "Brazil"]}
+{"subject": "Aleksejs Saramotins", "object": "Latvia", "taxonomy": ["Ghana", "Netherlands", "Pakistan", "Mongolia", "Niger"]}
+{"subject": "Kalanithi Maran", "object": "India", "taxonomy": ["Thailand", "Poland", "Romania", "Canada", "Azerbaijan"]}
+{"subject": "Salvador Zerboni", "object": "Mexico", "taxonomy": ["France", "Mozambique", "Romania", "Kenya", "Belarus"]}
+{"subject": "Chakrabongse Bhuvanadh", "object": "Thailand", "taxonomy": ["Poland", "Mali", "Peru", "Mozambique", "Cuba"]}
+{"subject": "Wolfgang Pauli", "object": "Austria", "taxonomy": ["Morocco", "Cuba", "Angola", "Syria", "Hungary"]}
+{"subject": "Habib el-Adly", "object": "Egypt", "taxonomy": ["Niger", "Japan", "Mongolia", "Angola", "Ukraine"]}
+{"subject": "Anthony Fisher", "object": "Australia", "taxonomy": ["Iran", "Singapore", "Austria", "Niger", "Japan"]}
+{"subject": "Julien Raimond", "object": "Haiti", "taxonomy": ["Iran", "Rwanda", "England", "Azerbaijan", "Qatar"]}
+{"subject": "Jerzy Topolski", "object": "Poland", "taxonomy": ["Barbados", "Ireland", "Jamaica", "Greece", "Iran"]}
+{"subject": "Mar Thoma I", "object": "India", "taxonomy": ["Poland", "Barbados", "Morocco", "Slovakia", "Afghanistan"]}
+{"subject": "John Archibald Maharg", "object": "Canada", "taxonomy": ["Iran", "Sweden", "Haiti", "Argentina", "Armenia"]}
+{"subject": "Chrispa", "object": "Greece", "taxonomy": ["Croatia", "Brazil", "Colombia", "Belgium", "Israel"]}
+{"subject": "Benedict of Poland", "object": "Poland", "taxonomy": ["Netherlands", "Sweden", "Kurdistan", "Russia", "Vietnam"]}
+{"subject": "Mateo Gil", "object": "Spain", "taxonomy": ["Ghana", "Rwanda", "Senegal", "Denmark", "Fiji"]}
+{"subject": "Max Kade", "object": "Germany", "taxonomy": ["Syria", "Malaysia", "Haiti", "Azerbaijan", "Rwanda"]}
+{"subject": "Achille Valenciennes", "object": "France", "taxonomy": ["Sudan", "Azerbaijan", "Poland", "Mongolia", "Nepal"]}
+{"subject": "David Benyamine", "object": "France", "taxonomy": ["Qatar", "Denmark", "Poland", "Georgia", "Hungary"]}
+{"subject": "Siluck Saysanasy", "object": "Laos", "taxonomy": ["Jamaica", "Venezuela", "Malaysia", "Croatia", "Denmark"]}
+{"subject": "Steven Wilson", "object": "England", "taxonomy": ["Switzerland", "Bhutan", "Belgium", "Armenia", "Frankfurt"]}
+{"subject": "Zeev Rechter", "object": "Israel", "taxonomy": ["Russia", "Algeria", "Vietnam", "Frankfurt", "Kurdistan"]}
+{"subject": "Mahito Tsujimura", "object": "Japan", "taxonomy": ["Kenya", "Malaysia", "Syria", "Spain", "Slovakia"]}
+{"subject": "Abolfazl Jalili", "object": "Iran", "taxonomy": ["Turkey", "India", "Canada", "Bangladesh", "Tanzania"]}
+{"subject": "Henri Guilbeaux", "object": "France", "taxonomy": ["Frankfurt", "Bahrain", "Japan", "Vietnam", "Netherlands"]}
+{"subject": "Mahmoud Fawzi", "object": "Egypt", "taxonomy": ["Algeria", "Canada", "Bahrain", "Malaysia", "Norway"]}
+{"subject": "Ferdinand Meldahl", "object": "Denmark", "taxonomy": ["Laos", "Barbados", "Uganda", "Estonia", "Australia"]}
+{"subject": "Alina Devecerski", "object": "Sweden", "taxonomy": ["Cambodia", "Iraq", "Cyprus", "Mongolia", "Rwanda"]}
+{"subject": "Sylvia Chang", "object": "Taiwan", "taxonomy": ["Australia", "Ethiopia", "Colombia", "Armenia", "Uganda"]}
+{"subject": "Arnold Clavio", "object": "Philippines", "taxonomy": ["Albania", "Australia", "Germany", "Belgium", "Italy"]}
+{"subject": "Agnieszka Osiecka", "object": "Poland", "taxonomy": ["Turkey", "Spain", "Afghanistan", "Niger", "Laos"]}
+{"subject": "Kazimierz Nycz", "object": "Poland", "taxonomy": ["Bhutan", "Finland", "Afghanistan", "Moldova", "Morocco"]}
+{"subject": "Brian O'Nolan", "object": "Ireland", "taxonomy": ["Jamaica", "Australia", "Uganda", "Argentina", "Kazakhstan"]}
+{"subject": "Priyanandanan", "object": "India", "taxonomy": ["Vietnam", "Canada", "Austria", "Cyprus", "Taiwan"]}
+{"subject": "Andrei Soldatov", "object": "Russia", "taxonomy": ["Brazil", "Venezuela", "Poland", "Slovenia", "Mongolia"]}
+{"subject": "Shigeki Maruyama", "object": "Japan", "taxonomy": ["Algeria", "Israel", "Paraguay", "Belgium", "Latvia"]}
+{"subject": "Giovanni Juan Ignazio Molina", "object": "Chile", "taxonomy": ["Lebanon", "Belarus", "Morocco", "Ukraine", "Hungary"]}
+{"subject": "Pisharoth Rama Pisharoty", "object": "India", "taxonomy": ["Belgium", "Italy", "Romania", "Georgia", "Brazil"]}
+{"subject": "Amanz Gressly", "object": "Switzerland", "taxonomy": ["Malaysia", "Lebanon", "Finland", "Kazakhstan", "Slovenia"]}
+{"subject": "Byron Seaman", "object": "Canada", "taxonomy": ["Ghana", "Slovenia", "England", "Peru", "France"]}
+{"subject": "Alain Corneau", "object": "France", "taxonomy": ["Jamaica", "Slovenia", "Rwanda", "Ireland", "Azerbaijan"]}
+{"subject": "Arvid Lindman", "object": "Sweden", "taxonomy": ["Chile", "Rwanda", "Egypt", "Slovenia", "France"]}
+{"subject": "Yasuo Kobayashi", "object": "Japan", "taxonomy": ["Syria", "Netherlands", "Pakistan", "Senegal", "Georgia"]}
+{"subject": "Lefteris Papadopoulos", "object": "Greece", "taxonomy": ["Mozambique", "Argentina", "Canada", "Slovenia", "Latvia"]}
+{"subject": "Jorge Enrique Abello", "object": "Colombia", "taxonomy": ["Kazakhstan", "Cyprus", "Slovakia", "Mexico", "Iran"]}
+{"subject": "Charles VI of France", "object": "France", "taxonomy": ["Laos", "Romania", "Pakistan", "Italy", "Nepal"]}
+{"subject": "Chittadhar Hridaya", "object": "Nepal", "taxonomy": ["Taiwan", "Kazakhstan", "Australia", "Jamaica", "Scotland"]}
+{"subject": "Giovanni Lista", "object": "Italy", "taxonomy": ["Hungary", "Singapore", "Zimbabwe", "France", "Peru"]}
+{"subject": "Ike Ekweremadu", "object": "Nigeria", "taxonomy": ["Belarus", "Croatia", "Albania", "Oman", "Iraq"]}
+{"subject": "Gert Steegmans", "object": "Belgium", "taxonomy": ["Belarus", "Indonesia", "Croatia", "Russia", "Kazakhstan"]}
+{"subject": "Michel Aoun", "object": "Lebanon", "taxonomy": ["Bolivia", "Sweden", "Finland", "Senegal", "Bulgaria"]}
+{"subject": "Gary Estrada", "object": "Philippines", "taxonomy": ["Sweden", "Italy", "Niger", "Ghana", "Romania"]}
+{"subject": "John McPherson", "object": "Australia", "taxonomy": ["Bolivia", "Brazil", "Kazakhstan", "Babylon", "Slovakia"]}
+{"subject": "Arihito Muramatsu", "object": "Japan", "taxonomy": ["Azerbaijan", "Hungary", "Pakistan", "Tanzania", "India"]}
+{"subject": "Athanasia Tsoumeleka", "object": "Greece", "taxonomy": ["Bolivia", "Albania", "Denmark", "Syria", "Wales"]}
+{"subject": "Ahmed Ouyahia", "object": "Algeria", "taxonomy": ["Italy", "Syria", "Ethiopia", "Germany", "Kazakhstan"]}
+{"subject": "Sally Seltmann", "object": "Australia", "taxonomy": ["Egypt", "Romania", "Argentina", "Slovakia", "Indonesia"]}
+{"subject": "Mike Candys", "object": "Switzerland", "taxonomy": ["Kurdistan", "Taiwan", "Algeria", "Finland", "Mexico"]}
+{"subject": "Magnus Carlsen", "object": "Norway", "taxonomy": ["Brazil", "Vietnam", "Nigeria", "Kurdistan", "Switzerland"]}
+{"subject": "Ernesto Tornquist", "object": "Argentina", "taxonomy": ["Brazil", "Frankfurt", "Japan", "Afghanistan", "Pakistan"]}
+{"subject": "Yves Larock", "object": "Switzerland", "taxonomy": ["Armenia", "Australia", "Austria", "Qatar", "Belgium"]}
+{"subject": "Bert De Graeve", "object": "Belgium", "taxonomy": ["Argentina", "Taiwan", "Spain", "Ghana", "Turkey"]}
+{"subject": "Jaicko", "object": "Barbados", "taxonomy": ["Austria", "Hungary", "Belgium", "Georgia", "Singapore"]}
+{"subject": "Henryk Sienkiewicz", "object": "Poland", "taxonomy": ["Moldova", "Barbados", "Hungary", "Turkey", "Cuba"]}
+{"subject": "Miguel Duhamel", "object": "Canada", "taxonomy": ["Wales", "Algeria", "Norway", "Ukraine", "Haiti"]}
+{"subject": "Arthur, Prince of Wales", "object": "England", "taxonomy": ["Zimbabwe", "Kazakhstan", "Germany", "Moldova", "Tunisia"]}
+{"subject": "Mimi Heinrich", "object": "Denmark", "taxonomy": ["Wales", "Bangladesh", "Ukraine", "Bahrain", "Nigeria"]}
+{"subject": "Behar Shtylla", "object": "Albania", "taxonomy": ["Spain", "Romania", "Ireland", "Greece", "Algeria"]}
+{"subject": "Pierre Daye", "object": "Belgium", "taxonomy": ["Latvia", "Jamaica", "Bolivia", "Slovenia", "Mongolia"]}
+{"subject": "Paul Gustav Fischer", "object": "Denmark", "taxonomy": ["Azerbaijan", "Vietnam", "Turkey", "Spain", "Barbados"]}
+{"subject": "Yoshitsugu Matsuoka", "object": "Japan", "taxonomy": ["Laos", "Bangladesh", "Sweden", "Mali", "Peru"]}
+{"subject": "Bertie Johnston", "object": "Australia", "taxonomy": ["Singapore", "Morocco", "Wales", "Slovenia", "Vietnam"]}
+{"subject": "Takashi Nakamura", "object": "Japan", "taxonomy": ["Niger", "Kurdistan", "France", "Ireland", "Colombia"]}
+{"subject": "Luigi Snozzi", "object": "Switzerland", "taxonomy": ["Ecuador", "Wales", "Mali", "Moldova", "Tunisia"]}
+{"subject": "Mel Charles", "object": "Wales", "taxonomy": ["Greece", "Sudan", "Jamaica", "Lebanon", "Slovakia"]}
+{"subject": "Matt Brouwer", "object": "Canada", "taxonomy": ["Venezuela", "Bulgaria", "Morocco", "Bolivia", "Kenya"]}
+{"subject": "Luis Bacalov", "object": "Italy", "taxonomy": ["Ethiopia", "Barbados", "Kenya", "Belgium", "Mexico"]}
+{"subject": "Robert Persons", "object": "England", "taxonomy": ["Kenya", "Cambodia", "Ireland", "Nepal", "Iran"]}
+{"subject": "Kinji Fukasaku", "object": "Japan", "taxonomy": ["Malaysia", "Slovakia", "Iraq", "Rwanda", "Chile"]}
+{"subject": "Dan Bejar", "object": "Canada", "taxonomy": ["Rwanda", "Ghana", "Bahrain", "Colombia", "Jamaica"]}
+{"subject": "David Malangi", "object": "Australia", "taxonomy": ["Pakistan", "Taiwan", "Laos", "Bangladesh", "Senegal"]}
+{"subject": "Tebey", "object": "Canada", "taxonomy": ["Australia", "Laos", "Bulgaria", "Netherlands", "Latvia"]}
+{"subject": "Brad Gushue", "object": "Canada", "taxonomy": ["Ghana", "India", "Barbados", "Mongolia", "Nigeria"]}
+{"subject": "Kunihiko Yasui", "object": "Japan", "taxonomy": ["Mali", "Poland", "Fiji", "Malaysia", "Netherlands"]}
+{"subject": "Billy Chow", "object": "Canada", "taxonomy": ["Tunisia", "Mali", "Australia", "Albania", "England"]}
+{"subject": "Pavol Demitra", "object": "Slovakia", "taxonomy": ["Egypt", "Vietnam", "England", "Estonia", "Moldova"]}
+{"subject": "Jean Preudhomme", "object": "Switzerland", "taxonomy": ["Algeria", "France", "Latvia", "Poland", "Australia"]}
+{"subject": "Jean-Baptiste Lamy", "object": "France", "taxonomy": ["Kenya", "Babylon", "Rwanda", "Armenia", "Netherlands"]}
+{"subject": "David Malouf", "object": "Australia", "taxonomy": ["Argentina", "Ethiopia", "Israel", "Mexico", "Colombia"]}
+{"subject": "George Pastell", "object": "Cyprus", "taxonomy": ["Qatar", "Canada", "Bhutan", "Wales", "Taiwan"]}
+{"subject": "Salim Saleh", "object": "Uganda", "taxonomy": ["Slovenia", "Tanzania", "Zimbabwe", "Australia", "Iran"]}
+{"subject": "Narciso Campero", "object": "Bolivia", "taxonomy": ["Finland", "Scotland", "Albania", "Spain", "Senegal"]}
+{"subject": "Riyu Kosaka", "object": "Japan", "taxonomy": ["Tanzania", "Canada", "Afghanistan", "Hungary", "Australia"]}
+{"subject": "Alejandro Bustillo", "object": "Argentina", "taxonomy": ["Estonia", "Georgia", "Philippines", "France", "Romania"]}
+{"subject": "Jessy De Smet", "object": "Belgium", "taxonomy": ["Sudan", "Mexico", "Kazakhstan", "Armenia", "Qatar"]}
+{"subject": "Florent Brard", "object": "France", "taxonomy": ["Iran", "Nepal", "Ecuador", "Switzerland", "Sudan"]}
+{"subject": "Abdelhak Achik", "object": "Morocco", "taxonomy": ["Zimbabwe", "Azerbaijan", "Senegal", "Austria", "France"]}
+{"subject": "Marcin Libicki", "object": "Poland", "taxonomy": ["Afghanistan", "Canada", "Bolivia", "Tunisia", "Chile"]}
+{"subject": "Godwin, Earl of Wessex", "object": "England", "taxonomy": ["Ecuador", "Frankfurt", "Iraq", "Mozambique", "Lebanon"]}
+{"subject": "Jacob Peter Mynster", "object": "Denmark", "taxonomy": ["Belgium", "Estonia", "Sudan", "Senegal", "Tanzania"]}
+{"subject": "Chen Kenichi", "object": "Japan", "taxonomy": ["Hungary", "Peru", "Estonia", "Luxembourg", "Germany"]}
+{"subject": "Di Brandt", "object": "Canada", "taxonomy": ["Italy", "Bulgaria", "Bolivia", "Armenia", "Vietnam"]}
+{"subject": "Fred Watson", "object": "Australia", "taxonomy": ["Laos", "Denmark", "Ireland", "Albania", "England"]}
+{"subject": "Tomasz Kamusella", "object": "Poland", "taxonomy": ["Australia", "Iran", "Laos", "Babylon", "Wales"]}
+{"subject": "Yeprem Khan", "object": "Iran", "taxonomy": ["Venezuela", "Zimbabwe", "Iraq", "Niger", "India"]}
+{"subject": "Bernhard Eunom Philippi", "object": "Chile", "taxonomy": ["Belgium", "Iran", "Bangladesh", "Haiti", "Uganda"]}
+{"subject": "Albert Mathiez", "object": "France", "taxonomy": ["Cuba", "Sweden", "Cyprus", "Italy", "Denmark"]}
+{"subject": "Mahnaz Afkhami", "object": "Iran", "taxonomy": ["Cuba", "Azerbaijan", "Paraguay", "Tanzania", "Luxembourg"]}
+{"subject": "Betiana Blum", "object": "Argentina", "taxonomy": ["Thailand", "Canada", "Georgia", "Syria", "Bahrain"]}
+{"subject": "Kenia Sinclair", "object": "Jamaica", "taxonomy": ["Nepal", "Austria", "Albania", "Morocco", "Ethiopia"]}
+{"subject": "Eric IX of Sweden", "object": "Sweden", "taxonomy": ["Pakistan", "Hungary", "Haiti", "Lebanon", "Vietnam"]}
+{"subject": "Tawfiq al-Suwaidi", "object": "Iraq", "taxonomy": ["Azerbaijan", "Nigeria", "Cambodia", "Albania", "Philippines"]}
+{"subject": "Thorleif Haug", "object": "Norway", "taxonomy": ["Netherlands", "England", "Laos", "Indonesia", "Philippines"]}
+{"subject": "Giovanni Guidetti", "object": "Italy", "taxonomy": ["Haiti", "Azerbaijan", "Laos", "Algeria", "India"]}
+{"subject": "James VII and II", "object": "England", "taxonomy": ["Bulgaria", "Turkey", "Slovenia", "Barbados", "Mongolia"]}
+{"subject": "Hamad bin Khalifa Al Thani", "object": "Qatar", "taxonomy": ["Bulgaria", "Iraq", "Mongolia", "Greece", "Haiti"]}
+{"subject": "Martinez de Pasqually", "object": "France", "taxonomy": ["Ghana", "Kenya", "Colombia", "Morocco", "Mongolia"]}
+{"subject": "Catherine de Vivonne, marquise de Rambouillet", "object": "France", "taxonomy": ["Afghanistan", "Mexico", "Syria", "Romania", "Taiwan"]}
+{"subject": "Jan Machulski", "object": "Poland", "taxonomy": ["Frankfurt", "Armenia", "Venezuela", "Finland", "Mali"]}
+{"subject": "Lat-Dior", "object": "Senegal", "taxonomy": ["Scotland", "Mongolia", "Kenya", "Indonesia", "Kurdistan"]}
+{"subject": "Marco Mengoni", "object": "Italy", "taxonomy": ["Kenya", "Estonia", "Tanzania", "Turkey", "Thailand"]}
+{"subject": "Matic Osovnikar", "object": "Slovenia", "taxonomy": ["Turkey", "Venezuela", "Belarus", "Lebanon", "Indonesia"]}
+{"subject": "Hendrawan", "object": "Indonesia", "taxonomy": ["Niger", "Belgium", "Venezuela", "Azerbaijan", "Oman"]}
+{"subject": "Bronislovas Lubys", "object": "Lithuania", "taxonomy": ["Georgia", "Mexico", "Romania", "Estonia", "Moldova"]}
+{"subject": "Paul Bogle", "object": "Jamaica", "taxonomy": ["Fiji", "Romania", "Switzerland", "Israel", "Ireland"]}
+{"subject": "Sugandha Garg", "object": "India", "taxonomy": ["Nigeria", "Niger", "Russia", "Chile", "Haiti"]}
+{"subject": "Kate Henshaw", "object": "Nigeria", "taxonomy": ["Ghana", "Iraq", "Israel", "Slovakia", "Ireland"]}
+{"subject": "Francisco Goya", "object": "Spain", "taxonomy": ["Japan", "Malaysia", "Chile", "Tanzania", "Sudan"]}
+{"subject": "Kathy Lette", "object": "Australia", "taxonomy": ["Ghana", "Pakistan", "Sweden", "Switzerland", "Philippines"]}
+{"subject": "Charles Hoadley", "object": "Australia", "taxonomy": ["Taiwan", "Ukraine", "Zimbabwe", "Afghanistan", "Mexico"]}
+{"subject": "Raheem Shah", "object": "Pakistan", "taxonomy": ["Zimbabwe", "Ireland", "Russia", "Sudan", "Canada"]}
+{"subject": "Lars Paaske", "object": "Denmark", "taxonomy": ["Bangladesh", "Luxembourg", "Fiji", "Algeria", "Spain"]}
+{"subject": "Jalal Talabani", "object": "Kurdistan", "taxonomy": ["Vietnam", "Afghanistan", "Kazakhstan", "Ukraine", "Egypt"]}
+{"subject": "Liisi Oterma", "object": "Finland", "taxonomy": ["Belgium", "Egypt", "Tunisia", "Russia", "Argentina"]}
+{"subject": "Hiro Matsushita", "object": "Japan", "taxonomy": ["Fiji", "Ecuador", "Singapore", "Bhutan", "Cuba"]}
+{"subject": "Lise Ringheim", "object": "Denmark", "taxonomy": ["Latvia", "Pakistan", "Colombia", "Ecuador", "Senegal"]}
+{"subject": "Jan Kulczyk", "object": "Poland", "taxonomy": ["Cambodia", "Mongolia", "France", "Nigeria", "Laos"]}
+{"subject": "Marcus Thrane", "object": "Norway", "taxonomy": ["Albania", "Scotland", "Slovenia", "Argentina", "Egypt"]}
+{"subject": "Marcel Pagnol", "object": "France", "taxonomy": ["Mozambique", "Nigeria", "Barbados", "Slovenia", "Fiji"]}
+{"subject": "Floriano Peixoto", "object": "Brazil", "taxonomy": ["Norway", "Rwanda", "Ghana", "Peru", "Slovakia"]}
+{"subject": "Sofia Talvik", "object": "Sweden", "taxonomy": ["Bolivia", "Indonesia", "Switzerland", "Oman", "Austria"]}
+{"subject": "Lena Valaitis", "object": "Germany", "taxonomy": ["Lebanon", "Tunisia", "Paraguay", "Bolivia", "Wales"]}
+{"subject": "Lucas de Tuy", "object": "Spain", "taxonomy": ["Sudan", "Bangladesh", "Albania", "Malaysia", "Switzerland"]}
+{"subject": "Camil Ressu", "object": "Romania", "taxonomy": ["Slovenia", "Lithuania", "Turkey", "Bolivia", "Jamaica"]}
+{"subject": "Roch Voisine", "object": "Canada", "taxonomy": ["Vietnam", "Netherlands", "Fiji", "Greece", "Cyprus"]}
+{"subject": "Yunus Yosfiah", "object": "Indonesia", "taxonomy": ["Laos", "Slovenia", "Venezuela", "Babylon", "Philippines"]}
+{"subject": "Paavo Haavikko", "object": "Finland", "taxonomy": ["Croatia", "Ecuador", "Iran", "India", "Switzerland"]}
+{"subject": "Joseph Csaky", "object": "Hungary", "taxonomy": ["Peru", "France", "Jamaica", "Spain", "Colombia"]}
+{"subject": "Fred Urquhart", "object": "Canada", "taxonomy": ["Armenia", "Indonesia", "Venezuela", "Iran", "Poland"]}
+{"subject": "Juho Saaristo", "object": "Finland", "taxonomy": ["Algeria", "Ukraine", "England", "Mozambique", "Bahrain"]}
+{"subject": "Antonis Samaras", "object": "Greece", "taxonomy": ["Poland", "Algeria", "Hungary", "Georgia", "Kenya"]}
+{"subject": "Scott Lawson", "object": "Scotland", "taxonomy": ["Georgia", "Indonesia", "Ecuador", "Denmark", "Luxembourg"]}
+{"subject": "Simone Vagnozzi", "object": "Italy", "taxonomy": ["Turkey", "Philippines", "Bolivia", "Fiji", "Estonia"]}
+{"subject": "Ameen Sayani", "object": "India", "taxonomy": ["Hungary", "Croatia", "Belarus", "Thailand", "Babylon"]}
+{"subject": "Pat Hoy", "object": "Canada", "taxonomy": ["Slovenia", "Wales", "Bulgaria", "Frankfurt", "Philippines"]}
+{"subject": "Goffredo Petrassi", "object": "Italy", "taxonomy": ["Romania", "Oman", "Rwanda", "Peru", "Croatia"]}
+{"subject": "Jean-Paul Akayesu", "object": "Rwanda", "taxonomy": ["Mali", "Georgia", "Sweden", "Tunisia", "France"]}
+{"subject": "Nandan Nilekani", "object": "India", "taxonomy": ["Niger", "Barbados", "Venezuela", "Denmark", "Ukraine"]}
+{"subject": "Pankaj Udhas", "object": "India", "taxonomy": ["France", "Chile", "Bhutan", "Egypt", "Barbados"]}
+{"subject": "Beppe Grillo", "object": "Italy", "taxonomy": ["Mali", "Tunisia", "Mongolia", "Romania", "Zimbabwe"]}
+{"subject": "Maliq Bushati", "object": "Albania", "taxonomy": ["Poland", "Croatia", "Argentina", "Rwanda", "Kenya"]}
+{"subject": "Mars Bonfire", "object": "Canada", "taxonomy": ["Ireland", "Oman", "Zimbabwe", "Argentina", "Cuba"]}
+{"subject": "William McGillivray", "object": "Canada", "taxonomy": ["Tunisia", "Ireland", "Argentina", "Babylon", "Slovakia"]}
+{"subject": "Elaine Cassidy", "object": "Ireland", "taxonomy": ["Denmark", "Spain", "Morocco", "Pakistan", "Laos"]}
+{"subject": "Izzy Asper", "object": "Canada", "taxonomy": ["Estonia", "Oman", "Iraq", "Mali", "Peru"]}
+{"subject": "Frederick IX of Denmark", "object": "Denmark", "taxonomy": ["Romania", "Netherlands", "Rwanda", "Tanzania", "Zimbabwe"]}
+{"subject": "Prince Oscar Bernadotte", "object": "Sweden", "taxonomy": ["Canada", "Mongolia", "Rwanda", "Croatia", "Mali"]}
+{"subject": "Josef Albers", "object": "Germany", "taxonomy": ["Jamaica", "Bulgaria", "Tanzania", "Angola", "Frankfurt"]}
+{"subject": "Robert Malval", "object": "Haiti", "taxonomy": ["Turkey", "Taiwan", "Cuba", "Barbados", "Algeria"]}
+{"subject": "Yasutaka Nakata", "object": "Japan", "taxonomy": ["Vietnam", "Austria", "Greece", "Ghana", "Qatar"]}
+{"subject": "Pasquale Di Sabatino", "object": "Italy", "taxonomy": ["Colombia", "Babylon", "Kurdistan", "Mozambique", "Slovenia"]}
+{"subject": "Bob Rock", "object": "Canada", "taxonomy": ["Nepal", "Croatia", "Romania", "Oman", "Philippines"]}
+{"subject": "Harry Somers", "object": "Canada", "taxonomy": ["Singapore", "Thailand", "Cyprus", "Bhutan", "Kenya"]}
+{"subject": "Moreno Mannini", "object": "Italy", "taxonomy": ["Argentina", "Albania", "Qatar", "Denmark", "Bhutan"]}
+{"subject": "Dan Kolov", "object": "Bulgaria", "taxonomy": ["Barbados", "Spain", "Lithuania", "Nigeria", "Algeria"]}
+{"subject": "Jonas Steur", "object": "Belgium", "taxonomy": ["Argentina", "Bhutan", "Belarus", "Venezuela", "Italy"]}
+{"subject": "Nagendra Singh", "object": "India", "taxonomy": ["Italy", "Armenia", "Senegal", "Bhutan", "Morocco"]}
+{"subject": "Giorgia", "object": "Italy", "taxonomy": ["Uganda", "Babylon", "Taiwan", "France", "Bahrain"]}
+{"subject": "Tor Endresen", "object": "Norway", "taxonomy": ["Thailand", "Peru", "India", "Senegal", "Nepal"]}
+{"subject": "Bibi Andersson", "object": "Sweden", "taxonomy": ["Denmark", "Cambodia", "Ghana", "Ecuador", "Morocco"]}
+{"subject": "Go Shiozaki", "object": "Japan", "taxonomy": ["Slovenia", "Nepal", "Kenya", "Bulgaria", "Israel"]}
+{"subject": "Subodh Kant Sahay", "object": "India", "taxonomy": ["Israel", "Nigeria", "Venezuela", "Tanzania", "Brazil"]}
+{"subject": "Antoine Danchet", "object": "France", "taxonomy": ["Finland", "Belarus", "Poland", "Fiji", "Babylon"]}
+{"subject": "Vicente Benavides", "object": "Chile", "taxonomy": ["Albania", "Haiti", "Malaysia", "Russia", "Denmark"]}
+{"subject": "Abubakari Yakubu", "object": "Ghana", "taxonomy": ["Taiwan", "Greece", "Albania", "Estonia", "Luxembourg"]}
+{"subject": "Haakon V of Norway", "object": "Norway", "taxonomy": ["Russia", "Bolivia", "Colombia", "Bulgaria", "Austria"]}
+{"subject": "Michael Fassbender", "object": "Ireland", "taxonomy": ["Switzerland", "Scotland", "Jamaica", "Pakistan", "Poland"]}
+{"subject": "Alfonso Ugarte", "object": "Peru", "taxonomy": ["Indonesia", "Vietnam", "Angola", "Oman", "Ghana"]}
+{"subject": "Alexandra of Denmark", "object": "Denmark", "taxonomy": ["Armenia", "Greece", "Belgium", "Japan", "Iran"]}
+{"subject": "Randy Raine-Reusch", "object": "Canada", "taxonomy": ["Nigeria", "Wales", "Poland", "Cyprus", "India"]}
+{"subject": "Edu Lobo", "object": "Brazil", "taxonomy": ["Ghana", "Ireland", "Greece", "Wales", "Bangladesh"]}
+{"subject": "Anders Lange", "object": "Norway", "taxonomy": ["Senegal", "France", "Australia", "Qatar", "Italy"]}
+{"subject": "Louis Ferdinand", "object": "Germany", "taxonomy": ["Zimbabwe", "Russia", "Greece", "Netherlands", "Estonia"]}
+{"subject": "Kaka Hathrasi", "object": "India", "taxonomy": ["Netherlands", "Mozambique", "Venezuela", "Bulgaria", "Armenia"]}
+{"subject": "Giuseppe Angeli", "object": "Italy", "taxonomy": ["France", "Greece", "Vietnam", "Thailand", "Zimbabwe"]}
+{"subject": "Shamash-shum-ukin", "object": "Babylon", "taxonomy": ["Bangladesh", "Luxembourg", "Cyprus", "Cuba", "Scotland"]}
+{"subject": "Mac Con", "object": "Ireland", "taxonomy": ["Estonia", "Senegal", "Spain", "Bulgaria", "Frankfurt"]}
+{"subject": "Rudolf Kastner", "object": "Hungary", "taxonomy": ["Rwanda", "Estonia", "Qatar", "Tanzania", "Brazil"]}
+{"subject": "Sakichi Toyoda", "object": "Japan", "taxonomy": ["Laos", "Denmark", "Ukraine", "Tanzania", "Netherlands"]}
+{"subject": "Ricardo Bofill", "object": "Spain", "taxonomy": ["Algeria", "England", "Australia", "Ecuador", "France"]}
+{"subject": "Carlos Duarte Costa", "object": "Brazil", "taxonomy": ["Kenya", "Thailand", "Austria", "Iran", "Slovenia"]}
+{"subject": "Miguel Hidalgo y Costilla", "object": "Spain", "taxonomy": ["Japan", "Finland", "Bolivia", "Georgia", "Bhutan"]}
+{"subject": "Arsala Rahmani Daulat", "object": "Afghanistan", "taxonomy": ["Ecuador", "Sudan", "Algeria", "Fiji", "Estonia"]}
+{"subject": "Celso Amorim", "object": "Brazil", "taxonomy": ["Paraguay", "Angola", "Kurdistan", "Haiti", "Rwanda"]}
+{"subject": "Hemlata", "object": "India", "taxonomy": ["Belgium", "Cuba", "Bhutan", "Canada", "Azerbaijan"]}
+{"subject": "Ryszard Engelking", "object": "Poland", "taxonomy": ["Angola", "Iraq", "Australia", "Belgium", "Slovakia"]}
+{"subject": "Andi Eigenmann", "object": "Philippines", "taxonomy": ["Uganda", "Malaysia", "Oman", "Kurdistan", "Algeria"]}
+{"subject": "Katy Garbi", "object": "Greece", "taxonomy": ["Austria", "Pakistan", "Moldova", "Nigeria", "Tanzania"]}
+{"subject": "Ludvig Harboe", "object": "Denmark", "taxonomy": ["Barbados", "Haiti", "Italy", "Ireland", "England"]}
+{"subject": "Kazimierz Makarczyk", "object": "Poland", "taxonomy": ["Taiwan", "Romania", "Bhutan", "Argentina", "Pakistan"]}
+{"subject": "Albert Hofmann", "object": "Switzerland", "taxonomy": ["Algeria", "Netherlands", "Albania", "Chile", "Philippines"]}
+{"subject": "Cheikh Anta Diop", "object": "Senegal", "taxonomy": ["Bolivia", "Zimbabwe", "Philippines", "Nigeria", "Cuba"]}
+{"subject": "Brian Mullins", "object": "Ireland", "taxonomy": ["Babylon", "Canada", "Azerbaijan", "Morocco", "Japan"]}
+{"subject": "Sima Bina", "object": "Iran", "taxonomy": ["Moldova", "Singapore", "Mongolia", "Romania", "Mali"]}
+{"subject": "Gustave Doret", "object": "Switzerland", "taxonomy": ["Brazil", "Argentina", "Mongolia", "Japan", "Rwanda"]}
+{"subject": "Edmund Husserl", "object": "Germany", "taxonomy": ["Mongolia", "Philippines", "Laos", "Colombia", "Haiti"]}
+{"subject": "Gard Nilssen", "object": "Norway", "taxonomy": ["Australia", "Syria", "Canada", "Belarus", "Ghana"]}
+{"subject": "Manolache Costache Epureanu", "object": "Romania", "taxonomy": ["Lithuania", "Uganda", "Algeria", "Rwanda", "Lebanon"]}
+{"subject": "Thanh Lam", "object": "Vietnam", "taxonomy": ["Cyprus", "Paraguay", "Thailand", "Kazakhstan", "Chile"]}
+{"subject": "Philippe Leclerc de Hauteclocque", "object": "France", "taxonomy": ["Philippines", "Australia", "Nigeria", "Spain", "Chile"]}
+{"subject": "Thomas Erle", "object": "England", "taxonomy": ["Ukraine", "Pakistan", "Egypt", "Bahrain", "Sweden"]}
+{"subject": "Isser Harel", "object": "Israel", "taxonomy": ["Austria", "Armenia", "Mali", "Taiwan", "Fiji"]}
+{"subject": "Theo Dorgan", "object": "Ireland", "taxonomy": ["Niger", "Thailand", "Fiji", "Luxembourg", "Belgium"]}
+{"subject": "Lani Misalucha", "object": "Philippines", "taxonomy": ["Iran", "Romania", "Syria", "Taiwan", "Brazil"]}
+{"subject": "Bimal Jalan", "object": "India", "taxonomy": ["Bolivia", "Italy", "Belarus", "France", "Japan"]}
+{"subject": "Samuel More", "object": "England", "taxonomy": ["Qatar", "Sudan", "Kazakhstan", "Azerbaijan", "Senegal"]}
+{"subject": "Alida Withoos", "object": "Netherlands", "taxonomy": ["Belarus", "Uganda", "Slovakia", "Albania", "Azerbaijan"]}
+{"subject": "Pierre Bruchez", "object": "Switzerland", "taxonomy": ["Mexico", "Angola", "Georgia", "Tanzania", "Nepal"]}
+{"subject": "Guy Deghy", "object": "Hungary", "taxonomy": ["Cambodia", "Haiti", "Kazakhstan", "Tanzania", "Sudan"]}
+{"subject": "Koichi Kobayashi", "object": "Japan", "taxonomy": ["Paraguay", "Israel", "Indonesia", "Pakistan", "Qatar"]}
+{"subject": "Juan Croucier", "object": "Cuba", "taxonomy": ["Paraguay", "Canada", "Germany", "Niger", "Ghana"]}
+{"subject": "Pylyp Orlyk", "object": "Poland", "taxonomy": ["Tanzania", "Bahrain", "Syria", "Iraq", "Belarus"]}
+{"subject": "Edward Theodore Compton", "object": "Germany", "taxonomy": ["Finland", "Bolivia", "Romania", "Mali", "Jamaica"]}
+{"subject": "Lise Meitner", "object": "Sweden", "taxonomy": ["Cyprus", "Afghanistan", "Brazil", "Italy", "Cuba"]}
+{"subject": "John Treacy", "object": "Ireland", "taxonomy": ["Switzerland", "Philippines", "Wales", "Slovenia", "Zimbabwe"]}
+{"subject": "Elmer Diktonius", "object": "Finland", "taxonomy": ["Israel", "Philippines", "Sudan", "Singapore", "Chile"]}
+{"subject": "Drew Forsythe", "object": "Australia", "taxonomy": ["Iraq", "Rwanda", "Indonesia", "Ghana", "Denmark"]}
+{"subject": "Heddy Honigmann", "object": "Peru", "taxonomy": ["Ethiopia", "Mongolia", "Indonesia", "Pakistan", "Tanzania"]}
+{"subject": "Liis Lemsalu", "object": "Estonia", "taxonomy": ["Cuba", "Angola", "Uganda", "Frankfurt", "Albania"]}
+{"subject": "Albert II of Belgium", "object": "Belgium", "taxonomy": ["Slovenia", "Turkey", "Haiti", "Croatia", "Nigeria"]}
+{"subject": "Jacob Hoggard", "object": "Canada", "taxonomy": ["Laos", "Tanzania", "Ukraine", "Sweden", "India"]}
+{"subject": "Ryoji Ikeda", "object": "Japan", "taxonomy": ["Nigeria", "Netherlands", "Babylon", "Niger", "Pakistan"]}
+{"subject": "Thomas Laird Kennedy", "object": "Canada", "taxonomy": ["Belarus", "Chile", "Romania", "Jamaica", "Hungary"]}
+{"subject": "Mikhail Evstafiev", "object": "Russia", "taxonomy": ["Senegal", "Poland", "Bhutan", "Armenia", "Estonia"]}
+{"subject": "Abraham Niclas Edelcrantz", "object": "Sweden", "taxonomy": ["Peru", "Australia", "India", "Kenya", "England"]}
+{"subject": "Melanie Domaschenz", "object": "Australia", "taxonomy": ["Indonesia", "Luxembourg", "Algeria", "Chile", "Israel"]}
+{"subject": "Hiroshi Teshigahara", "object": "Japan", "taxonomy": ["Ireland", "Chile", "Singapore", "Bhutan", "Afghanistan"]}
+{"subject": "Kazi Nazrul Islam", "object": "Bangladesh", "taxonomy": ["Denmark", "Albania", "Paraguay", "Romania", "Bolivia"]}
+{"subject": "Rutger Jan Schimmelpenninck", "object": "Netherlands", "taxonomy": ["Japan", "Egypt", "Hungary", "Norway", "Ghana"]}
+{"subject": "Etsuko Inoue", "object": "Japan", "taxonomy": ["Finland", "Singapore", "Russia", "Kenya", "Iraq"]}
+{"subject": "Kishore Mahbubani", "object": "Singapore", "taxonomy": ["Latvia", "Kazakhstan", "Israel", "Bahrain", "Colombia"]}
+{"subject": "Paolo Martin", "object": "Italy", "taxonomy": ["Algeria", "Estonia", "Syria", "Scotland", "Rwanda"]}
+{"subject": "Krisdayanti", "object": "Indonesia", "taxonomy": ["Egypt", "Cyprus", "Senegal", "Malaysia", "Ghana"]}
+{"subject": "Larbi Benbarek", "object": "France", "taxonomy": ["Algeria", "Latvia", "Pakistan", "Cyprus", "Romania"]}
+{"subject": "Protoje", "object": "Jamaica", "taxonomy": ["Bahrain", "Norway", "Finland", "Slovenia", "Niger"]}
+{"subject": "Nassib Lahoud", "object": "Lebanon", "taxonomy": ["Armenia", "Netherlands", "Kazakhstan", "Cuba", "Sweden"]}
+{"subject": "Daniel Victor", "object": "Canada", "taxonomy": ["Nigeria", "Italy", "Romania", "Slovakia", "India"]}
+{"subject": "Harumi Inoue", "object": "Japan", "taxonomy": ["Netherlands", "Thailand", "Tunisia", "Mongolia", "Oman"]}
+{"subject": "Shah Shujah Durrani Sadozai", "object": "Afghanistan", "taxonomy": ["Barbados", "Jamaica", "Qatar", "Mali", "Cuba"]}
+{"subject": "Dave Ridgway", "object": "Canada", "taxonomy": ["Estonia", "Frankfurt", "Egypt", "Tanzania", "Nigeria"]}
+{"subject": "Mahavira", "object": "India", "taxonomy": ["Iran", "Philippines", "Senegal", "Haiti", "Latvia"]}
+{"subject": "Graciliano Ramos", "object": "Brazil", "taxonomy": ["Zimbabwe", "Norway", "Sweden", "Ghana", "Bhutan"]}
+{"subject": "Svante August Arrhenius", "object": "Sweden", "taxonomy": ["Hungary", "Latvia", "Chile", "Ghana", "Afghanistan"]}
+{"subject": "Mark Heese", "object": "Canada", "taxonomy": ["Kenya", "Netherlands", "Nigeria", "Philippines", "Cyprus"]}
+{"subject": "Rabi Ray", "object": "India", "taxonomy": ["Senegal", "Barbados", "Turkey", "Cyprus", "Netherlands"]}
+{"subject": "Jaafar of Negeri Sembilan", "object": "Malaysia", "taxonomy": ["Denmark", "Belgium", "Romania", "Frankfurt", "Taiwan"]}
+{"subject": "Jean-Luc Brassard", "object": "Canada", "taxonomy": ["Kazakhstan", "Netherlands", "Japan", "Luxembourg", "Chile"]}
+{"subject": "Mario Monti", "object": "Italy", "taxonomy": ["Afghanistan", "Frankfurt", "Senegal", "Austria", "Taiwan"]}
+{"subject": "Pierre Janssen", "object": "France", "taxonomy": ["Turkey", "Ukraine", "Belarus", "Azerbaijan", "Latvia"]}
+{"subject": "Jean-Pierre Van Rossem", "object": "Belgium", "taxonomy": ["Singapore", "Ghana", "Mexico", "Ireland", "Bulgaria"]}
+{"subject": "Mookencheril Cherian Joseph", "object": "India", "taxonomy": ["Singapore", "Frankfurt", "Lebanon", "Turkey", "Zimbabwe"]}
+{"subject": "Patrick Chinamasa", "object": "Zimbabwe", "taxonomy": ["Oman", "Afghanistan", "Scotland", "Armenia", "Ukraine"]}
+{"subject": "Vincenzo Santopadre", "object": "Italy", "taxonomy": ["Australia", "Brazil", "Estonia", "Croatia", "Hungary"]}
+{"subject": "Bille August", "object": "Denmark", "taxonomy": ["Jamaica", "Italy", "Tunisia", "Laos", "Egypt"]}
+{"subject": "Arvid Hansen", "object": "Norway", "taxonomy": ["Albania", "Iran", "Venezuela", "Mexico", "Canada"]}
+{"subject": "Georg Heinrich Sieveking", "object": "Germany", "taxonomy": ["Brazil", "Greece", "Cambodia", "Kenya", "Ecuador"]}
+{"subject": "Maurice De Waele", "object": "Belgium", "taxonomy": ["Niger", "Barbados", "Australia", "Norway", "Israel"]}
+{"subject": "Janne Korpi", "object": "Finland", "taxonomy": ["Iran", "Ireland", "Mongolia", "Indonesia", "Georgia"]}
+{"subject": "Austin Currie", "object": "Ireland", "taxonomy": ["Argentina", "Italy", "Kenya", "Thailand", "Romania"]}
+{"subject": "Lara Giddings", "object": "Australia", "taxonomy": ["Haiti", "Finland", "Kurdistan", "Morocco", "Slovenia"]}
+{"subject": "John Oldcastle", "object": "England", "taxonomy": ["Haiti", "Bolivia", "Australia", "Russia", "Croatia"]}
+{"subject": "Robert Bartko", "object": "Germany", "taxonomy": ["Chile", "Ireland", "Cambodia", "Wales", "Kazakhstan"]}
+{"subject": "Sergej Kraigher", "object": "Slovenia", "taxonomy": ["Ecuador", "Scotland", "England", "Japan", "Afghanistan"]}
+{"subject": "Dieter Moebius", "object": "Switzerland", "taxonomy": ["Peru", "Egypt", "Taiwan", "Romania", "Ireland"]}
+{"subject": "Arnold Antonin", "object": "Haiti", "taxonomy": ["Zimbabwe", "Senegal", "Ireland", "Australia", "Iraq"]}
+{"subject": "Jean-Pierre Ferland", "object": "Canada", "taxonomy": ["Bhutan", "Malaysia", "Barbados", "Tunisia", "Turkey"]}
+{"subject": "John Sparrow David Thompson", "object": "Canada", "taxonomy": ["Iraq", "Scotland", "Brazil", "Slovenia", "Niger"]}
+{"subject": "Jan Dydak", "object": "Poland", "taxonomy": ["Wales", "Indonesia", "Chile", "Sweden", "Finland"]}
+{"subject": "Gabriel-Marie Garrone", "object": "France", "taxonomy": ["Jamaica", "Venezuela", "Mozambique", "Lebanon", "Armenia"]}
+{"subject": "Adabel Guerrero", "object": "Argentina", "taxonomy": ["Moldova", "Kurdistan", "Wales", "Tunisia", "Germany"]}
+{"subject": "Michael Monroe", "object": "Finland", "taxonomy": ["Ethiopia", "Russia", "Sweden", "Nepal", "Bangladesh"]}
+{"subject": "Egon Bahr", "object": "Germany", "taxonomy": ["Bolivia", "Greece", "Ireland", "Mexico", "Bulgaria"]}
+{"subject": "Ole Ritter", "object": "Denmark", "taxonomy": ["Iran", "Qatar", "Babylon", "Bolivia", "Wales"]}
+{"subject": "Karl Scheurer", "object": "Switzerland", "taxonomy": ["Italy", "Singapore", "Wales", "Kenya", "Kazakhstan"]}
+{"subject": "Paul Hammerich", "object": "Denmark", "taxonomy": ["Netherlands", "Hungary", "Pakistan", "Lithuania", "Turkey"]}
+{"subject": "Guy Mollet", "object": "France", "taxonomy": ["Bahrain", "Qatar", "Croatia", "Poland", "Luxembourg"]}
+{"subject": "Petru Lucinschi", "object": "Moldova", "taxonomy": ["Hungary", "Switzerland", "Finland", "Mozambique", "Bhutan"]}
+{"subject": "Ivan Koloff", "object": "Canada", "taxonomy": ["Ireland", "Peru", "Nigeria", "Ghana", "Cyprus"]}
+{"subject": "Georg Klebs", "object": "Germany", "taxonomy": ["Senegal", "Paraguay", "Indonesia", "Canada", "Algeria"]}
+{"subject": "Vesa Vierikko", "object": "Finland", "taxonomy": ["Israel", "Armenia", "Iraq", "Angola", "Argentina"]}
+{"subject": "Gianni Ferrio", "object": "Italy", "taxonomy": ["Norway", "Croatia", "Finland", "Kazakhstan", "Thailand"]}
+{"subject": "Sun Beibei", "object": "Singapore", "taxonomy": ["Ghana", "Kenya", "Mongolia", "Albania", "Syria"]}
+{"subject": "Edward Wollstonecraft", "object": "Australia", "taxonomy": ["Peru", "Babylon", "Bolivia", "Armenia", "Syria"]}
