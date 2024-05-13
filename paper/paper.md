@@ -10,9 +10,9 @@ The factual knowledge of LLMs is typically evaluated using accuracy, yet this me
 
 <table>
 <tr>
-  <td width="50%" align="left" valign="middle"><img src="./fig1.png" alt="figure1"></td>
+  <td width="50%" align="middle" valign="middle"><img src="./fig1.png" alt="figure1"></td>
   <td width="3%"> </td>
-  <td width="50%" align="left" valign="middle"><img src="./fig2.png" alt="figure1"></td>
+  <td width="50%" align="middle" valign="middle"><img src="./fig2.png" alt="figure1"></td>
 </tr>
 </table>
 
@@ -67,9 +67,9 @@ We apply MONITOR to assess the factual knowledge of the 12 LLMs. As shown in Tab
 
 <table>
 <tr>
-  <td width="50%" align="left" valign="middle"><img src="./exp3.png" alt="figure1"></td>
+  <td width="50%" align="middle" valign="middle"><img src="./exp3.png" alt="figure1"></td>
   <td width="1%"> </td>
-  <td width="50%" align="left" valign="middle"><img src="./exp4.png" alt="figure1"></td>
+  <td width="50%" align="middle" valign="middle"><img src="./exp4.png" alt="figure1"></td>
 </tr>
 </table>
 
@@ -97,9 +97,9 @@ A significant correlation is observed between accuracy standard deviation and MO
 
 <table>
 <tr>
-  <td width="50%" align="left" valign="middle"><img src="./exp9.png" alt="figure1"></td>
+  <td width="50%" align="middle" valign="middle"><img src="./exp9.png" alt="figure1"></td>
   <td width="1%"> </td>
-  <td width="50%" align="left" valign="middle"><img src="./exp10.png" alt="figure1"></td>
+  <td width="50%" align="middle" valign="middle"><img src="./exp10.png" alt="figure1"></td>
 </tr>
 </table>
 
