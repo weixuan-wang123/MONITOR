@@ -9,7 +9,7 @@ The factual knowledge of LLMs is typically evaluated using accuracy, yet this me
 <h2 align=center>Research Question</h2>
 
 <table>
-<tr>
+<tr align="center">
   <td width="50%" align="center" valign="middle"><img src="./fig1.png" alt="figure1"></td>
   <td width="3%"> </td>
   <td width="50%" align="center" valign="middle"><img src="./fig2.png" alt="figure1"></td>
@@ -28,7 +28,7 @@ In Figure 1 we show examples of factual probes where either the framing of the p
 <h2 align=center>Methodology</h2>
 
 <table>
-<tr>
+<tr align="center">
   <td width="50%" align="center" valign="middle"><img src="./fig3.png" alt="figure1"></td>
 </tr>
 </table>
@@ -38,7 +38,7 @@ we establish “anchor” as a reference point, which is the gold answer with it
 <h2 align=center>Dataset FKTC</h2>
 
 <table>
-<tr>
+<tr align="center">
   <td width="50%" align="center" valign="middle"><img src="./dataset.png" alt="figure1"></td>
 </tr>
 </table>
@@ -48,7 +48,7 @@ we establish “anchor” as a reference point, which is the gold answer with it
 <h3 align=center>Overall Results</h3>
 
 <table>
-<tr>
+<tr align="center">
   <td width="50%" align="center" valign="middle"><img src="./exp1.png" alt="figure1"></td>
 </tr>
 </table>
@@ -58,7 +58,7 @@ We apply MONITOR to assess the factual knowledge of the 12 LLMs. As shown in Tab
 <h3 align=center>Results on Some Specific Facts</h3>
 
 <table>
-<tr>
+<tr align="center">
   <td width="50%" align="center" valign="middle"><img src="./exp3.png" alt="figure1"></td>
 </tr>
 </table>
@@ -66,7 +66,7 @@ We apply MONITOR to assess the factual knowledge of the 12 LLMs. As shown in Tab
 <h3 align=center>Accuracy Instability</h3>
 
 <table>
-<tr>
+<tr align="center">
   <td width="50%" align="center" valign="middle"><img src="./exp3.png" alt="figure1"></td>
   <td width="1%"> </td>
   <td width="50%" align="center" valign="middle"><img src="./exp4.png" alt="figure1"></td>
@@ -78,7 +78,7 @@ A variety of statistics, including the base accuracy (“base acc”) and standa
 <h3 align=center>Example of Instability</h3>
 
 <table>
-<tr>
+<tr align="center">
   <td width="50%" align="center" valign="middle"><img src="./exp5.png" alt="figure1"></td>
 </tr>
 </table>
@@ -86,7 +86,7 @@ A variety of statistics, including the base accuracy (“base acc”) and standa
 <h3 align=center>Correlation between MONITOR and Accuracy Std</h3>
 
 <table>
-<tr>
+<tr align="center">
   <td width="50%" align="center" valign="middle"><img src="./exp6.png" alt="figure1"></td>
 </tr>
 </table>
@@ -96,7 +96,7 @@ A significant correlation is observed between accuracy standard deviation and MO
 <h3 align=center>Consistency of Multiple Prompts</h3>
 
 <table>
-<tr>
+<tr align="center">
   <td width="50%" align="center" valign="middle"><img src="./exp9.png" alt="figure1"></td>
   <td width="1%"> </td>
   <td width="50%" align="center" valign="middle"><img src="./exp10.png" alt="figure1"></td>
@@ -109,7 +109,7 @@ A strong linear correlation between MONITOR of the expanded group and those from
 <h3 align=center>Attribution Visualizing</h3>
 
 <table>
-<tr>
+<tr align="center">
   <td width="50%" align="center" valign="middle"><img src="./exp7.png" alt="figure1"></td>
 </tr>
 </table>
@@ -118,7 +118,7 @@ A strong linear correlation between MONITOR of the expanded group and those from
 <h3 align=center>Lower Computation Cost</h3>
 
 <table>
-<tr>
+<tr align="center">
   <td width="50%" align="center" valign="middle"><img src="./exp8.png" alt="figure1"></td>
 </tr>
 </table>
