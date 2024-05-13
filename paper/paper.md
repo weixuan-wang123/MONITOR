@@ -29,7 +29,7 @@ In Figure 1 we show examples of factual probes where either the framing of the p
 
 <table>
 <tr>
-  <td width="80%" align="center" valign="middle"><img src="./fig3.png" alt="figure1"></td>
+  <td width="60%" align="center" valign="middle"><img src="./fig3.png" alt="figure1"></td>
 </tr>
 </table>
 
